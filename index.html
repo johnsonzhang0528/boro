@@ -34,8 +34,10 @@
   <script>
     // Replace placeholders at runtime to avoid server-side edits
     document.addEventListener('DOMContentLoaded', function(){
-      var el = document.getElementById('last-updated');
-      if(el){ el.textContent = new Date().toISOString().slice(0,10); }
+      var elements = document.querySelectorAll('.last-updated');
+      elements.forEach(function(el) {
+        el.textContent = new Date().toISOString().slice(0,10);
+      });
     });
   </script>
 
@@ -268,7 +270,7 @@
       <div>
         <div class="badge">
           <span class="kicker">Bangladesh • bn‑BD</span>
-          <span>Last updated: <span id="last-updated">2025-10-29</span></span>
+          <span>Last updated: <span class="last-updated"></span></span>
         </div>
         <h1 class="h1">BoroJeet <span class="money">বোনাস</span> ও <span class="money">bKash/Nagad</span> ডিপোজিট গাইড</h1>
         <p class="lead">বাংলায় সম্পূর্ণ নির্দেশিকা: ওয়েলকাম বোনাস, bKash/Nagad ডিপোজিট ধাপ, দ্রুত Withdraw ও KYC চেকলিস্ট। <em>Responsible Gaming</em> ও আঞ্চলিক প্রাপ্যতার নোটিসসহ।<br><span class="muted">English summary included below.</span></p>
@@ -465,7 +467,7 @@
     <p class="note">
       This site promotes BoroJeet to users in Bangladesh as an authorized affiliate.
       We do not operate or provide gambling services.
-      Play responsibly. Offers are subject to change. Updated: <span id="last-updated"></span>.
+      Play responsibly. Offers are subject to change. Updated: <span class="last-updated"></span>.
     </p>
   </footer>
 
