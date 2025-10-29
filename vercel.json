@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/go/borojeet",
+      "destination": "https://www.borojeetagent.com/?pid=JS168",
+      "statusCode": 301
+    }
+  ]
+}
