@@ -97,6 +97,119 @@
     .img-frame { display:block; width:100%; max-width: 720px; aspect-ratio: 16/9; border-radius: 16px; overflow: hidden; border: 1px solid #223042; }
     .img-frame img { width:100%; height:100%; object-fit: cover; display:block; }
     code { background: #0b1220; padding: 2px 6px; border-radius: 6px; border: 1px solid #1f2937; }
+
+    /* Mobile-First Responsive Design */
+    @media (max-width: 768px) {
+      .wrap { 
+        max-width: 100%; 
+        padding: 12px; 
+      }
+      
+      body { 
+        font-size: 16px; 
+        line-height: 1.6; 
+      }
+      
+      .h1 { 
+        font-size: clamp(24px, 6vw, 32px); 
+        line-height: 1.2; 
+      }
+      
+      h2 { 
+        font-size: 20px; 
+        line-height: 1.3; 
+      }
+      
+      .cta {
+        min-height: 44px;
+        padding: 12px 18px;
+        font-size: 16px;
+      }
+      
+      a {
+        min-height: 44px;
+        display: inline-flex;
+        align-items: center;
+      }
+      
+      button {
+        min-height: 44px;
+        padding: 12px 16px;
+      }
+      
+      header .row {
+        flex-direction: column;
+        gap: 8px;
+        align-items: center;
+      }
+      
+      .hero {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        text-align: center;
+      }
+      
+      .table {
+        border: 0;
+      }
+      
+      .table thead {
+        display: none;
+      }
+      
+      .table tbody tr {
+        border: 1px solid #1f2937;
+        border-radius: 12px;
+        padding: 16px;
+        margin-bottom: 16px;
+        display: block;
+        background: rgba(255,255,255,.02);
+      }
+      
+      .table tbody td {
+        border: none;
+        padding: 8px 0;
+        display: block;
+        text-align: left;
+        border-bottom: 1px solid #374151;
+      }
+      
+      .table tbody td:last-child {
+        border-bottom: none;
+      }
+      
+      .table tbody td:before {
+        content: attr(data-label) ": ";
+        font-weight: 700;
+        color: var(--bdt);
+        display: inline-block;
+        min-width: 120px;
+      }
+      
+      footer {
+        text-align: center;
+      }
+      
+      footer p {
+        margin-bottom: 12px;
+      }
+      
+      .sticky-cta {
+        flex-direction: column;
+        gap: 8px;
+        padding: 12px;
+        text-align: center;
+      }
+      
+      .card {
+        padding: 12px;
+      }
+      
+      .grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+    }
   </style>
 
   <!-- Defer non-critical JS -->
@@ -373,82 +486,82 @@
     <tbody>
       <!-- Registration Bonus tiers -->
       <tr>
-        <td><strong>Registration Bonus</strong> — Tier 300</td>
-        <td><span class="money">৳300</span></td>
-        <td>—</td>
-        <td>৳300</td>
-        <td>20×</td>
-        <td>Total Deposit: 300</td>
-        <td>Slots / Live / Crash</td>
-        <td>VIP 2–VIP 5</td>
-        <td>Once per Player</td>
+        <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 300</td>
+        <td data-label="Bonus (BDT)"><span class="money">৳300</span></td>
+        <td data-label="Join Amount">—</td>
+        <td data-label="Max Withdraw">৳300</td>
+        <td data-label="Turnover">20×</td>
+        <td data-label="Condition">Total Deposit: 300</td>
+        <td data-label="Game Kind">Slots / Live / Crash</td>
+        <td data-label="Eligible">VIP 2–VIP 5</td>
+        <td data-label="Availability">Once per Player</td>
       </tr>
       <tr>
-        <td><strong>Registration Bonus</strong> — Tier 200</td>
-        <td><span class="money">৳200</span></td>
-        <td>Not Required</td>
-        <td>৳200</td>
-        <td>25×</td>
-        <td>Total Deposit: 100</td>
-        <td>Slots / Live / Crash</td>
-        <td>VIP 2–VIP 5</td>
-        <td>Once per Player</td>
+        <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 200</td>
+        <td data-label="Bonus (BDT)"><span class="money">৳200</span></td>
+        <td data-label="Join Amount">Not Required</td>
+        <td data-label="Max Withdraw">৳200</td>
+        <td data-label="Turnover">25×</td>
+        <td data-label="Condition">Total Deposit: 100</td>
+        <td data-label="Game Kind">Slots / Live / Crash</td>
+        <td data-label="Eligible">VIP 2–VIP 5</td>
+        <td data-label="Availability">Once per Player</td>
       </tr>
       <tr>
-        <td><strong>Registration Bonus</strong> — Tier 100</td>
-        <td><span class="money">৳100</span></td>
-        <td>—</td>
-        <td>৳100</td>
-        <td>30×</td>
-        <td>App Only</td>
-        <td>Slots</td>
-        <td>VIP 2–VIP 5</td>
-        <td>Once per Player</td>
+        <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 100</td>
+        <td data-label="Bonus (BDT)"><span class="money">৳100</span></td>
+        <td data-label="Join Amount">—</td>
+        <td data-label="Max Withdraw">৳100</td>
+        <td data-label="Turnover">30×</td>
+        <td data-label="Condition">App Only</td>
+        <td data-label="Game Kind">Slots</td>
+        <td data-label="Eligible">VIP 2–VIP 5</td>
+        <td data-label="Availability">Once per Player</td>
       </tr>
       <!-- Thematic welcome bonuses -->
       <tr>
-        <td><strong>Welcome to BoroJeet 400%</strong></td>
-        <td><span class="money">৳400</span></td>
-        <td>৳100</td>
-        <td>৳500</td>
-        <td>20×</td>
-        <td>Today's Deposit: 100</td>
-        <td>Slots / Live / Crash</td>
-        <td>VIP 2+</td>
-        <td>Once per Player</td>
+        <td data-label="Offer"><strong>Welcome to BoroJeet 400%</strong></td>
+        <td data-label="Bonus (BDT)"><span class="money">৳400</span></td>
+        <td data-label="Join Amount">৳100</td>
+        <td data-label="Max Withdraw">৳500</td>
+        <td data-label="Turnover">20×</td>
+        <td data-label="Condition">Today's Deposit: 100</td>
+        <td data-label="Game Kind">Slots / Live / Crash</td>
+        <td data-label="Eligible">VIP 2+</td>
+        <td data-label="Availability">Once per Player</td>
       </tr>
       <tr>
-        <td><strong>Welcome Crash 100%</strong></td>
-        <td><span class="money">৳200</span></td>
-        <td>৳200</td>
-        <td>৳1,000</td>
-        <td>20×</td>
-        <td>Today's Deposit: 200</td>
-        <td>Crash</td>
-        <td>VIP 2+</td>
-        <td>Once per Player</td>
+        <td data-label="Offer"><strong>Welcome Crash 100%</strong></td>
+        <td data-label="Bonus (BDT)"><span class="money">৳200</span></td>
+        <td data-label="Join Amount">৳200</td>
+        <td data-label="Max Withdraw">৳1,000</td>
+        <td data-label="Turnover">20×</td>
+        <td data-label="Condition">Today's Deposit: 200</td>
+        <td data-label="Game Kind">Crash</td>
+        <td data-label="Eligible">VIP 2+</td>
+        <td data-label="Availability">Once per Player</td>
       </tr>
       <tr>
-        <td><strong>Welcome Fisher 200%</strong></td>
-        <td><span class="money">৳600</span></td>
-        <td>৳300</td>
-        <td>৳1,500</td>
-        <td>20×</td>
-        <td>Today's Deposit: 300</td>
-        <td>Fisher</td>
-        <td>VIP 2+</td>
-        <td>Once per Player</td>
+        <td data-label="Offer"><strong>Welcome Fisher 200%</strong></td>
+        <td data-label="Bonus (BDT)"><span class="money">৳600</span></td>
+        <td data-label="Join Amount">৳300</td>
+        <td data-label="Max Withdraw">৳1,500</td>
+        <td data-label="Turnover">20×</td>
+        <td data-label="Condition">Today's Deposit: 300</td>
+        <td data-label="Game Kind">Fisher</td>
+        <td data-label="Eligible">VIP 2+</td>
+        <td data-label="Availability">Once per Player</td>
       </tr>
       <tr>
-        <td><strong>Welcome Slot 300%</strong></td>
-        <td><span class="money">৳900</span></td>
-        <td>৳300</td>
-        <td>৳1,500</td>
-        <td>20×</td>
-        <td>Today's Deposit: 300</td>
-        <td>Slot</td>
-        <td>VIP 2+</td>
-        <td>Once per Day</td>
+        <td data-label="Offer"><strong>Welcome Slot 300%</strong></td>
+        <td data-label="Bonus (BDT)"><span class="money">৳900</span></td>
+        <td data-label="Join Amount">৳300</td>
+        <td data-label="Max Withdraw">৳1,500</td>
+        <td data-label="Turnover">20×</td>
+        <td data-label="Condition">Today's Deposit: 300</td>
+        <td data-label="Game Kind">Slot</td>
+        <td data-label="Eligible">VIP 2+</td>
+        <td data-label="Availability">Once per Day</td>
       </tr>
     </tbody>
   </table>
