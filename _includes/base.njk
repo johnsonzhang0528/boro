@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ lang or 'bn-BD' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ canonicalUrl or 'https://yourdomain.com/' }}">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:locale" content="bn_BD">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ canonicalUrl or 'https://yourdomain.com/' }}">
+  <meta property="og:image" content="https://yourdomain.com/assets/og/borojeet-bd-hero.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <meta name="robots" content="index,follow,max-image-preview:large">
+
+  <link rel="stylesheet" href="/assets/style.css">
+
+  <!-- Defer non-critical JS -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      var elements = document.querySelectorAll('.last-updated');
+      elements.forEach(function(el) {
+        el.textContent = new Date().toISOString().slice(0,10);
+      });
+
+      var y = document.getElementById('year');
+      if(y){ y.textContent = new Date().getFullYear(); }
+
+      var btn = document.getElementById('close-sticky');
+      var bar = document.getElementById('sticky-cta');
+      if(btn && bar){ btn.addEventListener('click', function(){ bar.classList.add('hide'); }); }
+    });
+  </script>
+
+</head>
+<body>
+  <header>
+    <div class="wrap row">
+      <div class="logo">
+        <img src="/assets/borojeet-affiliate-logo-bd.webp" alt="BoroJeet Bangladesh Logo" width="36" height="36" decoding="async" loading="lazy">
+      </div>
+      <nav aria-label="Primary" style="display: flex; align-items: center; gap: 16px;">
+        <a href="/blog/" style="font-weight: 600;">Blog</a>
+        <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">Get Bonus / নিবন্ধন করুন</a>
+      </nav>
+    </div>
+  </header>
+
+  {{ content | safe }}
+
+  <footer class="wrap">
+    <p>© <span id="year"></span> BoroJeet Affiliate BD.
+      <a href="/about.html">About Us</a> •
+      <a href="/terms.html">Terms</a> •
+      <a href="/kyc.html">KYC Policy</a> •
+      <a href="/privacy.html">Privacy</a> •
+      <a href="/responsible-gaming.html">Responsible Gaming</a> •
+      <a href="/underage-gaming.html">Underage Gaming Policy</a> •
+      <a href="/anti-money-laundering.html">Anti-Money Laundering Policy</a>
+    </p>
+    <p class="note">
+      This site promotes BoroJeet to users in Bangladesh as an authorized affiliate.
+      We do not operate or provide gambling services.
+      Play responsibly. Offers are subject to change. Updated: <span class="last-updated"></span>.
+    </p>
+  </footer>
+
+</body>
+</html>
