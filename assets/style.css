@@ -1,5 +1,4 @@
-
-    :root {
+:root {
       --bg: #0b0f14;
       --text: #e9f2ff;
       --muted: #9db1c9;
@@ -179,4 +178,43 @@
         grid-template-columns: 1fr;
         gap: 12px;
       }
+    }
+
+    /* Pagination Styles */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 40px;
+      padding: 20px 0;
+    }
+    .page-numbers {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 12px;
+      border: 1px solid #243041;
+      border-radius: 8px;
+      background: var(--card);
+      color: var(--text);
+      font-weight: 600;
+      text-decoration: none;
+      transition: background-color 0.2s ease;
+    }
+    .page-numbers:hover {
+      background: #1f2937;
+      text-decoration: none;
+    }
+    .page-numbers.current {
+      background: var(--accent);
+      color: #041b11;
+      border-color: var(--accent);
+      cursor: default;
+    }
+    .page-numbers.dots {
+      border: none;
+      background: none;
     }
