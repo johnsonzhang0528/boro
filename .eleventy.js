@@ -8,6 +8,13 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat(format);
   });
 
+  eleventyConfig.addCollection("post", (api) => {
+    return api.getFilteredByTag("post")
+      .filter(item => !item.data.draft)
+      .filter(item => (item.date || item.data.date) <= new Date())
+      .sort((a,b) => (b.date || b.data.date) - (a.date || a.data.date));
+  });
+
   return {
     // Set custom directories for input, output, includes, and data
     dir: {
