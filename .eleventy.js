@@ -1,6 +1,12 @@
+const { DateTime } = require("luxon");
+
 module.exports = function(eleventyConfig) {
   // Passthrough Copy: Copy `assets` folder to `_site/assets`
   eleventyConfig.addPassthroughCopy("assets");
+
+  eleventyConfig.addFilter("date", (dateObj, format) => {
+    return DateTime.fromJSDate(dateObj).toFormat(format);
+  });
 
   return {
     // Set custom directories for input, output, includes, and data
