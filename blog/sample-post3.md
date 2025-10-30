@@ -1,7 +1,7 @@
 ---
 title: "কিভাবে BoroJeet অ্যাপ ডাউনলোড করবেন (How to Download BoroJeet App)"
 description: "A step-by-step guide to downloading and installing the official BoroJeet app on your Android or iOS device to get access to exclusive app-only bonuses."
-date: "2025-10-31"
+date: "2025-10-28"
 layout: "post.njk"
 tags: ["post"]
 ---
