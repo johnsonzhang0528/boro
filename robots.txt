@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
-
+Allow: /
+Disallow: /go/
 Sitemap: https://borojeetbd.com/sitemap.xml
