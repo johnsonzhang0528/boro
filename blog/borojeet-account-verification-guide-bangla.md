@@ -4,6 +4,7 @@ description: "Learn how to verify your BoroJeet account in Bangladesh with our e
 date: "2025-10-31"
 layout: "post.njk"
 tags: ["post", "guide", "kyc"]
+ogImage: "borojeet-account-verification-guide-bangla-og.jpg"
 ---
 
 **আপনার BoroJeet অ্যাকাউন্ট ভেরিফাই করা দ্রুত এবং সহজ। এই ধাপে ধাপে নির্দেশিকা অনুসরণ করে, আপনি আপনার অ্যাকাউন্ট সুরক্ষিত করতে এবং দ্রুত উইথড্রয়াল আনলক করতে পারবেন। এখনই শুরু করা যাক!**

@@ -20,7 +20,12 @@
   {% else %}
     <meta property="og:url" content="https://borojeetbd.com{{ page.url }}">
   {% endif %}
-  <meta property="og:image" content="https://borojeetbd.com/assets/og/blog-hero.jpg">
+  {# --- OG Image Dynamic Logic --- #}
+  {% if ogImage %}
+    <meta property="og:image" content="https://borojeetbd.com/assets/og/{{ ogImage }}">
+  {% else %}
+    <meta property="og:image" content="https://borojeetbd.com/assets/og/hero.jpg">
+  {% endif %}
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
 
