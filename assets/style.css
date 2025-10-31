@@ -234,10 +234,10 @@ main img,
   display: block; /* Optional: helps remove extra space below images */
 }
 
-/* Add this media query for responsive grids */
+/* Responsive layout for hero grid */
 @media (max-width: 768px) {
-  .grid-2 {
-    grid-template-columns: 1fr; /* On screens 768px or less, switch to a single column */
-    gap: 1rem; /* Adjust gap for single column layout */
+  .hero.grid {
+    grid-template-columns: 1fr !important; /* Switch to a single column and ensure it applies */
+    gap: 2rem;
   }
 }
