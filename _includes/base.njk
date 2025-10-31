@@ -31,9 +31,11 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
 
+  <link rel="preload" href="/assets/style.css" as="style">
   <link rel="stylesheet" href="/assets/style.css">
 
   {% if page.url == '/' %}
+  <link rel="preload" href="/assets/borojeet-bangladesh-bonus-bkash-nagad.webp" as="image" fetchpriority="high">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
