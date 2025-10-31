@@ -225,3 +225,11 @@
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
 }
+
+/* Add this rule to make images responsive */
+main img,
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* Optional: helps remove extra space below images */
+}
