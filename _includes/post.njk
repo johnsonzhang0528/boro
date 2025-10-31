@@ -1,9 +1,38 @@
 ---
 layout: "base.njk"
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ title }}",
+  "description": "{{ description }}",
+  "image": "https://borojeetbd.com/assets/og/{{ ogImage or 'og-default.jpg' }}",
+  "datePublished": "{{ page.date.toISOString() }}",
+  "dateModified": "{{ page.date.toISOString() }}",
+  "author": {
+    "@type": "Organization",
+    "name": "BoroJeet Affiliate BD",
+    "url": "https://borojeetbd.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "BoroJeet Affiliate BD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://borojeetbd.com/assets/borojeet-affiliate-logo-bd.webp"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://borojeetbd.com{{ page.url }}"
+  }
+}
+</script>
+
 <main class="wrap">
   <div class="breadcrumb">
-    <a href="/blog/">Blog</a> &gt; 
+    <a href="/blog/">Blog</a> > 
     <span>{{ title }}</span>
   </div>
   <article>

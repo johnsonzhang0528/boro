@@ -21,7 +21,7 @@ canonicalUrl: "https://borojeetbd.com/"
     </div>
     <div>
       <figure class="img-frame">
-        <img src="/assets/borojeet-bangladesh-bonus-bkash-nagad.webp" alt="Bangladesh user deposits with bKash/Nagad on BoroJeet — bonus ৳300" width="1280" height="720" loading="eager" decoding="async" fetchpriority="high">
+        <img src="/assets/borojeet-bangladesh-bonus-bkash-nagad.webp" alt="BoroJeet Bangladesh user making a deposit with bKash/Nagad to claim a ৳300 welcome bonus0" width="1280" height="720" loading="eager" decoding="async" fetchpriority="high">
       </figure>
     </div>
   </section>
