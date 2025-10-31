@@ -1,4 +1,24 @@
 const { DateTime } = require("luxon");
+const Image = require("@11ty/eleventy-img");
+
+async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority = "auto") {
+  let metadata = await Image(src, {
+    widths: [300, 600, 1200],
+    formats: ["webp", "jpeg"],
+    outputDir: "./_site/img/",
+    urlPath: "/img/",
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading,
+    fetchpriority,
+    decoding: "async",
+  };
+
+  return Image.generateHTML(metadata, imageAttributes);
+}
 
 module.exports = function(eleventyConfig) {
   // Add this line to watch your CSS file for changes
@@ -6,6 +26,8 @@ module.exports = function(eleventyConfig) {
 
   // Passthrough Copy: Copy `assets` folder to `_site/assets`
   eleventyConfig.addPassthroughCopy("assets");
+
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
     return DateTime.fromJSDate(dateObj).toFormat(format);
