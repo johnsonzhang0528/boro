@@ -2,7 +2,7 @@
 layout: "base.njk"
 title: "BoroJeet বোনাস ও bKash/Nagad ডিপোজিট গাইড | Bonus, Deposit, Withdraw"
 description: "BoroJeet বোনাস, bKash/Nagad ডিপোজিট ধাপ, দ্রুত Withdraw, KYC চেকলিস্ট—বাংলায় সম্পূর্ণ গাইড। Responsible Gaming ও আঞ্চলিক প্রাপ্যতার নোটিসসহ।"
-canonicalUrl: "https://yourdomain.com/borojeet-bkash-bonus/"
+canonicalUrl: "https://borojeetbd.com/"
 ---
 
 <main class="wrap">
