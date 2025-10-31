@@ -1,6 +1,9 @@
 const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
+  // Add this line to watch your CSS file for changes
+  eleventyConfig.addWatchTarget("./assets/style.css");
+
   // Passthrough Copy: Copy `assets` folder to `_site/assets`
   eleventyConfig.addPassthroughCopy("assets");
 

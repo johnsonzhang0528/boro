@@ -4,8 +4,9 @@
   "description": "BoroJeet affiliate website",
   "main": ".eleventy.js",
   "scripts": {
+    "build:css": "esbuild assets/style.css --bundle --minify --outfile=_site/assets/style.css",
     "start": "npx @11ty/eleventy --serve",
-    "build": "node node_modules/@11ty/eleventy/cmd.js"
+    "build": "npx @11ty/eleventy && npm run build:css"
   },
   "keywords": [
     "eleventy",
@@ -15,6 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "esbuild": "^0.25.11",
     "luxon": "^3.7.2"
   }
 }
