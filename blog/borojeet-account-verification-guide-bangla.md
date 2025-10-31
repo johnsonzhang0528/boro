@@ -46,7 +46,6 @@ tags: ["post", "guide", "kyc"]
 
 সাধারণত, আপনি "My Account," "Profile," বা "Verification" নামে একটি বিভাগ পাবেন। এটি সাধারণত আপনার প্রোফাইল আইকনে ক্লিক করার পরে পাওয়া যায়।
 
-*[Image Placeholder: Screenshot showing where to find the verification section in the user's account dashboard.]*
 
 ### ধাপ ৩: আপনার পরিচয়পত্র আপলোড করুন (Step 3: Upload Your Identity Document)
 
@@ -55,7 +54,6 @@ tags: ["post", "guide", "kyc"]
 3.  এরপর, আপনার NID কার্ডের পিছনের দিকের ছবি আপলোড করুন।
 4.  নিশ্চিত করুন যে ছবিগুলি পরিষ্কার, ঝাপসা নয় এবং চারটি কোণই দৃশ্যমান।
 
-*[Image Placeholder: Screenshot of the ID upload interface.]*
 
 ### ধাপ ৪: আপনার ঠিকানার প্রমাণ আপলোড করুন (Step 4: Upload Your Proof of Address)
 
@@ -63,7 +61,6 @@ tags: ["post", "guide", "kyc"]
 2.  আপনার ইউটিলিটি বিল বা ব্যাংক স্টেটমেন্টের একটি পরিষ্কার ছবি আপলোড করুন।
 3.  নিশ্চিত করুন যে ডকুমেন্টে আপনার নাম, ঠিকানা এবং তারিখ স্পষ্টভাবে দেখা যাচ্ছে এবং এটি সাম্প্রতিক (সাধারণত ৩ মাসের মধ্যে)।
 
-*[Image Placeholder: Screenshot of the address document upload interface.]*
 
 ### ধাপ ৫: জমা দিন এবং পর্যালোচনার জন্য অপেক্ষা করুন (Step 5: Submit and Wait for Review)
 
