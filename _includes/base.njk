@@ -33,6 +33,25 @@
 
   <link rel="stylesheet" href="/assets/style.css">
 
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "BoroJeet Affiliate BD",
+    "url": "https://borojeetbd.com/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://borojeetbd.com/search?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  {% endif %}
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-P6KSF9FS0T"></script>
   <script>
@@ -47,7 +66,7 @@
   <header>
     <div class="wrap row">
       <a href="/" class="logo">
-        <img src="/assets/borojeet-affiliate-logo-bd.webp" alt="BoroJeet Bangladesh Logo" width="36" height="36" loading="lazy">
+        <img src="/assets/borojeet-affiliate-logo-bd.webp" alt="BoroJeet Bangladesh Logo" width="36" height="36">
         <span>BoroJeet Affiliate BD</span>
       </a>
       <nav aria-label="Primary" style="display: flex; align-items: center; gap: 16px;">
