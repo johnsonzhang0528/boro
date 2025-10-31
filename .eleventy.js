@@ -1,8 +1,10 @@
 const { DateTime } = require("luxon");
+const path = require("path");
 const Image = require("@11ty/eleventy-img");
 
 async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority = "auto") {
-  let metadata = await Image(src, {
+  let fullSrc = path.join(__dirname, src);
+  let metadata = await Image(fullSrc, {
     widths: [300, 600, 900, 1200],
     formats: ["webp", "jpeg"],
     outputDir: "./_site/img/",
