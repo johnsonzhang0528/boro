@@ -19,10 +19,8 @@ canonicalUrl: "https://borojeetbd.com/"
         <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">Claim Bonus • বোনাস নিন</a>
       </p>
     </div>
-    <div>
-      <figure class="img-frame">
-        {% image "./assets/borojeet-bangladesh-bonus-bkash-nagad.webp", "BoroJeet Bangladesh user making a deposit with bKash/Nagad to claim a ৳300 welcome bonus", "(min-width: 30em) 50vw, 100vw", "eager", "high" %}
-      </figure>
+    <div class="img-frame">
+      {% image "./assets/borojeet-bangladesh-bonus-bkash-nagad.webp", "BoroJeet Bangladesh user making a deposit with bKash/Nagad to claim a ৳300 welcome bonus", "(min-width: 30em) 50vw, 100vw", "eager", "high" %}
     </div>
   </section>
 

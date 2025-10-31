@@ -9,6 +9,7 @@
       --maxw: 1120px;
     }
     * { box-sizing: border-box; }
+    figure { margin: 0; } /* Reset browser default margins */
     html, body { height: 100%; }
     body {
       margin: 0;
@@ -41,6 +42,8 @@
     }
     .hero > div:last-child {
       text-align: center;
+      line-height: 0; /* Add this to remove extra space from the container */
+      align-self: start; /* Add this to align the item to the start of the grid cell */
     }
     .badge { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; color: var(--muted); background: #0f172a; border: 1px solid #1f2937; padding: 6px 10px; border-radius: 999px; }
     .h1 { font-size: clamp(28px, 4vw, 42px); line-height: 1.15; margin: 6px 0 10px; letter-spacing: .2px; }
@@ -69,18 +72,22 @@
     footer { margin: 32px 0 80px; font-size: 14px; color: var(--muted); }
     .warn { color: #fecaca; }
     /* Prevent CLS by setting image aspect-ratio */
-    .img-frame { display:block; width:100%; aspect-ratio: 16/9; border-radius: 16px; overflow: hidden; border: 1px solid #223042; }
-    .img-frame img { width:100%; height:100%; object-fit: cover; display:block; }
-    code { background: #0b1220; padding: 2px 6px; border-radius: 6px; border: 1px solid #1f2937; }
-
-main img,
-    article img {
-      max-width: 100%;
-      height: auto;
+    figure.img-frame {
+      margin: 0; /* Reset browser default margins */
       display: block;
-      margin: 1rem auto; /* Center images and add some space */
-      border-radius: 12px; /* Optional: consistent rounding */
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      border-radius: 16px;
+      border: 1px solid #223042;
     }
+    .img-frame picture,
+    .img-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    code { background: #0b1220; padding: 2px 6px; border-radius: 6px; border: 1px solid #1f2937; }
 
     /* Mobile-First Responsive Design */
     @media (max-width: 768px) {
@@ -108,12 +115,6 @@ main img,
         min-height: 44px;
         padding: 12px 18px;
         font-size: 16px;
-      }
-      
-      a {
-        min-height: 44px;
-        display: inline-flex;
-        align-items: center;
       }
       
       button {
