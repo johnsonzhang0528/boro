@@ -36,6 +36,8 @@ module.exports = function(eleventyConfig) {
   // Passthrough Copy: Copy `assets` folder to `_site/assets`
   eleventyConfig.addPassthroughCopy("assets");
 
+  eleventyConfig.addPassthroughCopy("robots.txt");
+
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
