@@ -1,4 +1,7 @@
 {
+  "env": {
+    "TZ": "Asia/Dhaka"
+  },
   "redirects": [
     {
       "source": "/go/borojeet",
