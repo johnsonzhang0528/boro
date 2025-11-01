@@ -5,6 +5,7 @@ date: "2025-11-01"
 layout: "post.njk"
 ogImage: "bkash-deposit-limit-error.webp"
 tags:
+  - "post"
   - "bKash"
   - "Deposit Guide"
   - "Transaction Limit"

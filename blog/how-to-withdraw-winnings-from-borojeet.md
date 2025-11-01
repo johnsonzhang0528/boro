@@ -5,6 +5,7 @@ description: "ধাপে ধাপে জানুন কীভাবে BoroJ
 date: "2025-11-01"
 ogImage: "assets/blog/borojeet-withdrawal-process.webp"
 tags:
+  - "post"
   - "Withdrawal Guide"
   - "BoroJeet"
   - "bKash"
