@@ -2,7 +2,7 @@
 layout: "post.njk"
 title: "BoroJeet থেকে জেতার টাকা কীভাবে তুলবেন (সম্পূর্ণ গাইড)"
 description: "ধাপে ধাপে জানুন কীভাবে BoroJeet থেকে bKash বা Nagad-এর মাধ্যমে আপনার জেতার টাকা দ্রুত এবং নিরাপদে উত্তোলন করবেন। KYC ও টার্নওভারের শর্তাবলী সহ সম্পূর্ণ গাইড।"
-date: "2025-10-31"
+date: "2025-11-01"
 ogImage: "assets/blog/borojeet-withdrawal-process.webp"
 tags:
   - "Withdrawal Guide"
