@@ -2,7 +2,8 @@
 title: "Underage Gaming Policy - BoroJeet Affiliate BD"
 description: "Our strict policy against underage gaming. Learn about our age verification processes and the responsibilities of users to prevent access by minors."
 layout: "base.njk"
-permalink: "/underage-gaming/index.html"
+date: 2025-10-31
+tags: "underage-gaming"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

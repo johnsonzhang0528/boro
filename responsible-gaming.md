@@ -2,7 +2,8 @@
 title: "Responsible Gaming - BoroJeet Affiliate BD"
 description: "Learn about our commitment to responsible gaming. Find resources, self-assessment tools, and information on self-exclusion to ensure a safe and controlled gaming experience."
 layout: "base.njk"
-permalink: "/responsible-gaming/index.html"
+date: 2025-10-31
+tags: "responsible-gaming"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

@@ -2,7 +2,8 @@
 title: "KYC Policy - BoroJeet Affiliate BD"
 description: "Learn about our Know Your Customer (KYC) and Anti-Money Laundering (AML) policies. Understand why we require identity verification and how we protect your data."
 layout: "base.njk"
-permalink: "/kyc/index.html"
+date: 2025-10-31
+tags: "kyc"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

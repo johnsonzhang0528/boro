@@ -2,7 +2,8 @@
 title: "Anti-Money Laundering (AML) Policy - BoroJeet Affiliate BD"
 description: "Our comprehensive Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) policy. Learn about our procedures for customer due diligence, transaction monitoring, and regulatory compliance."
 layout: "base.njk"
-permalink: "/anti-money-laundering/index.html"
+date: 2025-10-31
+tags: "anti-money-laundering"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

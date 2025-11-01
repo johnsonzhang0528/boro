@@ -4,6 +4,8 @@ lang: "en"
 title: "Terms and Conditions - BoroJeet Affiliate BD"
 description: "Read the full terms and conditions for using our website and the services promoted. Understand the rules regarding your account, wagers, bonuses, and more."
 robots: "noindex, follow"
+date: 2025-10-31
+tags: "terms"
 ---
 <div class="card" style="max-width: 800px; margin: 20px auto;">
   <h1>Terms and Conditions</h1>

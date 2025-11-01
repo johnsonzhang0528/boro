@@ -2,7 +2,8 @@
 title: "Privacy Policy - BoroJeet Affiliate BD"
 description: "Learn how we collect, use, and protect your personal information. Our Privacy Policy details your rights regarding your data, our use of cookies, and our commitment to data security."
 layout: "base.njk"
-permalink: "/privacy/index.html"
+date: 2025-10-31
+tags: "privacy"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">
