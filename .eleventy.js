@@ -39,7 +39,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
-    return DateTime.fromJSDate(dateObj).toFormat(format);
+    return DateTime.fromJSDate(dateObj, { zone: 'Asia/Dhaka' }).toFormat(format);
   });
 
   eleventyConfig.addCollection("post", (api) => {
