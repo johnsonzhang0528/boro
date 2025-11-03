@@ -3,7 +3,7 @@ title: "BoroJeet Account Verification: Step-by-Step Guide (2025 Bangla)"
 description: "Learn how to verify your BoroJeet account in Bangladesh with our easy step-by-step KYC guide. Complete the process quickly to unlock fast withdrawals. (Bangla)"
 date: "2025-10-31"
 layout: "post.njk"
-ogImage: "borojeet-account-verification-guide-bangla-og.webp"
+ogImage: "borojeet-account-verification-guide-bangla-og-optimized.webp"
 tags: ["post", "guide", "kyc"]
 ---
 
