@@ -1,26 +1,4 @@
-:root {
-      --bg: #0b0f14;
-      --text: #e9f2ff;
-      --muted: #9db1c9;
-      --accent: #10b981; /* CTA green */
-      --accent-2: #ef4444; /* caution / 18+ */
-      --card: #111827;
-      --bdt: #22d3ee; /* BDT cyan highlight */
-      --maxw: 1120px;
-    }
-    * { box-sizing: border-box; }
-    figure { margin: 0; } /* Reset browser default margins */
-    html, body { height: 100%; }
-    body {
-      margin: 0;
-      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-      font-display: optional;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-    }
-    a { color: #A8DFFD; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+a:hover { text-decoration: underline; }
 
 /* Accessibility fix: Underline breadcrumb links */
 .breadcrumb a {
@@ -55,7 +33,6 @@
     }
     .badge { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; color: var(--muted); background: #0f172a; border: 1px solid #1f2937; padding: 6px 10px; border-radius: 999px; }
     .h1 { font-size: clamp(28px, 4vw, 42px); line-height: 1.15; margin: 6px 0 10px; letter-spacing: .2px; }
-    .lead { color: var(--muted); max-width: 72ch; }
     .card {
       background: linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
       border: 1px solid #243041;
@@ -244,10 +221,6 @@
     }
 
 /* Breadcrumb Styles */
-.breadcrumb {
-  font-size: 14px;
-  color: #9db1c9; /* Use muted color for non-link parts */
-}
 .breadcrumb a {
   color: #A8DFFD; /* Ensure link color is the updated high-contrast one */
   text-decoration: underline; /* Add underline for accessibility */
@@ -269,8 +242,3 @@ main img,
   display: block; /* Optional: helps remove extra space below images */
 }
 
-/* Accessibility Fix: Underline breadcrumb links to distinguish them from text */
-.breadcrumb a {
-  text-decoration: underline !important;
-  text-underline-offset: 3px;
-}
