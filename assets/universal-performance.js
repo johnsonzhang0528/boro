@@ -255,7 +255,7 @@
     }
 
     setupHoverPreloading() {
-      const preloadableLinks = document.querySelectorAll('a[href^="/"], .cta, a[href*="borojeet"], [data-hover-preload="true"]');
+      const preloadableLinks = document.querySelectorAll('a[href^="/"], .cta, a[href*="borojeet"]:not([href*="//"]), [data-hover-preload="true"]');
       
       preloadableLinks.forEach(link => {
         link.addEventListener('mouseenter', () => {
