@@ -225,9 +225,6 @@
         if (link.href) urls.push(link.href);
       });
       
-      // Always include common resources
-      urls.push('/go/borojeet');
-      
       return [...new Set(urls)]; // Remove duplicates
     }
 

@@ -495,7 +495,7 @@
 </head>
 <body 
   data-page-type="{% if page.url == '/' %}home{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}blog-post{% elif page.url.startsWith('/blog/') %}blog-index{% else %}page{% endif %}"
-  {% if page.url.includes('withdraw') %}data-preload-urls='["/blog/understanding-wagering-requirements/", "/blog/beginners-guide-to-borojeet/"]'{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}data-preload-urls='["/blog/", "/go/borojeet"]'{% else %}data-preload-urls='["/go/borojeet"]'{% endif %}
+
   data-preload-delay="2000"
 >
   <header>
