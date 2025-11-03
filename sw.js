@@ -1,29 +1,27 @@
-const CACHE_NAME = 'borojeet-blog-v2';
+const CACHE_NAME = 'borojeet-blog-v3';
 const STATIC_ASSETS = [
   '/assets/style.css',
   '/assets/borojeet-affiliate-logo-bd.webp',
   '/assets/lazy-load.js',
-  '/blog/',
+  '/blog/'
+];
+
+// Critical images to cache immediately (using existing files)
+const CRITICAL_IMAGES = [
+  '/assets/og/nagad-vs-bkash.jpg',
   '/assets/blog/nagad-bKash-payment-flow.png'
 ];
 
-// Critical images to cache immediately
-const CRITICAL_IMAGES = [
-  '/assets/og/nagad-vs-bkash.jpg'
-];
+// Image cache strategy - Cache images with different strategy
+const IMAGE_CACHE = 'images-v1';
 
 // Install event - cache static assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then((cache) => {
-        // Cache static assets and critical images
-        return Promise.all([
-          cache.addAll(STATIC_ASSETS),
-          cache.addAll(CRITICAL_IMAGES)
-        ]);
-      })
-      .then(() => self.skipWaiting())
+    Promise.all([
+      caches.open(CACHE_NAME).then(cache => cache.addAll(STATIC_ASSETS)),
+      caches.open(IMAGE_CACHE).then(cache => cache.addAll(CRITICAL_IMAGES))
+    ]).then(() => self.skipWaiting())
   );
 });
 
@@ -34,7 +32,10 @@ self.addEventListener('activate', (event) => {
       .then((cacheNames) => {
         return Promise.all(
           cacheNames
-            .filter((cacheName) => cacheName !== CACHE_NAME)
+            .filter((cacheName) => 
+              cacheName !== CACHE_NAME && 
+              cacheName !== IMAGE_CACHE
+            )
             .map((cacheName) => caches.delete(cacheName))
         );
       })
