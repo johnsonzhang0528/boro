@@ -3,7 +3,7 @@ title: "বাংলাদেশে অনলাইন ক্যাসিনো 
 description: "স্লট, রুলেট, ব্ল্যাকজ্যাক এবং অ্যাভিয়েটরের মতো অনলাইন ক্যাসিনো গেম খেলতে চান? আমাদের চূড়ান্ত গাইড আপনাকে নিয়ম, কৌশল এবং সেরা গেম বেছে নিতে সাহায্য করবে।"
 date: 2025-11-10
 layout: "post.njk"
-ogImage: "ultimate-guide-casino-games-bangladesh.jpg"
+ogImage: "ultimate-guide-casino-games-bangladesh.webp"
 ogImageAlt: "বিভিন্ন অনলাইন ক্যাসিনো গেমের আইকন যেমন স্লট মেশিন, রুলেট হুইল এবং কার্ড দেখানো হচ্ছে, যা একটি গেম গাইডের প্রতীক।"
 tags: "post"
 ---

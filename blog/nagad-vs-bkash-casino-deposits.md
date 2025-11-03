@@ -3,7 +3,7 @@ title: "Nagad বনাম bKash: ক্যাসিনো ডিপোজিট
 description: "বাংলাদেশের অনলাইন ক্যাসিনো প্লেয়ারদের জন্য Nagad বা bKash কোনটি দ্রুত, সস্তা এবং নিরাপদ ডিপোজিট অফার করে? আমরা গতি, ফি, লিমিট এবং ব্যবহারকারীর অভিজ্ঞতা তুলনা করেছি।"
 date: 2025-10-31
 layout: "post.njk"
-ogImage: "nagad-vs-bkash.jpg"
+ogImage: "nagad-vs-bkash.webp"
 tags: "post"
 ---
 

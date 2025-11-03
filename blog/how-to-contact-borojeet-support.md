@@ -3,7 +3,7 @@ title: "BoroJeet কাস্টমার সাপোর্টের সাথ�
 description: "BoroJeet-এ কোনো সমস্যায় পড়েছেন? লাইভ চ্যাট, ইমেল বা সোশ্যাল মিডিয়ার মাধ্যমে তাদের কাস্টমার সাপোর্ট দলের সাথে যোগাযোগ করার সম্পূর্ণ গাইডটি এখানে খুঁজুন।"
 date: 2025-11-05
 layout: "post.njk"
-ogImage: "how-to-contact-borojeet-support.jpg"
+ogImage: "how-to-contact-borojeet-support.webp"
 ogImageAlt: "একজন বন্ধুত্বপূর্ণ কাস্টমার সার্ভিস এজেন্টের আইকন এবং লাইভ চ্যাট, ইমেল ও ফোনের প্রতীক, যা বিভিন্ন সাপোর্টের উপায়গুলো দেখাচ্ছে।"
 tags: "post"
 ---

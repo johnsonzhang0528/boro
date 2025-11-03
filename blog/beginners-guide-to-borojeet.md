@@ -3,7 +3,7 @@ title: "BoroJeet-এ নতুন? নিরাপদে খেলা শুর�
 description: "BoroJeet-এ খেলা শুরু করতে চান? আমাদের এই নতুনদের জন্য গাইডটি আপনাকে রেজিস্ট্রেশন, ডিপোজিট, গেম খেলা এবং নিরাপদে জেতার টাকা তোলার প্রতিটি ধাপে সাহায্য করবে।"
 date: 2025-11-03
 layout: "post.njk"
-ogImage: "beginners-guide-to-borojeet.jpg"
+ogImage: "beginners-guide-to-borojeet.webp"
 ogImageAlt: "BoroJeet লোগো এবং বিভিন্ন গেমের আইকন যেমন ক্রিকেট, ক্যাসিনো চিপস এবং স্লট মেশিন সহ একটি স্বাগত ব্যানার।"
 tags: "post"
 ---

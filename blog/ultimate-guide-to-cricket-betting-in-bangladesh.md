@@ -3,7 +3,7 @@ title: "বাংলাদেশে ক্রিকেট বেটিং এর
 description: "ক্রিকেট বেটিং সম্পর্কে সবকিছু জানতে চান? আমাদের এই চূড়ান্ত গাইডটি আপনাকে বেটিং এর মূল বিষয়, অডস বোঝা, বিভিন্ন ধরনের বাজি এবং জেতার কৌশল সম্পর্কে ধাপে ধাপে শেখাবে।"
 date: 2025-11-07
 layout: "post.njk"
-ogImage: "ultimate-guide-to-cricket-betting-in-bangladesh.jpg"
+ogImage: "ultimate-guide-to-cricket-betting-in-bangladesh.webp"
 ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে একটি ক্রিকেট বল, ব্যাট এবং বেটিং অডস দেখানো হয়েছে, যা ক্রিকেট বেটিং গাইডের প্রতীক।"
 tags: "post"
 ---

@@ -3,7 +3,7 @@ title: "Wagering Requirement কী? ক্যাসিনো বোনাস �
 description: "অনলাইন ক্যাসিনো বোনাসের সাথে আসা 'Wagering Requirement' বা '流水' শর্তটি বুঝতে পারছেন না? আমাদের এই গাইডটি আপনাকে উদাহরণসহ ব্যাখ্যা করে সবকিছু পরিষ্কার করে দেবে।"
 date: 2025-11-03
 layout: "post.njk"
-ogImage: "understanding-wagering-requirements.jpg"
+ogImage: "understanding-wagering-requirements.webp"
 ogImageAlt: "একটি ক্যালকুলেটর এবং ক্যাসিনো চিপসের পাশে 'Wagering Requirement' শব্দটি লেখা একটি নোটপ্যাড, যা বোনাসের শর্তাবলী গণনার ধারণাটি তুলে ধরছে।"
 tags: "post"
 ---
