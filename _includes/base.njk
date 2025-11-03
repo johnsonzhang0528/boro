@@ -10,7 +10,7 @@
     document.documentElement.style.background = '#0b0f14';
   </script>
   <style>
-    /* Critical CSS to prevent CLS and FOUC */
+    /* Critical CSS to prevent CLS and FOUC - Expanded for better stability */
     :root {
       --bg: #0b0f14;
       --text: #e9f2ff;
@@ -21,33 +21,330 @@
       --bdt: #22d3ee;
       --maxw: 1120px;
     }
-    * { box-sizing: border-box; }
-    figure { margin: 0; }
-    html, body { height: 100%; }
-    body {
+    
+    * { 
+      box-sizing: border-box;
+    }
+    
+    figure { 
+      margin: 0; 
+    }
+    
+    html, body { 
+      height: 100%; 
       margin: 0;
+    }
+    
+    body {
       font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-      font-display: swap; /* Changed from optional to swap for better LCP */
+      font-display: swap;
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
+      overflow-x: hidden; /* Prevent horizontal scroll CLS */
     }
-    .wrap { max-width: var(--maxw); margin: 0 auto; padding: 16px; }
-    .h1 { font-size: clamp(28px, 4vw, 42px); line-height: 1.15; margin: 6px 0 10px; letter-spacing: .2px; }
-    .breadcrumb { font-size: 14px; color: var(--muted); margin-top: 0; }
-    .post-meta { color: var(--muted); font-size: 14px; margin-bottom: 16px; }
-    a { color: #A8DFFD; text-decoration: none; }
+    
+    /* Critical layout containers */
+    .wrap { 
+      max-width: var(--maxw); 
+      margin: 0 auto; 
+      padding: 16px; 
+    }
+    
+    .h1 { 
+      font-size: clamp(28px, 4vw, 42px); 
+      line-height: 1.15; 
+      margin: 6px 0 10px; 
+      letter-spacing: .2px; 
+    }
+    
+    .breadcrumb { 
+      font-size: 14px; 
+      color: var(--muted); 
+      margin-top: 0; 
+    }
+    
+    .post-meta { 
+      color: var(--muted); 
+      font-size: 14px; 
+      margin-bottom: 16px; 
+    }
+    
+    a { 
+      color: #A8DFFD; 
+      text-decoration: none; 
+    }
 
-    /* Consolidated Header styles for immediate rendering */
-    header { position: sticky; top: 0; z-index: 50; backdrop-filter: blur(8px); background: rgba(11,15,20,.8); border-bottom: 1px solid #1f2937; }
-    header .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
-    .logo { display: flex; align-items: center; gap: 10px; font-weight: 700; letter-spacing: .1px; }
-    .logo span { white-space: nowrap; }
-    .logo img { height: 20px; width: auto; border-radius: 4px; }
-    nav { display: flex; align-items: center; gap: 16px; } /* Moved from inline style */
+    /* Critical Header styles for immediate rendering */
+    header { 
+      position: sticky; 
+      top: 0; 
+      z-index: 50; 
+      backdrop-filter: blur(8px); 
+      background: rgba(11,15,20,.8); 
+      border-bottom: 1px solid #1f2937; 
+    }
+    
+    header .row { 
+      display: flex; 
+      align-items: center; 
+      justify-content: space-between; 
+      gap: 12px; 
+      min-height: 60px; /* Fixed header height to prevent CLS */
+    }
+    
+    .logo { 
+      display: flex; 
+      align-items: center; 
+      gap: 10px; 
+      font-weight: 700; 
+      letter-spacing: .1px; 
+    }
+    
+    .logo span { 
+      white-space: nowrap; 
+    }
+    
+    .logo img { 
+      height: 20px !important; 
+      width: 71px !important; 
+      border-radius: 4px; 
+      flex-shrink: 0; /* Prevent shrinking that causes CLS */
+    }
+    
+    nav { 
+      display: flex; 
+      align-items: center; 
+      gap: 16px; 
+    }
+    
     .cta {
-      display: inline-flex; align-items: center; justify-content: center;
-      gap: .5rem; background: var(--accent); color: #041b11; font-weight: 700;
+      display: inline-flex; 
+      align-items: center; 
+      justify-content: center;
+      gap: .5rem; 
+      background: var(--accent); 
+      color: #041b11; 
+      font-weight: 700;
+      padding: 10px 16px; 
+      border-radius: 12px; 
+      border: 1px solid #064e3b;
+      box-shadow: 0 6px 20px rgba(16,185,129,.25);
+      white-space: nowrap; /* Prevent text wrapping CLS */
+    }
+    
+    .cta:hover { 
+      filter: brightness(1.05); 
+      text-decoration: none; 
+    }
+    
+    [aria-current="page"] {
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 4px;
+    }
+
+    /* Critical grid and layout styles */
+    .grid { 
+      display: grid; 
+      gap: 16px; 
+      grid-template-columns: 1fr; 
+    }
+    
+    @media (min-width: 960px) { 
+      .hero.grid { 
+        grid-template-columns: 1.2fr .8fr; 
+      }
+      .grid-2 { 
+        grid-template-columns: 1fr 1fr; 
+      } 
+    }
+    
+    .hero {
+      display: grid; 
+      gap: 16px; 
+      align-items: center; 
+      padding: 18px 0 8px;
+      min-height: 200px; /* Prevent height collapse */
+    }
+    
+    .hero > div:last-child {
+      text-align: center;
+      line-height: 0;
+      align-self: start;
+    }
+
+    /* Blog specific optimizations - moved to critical */
+    .article-list { 
+      display: grid; 
+      gap: 20px; 
+      margin: 24px 0; 
+    }
+    
+    .card {
+      background: linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
+      border: 1px solid #243041;
+      border-radius: 16px; 
+      padding: 16px;
+      contain: layout style paint;
+      min-height: 300px; /* Prevent card height shifts */
+    }
+    
+    .card-meta { 
+      color: var(--muted); 
+      font-size: 14px; 
+      margin-bottom: 8px; 
+    }
+    
+    .card h2 { 
+      margin: 8px 0; 
+      font-size: 1.25rem; 
+      line-height: 1.3; 
+    }
+    
+    .card p { 
+      color: var(--muted); 
+      margin: 8px 0 12px; 
+      line-height: 1.5; 
+    }
+
+    /* Critical image optimization with modern formats */
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      content-visibility: auto;
+      aspect-ratio: attr(width) / attr(height);
+    }
+
+    /* Responsive image containers */
+    picture {
+      display: block;
+      width: 100%;
+    }
+
+    picture img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+
+    /* LCP image optimization */
+    img[fetchpriority="high"] {
+      content-visibility: visible;
+    }
+
+    /* Critical figure containers */
+    figure.img-frame {
+      margin: 0;
+      display: block;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      border-radius: 16px;
+      border: 1px solid #223042;
+      contain: layout style paint;
+      content-visibility: auto;
+    }
+    
+    .img-frame picture,
+    .img-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* Table styles for blog content - critical for layout stability */
+    .table { 
+      width: 100%; 
+      border-collapse: collapse; 
+      table-layout: fixed; /* Prevent table width shifts */
+    }
+    
+    .table th, .table td { 
+      padding: 12px; 
+      border-bottom: 1px solid #1f2937; 
+      text-align: left; 
+      vertical-align: top; 
+      word-wrap: break-word; /* Prevent overflow CLS */
+    }
+
+    /* Footer positioning to prevent shifts */
+    footer { 
+      margin: 32px 0 80px; 
+      font-size: 14px; 
+      color: var(--muted); 
+    }
+
+    /* Sticky CTA positioning */
+    .sticky-cta {
+      position: fixed; 
+      bottom: 12px; 
+      left: 50%; 
+      transform: translateX(-50%);
+      width: min(640px, calc(100% - 24px));
+      background: #052017; 
+      border: 1px solid #064e3b; 
+      border-radius: 14px;
+      box-shadow: 0 12px 30px rgba(0,0,0,.35); 
+      padding: 10px 12px;
+      display: flex; 
+      align-items: center; 
+      justify-content: space-between; 
+      gap: 10px;
+      z-index: 1000;
+    }
+
+    /* Utility classes */
+    .hide { 
+      display: none !important; 
+    }
+    
+    .money { 
+      color: var(--bdt); 
+      font-weight: 800; 
+    }
+    
+    .warn { 
+      color: #fecaca; 
+    }
+    
+    .note { 
+      font-size: 14px; 
+      color: var(--muted); 
+    }
+
+    /* Loading state styles to prevent FOUC */
+    .loading {
+      opacity: 0;
+      transition: opacity 0.3s ease-in-out;
+    }
+    
+    .loaded {
+      opacity: 1;
+    }
+  </style>
+  
+  <!-- Preload critical resources to improve LCP -->
+  <link rel="preload" href="/assets/borojeet-affiliate-logo-bd.webp" as="image" fetchpriority="high">
+  <link rel="preload" href="/assets/style.css" as="style">
+  
+  <!-- Preload system fonts for better FOUT prevention -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <!-- DNS prefetch for external domains -->
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  
+  <!-- Optimize font loading to prevent FOUT/FOUC -->
+  <style>
+    /* System font fallback to prevent FOUT */
+    @font-face {
+      font-family: 'system-ui-fallback';
+      src: local('system-ui'), local('-apple-system'), local('BlinkMacSystemFont'), local('Segoe UI'), local('Roboto');
+      font-display: block; /* Block briefly to prevent FOUT */
+    }
+  </style>
       padding: 10px 16px; border-radius: 12px; border: 1px solid #064e3b;
       box-shadow: 0 6px 20px rgba(16,185,129,.25);
     }
@@ -220,7 +517,12 @@
   <header>
     <div class="wrap row">
       <a href="/" class="logo">
-        <img src="/assets/borojeet-affiliate-logo-bd.webp" alt="BoroJeet Bangladesh Logo" width="71" height="20">
+        <img src="/assets/borojeet-affiliate-logo-bd.webp" 
+             alt="BoroJeet Bangladesh Logo" 
+             width="71" 
+             height="20"
+             fetchpriority="high"
+             decoding="sync">
         <span>BoroJeet Affiliate BD</span>
       </a>
       <nav aria-label="Primary">

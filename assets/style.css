@@ -45,7 +45,7 @@ a:hover { text-decoration: underline; }
     .hide { display: none !important; }
     footer { margin: 32px 0 80px; font-size: 14px; color: var(--muted); }
     .warn { color: #fecaca; }
-    /* Prevent CLS by setting image aspect-ratio */
+    /* Enhanced CLS prevention - explicit dimensions for all images */
     figure.img-frame {
       margin: 0; /* Reset browser default margins */
       display: block;
@@ -53,7 +53,10 @@ a:hover { text-decoration: underline; }
       overflow: hidden;
       border-radius: 16px;
       border: 1px solid #223042;
+      contain: layout style paint; /* Optimize rendering performance */
+      content-visibility: auto; /* Improve rendering of off-screen content */
     }
+    
     .img-frame picture,
     .img-frame img {
       width: 100%;
@@ -62,14 +65,22 @@ a:hover { text-decoration: underline; }
       display: block;
     }
 
-    /* Enhanced CLS prevention for all images */
+    /* Critical CLS fix - force dimensions before image loads */
     img {
       max-width: 100%;
       height: auto;
       display: block;
+      /* Add explicit width/height ratio to prevent shifts */
+      aspect-ratio: attr(width) / attr(height);
     }
 
-    /* Specific handling for blog content images */
+    /* Fallback for images without aspect ratio */
+    img:not([width]):not([height]) {
+      aspect-ratio: 16 / 9;
+      min-height: 200px; /* Prevent zero-height collapse */
+    }
+
+    /* Blog content images with strict dimensions */
     .post-content img,
     .article-list img {
       width: 100%;
@@ -77,13 +88,34 @@ a:hover { text-decoration: underline; }
       aspect-ratio: 16 / 9;
       object-fit: cover;
       border-radius: 8px;
+      contain: layout; /* Prevent layout shifts */
     }
 
-    /* Logo image optimization */
+    /* Logo with fixed dimensions to prevent CLS */
     .logo img {
-      width: 71px;
-      height: 20px;
+      width: 71px !important;
+      height: 20px !important;
       display: block;
+      flex-shrink: 0; /* Prevent logo from shrinking */
+    }
+
+    /* Card images with explicit sizing */
+    .card img {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      border-radius: 8px;
+      contain: layout style;
+    }
+
+    /* Hero section image stability */
+    .hero img {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      contain: layout;
     }
     code { background: #0b1220; padding: 2px 6px; border-radius: 6px; border: 1px solid #1f2937; }
 

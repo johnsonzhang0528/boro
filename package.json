@@ -12,9 +12,13 @@
     "images:single": "node convert-to-webp.js",
     "optimize:css": "cleancss -o assets/style.min.css assets/style.css",
     "optimize:js": "terser assets/lazy-load.js -o assets/lazy-load.min.js",
-    "build:optimized": "npm run images:convert && npm run optimize:css && npm run optimize:js && npm run build",
+    "optimize:performance": "node performance-optimizer.js",
+    "build:optimized": "npm run images:convert && npm run optimize:css && npm run optimize:js && npm run optimize:performance && npm run build",
+    "build:production": "npm run build:optimized",
     "dev:watch": "npm run images:watch",
-    "setup:hooks": "git config core.hooksPath .githooks"
+    "setup:hooks": "git config core.hooksPath .githooks",
+    "test:performance": "lighthouse http://localhost:8080 --output=html --output-path=lighthouse-report.html",
+    "audit:cls": "node -e \"console.log('Run: npm run test:performance to check CLS improvements')\""
   },
   "keywords": [
     "eleventy",
