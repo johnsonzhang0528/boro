@@ -12,7 +12,13 @@ bKash বাংলাদেশের সবচেয়ে জনপ্রিয
 আপনি যদি কখনো ডিপোজিট করতে গিয়ে ব্যর্থ হয়ে থাকেন, তবে সম্ভবত এর কারণ bKash-এর নির্ধারিত সীমা। এই আর্টিকেলে আমরা bKash লেনদেনের সীমা এবং কীভাবে তা আপনার ক্যাসিনো ডিপোজিটকে প্রভাবিত করে সে সম্পর্কে বিস্তারিত আলোচনা করব।
 
 ### bKash লিমিটগুলি বোঝা (Understanding bKash Limits)
-{% image "/assets/blog/bkash-daily-vs-monthly-limits.webp", "একটি ইনফোগ্রাফিক যা bKash-এর দৈনিক এবং মাসিক লেনদেনের সীমার মধ্যে পার্থক্য দেখাচ্ছে।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="hero-image" data-critical="true">
+  <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.webp" type="image/webp">
+  <img src="/assets/blog/withdrawal-pre-check-list-optimized.webp"
+       alt="টাকা তোলার আগে দুটি গুরুত্বপূর্ণ চেকলিস্ট আইটেম: কেওয়াইসি ভেরিফিকেশন সম্পন্ন করা এবং ওয়েজারিং রিকোয়ারমেন্ট পূরণ করা।"
+       width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
+</picture>
 
 ## bKash লেনদেনের সীমা কেন এবং কত? (Why and What are the bKash Limits?)
 
@@ -43,7 +49,14 @@ bKash-এর ব্যক্তিগত অ্যাকাউন্টের �
 কিন্তু যদি প্ল্যাটফর্মটি "সেন্ড মানি" পদ্ধতি ব্যবহার করে অথবা তাদের নিজস্ব প্রতি লেনদেনে ৳২৫,০০০ সীমা থাকে, তবে আপনার ৳৫০,০০০ ডিপোজিটের অনুরোধটি ব্যর্থ হবে। এখানেই ব্যবহারকারীরা প্রায়শই বিভ্রান্ত হন এবং ভাবেন যে সমস্যাটি তাদের bKash অ্যাকাউন্ট বা ক্যাসিনো সাইটের।
 
 ## কীভাবে bKash লিমিট পরিচালনা করবেন (How to Manage bKash Limits)
-{% image "/assets/blog/payment-method-diversification.webp", "bKash, Nagad, এবং Rocket-এর লোগো দেখানো একটি ছবি, যা লেনদেনের সীমা পরিচালনার জন্য একাধিক পেমেন্ট পদ্ধতি ব্যবহারের কৌশলকে চিত্রিত করে।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/payment-method-diversification-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/payment-method-diversification-optimized.webp" type="image/webp">
+  <img src="/assets/blog/payment-method-diversification-optimized.webp"
+       alt="bKash, Nagad, এবং Rocket-এর লোগো দেখানো একটি ছবি, যা লেনদেনের সীমা পরিচালনার জন্য একাধিক পেমেন্ট পদ্ধতি ব্যবহারের কৌশলকে চিত্রিত করে।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 যদি আপনাকে বড় অঙ্কের টাকা ডিপোজিট করতে হয় এবং আপনি সীমার কারণে আটকে যান, তবে নিম্নলিখিত কৌশলগুলো অবলম্বন করতে পারেন:
 
