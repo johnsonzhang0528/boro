@@ -1,0 +1,19 @@
+{
+  "name": "borojeet-blog-optimization",
+  "version": "1.0.0",
+  "description": "Performance optimization scripts for BoroJeet blog",
+  "scripts": {
+    "optimize": "node optimize-images.js",
+    "minify-css": "cleancss -o assets/style.min.css assets/style.css",
+    "minify-js": "terser assets/lazy-load.js -o assets/lazy-load.min.js",
+    "build": "npm run minify-css && npm run minify-js && npm run optimize"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^5.6.2",
+    "terser": "^5.19.4",
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-mozjpeg": "^10.0.0"
+  }
+}

@@ -1,8 +1,15 @@
-const CACHE_NAME = 'borojeet-blog-v1';
+const CACHE_NAME = 'borojeet-blog-v2';
 const STATIC_ASSETS = [
   '/assets/style.css',
   '/assets/borojeet-affiliate-logo-bd.webp',
+  '/assets/lazy-load.js',
   '/blog/',
+  '/assets/blog/nagad-bKash-payment-flow.png'
+];
+
+// Critical images to cache immediately
+const CRITICAL_IMAGES = [
+  '/assets/og/nagad-vs-bkash.jpg'
 ];
 
 // Install event - cache static assets
@@ -10,7 +17,11 @@ self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then((cache) => {
-        return cache.addAll(STATIC_ASSETS);
+        // Cache static assets and critical images
+        return Promise.all([
+          cache.addAll(STATIC_ASSETS),
+          cache.addAll(CRITICAL_IMAGES)
+        ]);
       })
       .then(() => self.skipWaiting())
   );

@@ -41,7 +41,7 @@ tags: "post"
 
 <div class="card" style="text-align: center;">
   <figure style="margin-bottom: 1rem;">
-    {% image "/assets/blog/nagad-bKash-payment-flow.png", "অনলাইন ক্যাসিনোর জন্য Nagad এবং bKash ডিপোজিট প্রক্রিয়ার একটি ভিজ্যুয়াল তুলনা।", "100vw" %}
+    {% image "/assets/blog/nagad-bKash-payment-flow.png", "অনলাইন ক্যাসিনোর জন্য Nagad এবং bKash ডিপোজিট প্রক্রিয়ার একটি ভিজ্যুয়াল তুলনা।", "100vw", "eager" %}
   </figure>
   <h3 style="margin-bottom: 0.5rem;">একটি দ্রুত এবং সস্তা ডিপোজিট করতে প্রস্তুত?</h3>
   <p>BoroJeet তাৎক্ষণিক ডিপোজিটের জন্য Nagad এবং bKash উভয়ই সমর্থন করে। দ্রুত এবং কম ফিতে খেলা শুরু করুন।</p>

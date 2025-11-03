@@ -156,7 +156,7 @@ main img,
 .cta,
 .page-numbers {
   will-change: filter, background-color;
-  transition: background-color 0.2s ease, filter 0.2s ease;
+  transition: background-color 0.15s ease, filter 0.15s ease; /* Reduced timing */
 }
 
 .cta:hover,
@@ -171,6 +171,30 @@ main img,
 
 .logo img {
   content-visibility: auto; /* Enable content-visibility for better performance */
+}
+
+/* Enhanced image optimization */
+img[loading="lazy"] {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+img[loading="lazy"].loaded {
+  opacity: 1;
+}
+
+/* Table optimization for mobile */
+@media (max-width: 768px) {
+  .table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .table th,
+  .table td {
+    min-width: 120px;
+  }
 }
 
 /* Critical resource hints - These should be applied via HTML attributes, not CSS */
