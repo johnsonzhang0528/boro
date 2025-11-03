@@ -243,10 +243,11 @@
       }
 
       if (isExternal) {
-        link.rel = 'nofollow';
-      } else {
-        link.rel = 'prefetch';
+        // Do not prefetch external links to avoid cross-origin issues.
+        return;
       }
+
+      link.rel = 'prefetch';
       link.href = url;
 
       document.head.appendChild(link);
