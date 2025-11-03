@@ -9,6 +9,16 @@
     // Prevent FOUC by setting the background color immediately, matching --bg in CSS
     document.documentElement.style.background = '#0b0f14';
   </script>
+  <style>
+    /* Critical CSS to prevent CLS */
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      background-color: #0b0f14;
+      color: #e9f2ff;
+      line-height: 1.6;
+    }
+  </style>
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
   {% if canonicalUrl %}
