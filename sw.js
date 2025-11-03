@@ -72,6 +72,11 @@ self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
   
   const url = new URL(event.request.url);
+
+  // Do not handle the redirect URL
+  if (url.pathname === '/go/borojeet') {
+    return;
+  }
   
   // Skip cross-origin requests
   if (url.origin !== location.origin) {
