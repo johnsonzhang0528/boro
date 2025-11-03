@@ -7,17 +7,6 @@ a:hover { text-decoration: underline; }
 }
 
     .wrap { max-width: var(--maxw); margin: 0 auto; padding: 16px; }
-    header { position: sticky; top: 0; z-index: 50; backdrop-filter: blur(8px); background: rgba(11,15,20,.8); border-bottom: 1px solid #1f2937; }
-    header .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
-    .logo { display: flex; align-items: center; gap: 10px; font-weight: 700; letter-spacing: .1px; }
-    .logo img { height: 20px; width: auto; border-radius: 4px; }
-    .cta {
-      display: inline-flex; align-items: center; justify-content: center;
-      gap: .5rem; background: var(--accent); color: #041b11; font-weight: 700;
-      padding: 10px 16px; border-radius: 12px; border: 1px solid #064e3b;
-      box-shadow: 0 6px 20px rgba(16,185,129,.25);
-    }
-    .cta:hover { filter: brightness(1.05); text-decoration: none; }
     .grid { display: grid; gap: 16px; grid-template-columns: 1fr; }
     @media (min-width: 960px) { 
       .hero.grid { grid-template-columns: 1.2fr .8fr; }
@@ -225,13 +214,6 @@ a:hover { text-decoration: underline; }
   color: #A8DFFD; /* Ensure link color is the updated high-contrast one */
   text-decoration: underline; /* Add underline for accessibility */
   text-underline-offset: 3px;
-}
-
-/* Style for the currently active navigation link */
-[aria-current="page"] {
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 4px;
 }
 
 /* Add this rule to make images responsive */
