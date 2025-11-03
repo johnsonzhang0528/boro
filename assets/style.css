@@ -20,6 +20,13 @@
     }
     a { color: #A8DFFD; text-decoration: none; }
     a:hover { text-decoration: underline; }
+
+/* Accessibility fix: Underline breadcrumb links */
+.breadcrumb a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
     .wrap { max-width: var(--maxw); margin: 0 auto; padding: 16px; }
     header { position: sticky; top: 0; z-index: 50; backdrop-filter: blur(8px); background: rgba(11,15,20,.8); border-bottom: 1px solid #1f2937; }
     header .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
@@ -235,6 +242,17 @@
       background: none;
     }
 
+/* Breadcrumb Styles */
+.breadcrumb {
+  font-size: 14px;
+  color: #9db1c9; /* Use muted color for non-link parts */
+}
+.breadcrumb a {
+  color: #A8DFFD; /* Ensure link color is the updated high-contrast one */
+  text-decoration: underline; /* Add underline for accessibility */
+  text-underline-offset: 3px;
+}
+
 /* Style for the currently active navigation link */
 [aria-current="page"] {
   text-decoration: underline;
@@ -248,4 +266,10 @@ main img,
   max-width: 100%;
   height: auto;
   display: block; /* Optional: helps remove extra space below images */
+}
+
+/* Accessibility Fix: Underline breadcrumb links to distinguish them from text */
+.breadcrumb a {
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
 }
