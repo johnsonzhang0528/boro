@@ -449,12 +449,9 @@
   {% if ogImage %}
   <link rel="preload" href="/assets/og/{{ ogImage }}" as="image" fetchpriority="high">
   {% endif %}
-
-  
-  <!-- Specific optimizations for withdrawal page -->
-  {% if page.url.includes('withdraw') %}
-  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.webp" as="image" fetchpriority="high" media="(min-width: 768px)">
-  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list.webp" as="image" fetchpriority="high" media="(max-width: 767px)">
+  <!-- Specific optimizations for how-to-withdraw-winnings-from-borojeet page -->
+  {% if page.url.includes('how-to-withdraw-winnings-from-borojeet') %}
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.webp" as="image" fetchpriority="high">
   <link rel="prefetch" href="/blog/understanding-wagering-requirements/">
   {% endif %}
   {% endif %}
