@@ -233,10 +233,25 @@
 
     prefetchResource(url) {
       if (this.preloadedResources.has(url)) return;
-      
+
       const link = document.createElement('link');
-      link.rel = 'prefetch';
+      let isExternal = false;
+      try {
+        // For full URLs, this will create a URL object.
+        // For relative URLs, it will resolve against the base URL.
+        isExternal = new URL(url, window.location.origin).hostname !== window.location.hostname;
+      } catch (e) {
+        // If the URL is malformed or something else goes wrong, assume it's not external.
+        isExternal = false;
+      }
+
+      if (isExternal) {
+        link.rel = 'nofollow';
+      } else {
+        link.rel = 'prefetch';
+      }
       link.href = url;
+
       document.head.appendChild(link);
       this.preloadedResources.add(url);
     }
