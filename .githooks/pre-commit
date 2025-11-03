@@ -1,0 +1,81 @@
+#!/usr/bin/env node
+
+// Git pre-commit hook to automatically convert images to WebP
+const { execSync } = require('child_process');
+const sharp = require('sharp');
+const path = require('path');
+const fs = require('fs').promises;
+
+async function getChangedImages() {
+  try {
+    // Get list of staged files
+    const output = execSync('git diff --cached --name-only --diff-filter=A', { encoding: 'utf8' });
+    const files = output.trim().split('\n').filter(Boolean);
+    
+    // Filter for image files in assets directories
+    return files.filter(file => 
+      file.match(/^assets[\/\\](blog|og)[\/\\].*\.(jpg|jpeg|png)$/i)
+    );
+  } catch (error) {
+    console.log('No staged files or git not available');
+    return [];
+  }
+}
+
+async function convertToWebP(filePath) {
+  try {
+    const dir = path.dirname(filePath);
+    const name = path.basename(filePath, path.extname(filePath));
+    const webpPath = path.join(dir, `${name}.webp`);
+    
+    // Check if file exists
+    try {
+      await fs.access(filePath);
+    } catch {
+      console.log(`⚠️  File not found: ${filePath}`);
+      return true; // Don't fail commit for missing files
+    }
+    
+    await sharp(filePath)
+      .webp({ quality: 85, effort: 6 })
+      .toFile(webpPath);
+      
+    // Stage the new WebP file
+    try {
+      execSync(`git add "${webpPath}"`);
+    } catch (error) {
+      console.log(`⚠️  Could not stage WebP file: ${webpPath}`);
+    }
+    
+    console.log(`✅ Auto-converted and staged: ${webpPath}`);
+    return true;
+  } catch (error) {
+    console.error(`❌ Error converting ${filePath}:`, error.message);
+    return true; // Don't fail commit on conversion errors
+  }
+}
+
+async function main() {
+  const changedImages = await getChangedImages();
+  
+  if (changedImages.length === 0) {
+    console.log('No new image files to process');
+    process.exit(0);
+  }
+  
+  console.log(`🖼️  Processing ${changedImages.length} new image(s)...`);
+  
+  for (const imagePath of changedImages) {
+    await convertToWebP(imagePath);
+  }
+  
+  console.log('✨ Pre-commit image processing complete!');
+  process.exit(0);
+}
+
+if (require.main === module) {
+  main().catch(error => {
+    console.error('Pre-commit hook error:', error);
+    process.exit(0); // Don't block commit on errors
+  });
+}

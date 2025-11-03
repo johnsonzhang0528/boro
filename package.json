@@ -6,7 +6,15 @@
   "scripts": {
     "build:css": "esbuild assets/style.css --bundle --minify --outfile=_site/assets/style.css",
     "start": "npx @11ty/eleventy --serve",
-    "build": "node node_modules/@11ty/eleventy/cmd.js && npm run build:css"
+    "build": "node node_modules/@11ty/eleventy/cmd.js && npm run build:css",
+    "images:convert": "node convert-to-webp.js",
+    "images:watch": "node image-watcher.js",
+    "images:single": "node convert-to-webp.js",
+    "optimize:css": "cleancss -o assets/style.min.css assets/style.css",
+    "optimize:js": "terser assets/lazy-load.js -o assets/lazy-load.min.js",
+    "build:optimized": "npm run images:convert && npm run optimize:css && npm run optimize:js && npm run build",
+    "dev:watch": "npm run images:watch",
+    "setup:hooks": "git config core.hooksPath .githooks"
   },
   "keywords": [
     "eleventy",
@@ -18,7 +26,11 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^6.0.4",
     "esbuild": "^0.25.11",
-    "luxon": "^3.7.2"
+    "luxon": "^3.7.2",
+    "clean-css-cli": "^5.6.2",
+    "terser": "^5.24.0",
+    "chokidar": "^3.5.3",
+    "glob": "^10.3.10"
   },
   "dependencies": {
     "sharp": "^0.34.4"
