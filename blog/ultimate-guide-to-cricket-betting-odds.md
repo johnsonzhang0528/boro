@@ -19,7 +19,13 @@ tags: "post"
 2.  বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।
 
 ### অডস-এর বিভিন্ন ফরম্যাট (Different Formats of Odds)
-{% image "/assets/blog/betting-odds-formats-comparison.webp", "ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান বেটিং অডস ফরম্যাটের মধ্যে একটি ভিজ্যুয়াল তুলনা।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="hero-image" data-critical="true">
+  <source srcset="/assets/blog/betting-odds-formats-comparison-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/betting-odds-formats-comparison-optimized.webp" type="image/webp">
+  <img src="/assets/blog/betting-odds-formats-comparison-optimized.webp"
+       alt="ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান বেটিং অডস ফরম্যাটের মধ্যে একটি ভিজ্যুয়াল তুলনা।"
+       width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
+</picture>
 
 ক্রিকেট বেটিংয়ে তিন ধরনের প্রধান অডস ফরম্যাট দেখা যায়: ডেসিমাল (Decimal), ফ্র্যাকশনাল (Fractional), এবং আমেরিকান (American)।
 
@@ -51,7 +57,14 @@ tags: "post"
     *   **উদাহরণ:** যদি অডস -২০০ হয়, তার মানে ১০০ টাকা লাভ করার জন্য আপনাকে ২০০ টাকা বাজি ধরতে হবে।
 
 ### অডস থেকে অন্তর্নিহিত সম্ভাবনা (Implied Probability) গণনা
-{% image "/assets/blog/odds-to-implied-probability.webp", "একটি ইনফোগ্রাফিক যা বেটিং অডসকে অন্তর্নিহিত সম্ভাবনার শতাংশে রূপান্তর করার প্রক্রিয়াটি দেখাচ্ছে।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/odds-to-implied-probability-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/odds-to-implied-probability-optimized.webp" type="image/webp">
+  <img src="/assets/blog/odds-to-implied-probability-optimized.webp"
+       alt="একটি ইনফোগ্রাফিক যা বেটিং অডসকে অন্তর্নিহিত সম্ভাবনার শতাংশে রূপান্তর করার প্রক্রিয়াটি দেখাচ্ছে।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 অডস আপনাকে কেবল লাভের পরিমাণই বলে না, এটি একটি দলের জয়ের অন্তর্নিহিত সম্ভাবনাও নির্দেশ করে।
 
