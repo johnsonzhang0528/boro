@@ -329,6 +329,12 @@
   <link rel="preload" href="/assets/borojeet-affiliate-logo-bd.webp" as="image" fetchpriority="high">
   <link rel="preload" href="/assets/style.css" as="style">
   
+  <!-- Conditional preload for specific high-traffic pages -->
+  {% if "nagad-vs-bkash-casino-deposits" in page.url %}
+  <link rel="preload" href="/assets/blog/nagad-bKash-payment-flow-optimized.webp" as="image" fetchpriority="high">
+  <link rel="preload" href="/assets/blog/nagad-bKash-payment-flow-optimized.avif" as="image" type="image/avif">
+  {% endif %}
+  
   <!-- Preload system fonts for better FOUT prevention -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   
@@ -524,5 +530,8 @@
   
   <!-- Load lazy loading script -->
   <script src="/assets/lazy-load.js" defer></script>
+  
+  <!-- Advanced image performance optimization -->
+  <script src="/assets/image-performance.min.js" defer></script>
 </body>
 </html>

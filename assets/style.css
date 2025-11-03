@@ -89,6 +89,14 @@ a:hover { text-decoration: underline; }
       object-fit: cover;
       border-radius: 8px;
       contain: layout; /* Prevent layout shifts */
+      content-visibility: auto; /* Improve off-screen rendering */
+    }
+
+    /* High priority images (above-the-fold) */
+    img[fetchpriority="high"],
+    img[loading="eager"] {
+      content-visibility: visible;
+      will-change: auto; /* Optimize for LCP */
     }
 
     /* Logo with fixed dimensions to prevent CLS */
@@ -333,6 +341,47 @@ img[loading="lazy"].loaded {
   .table td {
     min-width: 120px;
   }
+}
+
+/* Advanced performance optimizations */
+
+/* Resource loading hints for better Core Web Vitals */
+.card img {
+  transform: translateZ(0); /* Force GPU acceleration for smooth loading */
+}
+
+/* Improve text rendering performance */
+body {
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Optimize animations for 60fps */
+.cta,
+.page-numbers {
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+/* Prevent unnecessary repaints */
+.sticky-cta {
+  will-change: transform;
+  contain: layout style paint;
+}
+
+/* Critical font loading optimization */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Optimize for Core Web Vitals */
+.hero img,
+.card img[fetchpriority="high"] {
+  content-visibility: visible;
+  contain: layout style;
 }
 
 /* Critical resource hints - These should be applied via HTML attributes, not CSS */

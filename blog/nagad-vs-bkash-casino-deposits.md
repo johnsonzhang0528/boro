@@ -43,13 +43,19 @@ tags: "post"
   <figure style="margin-bottom: 1rem;">
     <picture>
       <source 
-        srcset="/assets/blog/nagad-bKash-payment-flow.webp" 
+        srcset="/assets/blog/nagad-bKash-payment-flow-optimized.avif" 
+        type="image/avif">
+      <source 
+        srcset="/assets/blog/nagad-bKash-payment-flow-optimized.webp" 
         type="image/webp">
       <img 
         src="/assets/blog/nagad-bKash-payment-flow.png" 
         alt="অনলাইন ক্যাসিনোর জন্য Nagad এবং bKash ডিপোজিট প্রক্রিয়ার একটি ভিজ্যুয়াল তুলনা।"
+        width="800"
+        height="450"
         loading="eager"
         fetchpriority="high"
+        decoding="async"
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px;">
     </picture>
   </figure>
