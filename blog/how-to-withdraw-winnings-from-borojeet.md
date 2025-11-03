@@ -3,7 +3,7 @@ title: "BoroJeet থেকে জেতার টাকা কীভাবে �
 description: "ধাপে ধাপে জানুন কীভাবে BoroJeet থেকে bKash বা Nagad-এর মাধ্যমে আপনার জেতার টাকা দ্রুত এবং নিরাপদে উত্তোলন করবেন। KYC ও টার্নওভারের শর্তাবলী সহ সম্পূর্ণ গাইড।"
 date: "2025-11-01"
 layout: "post.njk"
-ogImage: "borojeet-withdrawal-process.webp"
+ogImage: "borojeet-withdrawal-process-optimized.webp"
 tags: "post"
 ---
 
@@ -16,7 +16,7 @@ tags: "post"
 <picture class="hero-image" data-critical="true">
   <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.webp" type="image/webp">
-  <img src="/assets/blog/withdrawal-pre-check-list.webp"
+  <img src="/assets/blog/withdrawal-pre-check-list-optimized.webp"
        alt="টাকা তোলার আগে দুটি গুরুত্বপূর্ণ চেকলিস্ট আইটেম: কেওয়াইসি ভেরিফিকেশন সম্পন্ন করা এবং ওয়েজারিং রিকোয়ারমেন্ট পূরণ করা।"
        width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
 </picture>
@@ -53,7 +53,7 @@ BoroJeet-এ যোগ দিন এবং দ্রুত ও নিরাপ�
 <picture class="content-image" data-lazy="true">
   <source srcset="/assets/blog/withdrawal-process-steps-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/withdrawal-process-steps-optimized.webp" type="image/webp">
-  <img src="/assets/blog/withdrawal-process-steps.webp"
+  <img src="/assets/blog/withdrawal-process-steps-optimized.webp"
        alt="টাকা তোলার তিনটি সহজ ধাপ দেখানো একটি ইনফোগ্রাফিক: উইথড্রয়াল বিভাগে যাওয়া, পদ্ধতি ও পরিমাণ নির্বাচন করা এবং প্রক্রিয়াকরণের জন্য অপেক্ষা করা।"
        width="800" height="450" loading="lazy" decoding="async">
 </picture>
