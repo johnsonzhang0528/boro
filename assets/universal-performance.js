@@ -259,6 +259,11 @@
       
       preloadableLinks.forEach(link => {
         link.addEventListener('mouseenter', () => {
+          // Do not prefetch the problematic redirect link
+          if (link.pathname === '/go/borojeet') {
+            return;
+          }
+
           if (link.href && !link.dataset.preloaded) {
             this.prefetchResource(link.href);
             link.dataset.preloaded = 'true';
