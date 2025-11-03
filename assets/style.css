@@ -99,7 +99,9 @@ a:hover { text-decoration: underline; }
       will-change: auto; /* Optimize for LCP */
     }
 
-    /* Optimized withdrawal page images */
+    /* Universal image containers - works for any page */
+    .hero-image,
+    .content-image,
     .withdrawal-hero-image,
     .withdrawal-steps-image {
       display: block;
@@ -111,13 +113,47 @@ a:hover { text-decoration: underline; }
       margin: 16px 0;
       contain: layout style paint;
       content-visibility: auto;
+      /* Additional LCP optimizations */
+      transform: translateZ(0);
+      backface-visibility: hidden;
     }
     
+    .hero-image img,
+    .content-image img,
     .withdrawal-hero-image img,
     .withdrawal-steps-image img {
       width: 100%;
       height: 100%;
       object-fit: cover;
+      display: block;
+    }
+    
+    /* Critical images optimization */
+    .hero-image[data-critical="true"],
+    .hero-image img[fetchpriority="high"] {
+      content-visibility: visible;
+      contain: layout style;
+      will-change: auto;
+      image-rendering: -webkit-optimize-contrast;
+      image-rendering: optimize-contrast;
+    }
+    
+    /* Lazy loaded images */
+    img[data-lazy="true"],
+    img[loading="lazy"] {
+      transition: opacity 0.3s ease;
+    }
+    
+    img.lazy-loaded {
+      opacity: 1;
+    }
+    
+    /* Decoded images optimization */
+    img.decoded {
+      will-change: auto;
+    }
+    
+    img.critical-loaded {
       display: block;
     }
 

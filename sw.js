@@ -1,9 +1,9 @@
 // Enhanced Service Worker for BoroJeet Blog with optimized caching
-const CACHE_NAME = 'borojeet-blog-v4';
+const CACHE_NAME = 'borojeet-blog-v5';
 const STATIC_ASSETS = [
   '/assets/style.css',
+  '/assets/universal-performance.js',
   '/assets/borojeet-affiliate-logo-bd.webp',
-  '/assets/lazy-load.js',
   '/blog/',
   '/' // Cache homepage
 ];
@@ -12,7 +12,11 @@ const STATIC_ASSETS = [
 const CRITICAL_IMAGES = [
   '/assets/og/nagad-vs-bkash.jpg',
   '/assets/blog/nagad-bKash-payment-flow.png',
-  '/assets/borojeet-affiliate-logo-bd.webp'
+  '/assets/borojeet-affiliate-logo-bd.webp',
+  '/assets/blog/withdrawal-pre-check-list-optimized.webp',
+  '/assets/blog/withdrawal-pre-check-list-optimized.avif',
+  '/assets/blog/withdrawal-process-steps-optimized.webp',
+  '/assets/blog/withdrawal-process-steps-optimized.avif'
 ];
 
 // Cache names

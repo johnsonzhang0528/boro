@@ -93,7 +93,9 @@
       min-height: 60px; /* Fixed header height to prevent CLS */
     }
     
-    /* Critical withdrawal page image containers */
+    /* Universal critical image containers */
+    .hero-image,
+    .content-image,
     .withdrawal-hero-image,
     .withdrawal-steps-image {
       display: block;
@@ -104,14 +106,26 @@
       border: 1px solid #223042;
       margin: 16px 0;
       background: #111827; /* Placeholder background */
+      contain: layout style paint; /* Optimize rendering */
+      content-visibility: visible; /* Force immediate rendering for LCP */
     }
     
+    .hero-image img,
+    .content-image img,
     .withdrawal-hero-image img,
     .withdrawal-steps-image img {
       width: 100%;
       height: 100%;
       object-fit: cover;
       display: block;
+      will-change: auto; /* Optimize for LCP element */
+    }
+    
+    /* Critical images get enhanced optimization */
+    .hero-image[data-critical="true"],
+    .withdrawal-hero-image {
+      transform: translateZ(0); /* Force GPU acceleration */
+      will-change: auto;
     }
     
     .logo { 
@@ -444,8 +458,8 @@
   
   <!-- Specific optimizations for withdrawal page -->
   {% if page.url.includes('withdraw') %}
-  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.avif" as="image" fetchpriority="high" media="(min-width: 768px)">
-  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-mobile.avif" as="image" fetchpriority="high" media="(max-width: 767px)">
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.webp" as="image" fetchpriority="high" media="(min-width: 768px)">
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list.webp" as="image" fetchpriority="high" media="(max-width: 767px)">
   <link rel="prefetch" href="/blog/understanding-wagering-requirements/">
   {% endif %}
   {% endif %}
@@ -479,7 +493,11 @@
     setTimeout(loadGoogleAnalytics, 10000);
   </script>
 </head>
-<body>
+<body 
+  data-page-type="{% if page.url == '/' %}home{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}blog-post{% elif page.url.startsWith('/blog/') %}blog-index{% else %}page{% endif %}"
+  {% if page.url.includes('withdraw') %}data-preload-urls='["/blog/understanding-wagering-requirements/", "/blog/beginners-guide-to-borojeet/"]'{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}data-preload-urls='["/blog/", "/go/borojeet"]'{% else %}data-preload-urls='["/go/borojeet"]'{% endif %}
+  data-preload-delay="2000"
+>
   <header>
     <div class="wrap row">
       <a href="/" class="logo">
@@ -559,6 +577,9 @@
       }
     })();
   </script>
+  
+  <!-- Universal Performance Optimizer - replaces all page-specific JS -->
+  <script src="/assets/universal-performance.js" defer></script>
   
   <!-- Emergency image loading fix -->
   <script src="/assets/force-image-load.min.js" defer></script>
