@@ -3,7 +3,7 @@ title: "BoroJeet-এ নতুন? নিরাপদে খেলা শুর�
 description: "BoroJeet-এ খেলা শুরু করতে চান? আমাদের এই নতুনদের জন্য গাইডটি আপনাকে রেজিস্ট্রেশন, ডিপোজিট, গেম খেলা এবং নিরাপদে জেতার টাকা তোলার প্রতিটি ধাপে সাহায্য করবে।"
 date: 2025-11-03
 layout: "post.njk"
-ogImage: "beginners-guide-to-borojeet.webp"
+ogImage: "beginners-guide-to-borojeet-optimized.webp"
 ogImageAlt: "BoroJeet লোগো এবং বিভিন্ন গেমের আইকন যেমন ক্রিকেট, ক্যাসিনো চিপস এবং স্লট মেশিন সহ একটি স্বাগত ব্যানার।"
 tags: "post"
 ---
@@ -20,7 +20,13 @@ BoroJeet বাংলাদেশের অন্যতম জনপ্রিয
 
 BoroJeet-এ আপনার যাত্রা শুরু হয় একটি অ্যাকাউন্ট খোলার মাধ্যমে। প্রক্রিয়াটি সহজ এবং মাত্র কয়েক মিনিট সময় নেয়।
 
-{% image "/assets/blog/borojeet-registration-steps.webp", "একটি ইনফোগ্রাফিক যা BoroJeet-এ অ্যাকাউন্ট খোলার তিনটি সহজ ধাপ দেখাচ্ছে: সাইন আপ, তথ্য পূরণ এবং যাচাইকরণ।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="hero-image" data-critical="true">
+  <source srcset="/assets/blog/borojeet-registration-steps-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/borojeet-registration-steps-optimized.webp" type="image/webp">
+  <img src="/assets/blog/borojeet-registration-steps-optimized.webp"
+       alt="একটি ইনফোগ্রাফিক যা BoroJeet-এ অ্যাকাউন্ট খোলার তিনটি সহজ ধাপ দেখাচ্ছে: সাইন আপ, তথ্য পূরণ এবং যাচাইকরণ।"
+       width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
+</picture>
 
 1.  **অফিসিয়াল ওয়েবসাইটে যান:** আপনার ব্রাউজার থেকে BoroJeet ওয়েবসাইটে প্রবেশ করুন।
 2.  **"Sign Up" বা "Register" বোতামে ক্লিক করুন:** এটি সাধারণত হোমপেজের উপরের ডানদিকে থাকে।
@@ -41,7 +47,14 @@ BoroJeet-এ আপনার যাত্রা শুরু হয় একট
 এখন মজার অংশ শুরু! BoroJeet-এ বিভিন্ন ধরণের গেম রয়েছে। আপনি যদি মোবাইল থেকে খেলতে পছন্দ করেন, তাহলে **[BoroJeet মোবাইল অ্যাপটি](/blog/borojeet-mobile-app-lightweight-secure-design/)** ডাউনলোড করে নিতে পারেন, যা একটি দ্রুত এবং নিরাপদ অভিজ্ঞতা প্রদান করে।
 
 #### কী কী খেলতে পারবেন? (What can you play?)
-{% image "/assets/blog/borojeet-game-variety.webp", "একটি ছবি যা BoroJeet-এর বিভিন্ন গেমিং বিভাগ দেখাচ্ছে: ক্রিকেট বেটিং, ক্যাসিনো স্লট এবং লাইভ ডিলার গেমস।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/borojeet-game-variety-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/borojeet-game-variety-optimized.webp" type="image/webp">
+  <img src="/assets/blog/borojeet-game-variety-optimized.webp"
+       alt="একটি ছবি যা BoroJeet-এর বিভিন্ন গেমিং বিভাগ দেখাচ্ছে: ক্রিকেট বেটিং, ক্যাসিনো স্লট এবং লাইভ ডিলার গেমস।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 *   **স্পোর্টস বেটিং:** আপনি যদি ক্রিকেটের ভক্ত হন, তবে আপনি আসন্ন ম্যাচগুলিতে বাজি ধরতে পারেন। "Sports" বা "Cricket" বিভাগে যান, আপনার পছন্দের ম্যাচটি খুঁজুন এবং অডস দেখে আপনার বাজি ধরুন।
 *   **ক্যাসিনো গেমস:** "Casino" বা "Slots" বিভাগে হাজার হাজার স্লট গেম রয়েছে। আপনি Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেমও খেলতে পারেন।
