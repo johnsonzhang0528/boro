@@ -37,12 +37,14 @@
     .breadcrumb { font-size: 14px; color: var(--muted); }
     .post-meta { color: var(--muted); font-size: 14px; margin-bottom: 16px; }
     a { color: #A8DFFD; text-decoration: none; }
-    /* Header styles for immediate rendering */
+
+    /* Consolidated Header styles for immediate rendering */
     header { position: sticky; top: 0; z-index: 50; backdrop-filter: blur(8px); background: rgba(11,15,20,.8); border-bottom: 1px solid #1f2937; }
     header .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
     .logo { display: flex; align-items: center; gap: 10px; font-weight: 700; letter-spacing: .1px; }
     .logo span { white-space: nowrap; }
     .logo img { height: 20px; width: auto; border-radius: 4px; }
+    nav { display: flex; align-items: center; gap: 16px; } /* Moved from inline style */
     .cta {
       display: inline-flex; align-items: center; justify-content: center;
       gap: .5rem; background: var(--accent); color: #041b11; font-weight: 700;
@@ -54,6 +56,13 @@
       text-decoration: underline;
       text-decoration-thickness: 2px;
       text-underline-offset: 4px;
+    }
+    @media (max-width: 768px) {
+      header .row {
+        flex-direction: column;
+        gap: 8px;
+        align-items: center;
+      }
     }
   </style>
   <title>{{ title }}</title>
@@ -123,7 +132,7 @@
         <img src="/assets/borojeet-affiliate-logo-bd.webp" alt="BoroJeet Bangladesh Logo" width="71" height="20">
         <span>BoroJeet Affiliate BD</span>
       </a>
-      <nav aria-label="Primary" style="display: flex; align-items: center; gap: 16px;">
+      <nav aria-label="Primary">
         <a href="/blog/" style="font-weight: 600;"{% if page.url.startsWith('/blog/') %} aria-current="page"{% endif %}>Blog</a>
         <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">Get Bonus / নিবন্ধন করুন</a>
       </nav>
