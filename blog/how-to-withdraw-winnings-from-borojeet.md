@@ -13,25 +13,13 @@ tags: "post"
 
 ## টাকা তোলার আগে করণীয় (Before You Withdraw)
 
-<div class="withdrawal-image-container">
-  <picture>
-    <source 
-      srcset="/assets/blog/withdrawal-pre-check-list-optimized.avif" 
-      type="image/avif">
-    <source 
-      srcset="/assets/blog/withdrawal-pre-check-list-optimized.webp" 
-      type="image/webp">
-    <img 
-      src="/assets/blog/withdrawal-pre-check-list.webp"
-      alt="টাকা তোলার আগে দুটি গুরুত্বপূর্ণ চেকলিস্ট আইটেম: কেওয়াইসি ভেরিফিকেশন সম্পন্ন করা এবং ওয়েজারিং রিকোয়ারমেন্ট পূরণ করা।"
-      width="800"
-      height="450"
-      loading="eager"
-      fetchpriority="high"
-      decoding="async"
-      class="withdrawal-image">
-  </picture>
-</div>
+<picture class="withdrawal-hero-image">
+  <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.webp" type="image/webp">
+  <img src="/assets/blog/withdrawal-pre-check-list.webp"
+       alt="টাকা তোলার আগে দুটি গুরুত্বপূর্ণ চেকলিস্ট আইটেম: কেওয়াইসি ভেরিফিকেশন সম্পন্ন করা এবং ওয়েজারিং রিকোয়ারমেন্ট পূরণ করা।"
+       width="800" height="450" loading="eager" fetchpriority="high" decoding="async">
+</picture>
 
 টাকা তোলার অনুরোধ করার আগে, নিশ্চিত করুন যে আপনার অ্যাকাউন্টটি দুটি প্রধান শর্ত পূরণ করেছে। এটি আপনার নিরাপত্তা এবং দ্রুত টাকা পাওয়ার জন্য অপরিহার্য।
 
@@ -62,24 +50,13 @@ KYC (Know Your Customer) বা অ্যাকাউন্ট ভেরিফ�
 
 ## টাকা তোলার ধাপসমূহ (Steps to Withdraw)
 
-<div class="withdrawal-image-container">
-  <picture>
-    <source 
-      srcset="/assets/blog/withdrawal-process-steps-optimized.avif" 
-      type="image/avif">
-    <source 
-      srcset="/assets/blog/withdrawal-process-steps-optimized.webp" 
-      type="image/webp">
-    <img 
-      src="/assets/blog/withdrawal-process-steps.webp"
-      alt="টাকা তোলার তিনটি সহজ ধাপ দেখানো একটি ইনফোগ্রাফিক: উইথড্রয়াল বিভাগে যাওয়া, পদ্ধতি ও পরিমাণ নির্বাচন করা এবং প্রক্রিয়াকরণের জন্য অপেক্ষা করা।"
-      width="800"
-      height="450"
-      loading="lazy"
-      decoding="async"
-      class="withdrawal-image">
-  </picture>
-</div>
+<picture class="withdrawal-steps-image">
+  <source srcset="/assets/blog/withdrawal-process-steps-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/withdrawal-process-steps-optimized.webp" type="image/webp">
+  <img src="/assets/blog/withdrawal-process-steps.webp"
+       alt="টাকা তোলার তিনটি সহজ ধাপ দেখানো একটি ইনফোগ্রাফিক: উইথড্রয়াল বিভাগে যাওয়া, পদ্ধতি ও পরিমাণ নির্বাচন করা এবং প্রক্রিয়াকরণের জন্য অপেক্ষা করা।"
+       width="800" height="450" loading="lazy" decoding="async">
+</picture>
 
 আপনার অ্যাকাউন্ট প্রস্তুত হয়ে গেলে, টাকা তোলার জন্য নিচের ধাপগুলো অনুসরণ করুন:
 

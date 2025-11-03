@@ -99,6 +99,28 @@ a:hover { text-decoration: underline; }
       will-change: auto; /* Optimize for LCP */
     }
 
+    /* Optimized withdrawal page images */
+    .withdrawal-hero-image,
+    .withdrawal-steps-image {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      border-radius: 16px;
+      border: 1px solid #223042;
+      margin: 16px 0;
+      contain: layout style paint;
+      content-visibility: auto;
+    }
+    
+    .withdrawal-hero-image img,
+    .withdrawal-steps-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
     /* Logo with fixed dimensions to prevent CLS */
     .logo img {
       width: 71px !important;

@@ -93,6 +93,27 @@
       min-height: 60px; /* Fixed header height to prevent CLS */
     }
     
+    /* Critical withdrawal page image containers */
+    .withdrawal-hero-image,
+    .withdrawal-steps-image {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      border-radius: 16px;
+      border: 1px solid #223042;
+      margin: 16px 0;
+      background: #111827; /* Placeholder background */
+    }
+    
+    .withdrawal-hero-image img,
+    .withdrawal-steps-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    
     .logo { 
       display: flex; 
       align-items: center; 
@@ -343,9 +364,8 @@
   <!-- Preload system fonts for better FOUT prevention -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   
-  <!-- DNS prefetch for external domains -->
-  <link rel="dns-prefetch" href="//www.googletagmanager.com">
-  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  <!-- Only preconnect to GTM when analytics will load on interaction -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   
   <!-- Optimize font loading to prevent FOUT/FOUC -->
   <style>
@@ -395,9 +415,6 @@
   
   <!-- Preload critical fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-  <!-- DNS prefetch for external resources -->
-  <link rel="dns-prefetch" href="//www.googletagmanager.com">
 
   {% if page.url == '/' %}
   <link rel="preload" href="/assets/borojeet-bangladesh-bonus-bkash-nagad.webp" as="image" fetchpriority="high">
@@ -424,12 +441,21 @@
   {% endif %}
   <!-- Preload critical blog images -->
   <link rel="preload" href="/assets/blog/nagad-bKash-payment-flow.webp" as="image" fetchpriority="high">
+  
+  <!-- Specific optimizations for withdrawal page -->
+  {% if page.url.includes('withdraw') %}
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.avif" as="image" fetchpriority="high" media="(min-width: 768px)">
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-mobile.avif" as="image" fetchpriority="high" media="(max-width: 767px)">
+  <link rel="prefetch" href="/blog/understanding-wagering-requirements/">
+  {% endif %}
   {% endif %}
 
-  <!-- Google tag (gtag.js) - Optimized for performance -->
+  <!-- Google tag (gtag.js) - Optimized for user interaction -->
   <script>
-    // Use requestIdleCallback to defer analytics initialization
+    // Load analytics only after user interaction to reduce initial blocking
     function loadGoogleAnalytics() {
+      if (window.gtag) return; // Prevent multiple loads
+      
       const script = document.createElement('script');
       script.async = true;
       script.src = 'https://www.googletagmanager.com/gtag/js?id=G-P6KSF9FS0T';
@@ -444,16 +470,13 @@
       });
     }
 
-    // Delay analytics even more for withdrawal pages to prioritize LCP
-    const isWithdrawalPage = window.location.pathname.includes('withdraw');
-    const delay = isWithdrawalPage ? 5000 : 3000; // 5s for withdrawal, 3s for others
+    // Load analytics on first user interaction
+    ['scroll', 'click', 'touchstart', 'keydown'].forEach(event => {
+      document.addEventListener(event, loadGoogleAnalytics, { once: true, passive: true });
+    });
     
-    // Load analytics when browser is idle or after delay
-    if ('requestIdleCallback' in window) {
-      requestIdleCallback(loadGoogleAnalytics, { timeout: delay });
-    } else {
-      setTimeout(loadGoogleAnalytics, delay);
-    }
+    // Fallback: load after 10 seconds if no interaction
+    setTimeout(loadGoogleAnalytics, 10000);
   </script>
 </head>
 <body>
