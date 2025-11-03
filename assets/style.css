@@ -61,6 +61,30 @@ a:hover { text-decoration: underline; }
       object-fit: cover;
       display: block;
     }
+
+    /* Enhanced CLS prevention for all images */
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* Specific handling for blog content images */
+    .post-content img,
+    .article-list img {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    /* Logo image optimization */
+    .logo img {
+      width: 71px;
+      height: 20px;
+      display: block;
+    }
     code { background: #0b1220; padding: 2px 6px; border-radius: 6px; border: 1px solid #1f2937; }
 
     /* Mobile-First Responsive Design */
@@ -118,4 +142,37 @@ main img,
   height: auto;
   display: block; /* Optional: helps remove extra space below images */
 }
+
+/* Performance optimizations */
+.article-list {
+  contain: layout style paint; /* Enable CSS containment */
+}
+
+.pagination {
+  contain: layout; /* Isolate pagination layout changes */
+}
+
+/* Optimize animations for better performance */
+.cta,
+.page-numbers {
+  will-change: filter, background-color;
+  transition: background-color 0.2s ease, filter 0.2s ease;
+}
+
+.cta:hover,
+.page-numbers:hover {
+  will-change: auto; /* Reset will-change after hover */
+}
+
+/* Prevent layout shifts with reserved space */
+.card {
+  min-height: 150px; /* Reserve minimum space for cards */
+}
+
+.logo img {
+  content-visibility: auto; /* Enable content-visibility for better performance */
+}
+
+/* Critical resource hints - These should be applied via HTML attributes, not CSS */
+/* Images are already optimized in the image shortcode */
 

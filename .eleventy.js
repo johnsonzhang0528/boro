@@ -10,11 +10,13 @@ async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority =
     outputDir: "./_site/img/",
     urlPath: "/img/",
     sharpWebpOptions: {
-      quality: 75,
+      quality: 80, // Improved quality for better LCP
+      effort: 6,   // Better compression
     },
     sharpJpegOptions: {
-      quality: 75,
+      quality: 80, // Improved quality for better LCP
       progressive: true,
+      mozjpeg: true, // Better compression
     },
   });
 
@@ -24,6 +26,7 @@ async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority =
     loading,
     fetchpriority,
     decoding: "async",
+    style: "aspect-ratio: 16/9; object-fit: cover;", // Prevent CLS
   };
 
   return Image.generateHTML(metadata, imageAttributes);
@@ -37,6 +40,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
 
   eleventyConfig.addPassthroughCopy("robots.txt");
+  
+  // Add service worker for performance optimization
+  eleventyConfig.addPassthroughCopy("sw.js");
 
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
