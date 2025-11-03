@@ -384,6 +384,62 @@ body {
   contain: layout style;
 }
 
+/* Withdrawal page specific optimizations */
+.withdrawal-image-container {
+  margin: 24px 0;
+  max-width: 800px;
+  width: 100%;
+  min-height: 450px; /* Ensure container has height even if image fails to load */
+  position: relative;
+  background: rgba(255, 255, 255, 0.02); /* Subtle background to show container */
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.withdrawal-image {
+  aspect-ratio: 16 / 9;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  contain: layout style paint;
+  display: block;
+  transition: opacity 0.3s ease; /* Smooth loading transition */
+}
+
+/* Ensure images are visible by default */
+.withdrawal-image:not(.lazy-loaded):not(.decoded) {
+  opacity: 1; /* Always visible, don't wait for lazy loading */
+}
+
+/* Critical image loading optimization for withdrawal pages */
+.withdrawal-image[fetchpriority="high"] {
+  content-visibility: visible;
+  will-change: auto;
+  transform: translateZ(0); /* Force GPU acceleration */
+}
+
+/* Lazy loading optimization */
+.withdrawal-image[loading="lazy"] {
+  content-visibility: auto;
+  contain-intrinsic-size: 800px 450px; /* Prevent layout shift */
+}
+
+/* Loading state - only apply when explicitly set */
+.withdrawal-image.loading {
+  opacity: 0.7;
+  filter: blur(1px);
+}
+
+/* Loaded state */
+.withdrawal-image.loaded,
+.withdrawal-image.lazy-loaded,
+.withdrawal-image.decoded {
+  opacity: 1;
+  filter: none;
+}
+
 /* Critical resource hints - These should be applied via HTML attributes, not CSS */
 /* Images are already optimized in the image shortcode */
 

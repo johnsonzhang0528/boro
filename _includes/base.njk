@@ -335,6 +335,11 @@
   <link rel="preload" href="/assets/blog/nagad-bKash-payment-flow-optimized.avif" as="image" type="image/avif">
   {% endif %}
   
+  {% if "how-to-withdraw-winnings-from-borojeet" in page.url %}
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.avif" as="image" fetchpriority="high">
+  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.webp" as="image" type="image/webp">
+  {% endif %}
+  
   <!-- Preload system fonts for better FOUT prevention -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   
@@ -439,11 +444,15 @@
       });
     }
 
-    // Load analytics when browser is idle or after 2 seconds (reduced from 3)
+    // Delay analytics even more for withdrawal pages to prioritize LCP
+    const isWithdrawalPage = window.location.pathname.includes('withdraw');
+    const delay = isWithdrawalPage ? 5000 : 3000; // 5s for withdrawal, 3s for others
+    
+    // Load analytics when browser is idle or after delay
     if ('requestIdleCallback' in window) {
-      requestIdleCallback(loadGoogleAnalytics, { timeout: 2000 });
+      requestIdleCallback(loadGoogleAnalytics, { timeout: delay });
     } else {
-      setTimeout(loadGoogleAnalytics, 2000);
+      setTimeout(loadGoogleAnalytics, delay);
     }
   </script>
 </head>
@@ -528,10 +537,7 @@
     })();
   </script>
   
-  <!-- Load lazy loading script -->
-  <script src="/assets/lazy-load.js" defer></script>
-  
-  <!-- Advanced image performance optimization -->
-  <script src="/assets/image-performance.min.js" defer></script>
+  <!-- Emergency image loading fix -->
+  <script src="/assets/force-image-load.min.js" defer></script>
 </body>
 </html>
