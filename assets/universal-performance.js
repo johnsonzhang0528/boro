@@ -371,6 +371,31 @@
   }
 
   /**
+   * Tracks clicks on all Call-to-Action (CTA) buttons leading to "/go/borojeet".
+   * Sends a custom event to Google Analytics.
+   */
+  function trackCTAClicks() {
+    const ctaLinks = document.querySelectorAll('a[href="/go/borojeet"]');
+    
+    if (ctaLinks.length === 0) {
+      return; // No CTA links found
+    }
+
+    ctaLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        // Ensure gtag function is available
+        if (typeof gtag === 'function') {
+          gtag('event', 'cta_click', {
+            'event_category': 'Engagement',
+            'event_label': 'Borojeet Main CTA',
+            'transport_type': 'beacon' // Recommended for outbound links
+          });
+        }
+      });
+    });
+  }
+
+  /**
    * Main Performance Manager
    * Coordinates all optimization modules
    */
@@ -390,6 +415,7 @@
       this.resourcePreloader.init();
       this.setupEmergencyImageLoading();
       this.logInitialization();
+      trackCTAClicks();
     }
 
     setupEmergencyImageLoading() {
