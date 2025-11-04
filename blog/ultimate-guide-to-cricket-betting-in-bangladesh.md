@@ -3,7 +3,7 @@ title: "বাংলাদেশে ক্রিকেট বেটিং এর
 description: "ক্রিকেট বেটিং সম্পর্কে সবকিছু জানতে চান? আমাদের এই চূড়ান্ত গাইডটি আপনাকে বেটিং এর মূল বিষয়, অডস বোঝা, বিভিন্ন ধরনের বাজি এবং জেতার কৌশল সম্পর্কে ধাপে ধাপে শেখাবে।"
 date: 2025-11-07
 layout: "post.njk"
-ogImage: "ultimate-guide-to-cricket-betting-in-bangladesh.webp"
+ogImage: "ultimate-guide-to-cricket-betting-in-bangladesh-optimized.webp"
 ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে একটি ক্রিকেট বল, ব্যাট এবং বেটিং অডস দেখানো হয়েছে, যা ক্রিকেট বেটিং গাইডের প্রতীক।"
 tags: "post"
 ---
@@ -21,7 +21,11 @@ tags: "post"
 
 ### ২. কীভাবে বেটিং অডস বুঝবেন?
 
-{% image "/assets/blog/cricket-betting-odds-explanation.webp", "একটি ইনফোগ্রাফিক যা ডেসিমাল এবং ফ্র্যাকশনাল ক্রিকেট বেটিং অডস কীভাবে কাজ করে তা ব্যাখ্যা করছে।", "(max-width: 600px) 100vw, 800px" %}
+<picture>
+  <source srcset="/assets/blog/cricket-betting-odds-explanation-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/cricket-betting-odds-explanation-optimized.webp" type="image/webp">
+  <img src="/assets/blog/cricket-betting-odds-explanation-optimized.webp" alt="একটি ইনফোগ্রাফিক যা ডেসিমাল এবং ফ্র্যাকশনাল ক্রিকেট বেটিং অডস কীভাবে কাজ করে তা ব্যাখ্যা করছে।" width="800" height="450" loading="lazy" decoding="async">
+</picture>
 
 ক্রিকেট বেটিংয়ে সফল হওয়ার জন্য অডস বোঝা অত্যন্ত জরুরি। [আমাদের ক্রিকেট বেটিং অডস-এর বিস্তারিত গাইডটি পড়ুন](/blog/ultimate-guide-to-cricket-betting-odds/), তবে এখানে একটি সংক্ষিপ্ত সারসংক্ষেপ দেওয়া হলো:
 
@@ -30,7 +34,11 @@ tags: "post"
 
 ### ৩. ক্রিকেটে জনপ্রিয় বেটিং এর ধরন
 
-{% image "/assets/blog/cricket-betting-types-infographic.webp", "ক্রিকেটের জনপ্রিয় বেটিং প্রকার যেমন ম্যাচ উইনার, টপ ব্যাটসম্যান এবং ওভার/আন্ডার রানের আইকন সহ একটি চিত্র।", "(max-width: 600px) 100vw, 800px" %}
+<picture>
+  <source srcset="/assets/blog/cricket-betting-types-infographic-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/cricket-betting-types-infographic-optimized.webp" type="image/webp">
+  <img src="/assets/blog/cricket-betting-types-infographic-optimized.webp" alt="ক্রিকেটের জনপ্রিয় বেটিং প্রকার যেমন ম্যাচ উইনার, টপ ব্যাটসম্যান এবং ওভার/আন্ডার রানের আইকন সহ একটি চিত্র।" width="800" height="450" loading="lazy" decoding="async">
+</picture>
 
 ক্রিকেট বেটিং শুধু ম্যাচ জেতা-হারার মধ্যেই সীমাবদ্ধ নয়। এখানে বিভিন্ন ধরনের বাজি রয়েছে:
 
@@ -61,7 +69,11 @@ tags: "post"
 
 ### ৬. দায়িত্বশীল গেমিং: সবচেয়ে গুরুত্বপূর্ণ অধ্যায়
 
-{% image "/assets/blog/responsible-gaming-concept.webp", "দায়িত্বশীল গেমিংয়ের ধারণা દર્શાવતી একটি ছবি, যেখানে বাজেট এবং সময়সীমা নিয়ন্ত্রণের প্রতীক রয়েছে।", "(max-width: 600px) 100vw, 800px" %}
+<picture>
+  <source srcset="/assets/blog/responsible-gaming-concept-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/responsible-gaming-concept-optimized.webp" type="image/webp">
+  <img src="/assets/blog/responsible-gaming-concept-optimized.webp" alt="দায়িত্বশীল গেমিংয়ের ধারণা દર્શાવતી একটি ছবি, যেখানে বাজেট এবং সময়সীমা নিয়ন্ত্রণের প্রতীক রয়েছে।" width="800" height="450" loading="lazy" decoding="async">
+</picture>
 
 বেটিংকে সবসময় বিনোদনের একটি মাধ্যম হিসেবে দেখুন, অর্থ উপার্জনের উপায় হিসেবে নয়।
 
