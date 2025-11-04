@@ -3,7 +3,7 @@ title: "BoroJeet কাস্টমার সাপোর্টের সাথ�
 description: "BoroJeet-এ কোনো সমস্যায় পড়েছেন? লাইভ চ্যাট, ইমেল বা সোশ্যাল মিডিয়ার মাধ্যমে তাদের কাস্টমার সাপোর্ট দলের সাথে যোগাযোগ করার সম্পূর্ণ গাইডটি এখানে খুঁজুন।"
 date: 2025-11-05
 layout: "post.njk"
-ogImage: "how-to-contact-borojeet-support.webp"
+ogImage: "how-to-contact-borojeet-support-optimized.webp"
 ogImageAlt: "একজন বন্ধুত্বপূর্ণ কাস্টমার সার্ভিস এজেন্টের আইকন এবং লাইভ চ্যাট, ইমেল ও ফোনের প্রতীক, যা বিভিন্ন সাপোর্টের উপায়গুলো দেখাচ্ছে।"
 tags: "post"
 ---
@@ -12,7 +12,11 @@ tags: "post"
 
 এই গাইডে, আমরা BoroJeet কাস্টমার সাপোর্টের সাথে যোগাযোগ করার প্রতিটি উপায় বিস্তারিতভাবে আলোচনা করব।
 
-{% image "/assets/blog/borojeet-support-channels.webp", "BoroJeet গ্রাহক সহায়তার জন্য উপলব্ধ বিভিন্ন চ্যানেল দেখানো আইকন: লাইভ চ্যাট, ইমেল এবং সোশ্যাল মিডিয়া।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="hero-image" data-critical="true">
+<source srcset="/assets/blog/borojeet-support-channels-optimized.avif" type="image/avif">
+<source srcset="/assets/blog/borojeet-support-channels-optimized.webp" type="image/webp">
+<img src="/assets/blog/borojeet-support-channels-optimized.webp" alt="টাকা তোলার আগে দুটি গুরুত্বপূর্ণ চেকলিস্ট আইটেম: কেওয়াইসি ভেরিফিকেশন সম্পন্ন করা এবং ওয়েজারিং রিকোয়ারমেন্ট পূরণ করা।" width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
+</picture>
 
 ### উপায় ১: লাইভ চ্যাট (সবচেয়ে দ্রুত সমাধান)
 
