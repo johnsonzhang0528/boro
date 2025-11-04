@@ -1,5 +1,5 @@
 // Enhanced Service Worker for BoroJeet Blog with optimized caching
-const CACHE_NAME = 'borojeet-blog-v5';
+const CACHE_NAME = 'borojeet-blog-v6';
 const STATIC_ASSETS = [
   '/assets/style.css',
   '/assets/universal-performance.js',
@@ -10,13 +10,7 @@ const STATIC_ASSETS = [
 
 // Critical images to cache immediately
 const CRITICAL_IMAGES = [
-  '/assets/og/nagad-vs-bkash.jpg',
-  '/assets/blog/nagad-bKash-payment-flow.png',
   '/assets/borojeet-affiliate-logo-bd.webp',
-  '/assets/blog/withdrawal-pre-check-list-optimized.webp',
-  '/assets/blog/withdrawal-pre-check-list-optimized.avif',
-  '/assets/blog/withdrawal-process-steps-optimized.webp',
-  '/assets/blog/withdrawal-process-steps-optimized.avif'
 ];
 
 // Cache names
