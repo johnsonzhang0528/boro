@@ -56,7 +56,7 @@ tags: "post"
         loading="eager"
         fetchpriority="high"
         decoding="async"
-        style="width: 100%; height: auto; max-width: 800px; border-radius: 8px;">
+        style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
   <h3 style="margin-bottom: 0.5rem;">একটি দ্রুত এবং সস্তা ডিপোজিট করতে প্রস্তুত?</h3>
