@@ -49,7 +49,7 @@ tags: "post"
         srcset="/assets/blog/nagad-bKash-payment-flow-optimized.webp" 
         type="image/webp">
       <img 
-        src="/assets/blog/nagad-bKash-payment-flow.png" 
+        src="/assets/blog/nagad-bKash-payment-flow-optimized.webp" 
         alt="অনলাইন ক্যাসিনোর জন্য Nagad এবং bKash ডিপোজিট প্রক্রিয়ার একটি ভিজ্যুয়াল তুলনা।"
         width="800"
         height="450"
