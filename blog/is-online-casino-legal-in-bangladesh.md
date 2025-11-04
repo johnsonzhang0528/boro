@@ -3,7 +3,7 @@ title: "বাংলাদেশে অনলাইন ক্যাসিনো 
 description: "বাংলাদেশে অনলাইন ক্যাসিনো এবং বেটিংয়ের আইনগত অবস্থা সম্পর্কে বিভ্রান্ত? আমাদের এই গভীর বিশ্লেষণটি ১৮৬৭ সালের আইন, বর্তমান বাস্তবতা এবং নিরাপদে খেলার উপায় নিয়ে আলোচনা করেছে।"
 date: 2025-11-04
 layout: "post.njk"
-ogImage: "is-online-casino-legal-in-bangladesh.webp"
+ogImage: "is-online-casino-legal-in-bangladesh-optimized.webp"
 ogImageAlt: "একটি বিচারকের হাতুড়ি এবং আইনের বইয়ের পাশে একটি স্মার্টফোনে ক্যাসিনো অ্যাপ দেখানো হয়েছে, যা বাংলাদেশে অনলাইন জুয়ার আইনগত প্রশ্নটি তুলে ধরছে।"
 tags: "post"
 ---
@@ -12,7 +12,23 @@ tags: "post"
 
 এই আর্টিকেলে, আমরা ২০২৫ সালের সর্বশেষ পরিস্থিতি অনুযায়ী বাংলাদেশের আইন, বাস্তবতা এবং একজন খেলোয়াড় হিসেবে আপনার কী কী জানা দরকার, তা নিয়ে বিস্তারিত আলোচনা করব।
 
-{% image "/assets/blog/online-gambling-legal-grey-area.webp", "একটি ছবি যা আইনের বই এবং একটি স্মার্টফোনের মধ্যে দ্বন্দ্ব দেখাচ্ছে, বাংলাদেশে অনলাইন জুয়ার আইনি ধূসর এলাকাকে প্রতীকী করে।", "(max-width: 600px) 100vw, 800px" %}
+<picture>
+  <source 
+    srcset="/assets/blog/online-gambling-legal-grey-area-optimized.avif" 
+    type="image/avif">
+  <source 
+    srcset="/assets/blog/online-gambling-legal-grey-area-optimized.webp" 
+    type="image/webp">
+  <img 
+    src="/assets/blog/online-gambling-legal-grey-area-optimized.webp" 
+    alt="একটি ছবি যা আইনের বই এবং একটি স্মার্টফোনের মধ্যে দ্বন্দ্ব দেখাচ্ছে, বাংলাদেশে অনলাইন জুয়ার আইনি ধূসর এলাকাকে প্রতীকী করে।"
+    width="800"
+    height="450"
+    loading="eager"
+    fetchpriority="high"
+    decoding="async"
+    style="width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px;">
+</picture>
 
 ### আইন কী বলে: The Public Gambling Act, 1867
 
@@ -40,7 +56,22 @@ tags: "post"
 3.  **খুব কম আইনি ঝুঁকি:** যদিও বিরল, তবে প্রকাশ্যে বা বড় আকারে অনলাইন জুয়ার প্রচার বা організації জড়িত থাকলে আইন প্রয়োগকারী সংস্থার দৃষ্টি আকর্ষণ হতে পারে। সাধারণ খেলোয়াড়দের জন্য এই ঝুঁকি নগণ্য।
 
 ### কীভাবে নিরাপদে খেলা যায়? (How to Play Safely)
-{% image "/assets/blog/safe-online-gambling-checklist.webp", "নিরাপদ অনলাইন গেমিংয়ের জন্য একটি চেকলিস্ট দেখানো একটি ইনফোগ্রাফিক: লাইসেন্স, নিরাপদ পেমেন্ট এবং রিভিউ পরীক্ষা করা।", "(max-width: 600px) 100vw, 800px" %}
+<picture>
+  <source 
+    srcset="/assets/blog/safe-online-gambling-checklist-optimized.avif" 
+    type="image/avif">
+  <source 
+    srcset="/assets/blog/safe-online-gambling-checklist-optimized.webp" 
+    type="image/webp">
+  <img 
+    src="/assets/blog/safe-online-gambling-checklist-optimized.webp" 
+    alt="নিরাপদ অনলাইন গেমিংয়ের জন্য একটি চেকলিস্ট দেখানো একটি ইনফোগ্রাফিক: লাইসেন্স, নিরাপদ পেমেন্ট এবং রিভিউ পরীক্ষা করা।"
+    width="800"
+    height="450"
+    loading="lazy"
+    decoding="async"
+    style="width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px;">
+</picture>
 
 আপনি যদি খেলার সিদ্ধান্ত নেন, তবে ঝুঁকি কমাতে কিছু পদক্ষেপ নিতে পারেন:
 
