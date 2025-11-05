@@ -11,7 +11,7 @@ tags: "kyc"
     <p><em>Effective Date: June 4, 2025</em></p>
 
     <div style="background: #0f172a; padding: 15px; border-radius: 8px; margin-bottom: 2em;">
-      <h3 style="margin-top: 0;">Why We Ask For Your Documents</h3>
+      <h2 style="margin-top: 0;">Why We Ask For Your Documents</h2>
       <p class="muted">To comply with international regulations against money laundering (AML) and to ensure a secure gaming environment for everyone, we are required to verify the identity of our customers. This process, known as KYC, helps prevent fraud, protect minors, and ensures that winnings are paid to the correct person. Your data is handled securely and with the utmost confidentiality.</p>
     </div>
 
