@@ -1,0 +1,9 @@
+---
+permalink: /admin/post_ids.json
+eleventyExcludeFromCollections: true
+---
+{
+  {%- for post in collections.post -%}
+    "{{ post.url }}": {{ post.data.post_id }}{%- if not loop.last -%},{%- endif -%}
+  {%- endfor -%}
+}

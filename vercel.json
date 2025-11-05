@@ -6,6 +6,9 @@
       "statusCode": 301
     }
   ],
+  "rewrites": [
+    { "source": "/admin/(.*)", "destination": "/404" }
+  ],
   "headers": [
     {
       "source": "/(.*)",

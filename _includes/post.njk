@@ -9,7 +9,7 @@ layout: "base.njk"
   "description": "{{ description }}",
   "image": "https://borojeetbd.com/assets/og/{{ ogImage or 'og-default-optimized.webp' }}",
   "datePublished": "{{ page.date.toISOString() }}",
-  "dateModified": "{{ page.date.toISOString() }}",
+  "dateModified": "{{ (lastUpdated or page.date).toISOString() }}",
   "author": {
     "@type": "Organization",
     "name": "BoroJeet Affiliate BD",
@@ -36,11 +36,16 @@ layout: "base.njk"
   "itemListElement": [{
     "@type": "ListItem",
     "position": 1,
+    "name": "Home",
+    "item": "https://borojeetbd.com/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
     "name": "Blog",
     "item": "https://borojeetbd.com/blog/"
   },{
     "@type": "ListItem",
-    "position": 2,
+    "position": 3,
     "name": "{{ title }}",
     "item": "https://borojeetbd.com{{ page.url }}"
   }]
