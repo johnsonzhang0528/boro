@@ -525,21 +525,11 @@
       // Batch DOM reads and writes
       function updateElements() {
         const yearElement = document.getElementById('year');
-        const updatedElement = document.querySelector('.last-updated');
         
         if (yearElement) {
           yearElement.textContent = new Date().getFullYear();
         }
         
-        if (updatedElement) {
-          updatedElement.textContent = new Date().toLocaleDateString('en-US', { 
-            year: 'numeric', 
-            month: 'long', 
-            day: 'numeric' 
-          });
-          // Make the text visible after populating
-          updatedElement.style.visibility = 'visible';
-        }
       }
 
       // Use requestAnimationFrame to optimize DOM updates
