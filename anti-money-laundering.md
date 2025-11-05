@@ -11,7 +11,7 @@ tags: "anti-money-laundering"
     <p><em>Effective Date: June 4, 2025</em></p>
 
     <div style="background: #0f172a; padding: 15px; border-radius: 8px; margin-bottom: 2em;">
-      <h3 style="margin-top: 0;">Our Commitment to a Secure Platform</h3>
+      <h2 style="margin-top: 0;">Our Commitment to a Secure Platform</h2>
       <p class="muted">To protect our platform and community from illegal activities, we have a comprehensive Anti-Money Laundering (AML) policy. This page details the strict procedures we follow to verify customer identities, monitor transactions, and comply with international regulations. Our goal is to ensure a safe and legitimate gaming environment for all users.</p>
     </div>
 

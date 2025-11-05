@@ -11,7 +11,7 @@ tags: "underage-gaming"
     <p><em>Effective Date: June 4, 2025</em></p>
 
     <div style="background: #0f172a; padding: 15px; border-radius: 8px; margin-bottom: 2em;">
-      <h3 style="margin-top: 0;">Our Zero-Tolerance Stance on Underage Gaming</h3>
+      <h2 style="margin-top: 0;">Our Zero-Tolerance Stance on Underage Gaming</h2>
       <p class="muted">Our services are strictly for individuals aged 18 and over. This policy outlines our commitment to preventing underage access, the verification measures in place, and the responsibilities of the account holder to ensure a safe environment.</p>
     </div>
 
