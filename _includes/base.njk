@@ -396,9 +396,7 @@
   
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
-  {% if canonicalUrl %}
-    <link rel="canonical" href="{{ canonicalUrl }}">
-  {% endif %}
+  <link rel="canonical" href="{{ canonicalUrl or 'https://borojeetbd.com' + page.url }}">
   {% if robots %}
     <meta name="robots" content="{{ robots }}">
   {% endif %}
@@ -412,11 +410,11 @@
   {% endif %}
   {# --- OG Image Dynamic Logic --- #}
   {% if page.url == '/' %}
-    <meta property="og:image" content="https://borojeetbd.com/assets/og/hero.jpg">
+    <meta property="og:image" content="https://borojeetbd.com/assets/og/hero-optimized.webp">
   {% elif ogImage %}
     <meta property="og:image" content="https://borojeetbd.com/assets/og/{{ ogImage }}">
   {% else %}
-    <meta property="og:image" content="https://borojeetbd.com/assets/og/og-default.jpg">
+    <meta property="og:image" content="https://borojeetbd.com/assets/og/og-default-optimized.webp">
   {% endif %}
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
