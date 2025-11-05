@@ -11,7 +11,7 @@ tags: "privacy"
     <p><em>Effective Date: June 4, 2025</em></p>
 
     <div style="background: #0f172a; padding: 15px; border-radius: 8px; margin-bottom: 2em;">
-      <h3 style="margin-top: 0;">Our Commitment to Your Privacy</h3>
+      <h2 style="margin-top: 0;">Our Commitment to Your Privacy</h2>
       <p class="muted">We take safeguarding your personal information seriously. This policy explains what data we collect (like your name and email for account purposes), why we need it (to provide services and comply with regulations), and how we protect it. We do not sell your data. This page also details your rights under regulations like GDPR.</p>
     </div>
 
