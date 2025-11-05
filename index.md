@@ -86,7 +86,11 @@ tags: "index"
       </p>
     </div>
     <div class="img-frame">
-      {% image "./assets/borojeet-bangladesh-bonus-bkash-nagad.webp", "BoroJeet Bangladesh user making a deposit with bKash/Nagad to claim a ৳300 welcome bonus", "(min-width: 30em) 50vw, 100vw", "eager", "high" %}
+      <picture class="hero-image" data-critical="true">
+        <source srcset="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.avif" type="image/avif" sizes="(min-width: 30em) 50vw, 100vw">
+        <source srcset="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.webp" type="image/webp" sizes="(min-width: 30em) 50vw, 100vw">
+        <img src="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.webp" alt="BoroJeet Bangladesh user making a deposit with bKash/Nagad to claim a ৳300 welcome bonus" width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
+      </picture>
     </div>
   </section>
 

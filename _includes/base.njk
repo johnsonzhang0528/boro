@@ -425,7 +425,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   {% if page.url == '/' %}
-  <link rel="preload" href="/assets/borojeet-bangladesh-bonus-bkash-nagad.webp" as="image" fetchpriority="high">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -443,13 +442,8 @@
   }
   </script>
   {% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}
-  <!-- Preload blog post image if available -->
-  {% if ogImage %}
-  <link rel="preload" href="/assets/og/{{ ogImage }}" as="image" fetchpriority="high">
-  {% endif %}
   <!-- Specific optimizations for how-to-withdraw-winnings-from-borojeet page -->
   {% if page.url.includes('how-to-withdraw-winnings-from-borojeet') %}
-  <link rel="preload" href="/assets/blog/withdrawal-pre-check-list-optimized.webp" as="image" fetchpriority="high">
   <link rel="prefetch" href="/blog/understanding-wagering-requirements/">
   {% endif %}
   {% endif %}
