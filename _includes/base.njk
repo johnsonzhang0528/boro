@@ -537,12 +537,8 @@
             month: 'long', 
             day: 'numeric' 
           });
-
-          // Fade in the badge after content is populated to prevent CLS
-          const badgeElement = updatedElement.closest('.badge');
-          if (badgeElement) {
-            badgeElement.style.opacity = 1;
-          }
+          // Make the text visible after populating
+          updatedElement.style.visibility = 'visible';
         }
       }
 

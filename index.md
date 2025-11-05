@@ -77,7 +77,7 @@ tags: "index"
     <div>
       <div class="badge">
         <span class="kicker">Bangladesh • bn‑BD</span>
-        <span>Last updated: <span class="last-updated"></span></span>
+        <span>Last updated: <span class="last-updated" style="visibility: hidden;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
       </div>
       <h1 class="h1">BoroJeet <span class="money">বোনাস</span> ও <span class="money">bKash/Nagad</span> ডিপোজিট গাইড</h1>
       <p class="lead">বাংলায় সম্পূর্ণ নির্দেশিকা: ওয়েলকাম বোনাস, bKash/Nagad ডিপোজিট ধাপ, দ্রুত Withdraw ও KYC চেকলিস্ট। <em>Responsible Gaming</em> ও আঞ্চলিক প্রাপ্যতার নোটিসসহ।<br><span class="muted">English summary included below.</span></p>
