@@ -6,6 +6,70 @@ canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
 tags: "index"
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "বোনাস পাবো কিভাবে?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "রেজিস্ট্রেশনের পর বোনাস ট্যাবে অফার অ্যাক্টিভ করুন; শর্তাবলী মেনে চলতে হবে।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "bKash/Nagad ডিপোজিটে কত সময় লাগে?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "সাধারণত কয়েক মিনিটে সম্পন্ন হয়; সিস্টেম ব্যস্ততায় বেশি সময় লাগতে পারে।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Withdraw করার সময় KYC কেন লাগে?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "প্রতারণা রোধ ও নিয়ন্ত্রক মান রক্ষায় পরিচয় যাচাই প্রয়োজন হতে পারে।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "ডিপোজিট বা উইথড্র লিমিট কত?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "লিমিট আপনার VIP লেভেল ও পেমেন্ট পদ্ধতির উপর নির্ভর করে। বিস্তারিত জানতে সাপোর্টে যোগাযোগ করুন।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "KYC ভেরিফিকেশন কত সময় লাগে?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "সাধারণত ২৪-৪৮ ঘণ্টা। সঠিক ডকুমেন্ট জমা দিলে দ্রুত হয়।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "কোন কোন মাধ্যমে টাকা তোলা যায়?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "আপনি bKash, Nagad, বা Rocket-এর মাধ্যমে টাকা তুলতে পারবেন।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "বাংলাদেশে অনলাইন ক্যাসিনো বৈধ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "স্থানীয় আইন পরিবর্তনশীল; নিজ দায়িত্বে সিদ্ধান্ত নিন ও দায়িত্বশীলভাবে খেলুন।"
+      }
+    }
+  ]
+}
+</script>
 
 <main class="wrap">
   <!-- HERO -->
@@ -18,7 +82,7 @@ tags: "index"
       <h1 class="h1">BoroJeet <span class="money">বোনাস</span> ও <span class="money">bKash/Nagad</span> ডিপোজিট গাইড</h1>
       <p class="lead">বাংলায় সম্পূর্ণ নির্দেশিকা: ওয়েলকাম বোনাস, bKash/Nagad ডিপোজিট ধাপ, দ্রুত Withdraw ও KYC চেকলিস্ট। <em>Responsible Gaming</em> ও আঞ্চলিক প্রাপ্যতার নোটিসসহ।<br><span class="muted">English summary included below.</span></p>
       <p>
-        <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">Claim Bonus • বোনাস নিন</a>
+        <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">Claim Bonus • বোনাস নিন</a>
       </p>
     </div>
     <div class="img-frame">
