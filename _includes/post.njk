@@ -96,7 +96,11 @@ layout: "base.njk"
     }
   </style>
   <div class="author-box">
-    <img src="/assets/authors/borojeet-expert.webp" alt="BoroJeet Expert" class="author-image">
+    <picture>
+      <source srcset="/assets/authors/borojeet-expert-optimized.avif" type="image/avif">
+      <source srcset="/assets/authors/borojeet-expert-optimized.webp" type="image/webp">
+      <img src="/assets/authors/borojeet-expert-optimized.webp" alt="BoroJeet Expert" class="author-image" width="100" height="100">
+    </picture>
     <div class="author-info">
       <h4>About the Author: BoroJeet Expert</h4>
       <p>An experienced analyst in the iGaming sector, focusing on the Bangladesh market. Dedicated to providing safe, reliable, and up-to-date information for players. <a href="/about/">Learn more about our editorial standards</a>.</p>
