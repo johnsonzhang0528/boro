@@ -11,9 +11,9 @@ layout: "base.njk"
   "datePublished": "{{ page.date.toISOString() }}",
   "dateModified": "{{ (lastUpdated or page.date).toISOString() }}",
   "author": {
-    "@type": "Organization",
-    "name": "BoroJeet Affiliate BD",
-    "url": "https://borojeetbd.com/"
+    "@type": "Person",
+    "name": "BoroJeet Expert",
+    "url": "https://borojeetbd.com/about/"
   },
   "publisher": {
     "@type": "Organization",
@@ -59,9 +59,46 @@ layout: "base.njk"
   </div>
   <article>
     <h1 class="h1">{{ title }}</h1>
-    <div class="post-meta">By BoroJeet BD Team • Published on {{ page.date | date("MMMM dd, yyyy") }}</div>
+    <div class="post-meta">By BoroJeet BD Team • Published on {{ page.date | date("MMMM dd, yyyy") }}{% if lastUpdated %} • <span class="warn">Updated on {{ lastUpdated | date("MMMM dd, yyyy") }}</span>{% endif %}</div>
     <div class="post-content">
       {{ content | safe }}
     </div>
   </article>
+
+  <style>
+    .author-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid #243041;
+      border-radius: 16px;
+      padding: 20px;
+      margin-top: 40px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .author-box img {
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+    }
+    .author-info h4 {
+      margin: 0 0 8px;
+      font-size: 1.1rem;
+      color: var(--text);
+    }
+    .author-info p {
+      margin: 0;
+      font-size: 0.9rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+  </style>
+  <div class="author-box">
+    <img src="/assets/og/og-default-optimized.webp" alt="BoroJeet Expert" class="author-image">
+    <div class="author-info">
+      <h4>About the Author: BoroJeet Expert</h4>
+      <p>An experienced analyst in the iGaming sector, focusing on the Bangladesh market. Dedicated to providing safe, reliable, and up-to-date information for players. <a href="/about/">Learn more about our editorial standards</a>.</p>
+    </div>
+  </div>
 </main>
