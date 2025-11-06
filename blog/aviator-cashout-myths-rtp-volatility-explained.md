@@ -11,7 +11,14 @@ tags: "post"
 Aviator একটি জনপ্রিয় অনলাইন ক্যাসিনো গেম যা এর সরলতা এবং দ্রুত ফলাফলের জন্য পরিচিত। কিন্তু অনেক খেলোয়াড় প্রায়ই কিছু ভুল ধারণা বা মিথের উপর ভিত্তি করে তাদের কৌশল তৈরি করেন। এই আর্টিকেলে, আমরা Aviator গেমের দুটি গুরুত্বপূর্ণ ধারণা—RTP (Return to Player) এবং ভলাটিলিটি (Volatility)—নিয়ে আলোচনা করব এবং ক্যাশআউট সম্পর্কিত কিছু সাধারণ মিথ ভেঙে দেব।
 
 ### অ্যাভিয়েটর কীভাবে কাজ করে? (How Aviator Works)
-{% image "/assets/blog/aviator-game-mechanics.webp", "একটি ইনফোগ্রাফিক যা অ্যাভিয়েটর গেমের মেকানিক্স দেখাচ্ছে: একটি বিমান উড্ডয়ন করছে এবং গুণক বৃদ্ধি পাচ্ছে, সাথে ক্যাশ আউট বোতাম।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/aviator-game-mechanics-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/aviator-game-mechanics-optimized.webp" type="image/webp">
+  <img src="/assets/blog/aviator-game-mechanics-optimized.webp"
+       alt="একটি ইনফোগ্রাফিক যা অ্যাভিয়েটর গেমের মেকানিক্স দেখাচ্ছে: একটি বিমান উড্ডয়ন করছে এবং গুণক বৃদ্ধি পাচ্ছে, সাথে ক্যাশ আউট বোতাম।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 ### RTP (Return to Player) কী?
 
@@ -35,7 +42,14 @@ Aviator একটি উচ্চ ভলাটিলিটির গেম হ�
 অনেক খেলোয়াড় বিশ্বাস করেন যে কিছু কৌশল অনুসরণ করলে তারা Aviator-এ নিশ্চিতভাবে জিততে পারবেন। চলুন কিছু সাধারণ মিথ ভেঙে দেওয়া যাক।
 
 **মিথ #১: স্বয়ংক্রিয় ক্যাশ আউট (Auto Cash Out) ভালো কাজ করে (Myth #1: Auto Cash Out Works Better)**
-{% image "/assets/blog/aviator-manual-vs-auto-cashout.webp", "ম্যানুয়াল এবং অটো ক্যাশ আউটের মধ্যে একটি ভিজ্যুয়াল তুলনা, যা অ্যাভিয়েটর গেমে দুটি ভিন্ন কৌশল দেখাচ্ছে।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/aviator-manual-vs-auto-cashout-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/aviator-manual-vs-auto-cashout-optimized.webp" type="image/webp">
+  <img src="/assets/blog/aviator-manual-vs-auto-cashout-optimized.webp"
+       alt="ম্যানুয়াল এবং অটো ক্যাশ আউটের মধ্যে একটি ভিজ্যুয়াল তুলনা, যা অ্যাভিয়েটর গেমে দুটি ভিন্ন কৌশল দেখাচ্ছে।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 **মিথ ১: একটি নির্দিষ্ট সময়ে ক্যাশআউট করলে জেতার সম্ভাবনা বাড়ে।**
 **সত্য:** Aviator একটি র‍্যান্ডম নম্বর জেনারেটর (RNG) দ্বারা চালিত হয়, যা "Provably Fair" প্রযুক্তি ব্যবহার করে। এর মানে হলো প্রতিটি রাউন্ডের ফলাফল সম্পূর্ণ স্বাধীন এবং র‍্যান্ডম। গুণক কখন ক্র্যাশ করবে তা আগে থেকে ভবিষ্যদ্বাণী করা অসম্ভব। তাই, ২x বা ৫x-এর মতো একটি নির্দিষ্ট গুণকে ক্যাশআউট করার কোনো "সেরা" সময় নেই।

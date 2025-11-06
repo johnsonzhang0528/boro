@@ -19,7 +19,14 @@ tags: "post"
 এটি মূলত ক্যাসিনোর একটি সুরক্ষা ব্যবস্থা যা নিশ্চিত করে যে খেলোয়াড়রা বোনাসের টাকা নিয়েই পালিয়ে যাবে না, বরং প্ল্যাটফর্মে গেম খেলে সময় কাটাবে। এটিকে একটি "খেলার লক্ষ্যমাত্রা" বা "Play-through" হিসেবে ভাবতে পারেন।
 
 ## ওয়েজারিং রিকোয়ারমেন্ট কীভাবে কাজ করে? (উদাহরণসহ ব্যাখ্যা)
-{% image "/assets/blog/wagering-requirement-formula.webp", "একটি ইনফোগ্রাফিক যা ওয়েজারিং রিকোয়ারমেন্টের সূত্রটি দেখাচ্ছে: বোনাসের পরিমাণকে গুণক দিয়ে গুণ করে মোট বাজি ধরার পরিমাণ নির্ধারণ করা হয়।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/wagering-requirement-formula-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/wagering-requirement-formula-optimized.webp" type="image/webp">
+  <img src="/assets/blog/wagering-requirement-formula-optimized.webp"
+       alt="একটি ইনফোগ্রাফিক যা ওয়েজারিং রিকোয়ারমেন্টের সূত্রটি দেখাচ্ছে: বোনাসের পরিমাণকে গুণক দিয়ে গুণ করে মোট বাজি ধরার পরিমাণ নির্ধারণ করা হয়।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 আসুন একটি বাস্তব উদাহরণ দিয়ে বিষয়টি বোঝা যাক।
 
@@ -43,7 +50,14 @@ tags: "post"
     *   এই ক্ষেত্রে, আপনাকে টাকা তোলার আগে ৳৪০,০০০ টাকার বাজি ধরতে হবে।
 
 ## গেম কন্ট্রিবিউশন: সবচেয়ে গুরুত্বপূর্ণ বিষয় (Game Contribution: The Most Important Aspect)
-{% image "/assets/blog/wagering-game-contribution.webp", "একটি ইনফোগ্রাফিক যা বিভিন্ন গেমের ওয়েজারিং রিকোয়ারমেন্টে অবদানের শতাংশ দেখাচ্ছে, যেমন স্লট (১০০%) এবং টেবিল গেম (১০-২০%)।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/wagering-game-contribution-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/wagering-game-contribution-optimized.webp" type="image/webp">
+  <img src="/assets/blog/wagering-game-contribution-optimized.webp"
+       alt="একটি ইনফোগ্রাফিক যা বিভিন্ন গেমের ওয়েজারিং রিকোয়ারমেন্টে অবদানের শতাংশ দেখাচ্ছে, যেমন স্লট (১০০%) এবং টেবিল গেম (১০-২০%)।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 এটি ওয়েজারিং রিকোয়ারমেন্টের একটি গোপন কিন্তু অত্যন্ত গুরুত্বপূর্ণ দিক। সব গেম ওয়েজারিং পূরণে সমানভাবে অবদান রাখে না।
 

@@ -24,7 +24,14 @@ tags: ["post", "guide", "kyc"]
 *   **আইনি সম্মতি:** এটি স্থানীয় নিয়মাবলী মেনে চলার জন্য একটি আদর্শ অনুশীলন।
 
 ## কোন কোন ডকুমেন্ট প্রয়োজন? (Which Documents are Needed?)
-{% image "/assets/blog/kyc-required-documents.webp", "কেওয়াইসি ভেরিফিকেশনের জন্য প্রয়োজনীয় ডকুমেন্টগুলির আইকন: একটি জাতীয় পরিচয়পত্র এবং একটি ঠিকানার প্রমাণপত্র।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/kyc-required-documents-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/kyc-required-documents-optimized.webp" type="image/webp">
+  <img src="/assets/blog/kyc-required-documents-optimized.webp"
+       alt="কেওয়াইসি ভেরিফিকেশনের জন্য প্রয়োজনীয় ডকুমেন্টগুলির আইকন: একটি জাতীয় পরিচয়পত্র এবং একটি ঠিকানার প্রমাণপত্র।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 প্রক্রিয়াটি মসৃণ করতে, শুরু করার আগে নিম্নলিখিত নথিগুলির ডিজিটাল কপি (ছবি বা স্ক্যান) প্রস্তুত রাখুন:
 
@@ -41,7 +48,14 @@ tags: ["post", "guide", "kyc"]
 ## ধাপে ধাপে ভেরিফিকেশন গাইড (Step-by-Step Verification Guide)
 
 ### কীভাবে ডকুমেন্ট আপলোড করবেন (How to Upload Documents)
-{% image "/assets/blog/kyc-upload-process-steps.webp", "ডকুমেন্ট আপলোড করার তিনটি সহজ ধাপ দেখানো একটি ইনফোগ্রাফিক: ভেরিফিকেশন বিভাগে যাওয়া, ছবি তোলা এবং পর্যালোচনার জন্য অপেক্ষা করা।", "(max-width: 600px) 100vw, 800px" %}
+<picture class="content-image">
+  <source srcset="/assets/blog/kyc-upload-process-steps-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/kyc-upload-process-steps-optimized.webp" type="image/webp">
+  <img src="/assets/blog/kyc-upload-process-steps-optimized.webp"
+       alt="ডকুমেন্ট আপলোড করার তিনটি সহজ ধাপ দেখানো একটি ইনফোগ্রাফিক: ভেরিফিকেশন বিভাগে যাওয়া, ছবি তোলা এবং পর্যালোচনার জন্য অপেক্ষা করা।"
+       width="800" height="450" loading="lazy" decoding="async"
+       sizes="(max-width: 600px) 100vw, 800px">
+</picture>
 
 ### ধাপ ১: আপনার BoroJeet অ্যাকাউন্টে লগইন করুন (Step 1: Log In to Your BoroJeet Account)
 
