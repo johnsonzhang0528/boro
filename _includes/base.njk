@@ -396,7 +396,7 @@
   
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
-  <link rel="canonical" href="{{ canonicalUrl or 'https://borojeetbd.com' + page.url }}">
+  <link rel="canonical" href="{{ canonicalUrl or site.url + page.url }}">
   {% if robots %}
     <meta name="robots" content="{{ robots }}">
   {% endif %}
@@ -406,15 +406,15 @@
   {% if canonicalUrl %}
     <meta property="og:url" content="{{ canonicalUrl }}">
   {% else %}
-    <meta property="og:url" content="https://borojeetbd.com{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   {% endif %}
   {# --- OG Image Dynamic Logic --- #}
   {% if page.url == '/' %}
-    <meta property="og:image" content="https://borojeetbd.com/assets/og/hero-optimized.webp">
+    <meta property="og:image" content="{{ site.url }}/assets/og/hero-optimized.webp">
   {% elif ogImage %}
-    <meta property="og:image" content="https://borojeetbd.com/assets/og/{{ ogImage }}">
+    <meta property="og:image" content="{{ site.url }}/assets/og/{{ ogImage }}">
   {% else %}
-    <meta property="og:image" content="https://borojeetbd.com/assets/og/og-default-optimized.webp">
+    <meta property="og:image" content="{{ site.url }}/assets/og/og-default-optimized.webp">
   {% endif %}
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
@@ -430,12 +430,12 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "BoroJeet Affiliate BD",
-    "url": "https://borojeetbd.com/",
+    "url": "{{ site.url }}/",
     "potentialAction": {
       "@type": "SearchAction",
       "target": {
         "@type": "EntryPoint",
-        "urlTemplate": "https://borojeetbd.com/search?q={search_term_string}"
+        "urlTemplate": "{{ site.url }}/search?q={search_term_string}"
       },
       "query-input": "required name=search_term_string"
     }

@@ -5,6 +5,23 @@ layout: 'base.njk'
   <h1 class="h1">BoroJeet Blog: টিপস ও গাইড</h1>
   <p>Latest guides, tips, and news for players in Bangladesh.</p>
 
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {%- for post in posts -%}
+        {
+          "@type": "ListItem",
+          "position": {{ loop.index }},
+          "name": "{{ post.data.title }}",
+          "url": "{{ site.url }}{{ post.url | url }}"
+        }{%- if not loop.last -%},{%- endif -%}
+        {%- endfor -%}
+      ]
+    }
+  </script>
+
   <div class="article-list">
     {% for post in posts %}
       <article class="card">
