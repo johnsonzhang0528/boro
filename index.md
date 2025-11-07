@@ -1,7 +1,7 @@
 ---
 layout: "base.njk"
-title: "BoroJeet App Download (apk) | Secure & Lightweight | Bonus & Guide"
-description: "Download the official BoroJeet app for Bangladesh. Get your bonus with our lightweight and secure apk. Full guide to bKash/Nagad deposits and withdrawals."
+title: "BoroJeet অ্যাপ ডাউনলোড (apk) | সুরক্ষিত ও লাইটওয়েট | বোনাস ও গাইড"
+description: "বাংলাদেশের জন্য অফিসিয়াল BoroJeet অ্যাপ ডাউনলোড করুন। আমাদের লাইটওয়েট এবং সুরক্ষিত apk দিয়ে আপনার বোনাস পান। bKash/Nagad ডিপোজিট এবং উইথড্রয়ালের সম্পূর্ণ গাইড।"
 canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
 tags: "index"
