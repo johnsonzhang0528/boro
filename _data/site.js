@@ -1,3 +1,3 @@
 module.exports = {
-  "url": "https://www.borojeet.com"
+  "url": "https://www.borojeetbd.com"
 }
