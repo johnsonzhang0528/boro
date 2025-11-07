@@ -79,10 +79,10 @@ tags: "index"
         <span class="kicker">Bangladesh • bn‑BD</span>
         <span>Last updated: <span class="last-updated">{{ date | date("MMMM dd, yyyy") }}</span></span>
       </div>
-      <h1 class="h1">BoroJeet <span class="money">বোনাস</span> ও <span class="money">bKash/Nagad</span> ডিপোজিট গাইড</h1>
-      <p class="lead">বাংলায় সম্পূর্ণ নির্দেশিকা: ওয়েলকাম বোনাস, bKash/Nagad ডিপোজিট ধাপ, দ্রুত Withdraw ও KYC চেকলিস্ট। <em>Responsible Gaming</em> ও আঞ্চলিক প্রাপ্যতার নোটিসসহ।<br><span class="muted">English summary included below.</span></p>
+      <h1 class="h1">BoroJeet App: Official Secure Download for Bangladesh</h1>
+      <p class="lead">Get the official BoroJeet app APK for a secure & lightweight experience. This page provides the direct download link and a full guide to bonuses, deposits, and withdrawals in Bangladesh.</p>
       <p>
-        <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">Claim Bonus • বোনাস নিন</a>
+        <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">Download BoroJeet App (APK)</a>
       </p>
     </div>
     <div class="img-frame">
@@ -92,6 +92,18 @@ tags: "index"
         <img src="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.webp" alt="BoroJeet Bangladesh user making a deposit with bKash/Nagad to claim a ৳300 welcome bonus" width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
       </picture>
     </div>
+  </section>
+
+  <!-- Why Use the App? -->
+  <section class="card" aria-labelledby="why-app">
+    <h2 id="why-app">Why Download the BoroJeet App?</h2>
+    <p>Experience the best of BoroJeet with our official app, designed for players in Bangladesh. Our lightweight and secure APK ensures you get the best performance and exclusive features.</p>
+    <ul>
+      <li><strong>Lightweight & Fast:</strong> Optimized for all Android devices, ensuring a smooth and responsive betting experience without slowing down your phone.</li>
+      <li><strong>Enhanced Security:</strong> Your data and funds are protected with end-to-end encryption and the latest security protocols built into the official BoroJeet APK.</li>
+      <li><strong>Instant Notifications:</strong> Get real-time push notifications for new bonuses, successful withdrawals, and exclusive promotions. Never miss an important update.</li>
+      <li><strong>Exclusive App-Only Bonuses:</strong> Unlock special promotions and rewards available only to our app users, giving you more value for your gameplay.</li>
+    </ul>
   </section>
 
   <!-- BONUS TABLE -->
