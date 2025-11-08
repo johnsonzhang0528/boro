@@ -101,7 +101,7 @@ tags: "post"
 ---
 
 <div class="card cta-card">
-  <h3>বোনাসের শর্তাবলী বুঝতে পেরেছেন?</h3>
+  <p class="cta-title">বোনাসের শর্তাবলী বুঝতে পেরেছেন?</p>
   <p>এখন আপনি জানেন কীভাবে ওয়েজারিং রিকোয়ারমেন্ট কাজ করে। BoroJeet-এর স্বচ্ছ এবং ন্যায্য বোনাস অফারগুলো দেখুন এবং আত্মবিশ্বাসের সাথে খেলা শুরু করুন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet-এর সর্বশেষ বোনাস দেখুন</a>
 </div>
