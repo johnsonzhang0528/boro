@@ -85,6 +85,21 @@ module.exports = [
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day"
         }
+      },
+      {
+        title: "১০০% দৈনিক ক্র্যাশ বোনাস (100% DAILY CRASH BONUS)",
+        image: "/assets/promotions/promo-daily-crash-bonus-optimized.webp",
+        details: {
+          "Bonus": "৳200",
+          "Join Amount": "৳200",
+          "Max Withdraw": "৳600",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 200",
+          "Game Type": "Crash",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Day"
+        }
       }
       // Daily Bonus data can be added here
     ]
