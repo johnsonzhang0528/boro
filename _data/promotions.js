@@ -27,23 +27,6 @@ module.exports = [
     description: "Get new bonuses and rewards every day.",
     items: [
       {
-        title: "Daily Slots & Crash Bonus: Win up to 1,000!",
-        image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
-        details: {
-          "Bonus": "100",
-          "Join Amount": "100",
-          "Max Withdraw": "1,000",
-          "Turnover": "Not Required",
-          "Condition": "Daily Deposit of 100",
-          "Game Kind": "Slots & Crash Games",
-          "Game Platforms": "All Game Platforms",
-          "Eligible Player": "All VIP Levels",
-          "Availability": "Once per Day",
-          "How to Win?": "Play until promotional wallet reaches 1,000",
-          "Period": "2025/05/27 - 2030/12/31"
-        }
-      },
-      {
         title: "দৈনিক বোনাস: বিনামূল্যে ৳২০০ (Daily Bonus: Free ৳200)",
         image: "/assets/promotions/promo-daily-bonus-optimized.webp",
         details: {
@@ -122,6 +105,23 @@ module.exports = [
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
           "Period": "2025/05/27 ~ 2030/12/31"
+        }
+      },
+      {
+        title: "Daily Slots & Crash Bonus: Win up to 1,000!",
+        image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
+        details: {
+          "Bonus": "100",
+          "Join Amount": "100",
+          "Max Withdraw": "1,000",
+          "Turnover": "Not Required",
+          "Condition": "Daily Deposit of 100",
+          "Game Kind": "Slots & Crash Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Day",
+          "How to Win?": "Play until promotional wallet reaches 1,000",
+          "Period": "2025/05/27 - 2030/12/31"
         }
       }
       // Daily Bonus data can be added here
