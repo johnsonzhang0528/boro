@@ -14,7 +14,8 @@ module.exports = [
           "Turnover": "25x",
           "Condition": "Today's Deposit: 300",
           "Eligible Player": "All VIP Levels",
-          "Availability": "Once daily (Saturday & Sunday)"
+          "Availability": "Once daily (Saturday & Sunday)",
+          "Period": "2025/05/27 ~ 2030/12/31"
         }
       }
       // More 'Special' category promotions can be added here
@@ -25,6 +26,23 @@ module.exports = [
     slug: "daily",
     description: "Get new bonuses and rewards every day.",
     items: [
+      {
+        title: "Daily Slots & Crash Bonus: Win up to 1,000!",
+        image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
+        details: {
+          "Bonus": "100",
+          "Join Amount": "100",
+          "Max Withdraw": "1,000",
+          "Turnover": "Not Required",
+          "Condition": "Daily Deposit of 100",
+          "Game Kind": "Slots & Crash Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Day",
+          "How to Win?": "Play until promotional wallet reaches 1,000",
+          "Period": "2025/05/27 - 2030/12/31"
+        }
+      },
       {
         title: "দৈনিক বোনাস: বিনামূল্যে ৳২০০ (Daily Bonus: Free ৳200)",
         image: "/assets/promotions/promo-daily-bonus-optimized.webp",
@@ -37,7 +55,8 @@ module.exports = [
           "Game Type": "Slots & Card Games",
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
-          "Availability": "Once per Day"
+          "Availability": "Once per Day",
+          "Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -53,7 +72,8 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
-          "Note": "App-Only Participation Available"
+          "Note": "App-Only Participation Available",
+          "Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -68,7 +88,8 @@ module.exports = [
           "Game Type": "Slot",
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
-          "Availability": "Once per Day"
+          "Availability": "Once per Day",
+          "Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -83,7 +104,8 @@ module.exports = [
           "Game Type": "Fisher",
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
-          "Availability": "Once per Day"
+          "Availability": "Once per Day",
+          "Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -98,7 +120,8 @@ module.exports = [
           "Game Type": "Crash",
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
-          "Availability": "Once per Day"
+          "Availability": "Once per Day",
+          "Period": "2025/05/27 ~ 2030/12/31"
         }
       }
       // Daily Bonus data can be added here
@@ -119,7 +142,7 @@ module.exports = [
           "Turnover": "1x",
           "Condition": "Weekly Total Deposit: 300",
           "Eligible Player": "VIP 5 and above",
-          "Period": "Nov 3, 00:00:00 - Nov 9, 23:59:59",
+          "Period": "2025/07/31 ~ 2030/12/31",
           "Note": "Your Facebook share will be reviewed. If the share is not visible on your profile, the reward may not be released."
         }
       }
