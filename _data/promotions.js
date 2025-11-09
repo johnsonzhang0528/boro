@@ -6,7 +6,7 @@ module.exports = [
     items: [
       {
         title: "৩০০% শুভ সপ্তাহান্ত বোনাস (300% Happy Weekend Bonus)",
-        image: "/assets/promotions/promo-weekend-bonus.webp",
+        image: "/assets/promotions/promo-weekend-bonus-optimized.webp",
         details: {
           "বোনাস": "৳৯০০",
           "যোগদানের পরিমাণ": "৳৩০০",
