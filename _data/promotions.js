@@ -2,53 +2,53 @@ module.exports = [
   {
     category: "Special Offers",
     slug: "special",
-    description: "বিশেষ ইভেন্ট এবং ছুটির জন্য সীমিত সময়ের অফার।",
+    description: "Limited-time offers for special events and holidays.",
     items: [
       {
         title: "৩০০% শুভ সপ্তাহান্ত বোনাস (300% Happy Weekend Bonus)",
         image: "/assets/promotions/promo-weekend-bonus-optimized.webp",
         details: {
-          "বোনাস": "৳৯০০",
-          "যোগদানের পরিমাণ": "৳৩০০",
-          "সর্বোচ্চ উত্তোলন": "৳১,৮০০",
-          "টার্নওভার": "২৫x",
-          "শর্ত": "আজকের ডিপোজিট: ৩০০",
-          "যোগ্য খেলোয়াড়": "সকল ভিআইপি স্তর",
-          "উপস্থিতি": "প্রতিদিন একবার (শনি ও রবিবারে)"
+          "Bonus": "৳900",
+          "Join Amount": "৳300",
+          "Max Withdraw": "৳1,800",
+          "Turnover": "25x",
+          "Condition": "Today's Deposit: 300",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once daily (Saturday & Sunday)"
         }
       }
-      // 未來可以加入更多 "Special" 類別的活動
+      // More 'Special' category promotions can be added here
     ]
   },
   {
     category: "Daily Offers",
     slug: "daily",
-    description: "প্রতিদিন নতুন বোনাস এবং পুরস্কার পান।",
+    description: "Get new bonuses and rewards every day.",
     items: [
-      // 這裡可以放 Daily Bonus 的資料
+      // Daily Bonus data can be added here
     ]
   },
   {
     category: "VIP Loyalty",
     slug: "vip",
-    description: "আমাদের বিশ্বস্ত খেলোয়াড়দের জন্য এক্সক্লুসিভ পুরস্কার।",
+    description: "Exclusive rewards for our loyal players.",
     items: [
       {
         title: "সাপ্তাহিক ফেসবুক শেয়ারে ১০০ টাকা ফ্রি (100 Taka Free Weekly Facebook Share)",
         image: "/assets/promotions/promo-weekly-facebook-share-optimized.webp",
         details: {
-          "বোনাস": "৳১০০",
-          "যোগদানের পরিমাণ": "প্রয়োজন নেই",
-          "সর্বোচ্চ উত্তোলন": "সীমাহীন",
-          "টার্নওভার": "১x",
-          "শর্ত": "সাপ্তাহিক মোট ডিপোজিট: ৩০০",
-          "যোগ্য খেলোয়াড়": "ভিআইপি ৫ এবং তার উপরে",
-          "সময়কাল": "নভেম্বর ৩, ০০:০০:০০ - নভেম্বর ৯, ২৩:৫৯:৫৯",
-          "নোট": "আপনার ফেসবুক শেয়ার পর্যালোচনা করা হবে। যদি শেয়ারটি আপনার প্রোফাইলে দৃশ্যমান না হয়, তাহলে পুরস্কার প্রদান করা সম্ভব নাও হতে পারে।"
+          "Bonus": "৳100",
+          "Join Amount": "Not Required",
+          "Max Withdraw": "Unlimited",
+          "Turnover": "1x",
+          "Condition": "Weekly Total Deposit: 300",
+          "Eligible Player": "VIP 5 and above",
+          "Period": "Nov 3, 00:00:00 - Nov 9, 23:59:59",
+          "Note": "Your Facebook share will be reviewed. If the share is not visible on your profile, the reward may not be released."
         }
       }
-      // 這裡可以放 VIP 相關的資料
+      // VIP related promotions can be added here
     ]
   }
-  // ... 其他分類
+  // ... Other categories
 ];
