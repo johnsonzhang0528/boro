@@ -55,6 +55,21 @@ module.exports = [
           "Availability": "Once per Day",
           "Note": "App-Only Participation Available"
         }
+      },
+      {
+        title: "১০০% দৈনিক স্লট বোনাস (100% DAILY SLOT BONUS)",
+        image: "/assets/promotions/promo-daily-slot-bonus-optimized.webp",
+        details: {
+          "Bonus": "৳200",
+          "Join Amount": "৳200",
+          "Max Withdraw": "৳1,000",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 200",
+          "Game Type": "Slot",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Day"
+        }
       }
       // Daily Bonus data can be added here
     ]
