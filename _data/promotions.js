@@ -25,6 +25,37 @@ module.exports = [
     slug: "daily",
     description: "Get new bonuses and rewards every day.",
     items: [
+      {
+        title: "দৈনিক বোনাস: বিনামূল্যে ৳২০০ (Daily Bonus: Free ৳200)",
+        image: "/assets/promotions/promo-daily-bonus-optimized.webp",
+        details: {
+          "Bonus": "৳200",
+          "Join Amount": "Not Required",
+          "Max Withdraw": "৳200",
+          "Turnover": "30x",
+          "Condition": "Today's Deposit: 300",
+          "Game Type": "Slots & Card Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Day"
+        }
+      },
+      {
+        title: "অ্যাপে দৈনিক জয় ২০০% (App Daily Wins 200%)",
+        image: "/assets/promotions/promo-app-daily-wins.webp",
+        details: {
+          "Bonus": "৳100",
+          "Join Amount": "৳50",
+          "Max Withdraw": "৳200",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 50",
+          "Game Type": "Slots, Fishing, Fast Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Day",
+          "Note": "App-Only Participation Available"
+        }
+      }
       // Daily Bonus data can be added here
     ]
   },
