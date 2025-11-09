@@ -15,7 +15,23 @@ module.exports = [
           "Condition": "Today's Deposit: 300",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once daily (Saturday & Sunday)",
-          "Period": "2025/05/27 ~ 2030/12/31"
+          "Period": "2025/05/27 - 2030/12/31"
+        }
+      },
+      {
+        title: "অ্যাপ বোনাস (Application Bonus): Claim up to 150 Free!",
+        image: "/assets/promotions/promo-app-bonus-optimized.webp",
+        details: {
+          "Offer Plans": "Choose one of the three plans below. Only one can be claimed.",
+          "Plan 1 (Bonus 150)": "Condition: Total Deposit 1,000 | Max Withdraw: 200 | Turnover: 10x",
+          "Plan 2 (Bonus 100)": "Condition: Total Deposit 500 | Max Withdraw: 150 | Turnover: 10x",
+          "Plan 3 (Bonus 50)": "Condition: Total Deposit 300 | Max Withdraw: 100 | Turnover: 10x",
+          "Join Amount": "Not Required",
+          "Game Kind": "Slots & Crash Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Once per Player",
+          "Period": "2025/05/27 - 2030/12/31"
         }
       }
       // More 'Special' category promotions can be added here
