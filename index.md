@@ -127,7 +127,7 @@ tags: "index"
         <tr>
           <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 300</td>
           <td data-label="Bonus (BDT)"><span class="money">৳300</span></td>
-          <td data-label="Join Amount">—</td>
+          <td data-label="Join Amount">Not Required</td>
           <td data-label="Max Withdraw">৳300</td>
           <td data-label="Turnover">20×</td>
           <td data-label="Condition">Total Deposit: 300</td>
@@ -149,7 +149,7 @@ tags: "index"
         <tr>
           <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 100</td>
           <td data-label="Bonus (BDT)"><span class="money">৳100</span></td>
-          <td data-label="Join Amount">—</td>
+          <td data-label="Join Amount">Not Required</td>
           <td data-label="Max Withdraw">৳100</td>
           <td data-label="Turnover">30×</td>
           <td data-label="Condition">App Only</td>
@@ -200,6 +200,39 @@ tags: "index"
           <td data-label="Game Kind">Slot</td>
           <td data-label="Eligible">VIP 2+</td>
           <td data-label="Availability">Once per Day</td>
+        </tr>
+        <tr>
+          <td data-label="Offer"><strong>Download App Bonus</strong> — Tier 150</td>
+          <td data-label="Bonus (BDT)"><span class="money">৳150</span></td>
+          <td data-label="Join Amount">Not Required</td>
+          <td data-label="Max Withdraw">৳200</td>
+          <td data-label="Turnover">10×</td>
+          <td data-label="Condition">Total Deposit: 1,000</td>
+          <td data-label="Game Kind">Slot / Fisher / Crash</td>
+          <td data-label="Eligible">All VIP Levels</td>
+          <td data-label="Availability">Once per Player</td>
+        </tr>
+        <tr>
+          <td data-label="Offer"><strong>Download App Bonus</strong> — Tier 100</td>
+          <td data-label="Bonus (BDT)"><span class="money">৳100</span></td>
+          <td data-label="Join Amount">Not Required</td>
+          <td data-label="Max Withdraw">৳150</td>
+          <td data-label="Turnover">10×</td>
+          <td data-label="Condition">Total Deposit: 500</td>
+          <td data-label="Game Kind">Slot / Fisher / Crash</td>
+          <td data-label="Eligible">All VIP Levels</td>
+          <td data-label="Availability">Once per Player</td>
+        </tr>
+        <tr>
+          <td data-label="Offer"><strong>Download App Bonus</strong> — Tier 50</td>
+          <td data-label="Bonus (BDT)"><span class="money">৳50</span></td>
+          <td data-label="Join Amount">Not Required</td>
+          <td data-label="Max Withdraw">৳100</td>
+          <td data-label="Turnover">10×</td>
+          <td data-label="Condition">Total Deposit: 300</td>
+          <td data-label="Game Kind">Slot / Fisher / Crash</td>
+          <td data-label="Eligible">All VIP Levels</td>
+          <td data-label="Availability">Once per Player</td>
         </tr>
       </tbody>
     </table>
@@ -261,5 +294,21 @@ tags: "index"
   <section class="card">
     <h2>Responsible Gaming & Regional Availability</h2>
     <p class="warn"><strong>18+ only.</strong> Play responsibly. If you have concerns about gambling, seek help. Offers are for users where access is permitted. We do not provide services; we provide information and sponsored referrals.</p>
+  </section>
+
+  </section>
+
+  <!-- BoroJeet-এ শুরু করার জন্য আপনার গাইড -->
+  <section class="card">
+    <h2>BoroJeet-এ শুরু করার জন্য আপনার গাইড</h2>
+    <p>নতুন খেলোয়াড়দের জন্য সহজ পদক্ষেপে BoroJeet-এ আপনার যাত্রা শুরু করার গাইড।</p>
+    <ol>
+      <li><strong>অ্যাকাউন্ট তৈরি করুন:</strong> আমাদের ওয়েবসাইটে যান বা অ্যাপ ডাউনলোড করুন এবং একটি নতুন অ্যাকাউন্টের জন্য রেজিস্টার করুন।</li>
+      <li><strong>বোনাস দাবি করুন:</strong> রেজিস্ট্রেশনের পর বোনাস ট্যাবে যান এবং উপলব্ধ বোনাস অফারগুলি দেখুন।</li>
+      <li><strong>ডিপোজিট করুন:</strong> bKash বা Nagad ব্যবহার করে আপনার অ্যাকাউন্টে তহবিল জমা দিন।</li>
+      <li><strong>গেম খেলুন:</strong> আপনার পছন্দের গেম নির্বাচন করুন এবং খেলার জন্য প্রস্তুত হন!</li>
+      <li><strong>উত্তোলন করুন:</strong> জয়ী হলে, সহজে আপনার তহবিল উত্তোলন করুন এবং আপনার জয় উপভোগ করুন।</li>
+    </ol>
+    <p class="note">নিশ্চিত করুন যে আপনি সমস্ত শর্তাবলী এবং শর্তাবলী (T&Cs) পড়েছেন এবং বুঝেছেন।</p>
   </section>
 </main>
