@@ -1,0 +1,46 @@
+---
+pagination:
+  data: promotions
+  size: 1
+  alias: promoCategory
+permalink: "/promotions/{{ promoCategory.slug }}/"
+layout: "post.njk"
+---
+
+<h1>{{ promoCategory.category }}</h1>
+<p>{{ promoCategory.description }}</p>
+
+<hr>
+
+{% for item in promoCategory.items %}
+  <article>
+    <h2>{{ item.title }}</h2>
+    
+    {% if item.image %}
+      <picture class="content-image">
+        <source srcset="{{ item.image | replace('.webp', '.avif') }}" type="image/avif">
+        <source srcset="{{ item.image }}" type="image/webp">
+        <img src="{{ item.image }}"
+             alt="{{ item.title }}"
+             width="1024" height="576" loading="lazy" decoding="async"
+             sizes="(max-width: 600px) 100vw, 1024px">
+      </picture>
+    {% endif %}
+
+    <h3>অফারের বিবরণ:</h3>
+    <table class="table">
+      {% for key, value in item.details %}
+        <tr>
+          <td><strong>{{ key }}</strong></td>
+          <td>{{ value }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+
+    <div class="card cta-card">
+      <h3>আপনার বোনাস দাবি করুন</h3>
+      <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই ডিপোজিট করুন</a>
+    </div>
+  </article>
+  <hr>
+{% endfor %}
