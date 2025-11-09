@@ -42,7 +42,7 @@ module.exports = [
       },
       {
         title: "অ্যাপে দৈনিক জয় ২০০% (App Daily Wins 200%)",
-        image: "/assets/promotions/promo-app-daily-wins.webp",
+        image: "/assets/promotions/promo-app-daily-wins-optimized.webp",
         details: {
           "Bonus": "৳100",
           "Join Amount": "৳50",
