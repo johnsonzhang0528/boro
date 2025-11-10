@@ -208,6 +208,19 @@ module.exports = [
           "Applicable Games": "All Games on All Platforms",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "প্রতি ডিপোজিটে ০.৫% বোনাস (0.5% Bonus on Every Deposit)",
+        image: "/assets/promotions/promo-deposit-reward-optimized.webp",
+        details: {
+          "Bonus Rate": "0.5% on Every Deposit",
+          "Maximum Bonus": "Unlimited",
+          "Minimum Deposit": "100",
+          "Turnover": "3x",
+          "Payment Methods": "All Payment Channels",
+          "Eligible Players": "All VIP Levels",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // Daily Bonus data can be added here
     ]
