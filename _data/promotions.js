@@ -493,6 +493,24 @@ module.exports = [
           "Release Time": "Bonuses are credited daily at 12:00 PM.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "৯,৬০০ রেফারেল চ্যালেঞ্জ: বন্ধুদের আমন্ত্রণ করে মাসিক বোনাস (9,600 Referral Challenge: Invite Friends for Monthly Bonuses)",
+        image: "/assets/promotions/promo-referral-challenge-optimized.webp",
+        details: {
+          "Challenge": "Earn monthly bonuses based on the number of successful referrals you make.",
+          "Activity Period": "Monthly (from the 1st day until the end of the month)",
+          "---": "---",
+          "Invite 5 People": "Get 200 BDT Bonus",
+          "Invite 10 People": "Get 400 BDT Bonus",
+          "Invite 20 People": "Get 1,000 BDT Bonus",
+          "Invite 50 People": "Get 3,000 BDT Bonus",
+          "Invite 100 People": "Get 5,000 BDT Bonus",
+          "Total Possible Bonus": "Up to 9,600 BDT per month.",
+          "--- ": "---",
+          "Bonus Turnover": "3x",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
     ]
   }
