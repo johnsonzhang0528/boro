@@ -156,6 +156,24 @@ module.exports = [
           "How to Win?": "Play until promotional wallet reaches 1,000",
           "Promotional Period": "2025/05/27 - 2030/12/31"
         }
+      },
+      {
+        title: "99,999 Lucky Draw: Spin & Win Big Daily",
+        image: "/assets/promotions/promo-lucky-draw-optimized.webp",
+        details: {
+          "Turnover": "1x",
+          "Availability": "Once per Day",
+          "Condition": "Deposit and valid turnover must be completed on the same day",
+          "Deposit": "1,000",
+          "Valid Turnover": "10,000",
+          "Game Kind": "🎰 Slot 🐳 Fisher 🚀 Crash",
+          "Game Platform": "All Game Platforms",
+          "---Lucky Draw Rewards---": "Prizes vary by VIP level",
+          "VIP 1 - 10": "Possible Prizes: 80, 100, 120, 140, 160, 180, 200, 400, 800, 999",
+          "VIP 11 - 15": "Possible Prizes: 100, 120, 140, 160, 180, 200, 300, 500, 1,000, 9,999",
+          "VIP 16 - 20": "Possible Prizes: 100, 150, 200, 250, 300, 400, 500, 1,000, 10,000, 99,999",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // Daily Bonus data can be added here
     ]
