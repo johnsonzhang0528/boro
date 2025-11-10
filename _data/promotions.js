@@ -218,6 +218,36 @@ module.exports = [
           "Distribution Time": "Bonus is credited to the Main Wallet at 12:00 PM every Friday.",
           "Promotion Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "ভিআইপি আপগ্রেড বোনাস (VIP Upgrade Bonus): Get up to 6,000",
+        image: "/assets/promotions/promo-vip-upgrade-bonus-optimized.webp",
+        details: {
+          "Upgrade Bonus by VIP Level": "Receive a bonus upon reaching a new VIP level.",
+          "VIP 1": "Requirement: Successful Registration | Bonus: -",
+          "VIP 2": "Requirement: Identity Verification | Bonus: 5",
+          "VIP 3": "Total Deposit: 100 | Total Turnover: 500 | Bonus: 10",
+          "VIP 4": "Total Deposit: 500 | Total Turnover: 2,500 | Bonus: 20",
+          "VIP 5": "Total Deposit: 1,000 | Total Turnover: 5,000 | Bonus: 30",
+          "VIP 6": "Total Deposit: 2,500 | Total Turnover: 12,500 | Bonus: 50",
+          "VIP 7": "Total Deposit: 5,000 | Total Turnover: 25,000 | Bonus: 100",
+          "VIP 8": "Total Deposit: 10,000 | Total Turnover: 50,000 | Bonus: 200",
+          "VIP 9": "Total Deposit: 25,000 | Total Turnover: 125,000 | Bonus: 300",
+          "VIP 10": "Total Deposit: 50,000 | Total Turnover: 250,000 | Bonus: 400",
+          "VIP 11": "Total Deposit: 100,000 | Total Turnover: 500,000 | Bonus: 500",
+          "VIP 12": "Total Deposit: 250,000 | Total Turnover: 1,250,000 | Bonus: 600",
+          "VIP 13": "Total Deposit: 500,000 | Total Turnover: 2,500,000 | Bonus: 800",
+          "VIP 14": "Total Deposit: 1,000,000 | Total Turnover: 5,000,000 | Bonus: 1,000",
+          "VIP 15": "Total Deposit: 2,000,000 | Total Turnover: 10,000,000 | Bonus: 1,200",
+          "VIP 16": "Total Deposit: 5,000,000 | Total Turnover: 25,000,000 | Bonus: 1,800",
+          "VIP 17": "Total Deposit: 10,000,000 | Total Turnover: 50,000,000 | Bonus: 2,400",
+          "VIP 18": "Total Deposit: 20,000,000 | Total Turnover: 100,000,000 | Bonus: 3,600",
+          "VIP 19": "Total Deposit: 50,000,000 | Total Turnover: 250,000,000 | Bonus: 4,800",
+          "VIP 20": "Total Deposit: 100,000,000 | Total Turnover: 500,000,000 | Bonus: 6,000",
+          "Turnover Requirement": "3x",
+          "Distribution": "Bonus will be credited to Main Wallet upon level up.",
+          "Promotion Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // VIP related promotions can be added here
     ]
