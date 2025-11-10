@@ -593,6 +593,34 @@ module.exports = [
           "Release Time": "Prizes are distributed daily at 12:00 PM.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "অল স্লট বেটিং টুর্নামেন্ট: লিডারবোর্ডে শীর্ষে থাকুন (All Slot Betting Tournament: Top the Leaderboard)",
+        image: "/assets/promotions/promo-all-slot-tournament-optimized.webp",
+        details: {
+          "How to Win": "Reach the top rank by achieving the highest total valid turnover in any slot game.",
+          "Eligible Game Kind": "Slot Games",
+          "Eligible Game Platforms": "All Slot Gaming Platforms",
+          "Minimum Requirement": "Total valid turnover during the activity period must be at least 1,000 BDT.",
+          "---": "---",
+          "Ranking Rewards": "---",
+          "Rank #1": "5,000 BDT",
+          "Rank #2": "2,500 BDT",
+          "Rank #3": "1,000 BDT",
+          "Rank #4": "500 BDT",
+          "Rank #5": "250 BDT",
+          "Ranks #6 - #10": "125 BDT",
+          "Ranks #11 - #25": "50 BDT",
+          "Ranks #26 - #50": "25 BDT",
+          "Ranks #51 - #100": "15 BDT",
+          "Ranks #101 - #250": "10 BDT",
+          "Ranks #251 - #500": "5 BDT",
+          "Ranks #501 - #1,000": "5 BDT",
+          "--- ": "---",
+          "Bonus Turnover": "1x",
+          "Release Time": "Bonus will be credited to Main Wallet at 12:00 PM on the day after the activity period ends.",
+          "Promotional Period": "2025/11/01 ~ 2025/11/15"
+        }
       }
     ]
   }
