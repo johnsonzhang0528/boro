@@ -419,6 +419,28 @@ module.exports = [
           "Calculation": "Only valid loss (excluding promotional bets) will be calculated.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "ক্র্যাশ, লাইভ ও স্পোর্টস-এ ৫% পর্যন্ত লোকসান কমিশন (Up to 5% Losing Commission on Crash, Live & Sports)",
+        image: "/assets/promotions/promo-losing-commission-crash-live-sports-optimized.webp",
+        details: {
+          "Game Kind": "Crash, Live, Sports",
+          "Game Platforms": "All Game Platforms",
+          "Activity Period": "Weekly (Monday through Sunday)",
+          "---": "---",
+          "Commission Rate (VIP 1-5)": "0.7% (1+) | 0.8% (10k+) | 1.0% (100k+) | 1.5% (500k+) | 3.5% (1M+)",
+          "Commission Rate (VIP 6-10)": "1.2% (1+) | 1.3% (10k+) | 1.5% (100k+) | 2.0% (500k+) | 4.0% (1M+)",
+          "Commission Rate (VIP 11-15)": "1.7% (1+) | 1.8% (10k+) | 2.0% (100k+) | 2.5% (500k+) | 4.5% (1M+)",
+          "Commission Rate (VIP 16-20)": "2.2% (1+) | 2.3% (10k+) | 2.5% (100k+) | 3.0% (500k+) | 5.0% (1M+)",
+          "Note on Rates": "Rates are based on weekly valid loss tiers (e.g., 10k+ means loss over 10,000).",
+          "--- ": "---",
+          "Minimum Bonus": "1 BDT",
+          "Maximum Bonus": "Unlimited",
+          "Turnover": "1x",
+          "Release Time": "Bonus is credited to Main Wallet at 12:00 PM every Monday.",
+          "Calculation": "Only valid loss (excluding promotional bets) will be calculated.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
     ]
   }
