@@ -21,6 +21,22 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Promotional Period": "2025/05/27 - 2030/12/31"
         }
+      },
+      {
+        title: "BoroJeet-এ স্বাগতম: ৪০০% বোনাস পান! (Welcome to BoroJeet: Get 400% Bonus!)",
+        image: "/assets/promotions/promo-welcome-bonus-optimized.webp",
+        details: {
+          "Bonus": "400",
+          "Join Amount": "100",
+          "Max Withdraw": "500",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 100",
+          "Game Kind": "Slots & Crash Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "Only for VIP 2 and above",
+          "Availability": "Once per Player",
+          "Promotional Period": "2025/05/27 - 2030/12/31"
+        }
       }
     ]
   },
