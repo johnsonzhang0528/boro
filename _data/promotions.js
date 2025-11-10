@@ -15,7 +15,7 @@ module.exports = [
           "Condition": "Today's Deposit: 300",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once daily (Saturday & Sunday)",
-          "Period": "2025/05/27 - 2030/12/31"
+          "Promotional Period": "2025/05/27 - 2030/12/31"
         }
       },
       {
@@ -31,7 +31,24 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Player",
-          "Period": "2025/05/27 - 2030/12/31"
+          "Promotional Period": "2025/05/27 - 2030/12/31"
+        }
+      },
+      {
+        title: "Payday Boost: Win up to 3,000 on All Games!",
+        image: "/assets/promotions/promo-payday-boost-optimized.webp",
+        details: {
+          "Bonus": "200",
+          "Join Amount": "200",
+          "Max Withdraw": "3,000",
+          "Turnover": "Not Required",
+          "Condition": "Deposit 200 on the promotion day",
+          "Game Kind": "All Games",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "All VIP Levels",
+          "Availability": "Every 1st & 15th of the Month",
+          "How to Win?": "Play until promotional wallet hits 4,000",
+          "Promotional Period": "2025/11/01 - 2030/12/31"
         }
       }
       // More 'Special' category promotions can be added here
@@ -55,7 +72,7 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
-          "Period": "2025/05/27 ~ 2030/12/31"
+          "Promotional Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -72,7 +89,7 @@ module.exports = [
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
           "Note": "App-Only Participation Available",
-          "Period": "2025/05/27 ~ 2030/12/31"
+          "Promotional Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -88,7 +105,7 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
-          "Period": "2025/05/27 ~ 2030/12/31"
+          "Promotional Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -104,7 +121,7 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
-          "Period": "2025/05/27 ~ 2030/12/31"
+          "Promotional Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -120,7 +137,7 @@ module.exports = [
           "Game Platforms": "All Game Platforms",
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
-          "Period": "2025/05/27 ~ 2030/12/31"
+          "Promotional Period": "2025/05/27 ~ 2030/12/31"
         }
       },
       {
@@ -137,7 +154,7 @@ module.exports = [
           "Eligible Player": "All VIP Levels",
           "Availability": "Once per Day",
           "How to Win?": "Play until promotional wallet reaches 1,000",
-          "Period": "2025/05/27 - 2030/12/31"
+          "Promotional Period": "2025/05/27 - 2030/12/31"
         }
       }
       // Daily Bonus data can be added here
@@ -158,7 +175,7 @@ module.exports = [
           "Turnover": "1x",
           "Condition": "Weekly Total Deposit: 300",
           "Eligible Player": "VIP 5 and above",
-          "Period": "2025/07/31 ~ 2030/12/31",
+          "Promotional Period": "2025/07/31 ~ 2030/12/31",
           "Note": "Your Facebook share will be reviewed. If the share is not visible on your profile, the reward may not be released."
         }
       },
@@ -176,10 +193,10 @@ module.exports = [
           "VIP 17 - 18": "Total Deposit: 8,000 | Valid Turnover: 400,000 | Bonus: 2,000",
           "VIP 19 - 20": "Total Deposit: 10,000 | Valid Turnover: 800,000 | Bonus: 4,000",
           "Turnover Requirement": "3x",
-          "Activity Period": "Monthly (from the 1st to the end of the month)",
+          "Activity Promotional Period": "Monthly (from the 1st to the end of the month)",
           "Monthly Requirement": "Minimum of 14 deposits and 7 logins during the month.",
           "Distribution Time": "Bonus is credited to the Main Wallet at 12:00 PM on the 1st of the following month.",
-          "Period": "2025/06/08 - 2030/12/31"
+          "Promotional Period": "2025/06/08 - 2030/12/31"
         }
       }
       // VIP related promotions can be added here
