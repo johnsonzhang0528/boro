@@ -198,6 +198,26 @@ module.exports = [
           "Distribution Time": "Bonus is credited to the Main Wallet at 12:00 PM on the 1st of the following month.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "সাপ্তাহিক ভিআইপি বোনাস (Weekly VIP Bonus): Get up to 2,000",
+        image: "/assets/promotions/promo-weekly-vip-bonus-optimized.webp",
+        details: {
+          "Bonus by VIP Level": "See the required weekly deposit and turnover to claim your bonus.",
+          "VIP 1": "Not eligible for this bonus.",
+          "VIP 2 - 4": "Total Deposit: 250 | Valid Turnover: 20,000 | Bonus: 100",
+          "VIP 5 - 7": "Total Deposit: 500 | Valid Turnover: 40,000 | Bonus: 200",
+          "VIP 8 - 10": "Total Deposit: 1,000 | Valid Turnover: 60,000 | Bonus: 300",
+          "VIP 11 - 13": "Total Deposit: 2,000 | Valid Turnover: 80,000 | Bonus: 400",
+          "VIP 14 - 16": "Total Deposit: 3,000 | Valid Turnover: 100,000 | Bonus: 500",
+          "VIP 17 - 18": "Total Deposit: 4,000 | Valid Turnover: 200,000 | Bonus: 1,000",
+          "VIP 19 - 20": "Total Deposit: 5,000 | Valid Turnover: 400,000 | Bonus: 2,000",
+          "Turnover Requirement": "3x",
+          "Activity Period": "Weekly (Friday through Thursday)",
+          "Weekly Requirement": "Minimum of 5 deposits during the activity period.",
+          "Distribution Time": "Bonus is credited to the Main Wallet at 12:00 PM every Friday.",
+          "Promotion Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // VIP related promotions can be added here
     ]
