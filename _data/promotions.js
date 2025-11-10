@@ -37,6 +37,22 @@ module.exports = [
           "Availability": "Once per Player",
           "Promotional Period": "2025/05/27 - 2030/12/31"
         }
+      },
+      {
+        title: "স্বাগতম ক্র্যাশ বোনাস: ১০০% পর্যন্ত! (Welcome Crash Bonus: Up to 100%!)",
+        image: "/assets/promotions/promo-welcome-crash-optimized.webp",
+        details: {
+          "Bonus": "200",
+          "Join Amount": "200",
+          "Max Withdraw": "1,000",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 200",
+          "Game Kind": "Crash",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "Only for VIP 2 and above",
+          "Availability": "Once per Player",
+          "Promotional Period": "2025/05/27 - 2030/12/31"
+        }
       }
     ]
   },
