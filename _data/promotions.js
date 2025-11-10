@@ -166,7 +166,7 @@ module.exports = [
           "Condition": "Deposit and valid turnover must be completed on the same day",
           "Deposit": "1,000",
           "Valid Turnover": "10,000",
-          "Game Kind": "🎰 Slot 🐳 Fisher 🚀 Crash",
+          "Game Kind": "Slot & Fisher & Crash",
           "Game Platform": "All Game Platforms",
           "---Lucky Draw Rewards---": "Prizes vary by VIP level",
           "VIP 1 - 10": "Possible Prizes: 80, 100, 120, 140, 160, 180, 200, 400, 800, 999",
