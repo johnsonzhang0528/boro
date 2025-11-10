@@ -511,6 +511,28 @@ module.exports = [
           "Bonus Turnover": "3x",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "অ্যাফিলিয়েট পার্টনার: ৫০% পর্যন্ত কমিশন উপার্জন করুন (Affiliate Partner: Earn up to 50% Commission)",
+        image: "/assets/promotions/promo-affiliate-commission-optimized.webp",
+        details: {
+          "Headline": "Become our partner and earn up to 50% commission!",
+          "---": "---",
+          "Plan A: Fixed Commission (40%)": "---",
+          "Commission Rate (Plan A)": "40%",
+          "Requirement (Plan A)": "5 Active Members & 1,000 Company Net Profit",
+          "Applicable Games (Plan A)": "Slot, Fisher, and Crash games only.",
+          "--- ": "---",
+          "Plan B: Tiered Commission (Up to 50%)": "---",
+          "Tier 1 (5 Members)": "30% Commission (on 1,000 Net Profit)",
+          "Tier 2 (10 Members)": "35% Commission (on 1,000 Net Profit)",
+          "Tier 3 (15 Members)": "40% Commission (on 10,000 Net Profit)",
+          "Tier 4 (20 Members)": "45% Commission (on 10,000 Net Profit)",
+          "Tier 5 (30 Members)": "50% Commission (on 100,000 Net Profit)",
+          "Applicable Games (Plan B)": "All Games.",
+          "---  ": "---",
+          "Promotional Period": "2025/06/27 - 2030/06/30"
+        }
       }
     ]
   }
