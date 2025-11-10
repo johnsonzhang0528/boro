@@ -50,6 +50,34 @@ module.exports = [
           "How to Win?": "Play until promotional wallet hits 4,000",
           "Promotional Period": "2025/11/01 - 2030/12/31"
         }
+      },
+      {
+        title: "শুভ জন্মদিন বোনাস: ৬,০০০ পর্যন্ত উপহার! (Happy Birthday Bonus: Get up to 6,000!)",
+        image: "/assets/promotions/promo-birthday-bonus-optimized.webp",
+        details: {
+          "Availability": "Once per Year, on your birth month.",
+          "Claim Time": "Claim from Bonus Notification after 12:00 PM on the 15th of your birth month.",
+          "Calculation Period": "Total deposit and turnover are calculated from the month preceding your birth month.",
+          "---": "---",
+          "Main Birthday Bonus": "---",
+          "VIP 1": "Not eligible for this promotion.",
+          "VIP 2 - 4": "Deposit: 500 | Turnover: 6,000 | Bonus: 50 (3x Wagering)",
+          "VIP 5 - 7": "Deposit: 1,000 | Turnover: 12,000 | Bonus: 100 (3x Wagering)",
+          "VIP 8 - 10": "Deposit: 2,000 | Turnover: 24,000 | Bonus: 200 (2x Wagering)",
+          "VIP 11 - 13": "Deposit: 3,000 | Turnover: 36,000 | Bonus: 300 (2x Wagering)",
+          "VIP 14 - 16": "Deposit: 5,000 | Turnover: 60,000 | Bonus: 500 (1x Wagering)",
+          "VIP 17 - 20": "Deposit: 10,000 | Turnover: 120,000 | Bonus: 1,000 (1x Wagering)",
+          "--- ": "---",
+          "Extra Bonus (based on Total Deposit)": "---",
+          "Extra (VIP 2-4)": "Total Deposit 50,000 -> Bonus 550",
+          "Extra (VIP 5-7)": "Total Deposit 100,000 -> Bonus 1,100",
+          "Extra (VIP 8-10)": "Total Deposit 200,000 -> Bonus 2,200",
+          "Extra (VIP 11-13)": "Total Deposit 300,000 -> Bonus 3,300",
+          "Extra (VIP 14-16)": "Total Deposit 400,000 -> Bonus 4,500",
+          "Extra (VIP 17-20)": "Total Deposit 500,000 -> Bonus 6,000",
+          "---  ": "---",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // More 'Special' category promotions can be added here
     ]
