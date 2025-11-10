@@ -316,6 +316,36 @@ module.exports = [
       }
       // VIP related promotions can be added here
     ]
+  },
+  {
+    category: "Rebate Offers",
+    slug: "rebate",
+    description: "Get daily rebates on your turnover. The more you play, the more you get back!",
+    items: [
+      {
+        title: "স্লট ও ফিশার-এ ১.৫% দৈনিক রিবেট (1.5% Daily Rebate on Slot & Fisher)",
+        image: "/assets/promotions/promo-daily-rebate-slot-fisher-optimized.webp",
+        details: {
+          "Game Kind": "Slot & Fisher",
+          "Game Platforms": "All Game Platforms",
+          "---": "---",
+          "Rebate Rate (VIP 1-5)": "0.4% (1+) | 0.5% (10k+) | 0.6% (100k+) | 0.7% (500k+) | 1.0% (1M+)",
+          "Rebate Rate (VIP 6-7)": "0.5% (1+) | 0.6% (10k+) | 0.7% (100k+) | 0.8% (500k+) | 1.1% (1M+)",
+          "Rebate Rate (VIP 8-9)": "0.6% (1+) | 0.7% (10k+) | 0.8% (100k+) | 0.9% (500k+) | 1.2% (1M+)",
+          "Rebate Rate (VIP 10-11)": "0.7% (1+) | 0.8% (10k+) | 0.9% (100k+) | 1.0% (500k+) | 1.3% (1M+)",
+          "Rebate Rate (VIP 12-13)": "0.8% (1+) | 0.9% (10k+) | 1.0% (100k+) | 1.1% (500k+) | 1.4% (1M+)",
+          "Rebate Rate (VIP 14-20)": "0.9% (1+) | 1.0% (10k+) | 1.1% (100k+) | 1.2% (500k+) | 1.5% (1M+)",
+          "Note on Rates": "Rates are based on daily valid turnover tiers (e.g., 10k+ means turnover over 10,000).",
+          "--- ": "---",
+          "Minimum Bonus": "1 BDT",
+          "Maximum Bonus": "Unlimited",
+          "Turnover": "1x",
+          "Release Time": "12:00 PM Daily",
+          "Calculation": "Only valid turnover (excluding promotional bets) will be calculated.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
+      }
+    ]
   }
   // ... Other categories
 ];
