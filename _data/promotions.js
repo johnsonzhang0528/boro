@@ -78,6 +78,21 @@ module.exports = [
           "---  ": "---",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "ডিপোজিট বুস্ট: ০.৫% থেকে ৩% পর্যন্ত বোনাস! (Deposit Boost: 0.5% to 3% Bonus!)",
+        image: "/assets/promotions/promo-deposit-boost-optimized.webp",
+        details: {
+          "Bonus Rate": "0.5% to 3%",
+          "Maximum Bonus": "Unlimited",
+          "Minimum Deposit": "100",
+          "Turnover": "3x",
+          "Payment Methods": "All Payment Channels",
+          "Eligible Players": "All VIP Levels",
+          "Availability": "Bonus is available on the 1st & 3rd Sunday, Monday, and Tuesday of every month.",
+          "Example Availability (November)": "Nov. 2nd-4th and Nov. 16th-18th",
+          "Promotional Period": "2025/10/05 ~ 2030/12/31"
+        }
       }
       // More 'Special' category promotions can be added here
     ]
