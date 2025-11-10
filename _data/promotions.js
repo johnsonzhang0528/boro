@@ -465,6 +465,36 @@ module.exports = [
         }
       }
     ]
+  },
+  {
+    category: "Referral Program",
+    slug: "referral",
+    description: "Invite friends and earn rewards together! The more you refer, the more you earn.",
+    items: [
+      {
+        title: "৳৪০০ রেফারেল বোনাস: বন্ধুদের আমন্ত্রণ করে পুরস্কার জিতুন (৳400 Referral Bonus: Invite Friends & Earn Rewards)",
+        image: "/assets/promotions/promo-referral-bonus-optimized.webp",
+        details: {
+          "Total Bonus": "Up to 400 BDT for both referrer and new member.",
+          "Applicable Games": "Slot, Fisher, Crash",
+          "---": "---",
+          "For the Referrer": "---",
+          "Bonus (Referrer)": "200 BDT",
+          "Turnover (Referrer)": "3x",
+          "Eligibility (Referrer)": "VIP 2 - VIP 20 with a total deposit of 1,000 BDT.",
+          "Availability (Referrer)": "Unlimited referrals.",
+          "--- ": "---",
+          "For the New Member (Friend)": "---",
+          "Bonus (New Member)": "200 BDT",
+          "Turnover (New Member)": "3x",
+          "Condition (New Member)": "Achieve a total deposit of 1,000 BDT and a total turnover of 20,000 BDT within 7 days of registration.",
+          "Availability (New Member)": "Once per new member.",
+          "---  ": "---",
+          "Release Time": "Bonuses are credited daily at 12:00 PM.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
+      }
+    ]
   }
   // ... Other categories
 ];
