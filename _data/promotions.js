@@ -392,6 +392,35 @@ module.exports = [
         }
       }
     ]
+  },
+  {
+    category: "Cashback Offers",
+    slug: "cashback",
+    description: "Get a percentage of your losses back. A safety net for our players.",
+    items: [
+      {
+        title: "স্লট ও ফিশার-এ ৮% পর্যন্ত লোকসান কমিশন (Up to 8% Losing Commission on Slot & Fisher)",
+        image: "/assets/promotions/promo-losing-commission-slot-fisher-optimized.webp",
+        details: {
+          "Game Kind": "Slot & Fisher",
+          "Game Platforms": "All Game Platforms",
+          "Activity Period": "Weekly (Monday through Sunday)",
+          "---": "---",
+          "Commission Rate (VIP 1-5)": "1.5% (1+) | 2.5% (10k+) | 3.5% (100k+) | 4.5% (500k+) | 6.5% (1M+)",
+          "Commission Rate (VIP 6-10)": "2.0% (1+) | 3.0% (10k+) | 4.0% (100k+) | 5.0% (500k+) | 7.0% (1M+)",
+          "Commission Rate (VIP 11-15)": "2.5% (1+) | 3.5% (10k+) | 4.5% (100k+) | 5.5% (500k+) | 7.5% (1M+)",
+          "Commission Rate (VIP 16-20)": "3.0% (1+) | 4.0% (10k+) | 5.0% (100k+) | 6.0% (500k+) | 8.0% (1M+)",
+          "Note on Rates": "Rates are based on weekly valid loss tiers (e.g., 10k+ means loss over 10,000).",
+          "--- ": "---",
+          "Minimum Bonus": "1 BDT",
+          "Maximum Bonus": "Unlimited",
+          "Turnover": "1x",
+          "Release Time": "Bonus is credited to Main Wallet at 12:00 PM every Monday.",
+          "Calculation": "Only valid loss (excluding promotional bets) will be calculated.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
+      }
+    ]
   }
   // ... Other categories
 ];
