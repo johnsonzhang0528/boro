@@ -106,137 +106,21 @@ tags: "index"
     </ul>
   </section>
 
-  <!-- BONUS TABLE -->
-  <section class="card" aria-labelledby="bonus">
-    <h2 id="bonus">আজকের Welcome Bonuses & T&Cs</h2>
-    <table class="table" aria-describedby="bonus">
-      <thead>
-        <tr>
-          <th>Offer</th>
-          <th>Bonus (BDT)</th>
-          <th>Join Amount</th>
-          <th>Max Withdraw</th>
-          <th>Turnover</th>
-          <th>Condition</th>
-          <th>Game Kind</th>
-          <th>Eligible</th>
-          <th>Availability</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 300</td>
-          <td data-label="Bonus (BDT)"><span class="money">৳300</span></td>
-          <td data-label="Join Amount">Not Required</td>
-          <td data-label="Max Withdraw">৳300</td>
-          <td data-label="Turnover">20×</td>
-          <td data-label="Condition">Total Deposit: 300</td>
-          <td data-label="Game Kind">Slots / Live / Crash</td>
-          <td data-label="Eligible">VIP 2–VIP 5</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 200</td>
-          <td data-label="Bonus (BDT)"><span class="money">৳200</span></td>
-          <td data-label="Join Amount">Not Required</td>
-          <td data-label="Max Withdraw">৳200</td>
-          <td data-label="Turnover">25×</td>
-          <td data-label="Condition">Total Deposit: 100</td>
-          <td data-label="Game Kind">Slots / Live / Crash</td>
-          <td data-label="Eligible">VIP 2–VIP 5</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Registration Bonus</strong> — Tier 100</td>
-          <td data-label="Bonus (BDT)"><span class="money">৳100</span></td>
-          <td data-label="Join Amount">Not Required</td>
-          <td data-label="Max Withdraw">৳100</td>
-          <td data-label="Turnover">30×</td>
-          <td data-label="Condition">App Only</td>
-          <td data-label="Game Kind">Slots</td>
-          <td data-label="Eligible">VIP 2–VIP 5</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Welcome to BoroJeet 400%</strong></td>
-          <td data-label="Bonus (BDT)"><span class="money">৳400</span></td>
-          <td data-label="Join Amount">৳100</td>
-          <td data-label="Max Withdraw">৳500</td>
-          <td data-label="Turnover">20×</td>
-          <td data-label="Condition">Today's Deposit: 100</td>
-          <td data-label="Game Kind">Slots / Live / Crash</td>
-          <td data-label="Eligible">VIP 2+</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Welcome Crash 100%</strong></td>
-          <td data-label="Bonus (BDT)"><span class="money">৳200</span></td>
-          <td data-label="Join Amount">৳200</td>
-          <td data-label="Max Withdraw">৳1,000</td>
-          <td data-label="Turnover">20×</td>
-          <td data-label="Condition">Today's Deposit: 200</td>
-          <td data-label="Game Kind">Crash</td>
-          <td data-label="Eligible">VIP 2+</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Welcome Fisher 200%</strong></td>
-          <td data-label="Bonus (BDT)"><span class="money">৳600</span></td>
-          <td data-label="Join Amount">৳300</td>
-          <td data-label="Max Withdraw">৳1,500</td>
-          <td data-label="Turnover">20×</td>
-          <td data-label="Condition">Today's Deposit: 300</td>
-          <td data-label="Game Kind">Fisher</td>
-          <td data-label="Eligible">VIP 2+</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Welcome Slot 300%</strong></td>
-          <td data-label="Bonus (BDT)"><span class="money">৳900</span></td>
-          <td data-label="Join Amount">৳300</td>
-          <td data-label="Max Withdraw">৳1,500</td>
-          <td data-label="Turnover">20×</td>
-          <td data-label="Condition">Today's Deposit: 300</td>
-          <td data-label="Game Kind">Slot</td>
-          <td data-label="Eligible">VIP 2+</td>
-          <td data-label="Availability">Once per Day</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Download App Bonus</strong> — Tier 150</td>
-          <td data-label="Bonus (BDT)"><span class="money">৳150</span></td>
-          <td data-label="Join Amount">Not Required</td>
-          <td data-label="Max Withdraw">৳200</td>
-          <td data-label="Turnover">10×</td>
-          <td data-label="Condition">Total Deposit: 1,000</td>
-          <td data-label="Game Kind">Slot / Fisher / Crash</td>
-          <td data-label="Eligible">All VIP Levels</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Download App Bonus</strong> — Tier 100</td>
-          <td data-label="Bonus (BDT)"><span class="money">৳100</span></td>
-          <td data-label="Join Amount">Not Required</td>
-          <td data-label="Max Withdraw">৳150</td>
-          <td data-label="Turnover">10×</td>
-          <td data-label="Condition">Total Deposit: 500</td>
-          <td data-label="Game Kind">Slot / Fisher / Crash</td>
-          <td data-label="Eligible">All VIP Levels</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-        <tr>
-          <td data-label="Offer"><strong>Download App Bonus</strong> — Tier 50</td>
-          <td data-label="Bonus (BDT)"><span class="money">৳50</span></td>
-          <td data-label="Join Amount">Not Required</td>
-          <td data-label="Max Withdraw">৳100</td>
-          <td data-label="Turnover">10×</td>
-          <td data-label="Condition">Total Deposit: 300</td>
-          <td data-label="Game Kind">Slot / Fisher / Crash</td>
-          <td data-label="Eligible">All VIP Levels</td>
-          <td data-label="Availability">Once per Player</td>
-        </tr>
-      </tbody>
-    </table>
-    <p class="note">Note: Only one promotional offer can be claimed at a time. বোনাস শর্তাবলী (T&Cs) প্রযোজ্য।</p>
+  <!-- Newbie Welcome Bonus Banner -->
+  <section class="grid grid-2" aria-labelledby="newbie-bonus-heading">
+    <div class="img-frame">
+      <picture>
+        <source srcset="/assets/promotions/promo-welcome-bonus-optimized.webp" type="image/webp">
+        <img src="/assets/promotions/promo-welcome-bonus-optimized.webp" alt="BoroJeet New Player Welcome Bonus" width="800" height="450" loading="lazy">
+      </picture>
+    </div>
+    <div>
+      <h2 id="newbie-bonus-heading">নতুন খেলোয়াড়দের জন্য বিশেষ অফার! (Exclusive Offer for New Players!)</h2>
+      <p>BoroJeet-এ যোগ দিন এবং আমাদের অবিশ্বাস্য স্বাগত বোনাস প্যাকেজ দিয়ে আপনার যাত্রা শুরু করুন। প্রথম ডিপোজিটে 400% পর্যন্ত বোনাস পান!</p>
+      <p>
+        <a class="cta" href="/promotions/newbie/">বোনাস বিস্তারিত দেখুন (View Bonus Details)</a>
+      </p>
+    </div>
   </section>
 
   <!-- HOWTO DEPOSIT -->
