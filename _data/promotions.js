@@ -161,6 +161,26 @@ module.exports = [
           "Period": "2025/07/31 ~ 2030/12/31",
           "Note": "Your Facebook share will be reviewed. If the share is not visible on your profile, the reward may not be released."
         }
+      },
+      {
+        title: "মাসিক ভিআইপি বোনাস (Monthly VIP Bonus): Earn Up to 4,000",
+        image: "/assets/promotions/promo-monthly-vip-bonus-optimized.webp",
+        details: {
+          "Bonus Details by VIP Level": "See the required monthly deposit and turnover to claim your bonus.",
+          "VIP 1": "Not eligible for this bonus.",
+          "VIP 2 - 4": "Total Deposit: 500 | Valid Turnover: 40,000 | Bonus: 200",
+          "VIP 5 - 7": "Total Deposit: 1,000 | Valid Turnover: 80,000 | Bonus: 400",
+          "VIP 8 - 10": "Total Deposit: 2,000 | Valid Turnover: 120,000 | Bonus: 600",
+          "VIP 11 - 13": "Total Deposit: 4,000 | Valid Turnover: 160,000 | Bonus: 800",
+          "VIP 14 - 16": "Total Deposit: 6,000 | Valid Turnover: 200,000 | Bonus: 1,000",
+          "VIP 17 - 18": "Total Deposit: 8,000 | Valid Turnover: 400,000 | Bonus: 2,000",
+          "VIP 19 - 20": "Total Deposit: 10,000 | Valid Turnover: 800,000 | Bonus: 4,000",
+          "Turnover Requirement": "3x",
+          "Activity Period": "Monthly (from the 1st to the end of the month)",
+          "Monthly Requirement": "Minimum of 14 deposits and 7 logins during the month.",
+          "Distribution Time": "Bonus is credited to the Main Wallet at 12:00 PM on the 1st of the following month.",
+          "Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // VIP related promotions can be added here
     ]
