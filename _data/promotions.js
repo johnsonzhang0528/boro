@@ -1,6 +1,6 @@
 module.exports = [
   {
-    category: "Newbie",
+    category: "🎁 Newbie Offers (নতুনদের জন্য)",
     slug: "newbie",
     description: "Exclusive offers for new players joining BoroJeet.",
     items: [
@@ -82,7 +82,7 @@ module.exports = [
     ]
   },
   {
-    category: "Special Offers",
+    category: "✨ Special Offers (বিশেষ অফার)",
     slug: "special",
     description: "Limited-time offers for special events and holidays.",
     items: [
@@ -182,7 +182,7 @@ module.exports = [
     ]
   },
   {
-    category: "Daily Offers",
+    category: "☀️ Daily Offers (দৈনিক অফার)",
     slug: "daily",
     description: "Get new bonuses and rewards every day.",
     items: [
@@ -353,7 +353,7 @@ module.exports = [
     ]
   },
   {
-    category: "VIP Loyalty",
+    category: "👑 VIP Loyalty (ভিআইপি প্রোগ্রাম)",
     slug: "vip",
     description: "Exclusive rewards for our loyal players.",
     items: [
@@ -445,7 +445,7 @@ module.exports = [
     ]
   },
   {
-    category: "Rebate Offers",
+    category: "💰 Rebate Offers (রিবেট অফার)",
     slug: "rebate",
     description: "Get daily rebates on your turnover. The more you play, the more you get back!",
     items: [
@@ -521,7 +521,7 @@ module.exports = [
     ]
   },
   {
-    category: "Cashback Offers",
+    category: "💸 Cashback Offers (ক্যাশব্যাক অফার)",
     slug: "cashback",
     description: "Get a percentage of your losses back. A safety net for our players.",
     items: [
@@ -594,7 +594,7 @@ module.exports = [
     ]
   },
   {
-    category: "Referral Program",
+    category: "🤝 Referral Program (রেফারেল প্রোগ্রাম)",
     slug: "referral",
     description: "Invite friends and earn rewards together! The more you refer, the more you earn.",
     items: [
@@ -664,7 +664,7 @@ module.exports = [
     ]
   },
   {
-    category: "Tournaments",
+    category: "🏆 Tournaments (টুর্নামেন্ট)",
     slug: "tournament",
     description: "Compete with other players in our exciting tournaments and win big prizes!",
     items: [
