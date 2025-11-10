@@ -53,6 +53,22 @@ module.exports = [
           "Availability": "Once per Player",
           "Promotional Period": "2025/05/27 - 2030/12/31"
         }
+      },
+      {
+        title: "স্বাগতম ফিশার বোনাস: ২০০% পর্যন্ত! (Welcome Fisher Bonus: Up to 200%!)",
+        image: "/assets/promotions/promo-welcome-fisher-optimized.webp",
+        details: {
+          "Bonus": "600",
+          "Join Amount": "300",
+          "Max Withdraw": "1,500",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 300",
+          "Game Kind": "Fisher",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "Only for VIP 2 and above",
+          "Availability": "Once per Player",
+          "Promotional Period": "2025/08/04 - 2031/08/04"
+        }
       }
     ]
   },
