@@ -441,6 +441,28 @@ module.exports = [
           "Calculation": "Only valid loss (excluding promotional bets) will be calculated.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "সব গেমে ২.৫% পর্যন্ত লোকসান কমিশন (Up to 2.5% Losing Commission on All Games)",
+        image: "/assets/promotions/promo-losing-commission-all-games-optimized.webp",
+        details: {
+          "Game Kind": "Table, Arcade, Card, Lottery, Cockfighting, Others",
+          "Game Platforms": "All Game Platforms",
+          "Activity Period": "Weekly (Monday through Sunday)",
+          "---": "---",
+          "Commission Rate (VIP 1-5)": "0.6% ~ 1.0%",
+          "Commission Rate (VIP 6-10)": "1.1% ~ 1.5%",
+          "Commission Rate (VIP 11-15)": "1.6% ~ 2.0%",
+          "Commission Rate (VIP 16-20)": "2.1% ~ 2.5%",
+          "Note on Rates": "Rates vary based on 5 tiers of weekly valid loss (1+, 10k+, 100k+, 500k+, 1M+).",
+          "--- ": "---",
+          "Minimum Bonus": "1 BDT",
+          "Maximum Bonus": "Unlimited",
+          "Turnover": "1x",
+          "Release Time": "Bonus is credited to Main Wallet at 12:00 PM every Monday.",
+          "Calculation": "Only valid loss (excluding promotional bets) will be calculated.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
     ]
   }
