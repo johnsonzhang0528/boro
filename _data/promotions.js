@@ -186,6 +186,28 @@ module.exports = [
           "Note": "This is a daily login reward for loyal players, no deposit or turnover required.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "সাত দিনের চেক-ইন চ্যালেঞ্জ: প্রতিদিন পুরস্কার! (7-Day Check-In: Rewards Every Day!)",
+        image: "/assets/promotions/promo-check-in-challenge-optimized.webp",
+        details: {
+          "Challenge": "Complete daily tasks for 7 consecutive days to claim increasing rewards.",
+          "Eligible Players": "All VIP Levels",
+          "Daily Task (must complete both)": "1. Deposit: 200 BDT | 2. Valid Turnover: 1,000 BDT",
+          "Consecutive Requirement": "Tasks must be completed daily without interruption. Interruption may reset the check-in count.",
+          "---": "---",
+          "Day 1 Reward": "1 BDT",
+          "Day 2 Reward": "3 BDT",
+          "Day 3 Reward": "5 BDT",
+          "Day 4 Reward": "10 BDT",
+          "Day 5 Reward": "20 BDT",
+          "Day 6 Reward": "30 BDT",
+          "Day 7 Reward": "50 BDT",
+          "Total Reward": "Up to 119 BDT for 7 consecutive days.",
+          "Bonus Turnover": "1x",
+          "Applicable Games": "All Games on All Platforms",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
       // Daily Bonus data can be added here
     ]
