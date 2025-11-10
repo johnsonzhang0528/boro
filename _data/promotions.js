@@ -5,78 +5,21 @@ module.exports = [
     description: "Exclusive offers for new players joining BoroJeet.",
     items: [
       {
-        title: "Registration Bonus — Tier 300",
-        image: "/assets/promotions/promo-welcome-bonus-optimized.webp",
+        title: "রেজিস্ট্রেশন বোনাস: ৩০০ পর্যন্ত বিনামূল্যে পান! (Registration Bonus: Get up to 300 Free!)",
+        image: "/assets/promotions/promo-registration-bonus-optimized.webp",
         details: {
-          "Bonus": "৳300",
+          "Headline": "Choose one of the three registration bonus plans. Only one can be claimed.",
+          "---": "---",
+          "Plan 1: Bonus 300": "Total Deposit: 300 | Max Withdraw: 300 | Turnover: 20x",
+          "Plan 2: Bonus 200": "Total Deposit: 100 | Max Withdraw: 200 | Turnover: 25x",
+          "Plan 3: Bonus 100 (App Only)": "Max Withdraw: 100 | Turnover: 30x | Game Kind: Slots",
+          "--- ": "---",
           "Join Amount": "Not Required",
-          "Max Withdraw": "৳300",
-          "Turnover": "20x",
-          "Condition": "Total Deposit: 300",
-          "Game Kind": "Slots / Live / Crash",
-          "Eligible Player": "VIP 2–VIP 5",
+          "Eligible Players": "VIP 2 to VIP 5",
           "Availability": "Once per Player",
-          "Promotional Period": "Ongoing"
-        }
-      },
-      {
-        title: "Welcome to BoroJeet 400%",
-        image: "/assets/promotions/promo-welcome-bonus-optimized.webp",
-        details: {
-          "Bonus": "৳400",
-          "Join Amount": "৳100",
-          "Max Withdraw": "৳500",
-          "Turnover": "20x",
-          "Condition": "Today's Deposit: 100",
-          "Game Kind": "Slots / Live / Crash",
-          "Eligible Player": "VIP 2+",
-          "Availability": "Once per Player",
-          "Promotional Period": "Ongoing"
-        }
-      },
-      {
-        title: "Welcome Crash 100%",
-        image: "/assets/promotions/promo-welcome-crash-optimized.webp",
-        details: {
-          "Bonus": "৳200",
-          "Join Amount": "৳200",
-          "Max Withdraw": "৳1,000",
-          "Turnover": "20x",
-          "Condition": "Today's Deposit: 200",
-          "Game Kind": "Crash",
-          "Eligible Player": "VIP 2+",
-          "Availability": "Once per Player",
-          "Promotional Period": "Ongoing"
-        }
-      },
-      {
-        title: "Welcome Fisher 200%",
-        image: "/assets/promotions/promo-welcome-fisher-optimized.webp",
-        details: {
-          "Bonus": "৳600",
-          "Join Amount": "৳300",
-          "Max Withdraw": "৳1,500",
-          "Turnover": "20x",
-          "Condition": "Today's Deposit: 300",
-          "Game Kind": "Fisher",
-          "Eligible Player": "VIP 2+",
-          "Availability": "Once per Player",
-          "Promotional Period": "Ongoing"
-        }
-      },
-      {
-        title: "Welcome Slot 300%",
-        image: "/assets/promotions/promo-welcome-slot-optimized.webp",
-        details: {
-          "Bonus": "৳900",
-          "Join Amount": "৳300",
-          "Max Withdraw": "৳1,500",
-          "Turnover": "20x",
-          "Condition": "Today's Deposit: 300",
-          "Game Kind": "Slot",
-          "Eligible Player": "VIP 2+",
-          "Availability": "Once per Day",
-          "Promotional Period": "Ongoing"
+          "Applicable Games (Plan 1 & 2)": "Slots & Crash Games",
+          "Game Platforms": "All Game Platforms",
+          "Promotional Period": "2025/05/27 - 2030/12/31"
         }
       }
     ]
