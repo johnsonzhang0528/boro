@@ -344,6 +344,29 @@ module.exports = [
           "Calculation": "Only valid turnover (excluding promotional bets) will be calculated.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
+      },
+      {
+        title: "ক্র্যাশ, লাইভ ও স্পোর্টস-এ ১.০% দৈনিক রিবেট (1.0% Daily Rebate on Crash, Live & Sports)",
+        image: "/assets/promotions/promo-daily-rebate-crash-live-sport-optimized.webp",
+        details: {
+          "Game Kind": "Crash, Live, Sports",
+          "Game Platforms": "All Game Platforms",
+          "---": "---",
+          "Rebate Rate (VIP 1-5)": "0.1% (1+) | 0.2% (10k+) | 0.3% (100k+) | 0.4% (500k+) | 0.5% (1M+)",
+          "Rebate Rate (VIP 6-7)": "0.2% (1+) | 0.3% (10k+) | 0.4% (100k+) | 0.5% (500k+) | 0.6% (1M+)",
+          "Rebate Rate (VIP 8-9)": "0.3% (1+) | 0.4% (10k+) | 0.5% (100k+) | 0.6% (500k+) | 0.7% (1M+)",
+          "Rebate Rate (VIP 10-11)": "0.4% (1+) | 0.5% (10k+) | 0.6% (100k+) | 0.7% (500k+) | 0.8% (1M+)",
+          "Rebate Rate (VIP 12-13)": "0.5% (1+) | 0.6% (10k+) | 0.7% (100k+) | 0.8% (500k+) | 0.9% (1M+)",
+          "Rebate Rate (VIP 14-20)": "0.6% (1+) | 0.7% (10k+) | 0.8% (100k+) | 0.9% (500k+) | 1.0% (1M+)",
+          "Note on Rates": "Rates are based on daily valid turnover tiers (e.g., 10k+ means turnover over 10,000).",
+          "--- ": "---",
+          "Minimum Bonus": "1 BDT",
+          "Maximum Bonus": "Unlimited",
+          "Turnover": "1x",
+          "Release Time": "12:00 PM Daily",
+          "Calculation": "Only valid turnover (excluding promotional bets) will be calculated.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
       }
     ]
   }
