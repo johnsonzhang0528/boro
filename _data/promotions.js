@@ -35,7 +35,7 @@ module.exports = [
         }
       },
       {
-        title: "Payday Boost: Win up to 3,000 on All Games!",
+        title: "পে-ডে বুস্ট: সব গেমে ৩,০০০ পর্যন্ত জিতুন! (Payday Boost: Win up to 3,000 on All Games!)",
         image: "/assets/promotions/promo-payday-boost-optimized.webp",
         details: {
           "Bonus": "200",
@@ -141,7 +141,7 @@ module.exports = [
         }
       },
       {
-        title: "Daily Slots & Crash Bonus: Win up to 1,000!",
+        title: "দৈনিক স্লট ও ক্র্যাশ বোনাস: ১,০০০ পর্যন্ত জিতুন! (Daily Slots & Crash Bonus: Win up to 1,000!)",
         image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
         details: {
           "Bonus": "100",
@@ -158,7 +158,7 @@ module.exports = [
         }
       },
       {
-        title: "99,999 Lucky Draw: Spin & Win Big Daily",
+        title: "99,999 লাকি ড্র: স্পিন করে বড় জিতুন (Spin & Win Big)",
         image: "/assets/promotions/promo-lucky-draw-optimized.webp",
         details: {
           "Turnover": "1x",
@@ -172,6 +172,18 @@ module.exports = [
           "VIP 1 - 10": "Possible Prizes: 80, 100, 120, 140, 160, 180, 200, 400, 800, 999",
           "VIP 11 - 15": "Possible Prizes: 100, 120, 140, 160, 180, 200, 300, 500, 1,000, 9,999",
           "VIP 16 - 20": "Possible Prizes: 100, 150, 200, 250, 300, 400, 500, 1,000, 10,000, 99,999",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
+      },
+      {
+        title: "300 Login Draw: শুধু লগইন করে পয়েন্ট জিতুন (Just Login & Win Points)",
+        image: "/assets/promotions/promo-login-draw-optimized.webp",
+        details: {
+          "How to Participate": "Log in daily during the promotion period to get a lucky draw chance.",
+          "Eligible Players": "VIP Level 2 to VIP 20",
+          "Availability": "Once per eligible player, per day.",
+          "Rewards": "Randomly draw one of the following points rewards: 50, 100, 150, 200, 250, or 300 points.",
+          "Note": "This is a daily login reward for loyal players, no deposit or turnover required.",
           "Promotional Period": "2025/06/08 - 2030/12/31"
         }
       }
