@@ -563,6 +563,38 @@ module.exports = [
         }
       }
     ]
+  },
+  {
+    category: "Tournaments",
+    slug: "tournament",
+    description: "Compete with other players in our exciting tournaments and win big prizes!",
+    items: [
+      {
+        title: "ড্রাগন ও টাইগার টুর্নামেন্ট: লিডারবোর্ডে শীর্ষে থাকুন (Dragon & Tiger Tournament: Top the Leaderboard)",
+        image: "/assets/promotions/promo-dragon-tiger-tournament-optimized.webp",
+        details: {
+          "How to Participate": "Place bets on eligible slot games to automatically join the tournament.",
+          "Eligible Game Kind": "Slot",
+          "Eligible Game Platforms": "FC, JDB, JILI, PG, PP, PT, RT, VP, YB",
+          "---": "---",
+          "Dragon Leaderboard (龙榜)": "---",
+          "Qualification (Dragon)": "Win at least 1,000 BDT in a single round.",
+          "Daily Champion (Dragon)": "2,400 BDT",
+          "Weekly Champion (Dragon)": "4,800 BDT",
+          "Monthly Champion (Dragon)": "9,600 BDT",
+          "--- ": "---",
+          "Tiger Leaderboard (虎榜)": "---",
+          "Qualification (Tiger)": "Achieve a win multiplier of 200x in a single round.",
+          "Daily Champion (Tiger)": "1,600 BDT",
+          "Weekly Champion (Tiger)": "3,200 BDT",
+          "Monthly Champion (Tiger)": "6,400 BDT",
+          "---  ": "---",
+          "Bonus Turnover": "1x",
+          "Release Time": "Prizes are distributed daily at 12:00 PM.",
+          "Promotional Period": "2025/06/08 - 2030/12/31"
+        }
+      }
+    ]
   }
   // ... Other categories
 ];
