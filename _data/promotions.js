@@ -69,6 +69,22 @@ module.exports = [
           "Availability": "Once per Player",
           "Promotional Period": "2025/08/04 - 2031/08/04"
         }
+      },
+      {
+        title: "স্বাগতম স্লট বোনাস: ৩০০% পর্যন্ত! (Welcome Slot Bonus: Up to 300%!)",
+        image: "/assets/promotions/promo-welcome-slot-optimized.webp",
+        details: {
+          "Bonus": "900",
+          "Join Amount": "300",
+          "Max Withdraw": "1,500",
+          "Turnover": "20x",
+          "Condition": "Today's Deposit: 300",
+          "Game Kind": "Slot",
+          "Game Platforms": "All Game Platforms",
+          "Eligible Player": "Only for VIP 2 and above",
+          "Availability": "Once per Day",
+          "Promotional Period": "2025/08/04 - 2031/08/05"
+        }
       }
     ]
   },
