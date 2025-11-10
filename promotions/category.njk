@@ -10,6 +10,35 @@ layout: "post.njk"
 <h1>{{ promoCategory.category }}</h1>
 <p>{{ promoCategory.description }}</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "{{ promoCategory.category }} Promotions",
+  "description": "{{ promoCategory.description }}",
+  "numberOfItems": "{{ promoCategory.items | length }}",
+  "itemListElement": [
+    {% for item in promoCategory.items %}
+    {
+      "@type": "ListItem",
+      "position": {{ loop.index }},
+      "item": {
+        "@type": "Promotion",
+        "name": "{{ item.title }}",
+        {% if item.image %}"image": "{{ site.url }}{{ item.image }}",{% endif %}
+        "description": "{{ item.details.Headline or promoCategory.description }}",
+        {% if item.details['Promotional Period'] %}
+        "startDate": "{{ item.details['Promotional Period'] | replace('~', ' - ') | split(' - ')[0] | date('YYYY-MM-DD') }}",
+        "endDate": "{{ item.details['Promotional Period'] | replace('~', ' - ') | split(' - ')[1] | date('YYYY-MM-DD') }}",
+        {% endif %}
+        "url": "{{ site.url }}{{ page.url }}"
+      }
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+
 <hr>
 
 {% for item in promoCategory.items %}
