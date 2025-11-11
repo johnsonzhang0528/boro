@@ -226,6 +226,10 @@ a:hover { text-decoration: underline; }
       background: none;
     }
 
+.category-wrapper {
+  margin-bottom: 1rem; /* Equivalent to mb-4 */
+}
+
 /* Breadcrumb Styles */
 .breadcrumb a {
   color: #A8DFFD; /* Ensure link color is the updated high-contrast one */

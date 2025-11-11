@@ -22,7 +22,7 @@ date: 2025-11-09
     </div>
 
     {% for category in promotions.all %}
-      <section id="{{ category.slug }}" class="promo-category-wrapper scroll-mt-24 mb-8">
+      <section id="{{ category.slug }}" class="promo-category-wrapper category-wrapper scroll-mt-24">
         <div class="mb-6 md:mb-8">
           <h2 class="text-2xl md:text-3xl font-bold border-l-4 border-emerald-400 pl-4">
             <a href="{{ '/promotions/' + category.slug + '/' | url }}" class="hover:text-emerald-400 transition-colors">{{ category.category }}</a>
