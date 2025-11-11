@@ -13,7 +13,7 @@ date: 2025-11-09
 
   <div class="promo-page-container">
     <!-- Category Quick Filter -->
-    <div class="promo-filter-wrapper sticky top-[60px] z-40 mb-8">
+    <div class="promo-filter-wrapper sticky top-[60px] z-40 category-wrapper">
       <div class="flex items-center overflow-x-auto whitespace-nowrap gap-2 py-3 px-4 scrollbar-hide">
         {% for category in promotions.all %}
           <a href="#{{ category.slug }}" class="inline-block px-4 py-2 text-sm font-semibold bg-gray-700/50 text-text rounded-full hover:bg-emerald-500 hover:text-white transition-all duration-300 flex-shrink-0">{{ category.category }}</a>
