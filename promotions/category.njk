@@ -28,12 +28,25 @@ eleventyComputed:
   </nav>
 
   <h1 class="text-3xl font-bold mb-2">{{ promoCategory.category }}</h1>
-  <p class="text-lg text-gray-600 mb-8">{{ promoCategory.description }}</p>
+  <p class="text-lg text-gray-600 mb-4">{{ promoCategory.description }}</p>
+  <p class="text-md text-gray-600 mb-8">
+    Explore all the exciting promotions available in the {{ promoCategory.category }} category at BoroJeet.
+    We constantly update our offers to bring you the best value and enhance your gaming experience.
+    Find your next big win here!
+  </p>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {% for item in promoCategory.items %}
+      {% set image_base = item.image | replace(".webp", "") | replace(".jpg", "") | replace(".png", "") | replace(".avif", "") %}
       <a href="{{ '/promotions/' + promoCategory.slug + '/' + item.slug + '/' | url }}" class="block border rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300">
-        <img src="{{ item.image | url }}" alt="{{ item.title }}" class="w-full h-48 object-cover">
+        <picture class="content-image">
+          <source srcset="{{ (image_base + '.avif') | url }}" type="image/avif">
+          <source srcset="{{ (image_base + '.webp') | url }}" type="image/webp">
+          <img src="{{ (image_base + '.webp') | url }}"
+               alt="{{ item.title }}"
+               width="800" height="450" loading="lazy" decoding="async"
+               sizes="(max-width: 768px) 100vw, 33vw">
+        </picture>
         <div class="p-4">
           <h2 class="text-xl font-semibold mb-2">{{ item.title }}</h2>
           <p class="text-gray-700 text-sm">{{ item.details }}</p>
@@ -46,3 +59,53 @@ eleventyComputed:
     <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">&larr; Back to all promotions</a>
   </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ promoCategory.category }} | BoroJeet Promotions",
+  "description": "{{ promoCategory.description }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {% for item in promoCategory.items %}
+      {
+        "@type": "ListItem",
+        "position": {{ loop.index }},
+        "url": "{{ site.url }}/promotions/{{ promoCategory.slug }}/{{ item.slug }}/",
+        "name": "{{ item.title }}"
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Promotions",
+      "item": "{{ site.url }}/promotions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ promoCategory.category }}",
+      "item": "{{ site.url }}{{ page.url }}"
+    }
+  ]
+}
+</script>

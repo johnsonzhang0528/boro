@@ -9,6 +9,12 @@ date: 2025-11-09
   <div class="text-center mb-8 md:mb-12">
     <h1 class="h1 text-3xl md:text-4xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">BoroJeet Promotions & Bonus Offers</h1>
     <p class="text-base md:text-lg text-muted">Discover all the exciting bonuses and offers available at BoroJeet.</p>
+    <p class="text-md text-muted mt-4 max-w-3xl mx-auto">
+      At BoroJeet, we believe in rewarding our players with the most exciting and generous promotions in Bangladesh.
+      Whether you're a new player looking for a welcome bonus or a loyal customer seeking daily rewards,
+      our diverse range of offers ensures there's always something special for everyone.
+      Explore our categories below to find the perfect bonus to boost your gaming experience!
+    </p>
   </div>
 
   <div class="promo-page-container">
@@ -79,4 +85,27 @@ date: 2025-11-09
       },
     });
   });
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ title }}",
+  "description": "{{ description }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {% for category in promotions.all %}
+      {
+        "@type": "ListItem",
+        "position": {{ loop.index }},
+        "url": "{{ site.url }}/promotions/{{ category.slug }}/",
+        "name": "{{ category.category }}"
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  }
+}
 </script>
