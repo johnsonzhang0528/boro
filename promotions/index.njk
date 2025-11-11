@@ -13,18 +13,23 @@ date: 2025-11-09
 
   <div class="promo-page-container">
     <!-- Category Quick Filter with Swiper -->
-    <div class="promo-filter-wrapper relative sticky top-[60px] z-40 category-wrapper">
-      <!-- Swiper -->
-      <div class="swiper-container promo-filter-swiper">
-        <div class="swiper-wrapper">
-          {% for category in promotions.all %}
-            <a href="#{{ category.slug }}" class="swiper-slide inline-block px-4 py-2 text-sm font-semibold bg-gray-700/50 text-text rounded-full hover:bg-emerald-500 hover:text-white transition-all duration-300">{{ category.category }}</a>
-          {% endfor %}
+    <div class="promo-filter-container sticky top-[60px] z-40">
+      <div class="promo-filter-wrapper">
+        <!-- Prev Button -->
+        <div class="swiper-button-prev promo-nav-btn"></div>
+        
+        <!-- Swiper -->
+        <div class="swiper-container promo-filter-swiper">
+          <div class="swiper-wrapper">
+            {% for category in promotions.all %}
+              <a href="#{{ category.slug }}" class="swiper-slide inline-block px-4 py-2 text-sm font-semibold bg-gray-700/50 text-text rounded-full hover:bg-emerald-500 hover:text-white transition-all duration-300">{{ category.category }}</a>
+            {% endfor %}
+          </div>
         </div>
+
+        <!-- Next Button -->
+        <div class="swiper-button-next promo-nav-btn"></div>
       </div>
-      <!-- Add Navigation Buttons -->
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-button-next"></div>
     </div>
 
     {% for category in promotions.all %}
@@ -67,28 +72,31 @@ date: 2025-11-09
 }
 
 /* Styles for visual separation */
-.promo-filter-wrapper {
-  background: rgba(23, 31, 47, 0.85); /* Darker, more opaque background */
+/* New styles for the filter container */
+.promo-filter-container {
+  background: rgba(23, 31, 47, 0.85);
   backdrop-filter: blur(12px);
   border-radius: 12px;
   border: 1px solid rgba(55, 65, 81, 0.7);
-  border-top: 1px solid rgba(75, 85, 99, 0.9); /* Brighter top border */
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4); /* Deeper shadow */
-  padding: 4px 0; /* Add some vertical padding */
+  border-top: 1px solid rgba(75, 85, 99, 0.9);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  padding: 4px 8px;
 }
 
-.promo-category-wrapper {
-  background: #111827; /* Solid dark background, slightly lighter than pure black */
-  border: 1px solid #374151; /* A bit more visible border */
-  border-radius: 16px;
-  padding: 24px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35); /* Stronger shadow */
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+.promo-filter-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 
-.promo-category-wrapper:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 18px 35px rgba(16, 185, 129, 0.15); /* Enhanced hover shadow */
+.promo-filter-swiper {
+  flex-grow: 1;
+  min-width: 0; /* Important for flex-grow to work correctly */
+  overflow: hidden; /* Prevents content from pushing out the container */
+}
+
+.promo-filter-swiper .swiper-wrapper {
+  justify-content: flex-start;
 }
 
 /* Swiper.js override for auto width slides */
@@ -97,31 +105,37 @@ date: 2025-11-09
 }
 
 /* Custom Swiper Navigation Arrows */
-.promo-filter-wrapper .swiper-button-next,
-.promo-filter-wrapper .swiper-button-prev {
-  color: var(--accent); /* Use theme's accent color */
-  top: 50%;
-  transform: translateY(-50%);
+.promo-nav-btn {
+  position: static;
+  top: auto;
+  left: auto;
+  right: auto;
+  transform: none;
   width: 32px;
   height: 32px;
-  background-color: rgba(17, 24, 39, 0.8); /* bg-card with opacity */
+  background-color: rgba(17, 24, 39, 0.8);
   border-radius: 50%;
   transition: background-color 0.2s ease;
+  margin: 0 4px;
+  flex-shrink: 0;
+  color: var(--accent);
 }
-.promo-filter-wrapper .swiper-button-next:hover,
-.promo-filter-wrapper .swiper-button-prev:hover {
+.promo-nav-btn:hover {
   background-color: rgba(31, 41, 55, 0.9);
 }
-.promo-filter-wrapper .swiper-button-next::after,
-.promo-filter-wrapper .swiper-button-prev::after {
+.promo-nav-btn::after {
   font-size: 16px;
   font-weight: bold;
 }
-.promo-filter-wrapper .swiper-button-prev {
-  left: 4px;
+
+/* Override Swiper's default margin for statically positioned nav buttons */
+.promo-filter-wrapper > .promo-nav-btn {
+  margin-top: 0;
 }
-.promo-filter-wrapper .swiper-button-next {
-  right: 4px;
+
+.swiper-button-disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
 }
 </style>
 
@@ -131,8 +145,6 @@ date: 2025-11-09
       slidesPerView: 'auto',
       spaceBetween: 8,
       freeMode: true,
-      slidesOffsetBefore: 16,
-      slidesOffsetAfter: 16,
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
