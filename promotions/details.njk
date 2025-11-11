@@ -1,0 +1,65 @@
+---
+pagination:
+  data: promotions.flat
+  size: 1
+  alias: item
+permalink: "/promotions/{{ item.category.slug }}/{{ item.slug }}/"
+layout: base.njk
+eleventyComputed:
+  title: "{{ item.title }} | Borojeat Promotions"
+  description: "{{ item.details | striptags | truncate(150) }}"
+  category:
+    slug: "{{ item.category.slug }}"
+    name: "{{ item.category.name }}"
+---
+
+<div class="container mx-auto px-4 py-8">
+  <nav class="mb-4 text-sm" aria-label="Breadcrumb">
+    <ol class="list-none p-0 inline-flex flex-wrap">
+      <li class="flex items-center">
+        <a href="{{ '/' | url }}" class="text-blue-600 hover:text-blue-800">Home</a>
+        <span class="mx-2">/</span>
+      </li>
+      <li class="flex items-center">
+        <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">Promotions</a>
+        <span class="mx-2">/</span>
+      </li>
+      <li class="flex items-center">
+        <a href="{{ '/promotions/' + category.slug + '/' | url }}" class="text-blue-600 hover:text-blue-800">{{ category.name }}</a>
+        <span class="mx-2">/</span>
+      </li>
+      <li class="text-gray-500" aria-current="page">
+        {{ item.title }}
+      </li>
+    </ol>
+  </nav>
+
+  <article>
+    <h1 class="text-3xl font-bold mb-2">{{ item.title }}</h1>
+    {% if item.startDate and item.endDate %}
+    <div class="mb-4 text-sm text-gray-600">
+        <p><strong>Promotion Period:</strong> {{ item.startDate }} to {{ item.endDate }}</p>
+    </div>
+    {% endif %}
+    
+    <img src="{{ item.image | url }}" alt="{{ item.title }}" class="w-full h-auto object-cover rounded-lg mb-6 max-w-3xl mx-auto">
+
+    <div class="prose max-w-none">
+      <p class="lead text-lg">{{ item.details }}</p>
+      
+      <div class="mt-6 p-4 border rounded-lg bg-gray-50">
+        <h2 class="text-xl font-semibold mb-3">Promotion Rules</h2>
+        <ul class="list-disc pl-5 space-y-2">
+          {% for rule in item.rules %}
+            <li>{{ rule }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+    </div>
+  </article>
+
+  <div class="mt-12">
+    <a href="{{ '/promotions/' + category.slug + '/' | url }}" class="text-blue-600 hover:text-blue-800">&larr; Back to {{ category.name }}</a>
+  </div>
+</div>

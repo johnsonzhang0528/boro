@@ -1,76 +1,48 @@
 ---
 pagination:
-  data: promotions
+  data: promotions.all
   size: 1
   alias: promoCategory
 permalink: "/promotions/{{ promoCategory.slug }}/"
-layout: "post.njk"
-title: "{{ promoCategory.category }} - BoroJeet BD Promotions"
-description: "{{ promoCategory.description }}"
+layout: "base.njk"
+eleventyComputed:
+  title: "{{ promoCategory.category }} | BoroJeet Promotions"
+  description: "{{ promoCategory.description }}"
 ---
 
-<h1>{{ promoCategory.category }}</h1>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "{{ promoCategory.category | escape }} Promotions",
-  "description": "{{ promoCategory.description | escape }}",
-  "numberOfItems": "{{ promoCategory.items | length }}",
-  "itemListElement": [
+<div class="container mx-auto px-4 py-8">
+  <nav class="mb-4 text-sm" aria-label="Breadcrumb">
+    <ol class="list-none p-0 inline-flex flex-wrap">
+      <li class="flex items-center">
+        <a href="{{ '/' | url }}" class="text-blue-600 hover:text-blue-800">Home</a>
+        <span class="mx-2">/</span>
+      </li>
+      <li class="flex items-center">
+        <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">Promotions</a>
+        <span class="mx-2">/</span>
+      </li>
+      <li class="text-gray-500" aria-current="page">
+        {{ promoCategory.category }}
+      </li>
+    </ol>
+  </nav>
+
+  <h1 class="text-3xl font-bold mb-2">{{ promoCategory.category }}</h1>
+  <p class="text-lg text-gray-600 mb-8">{{ promoCategory.description }}</p>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {% for item in promoCategory.items %}
-    {
-      "@type": "ListItem",
-      "position": {{ loop.index }},
-      "item": {
-        "@type": "Promotion",
-        "name": "{{ item.title | escape }}",
-        {% if item.image %}"image": "{{ (site.url | default('')) + (item.image | default('')) | escape }}",{% endif %}
-        "description": "{{ item.details.Headline | default(promoCategory.description) | escape }}",
-        "url": "{{ (site.url | default('')) + (page.url | default('')) | escape }}"
-      }
-    }{% if not loop.last %},{% endif %}
+      <a href="{{ '/promotions/' + promoCategory.slug + '/' + item.slug + '/' | url }}" class="block border rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300">
+        <img src="{{ item.image | url }}" alt="{{ item.title }}" class="w-full h-48 object-cover">
+        <div class="p-4">
+          <h2 class="text-xl font-semibold mb-2">{{ item.title }}</h2>
+          <p class="text-gray-700 text-sm">{{ item.details }}</p>
+        </div>
+      </a>
     {% endfor %}
-  ]
-}
-</script>
+  </div>
 
-<hr>
-
-{% for item in promoCategory.items %}
-  <article>
-    <h2>{{ item.title }}</h2>
-    
-    {% if item.image %}
-      <picture class="content-image">
-        <source srcset="{{ item.image | replace('.webp', '.avif') }}" type="image/avif">
-        <source srcset="{{ item.image }}" type="image/webp">
-        <img src="{{ item.image }}"
-             alt="{{ item.title }}"
-             width="1024" height="576" loading="lazy" decoding="async"
-             sizes="(max-width: 600px) 100vw, 1024px">
-      </picture>
-    {% endif %}
-
-    <h3>অফারের বিবরণ:</h3>
-    <table class="table">
-      {% for key, value in item.details %}
-        <tr>
-          <td><strong>{{ key }}</strong></td>
-          <td>
-            {{ value }}
-            {% if key == "Turnover" or key == "Bonus Turnover" or key == "Turnover Requirement" %}
-              <a href="/blog/understanding-wagering-requirements/" class="note">(ওয়েজারিং রিকোয়ারমেন্ট বুঝুন)</a>
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-    </table>
-
-    <div class="card cta-card">
-      <h3>আপনার বোনাস দাবি করুন</h3>
-      <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই ডিপোজিট করুন</a>
-    </div>
-  </article>
-  <hr>
-{% endfor %}
+  <div class="mt-12">
+    <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">&larr; Back to all promotions</a>
+  </div>
+</div>
