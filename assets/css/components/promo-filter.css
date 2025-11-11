@@ -1,0 +1,66 @@
+/* Styles for the promotion category filter component */
+
+.promo-filter-container {
+  background: rgba(23, 31, 47, 0.85);
+  backdrop-filter: blur(12px);
+  border-radius: 12px;
+  border: 1px solid rgba(55, 65, 81, 0.7);
+  border-top: 1px solid rgba(75, 85, 99, 0.9);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  padding: 4px 8px;
+}
+
+.promo-filter-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.promo-filter-swiper {
+  flex-grow: 1;
+  min-width: 0; /* Important for flex-grow to work correctly */
+  overflow: hidden; /* Prevents content from pushing out the container */
+}
+
+.promo-filter-swiper .swiper-wrapper {
+  justify-content: flex-start;
+}
+
+/* Swiper.js override for auto width slides */
+.promo-filter-swiper .swiper-slide {
+  width: auto;
+}
+
+/* Custom Swiper Navigation Arrows */
+.promo-nav-btn {
+  position: static;
+  top: auto;
+  left: auto;
+  right: auto;
+  transform: none;
+  width: 32px;
+  height: 32px;
+  background-color: rgba(17, 24, 39, 0.8);
+  border-radius: 50%;
+  transition: background-color 0.2s ease;
+  margin: 0 4px;
+  flex-shrink: 0;
+  color: var(--accent);
+}
+.promo-nav-btn:hover {
+  background-color: rgba(31, 41, 55, 0.9);
+}
+.promo-nav-btn::after {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* Override Swiper's default margin for statically positioned nav buttons */
+.promo-filter-wrapper > .promo-nav-btn {
+  margin-top: 0;
+}
+
+.swiper-button-disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
