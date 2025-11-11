@@ -5,17 +5,17 @@ pagination:
   alias: promoCategory
 permalink: "/promotions/{{ promoCategory.slug }}/"
 layout: "post.njk"
+title: "{{ promoCategory.category }} - BoroJeet BD Promotions"
+description: "{{ promoCategory.description }}"
 ---
 
 <h1>{{ promoCategory.category }}</h1>
-<p>{{ promoCategory.description }}</p>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "name": "{{ promoCategory.category }} Promotions",
-  "description": "{{ promoCategory.description }}",
+  "name": "{{ promoCategory.category | escape }} Promotions",
+  "description": "{{ promoCategory.description | escape }}",
   "numberOfItems": "{{ promoCategory.items | length }}",
   "itemListElement": [
     {% for item in promoCategory.items %}
@@ -24,14 +24,10 @@ layout: "post.njk"
       "position": {{ loop.index }},
       "item": {
         "@type": "Promotion",
-        "name": "{{ item.title }}",
-        {% if item.image %}"image": "{{ site.url }}{{ item.image }}",{% endif %}
-        "description": "{{ item.details.Headline or promoCategory.description }}",
-        {% if item.details['Promotional Period'] %}
-        "startDate": "{{ item.details['Promotional Period'] | replace('~', ' - ') | split(' - ')[0] | date('YYYY-MM-DD') }}",
-        "endDate": "{{ item.details['Promotional Period'] | replace('~', ' - ') | split(' - ')[1] | date('YYYY-MM-DD') }}",
-        {% endif %}
-        "url": "{{ site.url }}{{ page.url }}"
+        "name": "{{ item.title | escape }}",
+        {% if item.image %}"image": "{{ (site.url | default('')) + (item.image | default('')) | escape }}",{% endif %}
+        "description": "{{ item.details.Headline | default(promoCategory.description) | escape }}",
+        "url": "{{ (site.url | default('')) + (page.url | default('')) | escape }}"
       }
     }{% if not loop.last %},{% endif %}
     {% endfor %}
@@ -61,7 +57,12 @@ layout: "post.njk"
       {% for key, value in item.details %}
         <tr>
           <td><strong>{{ key }}</strong></td>
-          <td>{{ value }}</td>
+          <td>
+            {{ value }}
+            {% if key == "Turnover" or key == "Bonus Turnover" or key == "Turnover Requirement" %}
+              <a href="/blog/understanding-wagering-requirements/" class="note">(ওয়েজারিং রিকোয়ারমেন্ট বুঝুন)</a>
+            {% endif %}
+          </td>
         </tr>
       {% endfor %}
     </table>
