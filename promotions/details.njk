@@ -6,8 +6,8 @@ pagination:
 permalink: "/promotions/{{ item.category.slug }}/{{ item.slug }}/"
 layout: "base.njk"
 eleventyComputed:
-  title: "{{ item.title }} | Borojeat Promotions"
-  description: "{{ item.details | striptags | truncate(150) }}"
+  title: "{{ item.seo_title | default(item.title + ' | Borojeat Promotions') }}"
+  description: "{{ item.seo_description | default(item.details | striptags | truncate(150)) }}"
   date: "{{ item.startDate }}"
   category:
     slug: "{{ item.category.slug }}"
