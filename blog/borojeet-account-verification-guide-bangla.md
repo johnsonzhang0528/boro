@@ -109,3 +109,52 @@ BoroJeet প্ল্যাটফর্ম সম্পর্কে আরও �
 এখনই আপনার অ্যাকাউন্ট ভেরিফাই করে একটি নিরাপদ গেমিং যাত্রা শুরু করুন!
 
 <a href="/go/borojeet" class="cta" rel="sponsored nofollow" target="_blank" style="margin-top: 16px;">Verify Your Account Now</a>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do I need to verify my BoroJeet account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "অ্যাকাউন্ট ভেরিফিকেশন বা KYC (Know Your Customer) আপনার তহবিল নিরাপদ রাখতে, দ্রুত টাকা তোলার সুবিধা পেতে এবং প্ল্যাটফর্মকে স্থানীয় আইন মেনে চলতে সাহায্য করে। এটি আপনার এবং প্ল্যাটফর্ম উভয়ের জন্যই একটি গুরুত্বপূর্ণ নিরাপত্তা পদক্ষেপ।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for BoroJeet account verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ভেরিফিকেশনের জন্য আপনার দুটি প্রধান ধরনের ডকুমেন্ট প্রয়োজন:\n<ul>\n<li><strong>পরিচয় প্রমাণ:</strong> জাতীয় পরিচয়পত্র (NID), পাসপোর্ট বা ড্রাইভিং লাইসেন্স।</li>\n<li><strong>ঠিকানার প্রমাণ:</strong> সাম্প্রতিক ইউটিলিটি বিল বা ব্যাংক স্টেটমেন্ট।</li>\n</ul>"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the verification process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "সাধারণত, BoroJeet ২৪ থেকে ৭২ ঘন্টার মধ্যে নথি পর্যালোচনা করে। যদি জমা দেওয়া ছবি পরিষ্কার এবং সঠিক থাকে, তবে প্রক্রিয়াটি দ্রুত সম্পন্ন হয়।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is my personal information safe during verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "হ্যাঁ, BoroJeet-এর মতো স্বনামধন্য প্ল্যাটফর্মগুলি আপনার ব্যক্তিগত তথ্য সুরক্ষিত রাখতে উন্নত এনক্রিপশন প্রযুক্তি ব্যবহার করে। KYC প্রক্রিয়াটি একটি সম্পূর্ণ নিয়ন্ত্রিত এবং নিরাপদ পরিবেশে পরিচালিত হয়।"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my verification fails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ভেরিফিকেশন ব্যর্থ হলে, BoroJeet সাধারণত ইমেলের মাধ্যমে আপনাকে কারণটি জানিয়ে দেয়। সাধারণ কারণগুলির মধ্যে রয়েছে ঝাপসা ছবি, মেয়াদোত্তীর্ণ নথি, বা তথ্যের অমিল। আপনি সমস্যাটি সমাধান করে আবার নথি জমা দিতে পারেন অথবা সহায়তার জন্য গ্রাহক পরিষেবার সাথে যোগাযোগ করতে পারেন।"
+      }
+    }
+  ]
+}
+</script>
