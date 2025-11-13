@@ -4,137 +4,127 @@ pagination:
   size: 1
   alias: item
 permalink: "/promotions/{{ item.category.slug }}/{{ item.slug }}/"
-layout: base.njk
+layout: "base.njk"
 eleventyComputed:
   title: "{{ item.title }} | Borojeat Promotions"
   description: "{{ item.details | striptags | truncate(150) }}"
+  date: "{{ item.startDate }}"
   category:
     slug: "{{ item.category.slug }}"
     name: "{{ item.category.name }}"
 ---
 
-<div class="container mx-auto px-4 py-8">
-  <nav class="mb-4 text-sm" aria-label="Breadcrumb">
-    <ol class="list-none p-0 inline-flex flex-wrap">
-      <li class="flex items-center">
-        <a href="{{ '/' | url }}" class="text-blue-600 hover:text-blue-800">Home</a>
-        <span class="mx-2">/</span>
-      </li>
-      <li class="flex items-center">
-        <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">Promotions</a>
-        <span class="mx-2">/</span>
-      </li>
-      <li class="flex items-center">
-        <a href="{{ '/promotions/' + category.slug + '/' | url }}" class="text-blue-600 hover:text-blue-800">{{ category.name }}</a>
-        <span class="mx-2">/</span>
-      </li>
-      <li class="text-gray-500" aria-current="page">
-        {{ item.title }}
-      </li>
-    </ol>
-  </nav>
+<main class="wrap">
+  <div class="breadcrumb">
+    <a href="{{ '/' | url }}">Home</a> / 
+    <a href="{{ '/promotions/' | url }}">Promotions</a> / 
+    <a href="{{ '/promotions/' + category.slug + '/' | url }}">{{ category.name }}</a> / 
+    <span>{{ title }}</span>
+  </div>
+  <h1 class="h1">{{ title }}</h1>
+  <div class="post-meta">
+    Published on <time datetime="{{ page.date | date('yyyy-MM-dd') }}">{{ page.date | date("LLLL dd, yyyy") }}</time>
+  </div>
 
-  <article>
-    <h1 class="text-3xl font-bold mb-2">{{ item.title }}</h1>
-    {% if item.startDate and item.endDate %}
-    <div class="mb-4 text-sm text-gray-600">
-        <p><strong>Promotion Period:</strong> {{ item.startDate }} to {{ item.endDate }}</p>
+<div class="post-content">
+  {% if item.startDate and item.endDate %}
+  <div class="mb-4 text-sm text-gray-600">
+      <p><strong>Promotion Period:</strong> {{ item.startDate }} to {{ item.endDate }}</p>
+  </div>
+  {% endif %}
+  
+  {% set image_base = item.image | replace(".webp", "") | replace(".jpg", "") | replace(".png", "") | replace(".avif", "") %}
+  <picture class="content-image mb-6 max-w-3xl mx-auto">
+    <source srcset="{{ (image_base + '.avif') | url }}" type="image/avif">
+    <source srcset="{{ (image_base + '.webp') | url }}" type="image/webp">
+    <img src="{{ (image_base + '.webp') | url }}"
+         alt="{{ item.title }}"
+         width="800" height="450" fetchpriority="high"
+         class="w-full h-auto object-cover rounded-lg">
+  </picture>
+
+  <div class="prose max-w-none">
+    <p class="lead text-lg">{{ item.details }}</p>
+    {# SEO Optimization Note: Consider expanding `item.details` into multiple paragraphs or sub-sections for more depth and natural keyword integration. #}
+    {# SEO Optimization Note: Integrate LSI keywords naturally throughout the content. #}
+
+    <div class="mt-6 p-4 border rounded-lg bg-gray-50">
+      <h2 class="text-xl font-semibold mb-3">Promotion Rules</h2>
+      <ul class="list-disc pl-5 space-y-2">
+        {% for rule in item.rules %}
+          <li>{{ rule }}</li>
+        {% endfor %}
+      </ul>
     </div>
-    {% endif %}
-    
-    {% set image_base = item.image | replace(".webp", "") | replace(".jpg", "") | replace(".png", "") | replace(".avif", "") %}
-    <picture class="content-image mb-6 max-w-3xl mx-auto">
-      <source srcset="{{ (image_base + '.avif') | url }}" type="image/avif">
-      <source srcset="{{ (image_base + '.webp') | url }}" type="image/webp">
-      <img src="{{ (image_base + '.webp') | url }}"
-           alt="{{ item.title }}"
-           width="800" height="450" loading="lazy" decoding="async"
-           class="w-full h-auto object-cover rounded-lg">
-    </picture>
 
-    <div class="prose max-w-none">
-      <p class="lead text-lg">{{ item.details }}</p>
-      {# SEO Optimization Note: Consider expanding `item.details` into multiple paragraphs or sub-sections for more depth and natural keyword integration. #}
-      {# SEO Optimization Note: Integrate LSI keywords naturally throughout the content. #}
+    <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
+      <h2 class="text-2xl font-bold mb-3 text-emerald-300">Why Claim This Promotion?</h2>
+      <p class="text-gray-300">
+        {# SEO Optimization Note: Fill this section with unique selling points of this specific promotion.
+        Highlight its benefits, e.g., high match percentage, low wagering requirements, specific game eligibility.
+        This content should be unique and compelling to both users and search engines. #}
+        This is a placeholder for unique selling points of the promotion.
+      </p>
+      {# SEO Optimization Note: Add contextual internal links to relevant pages (e.g., game categories, payment methods, general T&Cs) within this section. #}
+    </div>
 
-      <div class="mt-6 p-4 border rounded-lg bg-gray-50">
-        <h2 class="text-xl font-semibold mb-3">Promotion Rules</h2>
-        <ul class="list-disc pl-5 space-y-2">
-          {% for rule in item.rules %}
-            <li>{{ rule }}</li>
-          {% endfor %}
-        </ul>
-      </div>
+    <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
+      <h2 class="text-2xl font-bold mb-3 text-emerald-300">How to Join the Fun?</h2>
+      <ol class="list-decimal pl-5 space-y-2 text-gray-300">
+        <li><strong>Register an account with BOROJEET</strong> 📝</li>
+        <li><strong>Verify the account to unlock VIP 2</strong> 🔐</li>
+        <li><strong>Review the promotion details</strong> 📖</li>
+        <li><strong>Download the APP</strong></li>
+        <li><strong>Click "Apply" on a favourite promotion</strong> 🎯</li>
+        <li><strong>Get bonus instantly – no waiting</strong> 🎉</li>
+        <li><strong>Play the eligible games and enjoy</strong> 🎮</li>
+        <li><strong>Need help? Contact Customer Service 24/7</strong> 💬</li>
+      </ol>
+    </div>
 
-      <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
-        <h2 class="text-2xl font-bold mb-3 text-emerald-300">Why Claim This Promotion?</h2>
-        <p class="text-gray-300">
-          {# SEO Optimization Note: Fill this section with unique selling points of this specific promotion.
-          Highlight its benefits, e.g., high match percentage, low wagering requirements, specific game eligibility.
-          This content should be unique and compelling to both users and search engines. #}
-          This is a placeholder for unique selling points of the promotion.
-        </p>
-        {# SEO Optimization Note: Add contextual internal links to relevant pages (e.g., game categories, payment methods, general T&Cs) within this section. #}
-      </div>
+    <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
+      <h2 class="text-2xl font-bold mb-3 text-emerald-300">Terms and Conditions</h2>
+      <ol class="list-decimal pl-5 space-y-2 text-gray-300">
+        <li>Players may only exit an active promotion after meeting the turnover requirement or when their balance falls below ৳5, before joining a new promotion.</li>
+        <li>This promotion cannot be combined with any other ongoing offers.</li>
+        <li>Each player is allowed only one account. Creating multiple or fraudulent accounts will result in account suspension and forfeiture of all deposits.</li>
+        <li>BOROJEET reserves the right to modify, suspend, cancel, or void this promotion at any time, without prior notice.</li>
+      </ol>
+    </div>
 
-      <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
-        <h2 class="text-2xl font-bold mb-3 text-emerald-300">How to Join the Fun?</h2>
-        <ol class="list-decimal pl-5 space-y-2 text-gray-300">
-          <li><strong>Register an account with BOROJEET</strong> 📝</li>
-          <li><strong>Verify the account to unlock VIP 2</strong> 🔐</li>
-          <li><strong>Review the promotion details</strong> 📖</li>
-          <li><strong>Download the APP</strong></li>
-          <li><strong>Click "Apply" on a favourite promotion</strong> 🎯</li>
-          <li><strong>Get bonus instantly – no waiting</strong> 🎉</li>
-          <li><strong>Play the eligible games and enjoy</strong> 🎮</li>
-          <li><strong>Need help? Contact Customer Service 24/7</strong> 💬</li>
-        </ol>
-      </div>
+    <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
+      <h2 class="text-2xl font-bold mb-3 text-emerald-300">Important Notice</h2>
+      <ul class="list-disc pl-5 space-y-2 text-gray-300">
+        <li>For your security, your bank account name must match the registered username to process withdrawals. ✅</li>
+        <li>While a promotion is active, members cannot update personal information (e.g., name, surname, bank details). Any attempt to do so will result in immediate forfeiture of all rewards and privileges.⚠️</li>
+        <li>If any fraudulent activity is detected, BOROJEET reserves the right to reclaim funds and automatically suspend all associated privileges. 🚫</li>
+      </ul>
+    </div>
 
-      <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
-        <h2 class="text-2xl font-bold mb-3 text-emerald-300">Terms and Conditions</h2>
-        <ol class="list-decimal pl-5 space-y-2 text-gray-300">
-          <li>Players may only exit an active promotion after meeting the turnover requirement or when their balance falls below ৳5, before joining a new promotion.</li>
-          <li>This promotion cannot be combined with any other ongoing offers.</li>
-          <li>Each player is allowed only one account. Creating multiple or fraudulent accounts will result in account suspension and forfeiture of all deposits.</li>
-          <li>BOROJEET reserves the right to modify, suspend, cancel, or void this promotion at any time, without prior notice.</li>
-        </ol>
-      </div>
+    <div class="text-center mt-8">
+      <a href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank" class="cta text-xl px-8 py-4 rounded-full shadow-lg hover:shadow-emerald-400/40 transition-all duration-300">
+        Claim Your {{ item.title }} Now!
+      </a>
+    </div>
 
-      <div class="mt-8 p-6 border-l-4 border-emerald-400 bg-emerald-50/10 rounded-r-lg">
-        <h2 class="text-2xl font-bold mb-3 text-emerald-300">Important Notice</h2>
-        <ul class="list-disc pl-5 space-y-2 text-gray-300">
-          <li>For your security, your bank account name must match the registered username to process withdrawals. ✅</li>
-          <li>While a promotion is active, members cannot update personal information (e.g., name, surname, bank details). Any attempt to do so will result in immediate forfeiture of all rewards and privileges.⚠️</li>
-          <li>If any fraudulent activity is detected, BOROJEET reserves the right to reclaim funds and automatically suspend all associated privileges. 🚫</li>
-        </ul>
-      </div>
+    {# SEO Optimization Note: Consider adding a section for related promotions here, with internal links. #}
 
-      <div class="text-center mt-8">
-        <a href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank" class="cta text-xl px-8 py-4 rounded-full shadow-lg hover:shadow-emerald-400/40 transition-all duration-300">
-          Claim Your {{ item.title }} Now!
-        </a>
-      </div>
-
-      {# SEO Optimization Note: Consider adding a section for related promotions here, with internal links. #}
-
-      <div class="mt-12">
-        <h2 class="text-2xl font-bold mb-4">Frequently Asked Questions (FAQ)</h2>
-        <div class="space-y-4">
-          <div class="border p-4 rounded-lg bg-gray-50">
-            <h3 class="font-semibold text-lg mb-2">Q: What is the minimum deposit for this promotion?</h3>
-            <p class="text-gray-700">A: The minimum deposit required for this promotion is [Insert Minimum Deposit Here]. Please refer to the promotion rules for exact details.</p>
-          </div>
-          <div class="border p-4 rounded-lg bg-gray-50">
-            <h3 class="font-semibold text-lg mb-2">Q: Are there any wagering requirements?</h3>
-            <p class="text-gray-700">A: Yes, this promotion comes with a [Insert Wagering Requirement Here]x wagering requirement. You must fulfill this before withdrawing any winnings.</p>
-          </div>
-          {# SEO Optimization Note: Add more relevant FAQs here. #}
+    <div class="mt-12">
+      <h2 class="text-2xl font-bold mb-4">Frequently Asked Questions (FAQ)</h2>
+      <div class="space-y-4">
+        <div class="border p-4 rounded-lg bg-gray-50">
+          <h3 class="font-semibold text-lg mb-2">Q: What is the minimum deposit for this promotion?</h3>
+          <p class="text-gray-700">A: The minimum deposit required for this promotion is {{ item.minDeposit }}. Please refer to the promotion rules for exact details.</p>
         </div>
+        <div class="border p-4 rounded-lg bg-gray-50">
+          <h3 class="font-semibold text-lg mb-2">Q: Are there any wagering requirements?</h3>
+          <p class="text-gray-700">A: Yes, this promotion comes with a {{ item.turnoverRequirement }}x wagering requirement. You must fulfill this before withdrawing any winnings.</p>
+        </div>
+        {# SEO Optimization Note: Add more relevant FAQs here. #}
       </div>
-
     </div>
-  </article>
+
+  </div>
 
   <div class="mt-12">
     <a href="{{ '/promotions/' + category.slug + '/' | url }}" class="text-blue-600 hover:text-blue-800">&larr; Back to {{ category.name }}</a>
@@ -151,10 +141,10 @@ eleventyComputed:
   "image": "{{ site.url }}{{ item.image | url }}",
   "category": "{{ item.category.name }}",
   {% if item.startDate %}
-  "validFrom": "{{ item.startDate | date('yyyy-MM-ddTHH:mm:ssZ') }}", {# Ensure ISO 8601 format #}
+  "validFrom": "{{ item.startDate | date('yyyy-MM-ddTHH:mm:ssZ') }}",
   {% endif %}
   {% if item.endDate %}
-  "validThrough": "{{ item.endDate | date('yyyy-MM-ddTHH:mm:ssZ') }}", {# Ensure ISO 8601 format #}
+  "validThrough": "{{ item.endDate | date('yyyy-MM-ddTHH:mm:ssZ') }}",
   {% endif %}
   "availability": "https://schema.org/InStock",
   "offeredBy": {
@@ -164,9 +154,13 @@ eleventyComputed:
   "eligibleRegion": {
     "@type": "Country",
     "name": "BD"
+  },
+  "priceSpecification": {
+    "@type": "PriceSpecification",
+    "price": "{{ item.minDeposit }}",
+    "priceCurrency": "BDT",
+    "valueAddedTaxIncluded": false
   }
-  {# SEO Optimization Note: Add `review` or `aggregateRating` if available. #}
-  {# SEO Optimization Note: Add `priceSpecification` if the promotion has a clear monetary value (e.g., "100% match up to ৳10,000"). #}
 }
 </script>
 
@@ -213,7 +207,7 @@ eleventyComputed:
       "name": "What is the minimum deposit for this promotion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The minimum deposit required for this promotion is [Insert Minimum Deposit Here]. Please refer to the promotion rules for exact details."
+        "text": "The minimum deposit required for this promotion is {{ item.minDeposit }}. Please refer to the promotion rules for exact details."
       }
     },
     {
@@ -221,10 +215,9 @@ eleventyComputed:
       "name": "Are there any wagering requirements?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, this promotion comes with a [Insert Wagering Requirement Here]x wagering requirement. You must fulfill this before withdrawing any winnings."
+        "text": "Yes, this promotion comes with a {{ item.turnoverRequirement }}x wagering requirement. You must fulfill this before withdrawing any winnings."
       }
     }
-    {# SEO Optimization Note: Add more relevant FAQ items here. #}
   ]
 }
 </script>

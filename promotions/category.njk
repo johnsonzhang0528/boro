@@ -10,55 +10,48 @@ eleventyComputed:
   description: "{{ promoCategory.description }}"
 ---
 
-<div class="container mx-auto px-4 py-8">
-  <nav class="mb-4 text-sm" aria-label="Breadcrumb">
-    <ol class="list-none p-0 inline-flex flex-wrap">
-      <li class="flex items-center">
-        <a href="{{ '/' | url }}" class="text-blue-600 hover:text-blue-800">Home</a>
-        <span class="mx-2">/</span>
-      </li>
-      <li class="flex items-center">
-        <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">Promotions</a>
-        <span class="mx-2">/</span>
-      </li>
-      <li class="text-gray-500" aria-current="page">
-        {{ promoCategory.category }}
-      </li>
-    </ol>
-  </nav>
+<main class="wrap">
+  <div class="breadcrumb">
+    <a href="{{ '/' | url }}">Home</a> / 
+    <a href="{{ '/promotions/' | url }}">Promotions</a> / 
+    <span>{% if promoCategory.category %}{{ promoCategory.category }}{% else %}Category{% endif %}</span>
+  </div>
 
-  <h1 class="text-3xl font-bold mb-2">{{ promoCategory.category }}</h1>
-  <p class="text-lg text-gray-600 mb-4">{{ promoCategory.description }}</p>
+  <h1 class="h1">{{ promoCategory.category }}</h1>
+  <p>{{ promoCategory.description }}</p>
   <p class="text-md text-gray-600 mb-8">
     Explore all the exciting promotions available in the {{ promoCategory.category }} category at BoroJeet.
     We constantly update our offers to bring you the best value and enhance your gaming experience.
     Find your next big win here!
   </p>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  <div class="article-list">
     {% for item in promoCategory.items %}
       {% set image_base = item.image | replace(".webp", "") | replace(".jpg", "") | replace(".png", "") | replace(".avif", "") %}
-      <a href="{{ '/promotions/' + promoCategory.slug + '/' + item.slug + '/' | url }}" class="block border rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300">
-        <picture class="content-image">
-          <source srcset="{{ (image_base + '.avif') | url }}" type="image/avif">
-          <source srcset="{{ (image_base + '.webp') | url }}" type="image/webp">
-          <img src="{{ (image_base + '.webp') | url }}"
-               alt="{{ item.title }}"
-               width="800" height="450" loading="lazy" decoding="async"
-               sizes="(max-width: 768px) 100vw, 33vw">
-        </picture>
+      <article class="card">
+        <a href="{{ '/promotions/' + promoCategory.slug + '/' + item.slug + '/' | url }}" class="card-image-link">
+          <picture class="content-image">
+            <source srcset="{{ (image_base + '.avif') | url }}" type="image/avif">
+            <source srcset="{{ (image_base + '.webp') | url }}" type="image/webp">
+            <img src="{{ (image_base + '.webp') | url }}"
+                 alt="{{ item.title }}"
+                 width="800" height="450" loading="lazy" decoding="async"
+                 sizes="(max-width: 768px) 100vw, 33vw">
+          </picture>
+        </a>
         <div class="p-4">
-          <h2 class="text-xl font-semibold mb-2">{{ item.title }}</h2>
-          <p class="text-gray-700 text-sm">{{ item.details }}</p>
+          <h2><a href="{{ '/promotions/' + promoCategory.slug + '/' + item.slug + '/' | url }}">{{ item.title }}</a></h2>
+          <p>{{ item.details }}</p>
+          <a href="{{ '/promotions/' + promoCategory.slug + '/' + item.slug + '/' | url }}">Read More &rarr;</a>
         </div>
-      </a>
+      </article>
     {% endfor %}
   </div>
 
   <div class="mt-12">
     <a href="{{ '/promotions/' | url }}" class="text-blue-600 hover:text-blue-800">&larr; Back to all promotions</a>
   </div>
-</div>
+</main>
 
 <script type="application/ld+json">
 {
