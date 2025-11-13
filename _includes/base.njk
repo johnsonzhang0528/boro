@@ -396,8 +396,8 @@
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
   <link rel="stylesheet" href="/assets/css/components/promo-filter.css">
   
-  <title>{{ title }}</title>
-  <meta name="description" content="{{ description }}">
+  <title>{{ title }} | {{ site.name }}</title>
+  <meta name="description" content="{{ description or site.description }}">
   <link rel="canonical" href="{{ canonicalUrl or site.url + page.url }}">
   {% if robots %}
     <meta name="robots" content="{{ robots }}">
