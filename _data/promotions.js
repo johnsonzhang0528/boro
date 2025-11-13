@@ -7,14 +7,14 @@ const promotions = [
     description: "Exclusive offers for new players joining BoroJeet.",
     items: [
       {
-        title: "Registration Bonus: Get up to 300 Free!",
+        title: "BoroJeet রেজিস্ট্রেশন বোনাস: ৳300 পর্যন্ত ফ্রি!",
         slug: "registration-bonus-get-up-to-300-free",
         image: "/assets/promotions/promo-registration-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Choose one of the three registration bonus plans. Only one can be claimed.",
-        seo_title: "BoroJeet Registration Bonus | Get up to 300 Free!",
-        seo_description: "Sign up with BoroJeet and get a registration bonus of up to 300! Choose from three exclusive plans to start your gaming journey.",
+        details: "BoroJeet-এ যোগ দিন এবং ৳300 পর্যন্ত রেজিস্ট্রেশন বোনাস উপভোগ করুন। তিনটি এক্সক্লুসিভ প্ল্যান থেকে বেছে নিন এবং আপনার গেমিং শুরু করুন।",
+        seo_title: "BoroJeet রেজিস্ট্রেশন বোনাস | ৳300 পর্যন্ত ফ্রি পান!",
+        seo_description: "BoroJeet-এ সাইন আপ করে ৳300 পর্যন্ত রেজিস্ট্রেশন বোনাস পান! আপনার গেমিং যাত্রা শুরু করতে তিনটি এক্সক্লুসিভ প্ল্যান থেকে বেছে নিন।",
         rules: [
           "Plan 1 (Bonus 300): Total Deposit: 300 | Max Withdraw: 300 | Turnover: 20x",
           "Plan 2 (Bonus 200): Total Deposit: 100 | Max Withdraw: 200 | Turnover: 25x",
@@ -27,14 +27,14 @@ const promotions = [
         ]
       },
       {
-        title: "Welcome to BoroJeet: Get 400% Bonus!",
+        title: "BoroJeet স্বাগতম বোনাস: 400% বোনাস পান!",
         slug: "welcome-to-borojeet-get-400-percent-bonus",
         image: "/assets/promotions/promo-welcome-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "A massive 400% bonus to welcome you to the BoroJeet family.",
-        seo_title: "BoroJeet Welcome Bonus | Get a 400% Boost!",
-        seo_description: "New to BoroJeet? Claim your 400% welcome bonus and start playing with a massive advantage. Deposit 100 and get started now!",
+        details: "BoroJeet পরিবারে আপনাকে স্বাগত জানাতে একটি বিশাল 400% বোনাস। নতুন খেলোয়াড়দের জন্য সেরা অফার।",
+        seo_title: "BoroJeet স্বাগতম বোনাস | 400% বুস্ট পান!",
+        seo_description: "BoroJeet-এ নতুন? আপনার 400% স্বাগতম বোনাস দাবি করুন এবং একটি বিশাল সুবিধা নিয়ে খেলা শুরু করুন। এখনই 100 টাকা জমা দিন এবং শুরু করুন!",
         rules: [
           "Bonus: 400%",
           "Join Amount: 100",
@@ -47,14 +47,14 @@ const promotions = [
         ]
       },
       {
-        title: "Welcome Crash Bonus: Up to 100%!",
+        title: "স্বাগতম Crash বোনাস: 100% পর্যন্ত!",
         slug: "welcome-crash-bonus-up-to-100-percent",
         image: "/assets/promotions/promo-welcome-crash-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Get a 100% bonus specifically for our exciting Crash games.",
-        seo_title: "BoroJeet Crash Game Bonus | 100% Welcome Offer",
-        seo_description: "Love crash games? Get a 100% welcome bonus at BoroJeet. Deposit 200 and double your chances to win big in games like Aviator.",
+        details: "আমাদের উত্তেজনাপূর্ণ Crash গেমগুলির জন্য বিশেষভাবে 100% বোনাস পান। আপনার জেতার সুযোগ দ্বিগুণ করুন।",
+        seo_title: "BoroJeet Crash গেম বোনাস | 100% স্বাগতম অফার",
+        seo_description: "Crash গেম ভালোবাসেন? BoroJeet-এ 100% স্বাগতম বোনাস পান। 200 টাকা জমা দিন এবং Aviator-এর মতো গেমে বড় জয়ের সুযোগ দ্বিগুণ করুন।",
         rules: [
           "Bonus: 100%",
           "Join Amount: 200",
@@ -67,14 +67,14 @@ const promotions = [
         ]
       },
       {
-        title: "Welcome Fisher Bonus: Up to 200%!",
+        title: "স্বাগতম Fisher বোনাস: 200% পর্যন্ত!",
         slug: "welcome-fisher-bonus-up-to-200-percent",
         image: "/assets/promotions/promo-welcome-fisher-optimized.webp",
         startDate: "2025-08-04",
         endDate: "2031-08-04",
-        details: "A special 200% bonus for all fishing game enthusiasts.",
-        seo_title: "BoroJeet Fishing Game Bonus | 200% Welcome Offer",
-        seo_description: "Are you a fan of fishing games? Claim a 200% welcome bonus at BoroJeet. Deposit 300 and start your fishing adventure with a huge boost.",
+        details: "সমস্ত ফিশিং গেম উত্সাহীদের জন্য একটি বিশেষ 200% বোনাস। মাছ ধরুন এবং বড় পুরস্কার জিতুন।",
+        seo_title: "BoroJeet ফিশিং গেম বোনাস | 200% স্বাগতম অফার",
+        seo_description: "আপনি কি ফিশিং গেমের ভক্ত? BoroJeet-এ 200% স্বাগতম বোনাস দাবি করুন। 300 টাকা জমা দিন এবং একটি বিশাল বুস্ট নিয়ে আপনার ফিশিং অ্যাডভেঞ্চার শুরু করুন।",
         rules: [
           "Bonus: 200%",
           "Join Amount: 300",
@@ -87,14 +87,14 @@ const promotions = [
         ]
       },
       {
-        title: "Welcome Slot Bonus: Up to 300%!",
+        title: "স্বাগতম Slot বোনাস: 300% পর্যন্ত!",
         slug: "welcome-slot-bonus-up-to-300-percent",
         image: "/assets/promotions/promo-welcome-slot-optimized.webp",
         startDate: "2025-08-04",
         endDate: "2031-08-05",
-        details: "Enjoy a 300% bonus on a wide variety of slot games.",
-        seo_title: "BoroJeet Slot Game Bonus | 300% Welcome Offer",
-        seo_description: "Spin and win with a 300% welcome bonus on slot games at BoroJeet. Deposit 300 and get a massive boost to play your favorite slots.",
+        details: "বিভিন্ন ধরণের স্লট গেমে 300% বোনাস উপভোগ করুন। স্পিন করুন এবং BoroJeet-এ বড় জিতুন।",
+        seo_title: "BoroJeet স্লট গেম বোনাস | 300% স্বাগতম অফার",
+        seo_description: "BoroJeet-এ স্লট গেমে 300% স্বাগতম বোনাস নিয়ে স্পিন করুন এবং জিতুন। 300 টাকা জমা দিন এবং আপনার প্রিয় স্লট খেলতে একটি বিশাল বুস্ট পান।",
         rules: [
           "Bonus: 300%",
           "Join Amount: 300",
@@ -107,14 +107,14 @@ const promotions = [
         ]
       },
       {
-        title: "Application Bonus: Claim up to 150 Free!",
+        title: "BoroJeet অ্যাপ বোনাস: ৳150 পর্যন্ত ফ্রি!",
         slug: "application-bonus-claim-up-to-150-free",
         image: "/assets/promotions/promo-app-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Choose one of three exclusive bonus plans available only on our app.",
-        seo_title: "BoroJeet App Bonus | Claim up to 150 Free",
-        seo_description: "Download the BoroJeet app and claim an exclusive bonus of up to 150. Special offers available only for app users.",
+        details: "আমাদের অ্যাপে উপলব্ধ তিনটি এক্সক্লুসিভ বোনাস প্ল্যান থেকে একটি বেছে নিন। শুধুমাত্র অ্যাপ ব্যবহারকারীদের জন্য।",
+        seo_title: "BoroJeet অ্যাপ বোনাস | ৳150 পর্যন্ত ফ্রি ক্লেম করুন",
+        seo_description: "BoroJeet অ্যাপ ডাউনলোড করুন এবং 150 পর্যন্ত একটি এক্সক্লুসিভ বোনাস দাবি করুন। শুধুমাত্র অ্যাপ ব্যবহারকারীদের জন্য বিশেষ অফার উপলব্ধ।",
         rules: [
           "Plan 1 (Bonus 150): Condition: Total Deposit 1,000 | Max Withdraw: 200 | Turnover: 10x",
           "Plan 2 (Bonus 100): Condition: Total Deposit 500 | Max Withdraw: 150 | Turnover: 10x",
@@ -132,14 +132,14 @@ const promotions = [
     description: "Limited-time offers for special events and holidays.",
     items: [
       {
-        title: "300% Happy Weekend Bonus",
+        title: "300% হ্যাপি উইকেন্ড বোনাস",
         slug: "300-percent-happy-weekend-bonus",
         image: "/assets/promotions/promo-weekend-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Make your weekends happier with a massive 300% bonus.",
-        seo_title: "BoroJeet Weekend Bonus | Get a 300% Boost!",
-        seo_description: "Enjoy your weekend with a 300% bonus at BoroJeet. Deposit 300 on Saturday or Sunday and get 900 extra to play slots and fisher games.",
+        details: "একটি বিশাল 300% বোনাস দিয়ে আপনার সপ্তাহান্তকে আরও আনন্দময় করে তুলুন। শনি ও রবিবারের জন্য বিশেষ অফার।",
+        seo_title: "BoroJeet উইকেন্ড বোনাস | 300% বুস্ট পান!",
+        seo_description: "BoroJeet-এ 300% বোনাস দিয়ে আপনার সপ্তাহান্ত উপভোগ করুন। শনি বা রবিবার 300 টাকা জমা দিন এবং স্লট ও ফিশার গেম খেলতে 900 টাকা অতিরিক্ত পান।",
         rules: [
           "Bonus: ৳900",
           "Join Amount: ৳300",
@@ -152,14 +152,14 @@ const promotions = [
         ]
       },
       {
-        title: "Payday Boost: Win up to 3,000 on All Games!",
+        title: "পে-ডে বুস্ট: সমস্ত গেমে ৳3,000 পর্যন্ত জিতুন!",
         slug: "payday-boost-win-up-to-3000",
         image: "/assets/promotions/promo-payday-boost-optimized.webp",
         startDate: "2025-11-01",
         endDate: "2030-12-31",
-        details: "Get a boost on payday and win up to 3,000 across all games.",
-        seo_title: "BoroJeet Payday Boost | Win up to 3,000",
-        seo_description: "Celebrate payday with BoroJeet! Deposit 200 on the 1st or 15th of the month for a chance to win up to 3,000 on slots and fisher games.",
+        details: "বেতনের দিনে একটি বিশেষ বুস্ট পান এবং সমস্ত গেমে ৳3,000 পর্যন্ত জিতে নিন। মাসের সেরা অফার।",
+        seo_title: "BoroJeet পে-ডে বুস্ট | ৳3,000 পর্যন্ত জিতুন",
+        seo_description: "BoroJeet-এর সাথে পে-ডে উদযাপন করুন! মাসের 1 বা 15 তারিখে 200 টাকা জমা দিয়ে স্লট এবং ফিশার গেমে 3,000 টাকা পর্যন্ত জেতার সুযোগ পান।",
         rules: [
           "Bonus: 200",
           "Join Amount: 200",
@@ -173,14 +173,14 @@ const promotions = [
         ]
       },
       {
-        title: "Happy Birthday Bonus: Get up to 6,000!",
+        title: "শুভ জন্মদিন বোনাস: ৳6,000 পর্যন্ত পান!",
         slug: "happy-birthday-bonus-get-up-to-6000",
         image: "/assets/promotions/promo-birthday-bonus-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Celebrate your birthday with a special bonus from us, worth up to 6,000!",
-        seo_title: "BoroJeet Birthday Bonus | Get up to 6,000 Free",
-        seo_description: "Happy Birthday from BoroJeet! Claim a special birthday bonus of up to 6,000 during your birth month. The higher your VIP level, the bigger the bonus.",
+        details: "আপনার জন্মদিনে আমাদের কাছ থেকে একটি বিশেষ বোনাস উপভোগ করুন, যার মূল্য ৳6,000 পর্যন্ত!",
+        seo_title: "BoroJeet জন্মদিন বোনাস | ৳6,000 পর্যন্ত বিনামূল্যে পান",
+        seo_description: "BoroJeet-এর পক্ষ থেকে জন্মদিনের শুভেচ্ছা! আপনার জন্ম মাসে 6,000 টাকা পর্যন্ত একটি বিশেষ জন্মদিনের বোনাস দাবি করুন। আপনার ভিআইপি লেভেল যত বেশি, বোনাস তত বড়।",
         rules: [
           "Availability: Once per Year, on your birth month.",
           "Claim Time: Claim from Bonus Notification after 12:00 PM on the 15th of your birth month.",
@@ -190,14 +190,14 @@ const promotions = [
         ]
       },
       {
-        title: "Deposit Boost: 0.5% to 3% Bonus!",
+        title: "ডিপোজিট বুস্ট: 0.5% থেকে 3% বোনাস!",
         slug: "deposit-boost-bonus",
         image: "/assets/promotions/promo-deposit-boost-optimized.webp",
         startDate: "2025-10-05",
         endDate: "2030-12-31",
-        details: "Get a bonus of 0.5% to 3% on your deposits during special periods.",
-        seo_title: "BoroJeet Deposit Boost | Get 0.5% to 3% Extra",
-        seo_description: "Boost your deposits at BoroJeet! Get an extra 0.5% to 3% bonus on deposits made during our special promotion days. Unlimited bonus potential!",
+        details: "বিশেষ প্রচারের দিনগুলিতে আপনার ডিপোজিটে 0.5% থেকে 3% পর্যন্ত বোনাস পান। আনলিমিটেড বোনাস!",
+        seo_title: "BoroJeet ডিপোজিট বুস্ট | 0.5% থেকে 3% অতিরিক্ত পান",
+        seo_description: "BoroJeet-এ আপনার ডিপোজিট বুস্ট করুন! আমাদের বিশেষ প্রচারের দিনগুলিতে করা ডিপোজিটে অতিরিক্ত 0.5% থেকে 3% বোনাস পান। আনলিমিটেড বোনাস সম্ভাবনা!",
         rules: [
           "Bonus Rate: 0.5% to 3%",
           "Maximum Bonus: Unlimited",
@@ -214,14 +214,14 @@ const promotions = [
     description: "Get new bonuses and rewards every day.",
     items: [
       {
-        title: "Daily Bonus: Free ৳200",
+        title: "ডেইলি বোনাস: প্রতিদিন বিনামূল্যে ৳200",
         slug: "daily-bonus-free-200",
         image: "/assets/promotions/promo-daily-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Claim a free ৳200 bonus every single day.",
-        seo_title: "BoroJeet Daily Bonus | Claim a Free ৳200 Every Day",
-        seo_description: "Log in to BoroJeet and claim your free ৳200 daily bonus! Deposit 300 today and enjoy extra funds for slots and card games.",
+        details: "প্রতিদিন বিনামূল্যে ৳200 বোনাস দাবি করুন। BoroJeet-এ আপনার প্রতিদিনের পুরস্কার।",
+        seo_title: "BoroJeet ডেইলি বোনাস | প্রতিদিন বিনামূল্যে ৳200 ক্লেম করুন",
+        seo_description: "BoroJeet-এ লগইন করুন এবং আপনার বিনামূল্যে ৳200 দৈনিক বোনাস দাবি করুন! আজ 300 টাকা জমা দিন এবং স্লট ও কার্ড গেমের জন্য অতিরিক্ত ফান্ড উপভোগ করুন।",
         rules: [
           "Bonus: ৳200",
           "Max Withdraw: ৳200",
@@ -232,14 +232,14 @@ const promotions = [
         ]
       },
       {
-        title: "App Daily Wins 200%",
+        title: "অ্যাপ ডেইলি উইনস 200%",
         slug: "app-daily-wins-200-percent",
         image: "/assets/promotions/promo-app-daily-wins-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Win up to 200% daily, exclusively on the BoroJeet app.",
-        seo_title: "BoroJeet App Daily Wins | Get a 200% Bonus",
-        seo_description: "Use the BoroJeet app to get a 200% daily bonus. Deposit just ৳50 and win up to ৳200 on slots, fisher, and crash games.",
+        details: "শুধুমাত্র BoroJeet অ্যাপে প্রতিদিন 200% পর্যন্ত জিতুন। অ্যাপ ব্যবহারকারীদের জন্য এক্সক্লুসিভ অফার।",
+        seo_title: "BoroJeet অ্যাপ ডেইলি উইনস | 200% বোনাস পান",
+        seo_description: "BoroJeet অ্যাপ ব্যবহার করে 200% দৈনিক বোনাস পান। মাত্র ৳50 জমা দিন এবং স্লট, ফিশার এবং ক্র্যাশ গেমে ৳200 পর্যন্ত জিতুন।",
         rules: [
           "Bonus: ৳100",
           "Join Amount: ৳50",
@@ -251,14 +251,14 @@ const promotions = [
         ]
       },
       {
-        title: "100% Daily Slot Bonus",
+        title: "100% ডেইলি স্লট বোনাস",
         slug: "100-percent-daily-slot-bonus",
         image: "/assets/promotions/promo-daily-slot-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "A daily 100% bonus to boost your slot game adventures.",
-        seo_title: "BoroJeet Daily Slot Bonus | 100% Match Bonus",
-        seo_description: "Get a 100% match bonus every day for slot games at BoroJeet. Deposit 200 and play with 400 to increase your winning chances.",
+        details: "আপনার স্লট গেম অ্যাডভেঞ্চারকে আরও মজাদার করতে প্রতিদিন 100% বোনাস।",
+        seo_title: "BoroJeet ডেইলি স্লট বোনাস | 100% ম্যাচ বোনাস",
+        seo_description: "BoroJeet-এ স্লট গেমের জন্য প্রতিদিন 100% ম্যাচ বোনাস পান। 200 টাকা জমা দিন এবং আপনার জেতার সুযোগ বাড়াতে 400 টাকা দিয়ে খেলুন।",
         rules: [
           "Bonus: ৳200",
           "Join Amount: ৳200",
@@ -269,14 +269,14 @@ const promotions = [
         ]
       },
       {
-        title: "100% Daily Fisher Bonus",
+        title: "100% ডেইলি ফিশার বোনাস",
         slug: "100-percent-daily-fisher-bonus",
         image: "/assets/promotions/promo-daily-fisher-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Hook a big win with a 100% daily bonus for fishing games.",
-        seo_title: "BoroJeet Daily Fisher Bonus | 100% Match Bonus",
-        seo_description: "Love fishing games? Get a 100% daily bonus at BoroJeet. Deposit 200 and get an extra 200 to hunt for the biggest fish.",
+        details: "ফিশিং গেমগুলির জন্য প্রতিদিন 100% বোনাস দিয়ে একটি বড় জয় অর্জন করুন।",
+        seo_title: "BoroJeet ডেইলি ফিশার বোনাস | 100% ম্যাচ বোনাস",
+        seo_description: "ফিশিং গেম ভালোবাসেন? BoroJeet-এ 100% দৈনিক বোনাস পান। 200 টাকা জমা দিন এবং সবচেয়ে বড় মাছ শিকারের জন্য অতিরিক্ত 200 টাকা পান।",
         rules: [
           "Bonus: ৳200",
           "Join Amount: ৳200",
@@ -287,14 +287,14 @@ const promotions = [
         ]
       },
       {
-        title: "100% Daily Crash Bonus",
+        title: "100% ডেইলি ক্র্যাশ বোনাস",
         slug: "100-percent-daily-crash-bonus",
         image: "/assets/promotions/promo-daily-crash-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Get a 100% bonus every day for our thrilling Crash games.",
-        seo_title: "BoroJeet Daily Crash Bonus | 100% Match Bonus",
-        seo_description: "Enjoy our exciting crash games with a 100% daily bonus. Deposit 200 and play with 400 for a better chance at high multipliers.",
+        details: "আমাদের রোমাঞ্চকর ক্র্যাশ গেমগুলির জন্য প্রতিদিন 100% বোনাস পান।",
+        seo_title: "BoroJeet ডেইলি ক্র্যাশ বোনাস | 100% ম্যাচ বোনাস",
+        seo_description: "আমাদের উত্তেজনাপূর্ণ ক্র্যাশ গেমগুলি 100% দৈনিক বোনাস সহ উপভোগ করুন। 200 টাকা জমা দিন এবং উচ্চ মাল্টিপ্লায়ারের আরও ভালো সুযোগের জন্য 400 টাকা দিয়ে খেলুন।",
         rules: [
           "Bonus: ৳200",
           "Join Amount: ৳200",
@@ -305,14 +305,14 @@ const promotions = [
         ]
       },
       {
-        title: "Daily Slots & Crash Bonus: Win up to 1,000!",
+        title: "ডেইলি স্লট ও ক্র্যাশ বোনাস: ৳1,000 পর্যন্ত জিতুন!",
         slug: "daily-slots-crash-bonus-win-1000",
         image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "Play Slots & Crash games for a chance to win up to 1,000 daily.",
-        seo_title: "BoroJeet Daily Bonus | Win up to 1,000 on Slots & Crash",
-        seo_description: "Deposit 100 daily and play slots or crash games for a chance to turn it into 1,000! No turnover required on your winnings.",
+        details: "প্রতিদিন ৳1,000 পর্যন্ত জেতার সুযোগের জন্য স্লট এবং ক্র্যাশ গেম খেলুন।",
+        seo_title: "BoroJeet ডেইলি বোনাস | স্লট ও ক্র্যাশে ৳1,000 পর্যন্ত জিতুন",
+        seo_description: "প্রতিদিন 100 টাকা জমা দিন এবং স্লট বা ক্র্যাশ গেম খেলে এটিকে 1,000 টাকায় পরিণত করার সুযোগ পান! আপনার জয়ের উপর কোনো টার্নওভারের প্রয়োজন নেই।",
         rules: [
           "Bonus: 100",
           "Join Amount: 100",
@@ -323,14 +323,14 @@ const promotions = [
         ]
       },
       {
-        title: "99,999 Lucky Draw: Spin & Win Big",
+        title: "99,999 লাকি ড্র: স্পিন করুন এবং বড় জিতুন",
         slug: "99999-lucky-draw-spin-win-big",
         image: "/assets/promotions/promo-lucky-draw-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Participate in our lucky draw for a chance to win up to 99,999!",
-        seo_title: "BoroJeet 99,999 Lucky Draw | Spin and Win Daily",
-        seo_description: "Join the BoroJeet lucky draw! Deposit 1,000 and meet turnover requirements for a chance to win up to 99,999 BDT daily.",
+        details: "আমাদের লাকি ড্র-তে অংশ নিয়ে 99,999 টাকা পর্যন্ত জেতার সুযোগ!",
+        seo_title: "BoroJeet 99,999 লাকি ড্র | প্রতিদিন স্পিন করুন এবং জিতুন",
+        seo_description: "BoroJeet লাকি ড্র-তে যোগ দিন! 1,000 টাকা জমা দিন এবং প্রতিদিন 99,999 টাকা পর্যন্ত জেতার সুযোগের জন্য টার্নওভারের প্রয়োজনীয়তা পূরণ করুন।",
         rules: [
           "Turnover: 1x",
           "Availability: Once per Day",
@@ -340,14 +340,14 @@ const promotions = [
         ]
       },
       {
-        title: "300 Login Draw: Just Login & Win Points",
+        title: "300 লগইন ড্র: শুধু লগইন করুন এবং পয়েন্ট জিতুন",
         slug: "300-login-draw-win-points",
         image: "/assets/promotions/promo-login-draw-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Simply log in every day for a chance to win up to 300 points.",
-        seo_title: "BoroJeet Login Draw | Win Up to 300 Points Daily",
-        seo_description: "Log in to BoroJeet daily and get a chance to win up to 300 free points. No deposit or turnover required. Just log in and win!",
+        details: "প্রতিদিন লগইন করে 300 পয়েন্ট পর্যন্ত জেতার সুযোগ। কোনো ডিপোজিট প্রয়োজন নেই!",
+        seo_title: "BoroJeet লগইন ড্র | প্রতিদিন 300 পয়েন্ট পর্যন্ত জিতুন",
+        seo_description: "প্রতিদিন BoroJeet-এ লগইন করুন এবং 300 পর্যন্ত বিনামূল্যে পয়েন্ট জেতার সুযোগ পান। কোনো ডিপোজিট বা টার্নওভারের প্রয়োজন নেই। শুধু লগইন করুন এবং জিতুন!",
         rules: [
           "Eligible Players: VIP Level 2 to VIP 20",
           "Availability: Once per day.",
@@ -356,14 +356,14 @@ const promotions = [
         ]
       },
       {
-        title: "7-Day Check-In Challenge: Rewards Every Day!",
+        title: "7-দিনের চেক-ইন চ্যালেঞ্জ: প্রতিদিন পুরস্কার!",
         slug: "7-day-check-in-challenge",
         image: "/assets/promotions/promo-check-in-challenge-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Complete daily tasks for 7 consecutive days to claim increasing rewards.",
-        seo_title: "BoroJeet 7-Day Check-In Challenge | Daily Rewards",
-        seo_description: "Take the BoroJeet 7-day check-in challenge! Deposit 200 and meet turnover goals daily to earn increasing rewards every day for a week.",
+        details: "টানা ৭ দিন দৈনিক কাজগুলি সম্পন্ন করে ক্রমবর্ধমান পুরস্কার দাবি করুন।",
+        seo_title: "BoroJeet 7-দিনের চেক-ইন চ্যালেঞ্জ | দৈনিক পুরস্কার",
+        seo_description: "BoroJeet 7-দিনের চেক-ইন চ্যালেঞ্জ গ্রহণ করুন! প্রতিদিন 200 টাকা জমা দিন এবং এক সপ্তাহের জন্য প্রতিদিন ক্রমবর্ধমান পুরস্কার অর্জন করতে টার্নওভার লক্ষ্য পূরণ করুন।",
         rules: [
           "Daily Task: Deposit 200 BDT & achieve 1,000 BDT valid turnover.",
           "Rewards: Increase daily from 1 BDT to 50 BDT on Day 7.",
@@ -372,14 +372,14 @@ const promotions = [
         ]
       },
       {
-        title: "0.5% Bonus on Every Deposit",
+        title: "প্রতিটি ডিপোজিটে 0.5% বোনাস",
         slug: "0-5-percent-bonus-on-every-deposit",
         image: "/assets/promotions/promo-deposit-reward-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Get an extra 0.5% bonus on every single deposit you make.",
-        seo_title: "BoroJeet Deposit Bonus | Get 0.5% Extra on Every Deposit",
-        seo_description: "Receive a 0.5% bonus on every deposit you make at BoroJeet. No limits on the bonus amount. Deposit 100 or more to qualify.",
+        details: "আপনার করা প্রতিটি ডিপোজিটে অতিরিক্ত 0.5% বোনাস পান। কোনো সীমা নেই!",
+        seo_title: "BoroJeet ডিপোজিট বোনাস | প্রতিটি ডিপোজিটে 0.5% অতিরিক্ত পান",
+        seo_description: "BoroJeet-এ আপনার করা প্রতিটি ডিপোজিটে 0.5% বোনাস পান। বোনাসের পরিমাণে কোনো সীমা নেই। যোগ্যতা অর্জনের জন্য 100 বা তার বেশি জমা দিন।",
         rules: [
           "Bonus Rate: 0.5% on Every Deposit",
           "Maximum Bonus: Unlimited",
@@ -395,14 +395,14 @@ const promotions = [
     description: "Exclusive rewards for our loyal players.",
     items: [
       {
-        title: "100 Taka Free Weekly Facebook Share",
+        title: "সাপ্তাহিক ফেসবুক শেয়ার: বিনামূল্যে ৳100",
         slug: "100-taka-free-weekly-facebook-share",
         image: "/assets/promotions/promo-weekly-facebook-share-optimized.webp",
         startDate: "2025-07-31",
         endDate: "2030-12-31",
-        details: "Share on Facebook weekly and get 100 Taka for free.",
-        seo_title: "BoroJeet Facebook Share Bonus | Get 100 Taka Free Weekly",
-        seo_description: "Share BoroJeet on your Facebook and get a 100 Taka bonus every week. Available for VIP 5+ members with a weekly deposit of 300.",
+        details: "সাপ্তাহিকভাবে ফেসবুকে শেয়ার করুন এবং বিনামূল্যে 100 টাকা পান। আপনার আনুগত্যের জন্য পুরস্কার।",
+        seo_title: "BoroJeet ফেসবুক শেয়ার বোনাস | সাপ্তাহিক বিনামূল্যে ৳100 পান",
+        seo_description: "আপনার ফেসবুকে BoroJeet শেয়ার করুন এবং প্রতি সপ্তাহে 100 টাকা বোনাস পান। 300 টাকার সাপ্তাহিক ডিপোজিট সহ VIP 5+ সদস্যদের জন্য উপলব্ধ।",
         rules: [
           "Bonus: ৳100",
           "Turnover: 1x",
@@ -412,14 +412,14 @@ const promotions = [
         ]
       },
       {
-        title: "Monthly VIP Bonus: Earn Up to 4,000",
+        title: "মাসিক ভিআইপি বোনাস: ৳4,000 পর্যন্ত আয় করুন",
         slug: "monthly-vip-bonus-earn-up-to-4000",
         image: "/assets/promotions/promo-monthly-vip-bonus-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Loyal VIPs can earn a monthly bonus of up to 4,000.",
-        seo_title: "BoroJeet Monthly VIP Bonus | Earn Up to 4,000",
-        seo_description: "As a loyal VIP at BoroJeet, you can earn a monthly bonus of up to 4,000. Maintain your activity and get rewarded on the 1st of each month.",
+        details: "অনুগত ভিআইপিরা 4,000 টাকা পর্যন্ত মাসিক বোনাস অর্জন করতে পারেন।",
+        seo_title: "BoroJeet মাসিক ভিআইপি বোনাস | ৳4,000 পর্যন্ত আয় করুন",
+        seo_description: "BoroJeet-এর একজন অনুগত ভিআইপি হিসেবে, আপনি 4,000 টাকা পর্যন্ত মাসিক বোনাস অর্জন করতে পারেন। আপনার কার্যকলাপ বজায় রাখুন এবং প্রতি মাসের 1 তারিখে পুরস্কৃত হন।",
         rules: [
           "Bonus: 200 to 4,000, based on VIP level.",
           "Requirement: Varies by VIP level (e.g., VIP 2-4 needs 500 deposit & 40,000 turnover).",
@@ -429,14 +429,14 @@ const promotions = [
         ]
       },
       {
-        title: "Weekly VIP Bonus: Get up to 2,000",
+        title: "সাপ্তাহিক ভিআইপি বোনাস: ৳2,000 পর্যন্ত পান",
         slug: "weekly-vip-bonus-get-up-to-2000",
         image: "/assets/promotions/promo-weekly-vip-bonus-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "A weekly bonus for our VIP players, with rewards up to 2,000.",
-        seo_title: "BoroJeet Weekly VIP Bonus | Get up to 2,000",
-        seo_description: "Get rewarded every week at BoroJeet with our VIP bonus. Earn up to 2,000 based on your VIP level and weekly activity. Bonuses are paid out every Friday.",
+        details: "আমাদের ভিআইপি খেলোয়াড়দের জন্য একটি সাপ্তাহিক বোনাস, যার পুরস্কার 2,000 টাকা পর্যন্ত।",
+        seo_title: "BoroJeet সাপ্তাহিক ভিআইপি বোনাস | ৳2,000 পর্যন্ত পান",
+        seo_description: "আমাদের ভিআইপি বোনাস দিয়ে BoroJeet-এ প্রতি সপ্তাহে পুরস্কৃত হন। আপনার ভিআইপি লেভেল এবং সাপ্তাহিক কার্যকলাপের উপর ভিত্তি করে 2,000 টাকা পর্যন্ত আয় করুন। বোনাস প্রতি শুক্রবার প্রদান করা হয়।",
         rules: [
           "Bonus: 100 to 2,000, based on VIP level.",
           "Requirement: Varies by VIP level (e.g., VIP 2-4 needs 250 deposit & 20,000 turnover).",
@@ -446,14 +446,14 @@ const promotions = [
         ]
       },
       {
-        title: "VIP Upgrade Bonus: Get up to 6,000",
+        title: "ভিআইপি আপগ্রেড বোনাস: ৳6,000 পর্যন্ত পান",
         slug: "vip-upgrade-bonus-get-up-to-6000",
         image: "/assets/promotions/promo-vip-upgrade-bonus-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Receive a bonus up to 6,000 every time you upgrade your VIP level.",
-        seo_title: "BoroJeet VIP Upgrade Bonus | Get up to 6,000",
-        seo_description: "Level up your VIP status at BoroJeet and get an instant bonus of up to 6,000. The higher you climb, the bigger the reward.",
+        details: "যতবার আপনি আপনার ভিআইপি লেভেল আপগ্রেড করবেন, ততবার 6,000 টাকা পর্যন্ত বোনাস পাবেন।",
+        seo_title: "BoroJeet ভিআইপি আপগ্রেড বোনাস | ৳6,000 পর্যন্ত পান",
+        seo_description: "BoroJeet-এ আপনার ভিআইপি স্ট্যাটাস লেভেল আপ করুন এবং 6,000 টাকা পর্যন্ত একটি তাত্ক্ষণিক বোনাস পান। আপনি যত উপরে উঠবেন, পুরস্কার তত বড় হবে।",
         rules: [
           "Bonus: 5 (for VIP 2) up to 6,000 (for VIP 20).",
           "Requirement: Reach a new VIP level based on total deposit and turnover.",
@@ -469,14 +469,14 @@ const promotions = [
     description: "Get daily rebates on your turnover. The more you play, the more you get back!",
     items: [
       {
-        title: "1.5% Daily Rebate on Slot & Fisher",
+        title: "স্লট ও ফিশারে 1.5% ডেইলি রিবেট",
         slug: "1-5-percent-daily-rebate-on-slot-fisher",
         image: "/assets/promotions/promo-daily-rebate-slot-fisher-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Earn up to 1.5% daily rebate on your turnover in Slot and Fisher games.",
-        seo_title: "BoroJeet Daily Rebate | 1.5% on Slot & Fisher Games",
-        seo_description: "Play slot and fisher games at BoroJeet and get a daily rebate of up to 1.5% on your turnover. The more you play, the more you earn back!",
+        details: "স্লট এবং ফিশার গেমগুলিতে আপনার টার্নওভারে প্রতিদিন 1.5% পর্যন্ত রিবেট অর্জন করুন।",
+        seo_title: "BoroJeet ডেইলি রিবেট | স্লট ও ফিশার গেমে 1.5%",
+        seo_description: "BoroJeet-এ স্লট এবং ফিশার গেম খেলুন এবং আপনার টার্নওভারে 1.5% পর্যন্ত দৈনিক রিবেট পান। আপনি যত বেশি খেলবেন, তত বেশি ফেরত পাবেন!",
         rules: [
           "Game Kind: Slot & Fisher",
           "Rebate Rate: Varies from 0.4% to 1.5% based on VIP level and daily turnover.",
@@ -487,14 +487,14 @@ const promotions = [
         ]
       },
       {
-        title: "1.0% Daily Rebate on Crash, Live & Sports",
+        title: "ক্র্যাশ, লাইভ ও স্পোর্টসে 1.0% ডেইলি রিবেট",
         slug: "1-0-percent-daily-rebate-on-crash-live-sports",
         image: "/assets/promotions/promo-daily-rebate-crash-live-sport-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Get up to 1.0% daily rebate on Crash, Live Casino, and Sports betting.",
-        seo_title: "BoroJeet Daily Rebate | 1.0% on Crash, Live & Sports",
-        seo_description: "Get a daily rebate of up to 1.0% on your turnover from crash games, live casino, and sports betting at BoroJeet. Unlimited bonus potential!",
+        details: "ক্র্যাশ, লাইভ ক্যাসিনো এবং স্পোর্টস বেটিংয়ে 1.0% পর্যন্ত দৈনিক রিবেট পান।",
+        seo_title: "BoroJeet ডেইলি রিবেট | ক্র্যাশ, লাইভ ও স্পোর্টসে 1.0%",
+        seo_description: "BoroJeet-এ ক্র্যাশ গেম, লাইভ ক্যাসিনো এবং স্পোর্টস বেটিং থেকে আপনার টার্নওভারে 1.0% পর্যন্ত দৈনিক রিবেট পান। আনলিমিটেড বোনাস সম্ভাবনা!",
         rules: [
           "Game Kind: Crash, Live, Sports",
           "Rebate Rate: Varies from 0.1% to 1.0% based on VIP level and daily turnover.",
@@ -505,14 +505,14 @@ const promotions = [
         ]
       },
       {
-        title: "0.9% Daily Rebate on All Other Games",
+        title: "অন্যান্য সব গেমে 0.9% ডেইলি রিবেট",
         slug: "0-9-percent-daily-rebate-on-all-other-games",
         image: "/assets/promotions/promo-daily-rebate-all-games-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Enjoy up to 0.9% daily rebate on Table games, Arcade, Card games, and more.",
-        seo_title: "BoroJeet Daily Rebate | 0.9% on Table, Arcade & Card Games",
-        seo_description: "Play a wide variety of games at BoroJeet and earn a daily rebate of up to 0.9%. Includes table games, arcade, card games, and more.",
+        details: "টেবিল গেম, আর্কেড, কার্ড গেম এবং আরও অনেক কিছুতে 0.9% পর্যন্ত দৈনিক রিবেট উপভোগ করুন।",
+        seo_title: "BoroJeet ডেইলি রিবেট | টেবিল, আর্কেড ও কার্ড গেমে 0.9%",
+        seo_description: "BoroJeet-এ বিভিন্ন ধরণের গেম খেলুন এবং 0.9% পর্যন্ত দৈনিক রিবেট অর্জন করুন। এর মধ্যে রয়েছে টেবিল গেম, আর্কেড, কার্ড গেম এবং আরও অনেক কিছু।",
         rules: [
           "Game Kind: Table, Arcade, Card, Lottery, Cockfighting, Others",
           "Rebate Rate: Varies from 0.1% to 0.9% based on VIP level and daily turnover.",
@@ -530,14 +530,14 @@ const promotions = [
     description: "Get a percentage of your losses back. A safety net for our players.",
     items: [
       {
-        title: "Up to 8% Losing Commission on Slot & Fisher",
+        title: "স্লট ও ফিশারে 8% পর্যন্ত ক্যাশব্যাক",
         slug: "up-to-8-percent-losing-commission-on-slot-fisher",
         image: "/assets/promotions/promo-losing-commission-slot-fisher-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Get back up to 8% of your weekly losses in Slot and Fisher games.",
-        seo_title: "BoroJeet Losing Commission | Up to 8% on Slot & Fisher",
-        seo_description: "Had a bad week? Get up to 8% of your losses back on slot and fisher games at BoroJeet. Commission is paid out every Monday.",
+        details: "স্লট এবং ফিশার গেমগুলিতে আপনার সাপ্তাহিক ক্ষতির 8% পর্যন্ত ফেরত পান।",
+        seo_title: "BoroJeet ক্যাশব্যাক | স্লট ও ফিশারে 8% পর্যন্ত",
+        seo_description: "সপ্তাহটা খারাপ গেছে? BoroJeet-এ স্লট এবং ফিশার গেমে আপনার ক্ষতির 8% পর্যন্ত ফেরত পান। কমিশন প্রতি সোমবার প্রদান করা হয়।",
         rules: [
           "Game Kind: Slot & Fisher",
           "Commission Rate: Varies from 1.5% to 8.0% based on VIP level and weekly loss.",
@@ -548,14 +548,14 @@ const promotions = [
         ]
       },
       {
-        title: "Up to 5% Losing Commission on Crash, Live & Sports",
+        title: "ক্র্যাশ, লাইভ ও স্পোর্টসে 5% পর্যন্ত ক্যাশব্যাক",
         slug: "up-to-5-percent-losing-commission-on-crash-live-sports",
         image: "/assets/promotions/promo-losing-commission-crash-live-sports-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Receive up to 5% cashback on your weekly losses in Crash, Live Casino, and Sports.",
-        seo_title: "BoroJeet Losing Commission | Up to 5% on Crash, Live & Sports",
-        seo_description: "Get a safety net with up to 5% losing commission on crash, live casino, and sports betting at BoroJeet. Cashback is credited every Monday.",
+        details: "ক্র্যাশ, লাইভ ক্যাসিনো এবং স্পোর্টসে আপনার সাপ্তাহিক ক্ষতির উপর 5% পর্যন্ত ক্যাশব্যাক পান।",
+        seo_title: "BoroJeet ক্যাশব্যাক | ক্র্যাশ, লাইভ ও স্পোর্টসে 5% পর্যন্ত",
+        seo_description: "BoroJeet-এ ক্র্যাশ, লাইভ ক্যাসিনো এবং স্পোর্টস বেটিংয়ে 5% পর্যন্ত ক্যাশব্যাক সহ একটি সুরক্ষা জাল পান। ক্যাশব্যাক প্রতি সোমবার জমা হয়।",
         rules: [
           "Game Kind: Crash, Live, Sports",
           "Commission Rate: Varies from 0.7% to 5.0% based on VIP level and weekly loss.",
@@ -566,14 +566,14 @@ const promotions = [
         ]
       },
       {
-        title: "Up to 2.5% Losing Commission on All Other Games",
+        title: "অন্যান্য সব গেমে 2.5% পর্যন্ত ক্যাশব্যাক",
         slug: "up-to-2-5-percent-losing-commission-on-all-other-games",
         image: "/assets/promotions/promo-losing-commission-all-games-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "A safety net for all other games, with up to 2.5% commission on weekly losses.",
-        seo_title: "BoroJeet Losing Commission | Up to 2.5% on Other Games",
-        seo_description: "Don't worry about losses on table games, arcade, or card games. BoroJeet offers up to 2.5% weekly losing commission to give you another chance.",
+        details: "অন্যান্য সমস্ত গেমের জন্য একটি সুরক্ষা জাল, সাপ্তাহিক ক্ষতিতে 2.5% পর্যন্ত কমিশন।",
+        seo_title: "BoroJeet ক্যাশব্যাক | অন্যান্য গেমে 2.5% পর্যন্ত",
+        seo_description: "টেবিল গেম, আর্কেড বা কার্ড গেমে ক্ষতির বিষয়ে চিন্তা করবেন না। BoroJeet আপনাকে আরও একটি সুযোগ দেওয়ার জন্য 2.5% পর্যন্ত সাপ্তাহিক ক্যাশব্যাক অফার করে।",
         rules: [
           "Game Kind: Table, Arcade, Card, Lottery, Cockfighting, Others",
           "Commission Rate: Varies from 0.6% to 2.5% based on VIP level and weekly loss.",
@@ -591,14 +591,14 @@ const promotions = [
     description: "Invite friends and earn rewards together! The more you refer, the more you earn.",
     items: [
       {
-        title: "৳400 Referral Bonus: Invite Friends & Earn Rewards",
+        title: "৳400 রেফারেল বোনাস: বন্ধুদের আমন্ত্রণ জানান এবং পুরস্কার জিতুন",
         slug: "400-referral-bonus-invite-friends-earn-rewards",
         image: "/assets/promotions/promo-referral-bonus-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Both you and your friend can earn a bonus when you refer them to BoroJeet.",
-        seo_title: "BoroJeet Referral Bonus | Invite Friends & Earn ৳400",
-        seo_description: "Invite your friends to BoroJeet and you both get rewarded! Earn up to 400 BDT for every successful referral. Start sharing now!",
+        details: "আপনি যখন আপনার বন্ধুকে BoroJeet-এ রেফার করবেন তখন আপনি এবং আপনার বন্ধু উভয়েই একটি বোনাস অর্জন করতে পারেন।",
+        seo_title: "BoroJeet রেফারেল বোনাস | বন্ধুদের আমন্ত্রণ জানান এবং ৳400 জিতুন",
+        seo_description: "আপনার বন্ধুদের BoroJeet-এ আমন্ত্রণ জানান এবং আপনারা উভয়েই পুরস্কৃত হন! প্রতিটি সফল রেফারেলে 400 টাকা পর্যন্ত আয় করুন। এখনই শেয়ার করা শুরু করুন!",
         rules: [
           "Total Bonus: Up to 400 BDT (200 for referrer, 200 for new member).",
           "Turnover: 3x for both.",
@@ -607,14 +607,14 @@ const promotions = [
         ]
       },
       {
-        title: "9,600 Referral Challenge: Monthly Bonuses for Invites",
+        title: "9,600 রেফারেল চ্যালেঞ্জ: আমন্ত্রণের জন্য মাসিক বোনাস",
         slug: "9600-referral-challenge-monthly-bonuses",
         image: "/assets/promotions/promo-referral-challenge-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "The more friends you refer each month, the bigger the bonus you can get, up to 9,600 BDT.",
-        seo_title: "BoroJeet Referral Challenge | Earn up to 9,600 Monthly",
-        seo_description: "Take the BoroJeet referral challenge! Invite friends and earn monthly bonuses up to 9,600 BDT. The more you refer, the more you earn.",
+        details: "আপনি প্রতি মাসে যত বেশি বন্ধুকে রেফার করবেন, তত বড় বোনাস পেতে পারেন, 9,600 টাকা পর্যন্ত।",
+        seo_title: "BoroJeet রেফারেল চ্যালেঞ্জ | মাসিক ৳9,600 পর্যন্ত আয় করুন",
+        seo_description: "BoroJeet রেফারেল চ্যালেঞ্জ গ্রহণ করুন! বন্ধুদের আমন্ত্রণ জানান এবং 9,600 টাকা পর্যন্ত মাসিক বোনাস আয় করুন। আপনি যত বেশি রেফার করবেন, তত বেশি আয় করবেন।",
         rules: [
           "Challenge: Earn bonuses for successfully referring 5, 10, 20, 50, or 100 people monthly.",
           "Total Possible Bonus: Up to 9,600 BDT per month.",
@@ -622,14 +622,14 @@ const promotions = [
         ]
       },
       {
-        title: "Affiliate Partner: Earn up to 50% Commission",
+        title: "অ্যাফিলিয়েট পার্টনার: 50% পর্যন্ত কমিশন উপার্জন করুন",
         slug: "affiliate-partner-earn-up-to-50-percent-commission",
         image: "/assets/promotions/promo-affiliate-commission-optimized.webp",
         startDate: "2025-06-27",
         endDate: "2030-06-30",
-        details: "Join our affiliate program and earn a high commission rate of up to 50%.",
-        seo_title: "BoroJeet Affiliate Program | Earn up to 50% Commission",
-        seo_description: "Become a BoroJeet affiliate partner and earn up to 50% commission. Promote a trusted brand and get high returns on your traffic.",
+        details: "আমাদের অ্যাফিলিয়েট প্রোগ্রামে যোগ দিন এবং 50% পর্যন্ত উচ্চ কমিশন রেট অর্জন করুন।",
+        seo_title: "BoroJeet অ্যাফিলিয়েট প্রোগ্রাম | 50% পর্যন্ত কমিশন উপার্জন করুন",
+        seo_description: "একজন BoroJeet অ্যাফিলিয়েট পার্টনার হন এবং 50% পর্যন্ত কমিশন উপার্জন করুন। একটি বিশ্বস্ত ব্র্যান্ড প্রচার করুন এবং আপনার ট্র্যাফিকের উপর উচ্চ রিটার্ন পান।",
         rules: [
           "Plan A: 40% Fixed Commission on Slot, Fisher, and Crash games.",
           "Plan B: Tiered Commission up to 50% on all games, based on active members and net profit.",
@@ -644,14 +644,14 @@ const promotions = [
     description: "Compete with other players in our exciting tournaments and win big prizes!",
     items: [
       {
-        title: "Dragon & Tiger Slot Tournament",
+        title: "ড্রাগন ও টাইগার স্লট টুর্নামেন্ট",
         slug: "dragon-tiger-slot-tournament",
         image: "/assets/promotions/promo-dragon-tiger-tournament-optimized.webp",
         startDate: "2025-06-08",
         endDate: "2030-12-31",
-        details: "Compete in our Dragon & Tiger leaderboards for daily, weekly, and monthly prizes.",
-        seo_title: "BoroJeet Dragon & Tiger Slot Tournament | Win Big Prizes",
-        seo_description: "Join the Dragon & Tiger slot tournament at BoroJeet. Compete on our leaderboards for daily, weekly, and monthly prizes up to 9,600 BDT.",
+        details: "দৈনিক, সাপ্তাহিক এবং মাসিক পুরস্কারের জন্য আমাদের ড্রাগন ও টাইগার লিডারবোর্ডে প্রতিযোগিতা করুন।",
+        seo_title: "BoroJeet ড্রাগন ও টাইগার স্লট টুর্নামেন্ট | বড় পুরস্কার জিতুন",
+        seo_description: "BoroJeet-এ ড্রাগন ও টাইগার স্লট টুর্নামেন্টে যোগ দিন। 9,600 টাকা পর্যন্ত দৈনিক, সাপ্তাহিক এবং মাসিক পুরস্কারের জন্য আমাদের লিডারবোর্ডে প্রতিযোগিতা করুন।",
         rules: [
           "Dragon Leaderboard: Qualify by winning 1,000+ BDT in a single round. Prizes up to 9,600 BDT.",
           "Tiger Leaderboard: Qualify by achieving a 200x+ multiplier. Prizes up to 6,400 BDT.",
@@ -660,14 +660,14 @@ const promotions = [
         ]
       },
       {
-        title: "All Slot Betting Tournament",
+        title: "অল স্লট বেটিং টুর্নামেন্ট",
         slug: "all-slot-betting-tournament",
         image: "/assets/promotions/promo-all-slot-tournament-optimized.webp",
         startDate: "2025-11-01",
         endDate: "2025-11-15",
-        details: "Climb the leaderboard by achieving the highest total valid turnover in any slot game.",
-        seo_title: "BoroJeet All Slot Betting Tournament | Win 5,000 BDT",
-        seo_description: "Participate in the All Slot Betting Tournament at BoroJeet. The player with the highest turnover wins 5,000 BDT. Prizes for the top 1,000 players.",
+        details: "যেকোনো স্লট গেমে সর্বোচ্চ মোট বৈধ টার্নওভার অর্জন করে লিডারবোর্ডে উঠুন।",
+        seo_title: "BoroJeet অল স্লট বেটিং টুর্নামেন্ট | ৳5,000 BDT জিতুন",
+        seo_description: "BoroJeet-এ অল স্লট বেটিং টুর্নামেন্টে অংশগ্রহণ করুন। সর্বোচ্চ টার্নওভার সহ খেলোয়াড় 5,000 BDT জিতবেন। শীর্ষ 1,000 খেলোয়াড়দের জন্য পুরস্কার।",
         rules: [
           "How to Win: Highest total valid turnover on any slot game.",
           "Minimum Requirement: 1,000 BDT total valid turnover.",
