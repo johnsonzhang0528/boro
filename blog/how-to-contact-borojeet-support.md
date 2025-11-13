@@ -92,3 +92,36 @@ BoroJeet তাদের অফিসিয়াল সোশ্যাল ম�
 BoroJeet তার গ্রাহকদের সহায়তার জন্য একাধিক সুবিধাজনক মাধ্যম সরবরাহ করে। আপনার যখনই কোনো প্রশ্ন বা সমস্যা হবে, তখন দ্বিধা না করে তাদের সাথে যোগাযোগ করুন।
 
 BoroJeet প্ল্যাটফর্ম সম্পর্কে আরও জানতে, **[আমাদের নতুনদের জন্য সম্পূর্ণ গাইডটি পড়ুন](/blog/beginners-guide-to-borojeet/)**।
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I contact BoroJeet customer support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can contact BoroJeet support through Live Chat on the website, Telegram, WhatsApp, and Email. These services are available 24/7."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the fastest way to get help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Live Chat is the fastest and most direct method for getting immediate assistance from BoroJeet's support team."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is BoroJeet support available in Bengali?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, BoroJeet provides customer support in both Bengali and English to assist players from Bangladesh."
+      }
+    }
+  ]
+}
+</script>
