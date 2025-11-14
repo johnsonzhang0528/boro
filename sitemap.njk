@@ -4,12 +4,14 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {# Promotion Category Pages #}
+  {# Data-driven Promotion Pages (not in collections.all) #}
   {%- for category in promotions.all -%}
-  <url>
-      <loc>{{ site.url }}/promotions/{{ category.slug }}/</loc>
-      <lastmod>{{ site.date }}</lastmod>
-  </url>
+    {# Promotion Category Pages #}
+    <url>
+        <loc>{{ site.url }}/promotions/{{ category.slug }}/</loc>
+        <lastmod>{{ category.date }}</lastmod>
+    </url>
+    {# Promotion Detail Pages #}
     {%- for item in category.items -%}
     <url>
         <loc>{{ site.url }}/promotions/{{ category.slug }}/{{ item.slug }}/</loc>
@@ -22,7 +24,7 @@ eleventyExcludeFromCollections: true
   {%- for page in collections.post %}
     <url>
       <loc>{{ site.url }}{{ page.url | url }}</loc>
-      <lastmod>{{ (page.lastUpdated or page.date).toISOString().slice(0,10) }}</lastmod>
+      <lastmod>{{ page.date.toISOString().slice(0,10) }}</lastmod>
     </url>
   {%- endfor %}
   
