@@ -24,7 +24,7 @@ eleventyExcludeFromCollections: true
   {%- for page in collections.post %}
     <url>
       <loc>{{ site.url }}{{ page.url | url }}</loc>
-      <lastmod>{{ page.date.toISOString().slice(0,10) }}</lastmod>
+      <lastmod>{{ (page.data.lastUpdated or page.date).toISOString().slice(0,10) }}</lastmod>
     </url>
   {%- endfor %}
   
@@ -33,7 +33,7 @@ eleventyExcludeFromCollections: true
     {%- if page.data.tags and 'post' not in page.data.tags and page.url and page.data.eleventyExcludeFromCollections != true and not page.data.robots %}
       <url>
         <loc>{{ site.url }}{{ page.url | url }}</loc>
-        <lastmod>{{ page.date.toISOString().slice(0,10) }}</lastmod>
+        <lastmod>{{ (page.data.lastUpdated or page.date).toISOString().slice(0,10) }}</lastmod>
       </url>
     {%- endif %}
   {%- endfor %}
