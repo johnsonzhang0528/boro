@@ -1,7 +1,8 @@
 --- 
 title: "bKash লেনদেনের সীমা ও ক্যাসিনো ডিপোজিট: যা আপনার জানা দরকার"
 description: "bKash ব্যবহার করে ক্যাসিনো ডিপোজিটের সময় লেনদেনের সীমা নিয়ে সমস্যায় পড়ছেন? দৈনিক, মাসিক লিমিট এবং বড় ডিপোজিটের সেরা উপায় জানুন।"
-date: "2025-11-01"
+date: 2025-11-01
+lastUpdated: 2025-11-14
 layout: "post.njk"
 ogImage: "bkash-deposit-limit-error-optimized.webp"
 tags: "post"

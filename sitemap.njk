@@ -4,18 +4,33 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {# Promotion Category Pages #}
+  {%- for category in promotions.all -%}
+  <url>
+      <loc>{{ site.url }}/promotions/{{ category.slug }}/</loc>
+      <lastmod>{{ site.date }}</lastmod>
+  </url>
+    {%- for item in category.items -%}
+    <url>
+        <loc>{{ site.url }}/promotions/{{ category.slug }}/{{ item.slug }}/</loc>
+        <lastmod>{{ item.startDate }}</lastmod>
+    </url>
+    {%- endfor -%}
+  {%- endfor -%}
+
   {# Add all published posts from the filtered collection #}
   {%- for page in collections.post %}
     <url>
-      <loc>https://borojeetbd.com{{ page.url | url }}</loc>
+      <loc>{{ site.url }}{{ page.url | url }}</loc>
       <lastmod>{{ page.date.toISOString().slice(0,10) }}</lastmod>
     </url>
   {%- endfor %}
+  
   {# Add all other pages that are not posts #}
   {%- for page in collections.all %}
     {%- if page.data.tags and 'post' not in page.data.tags and page.url and page.data.eleventyExcludeFromCollections != true and not page.data.robots %}
       <url>
-        <loc>https://borojeetbd.com{{ page.url | url }}</loc>
+        <loc>{{ site.url }}{{ page.url | url }}</loc>
         <lastmod>{{ page.date.toISOString().slice(0,10) }}</lastmod>
       </url>
     {%- endif %}

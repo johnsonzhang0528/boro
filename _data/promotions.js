@@ -3,6 +3,7 @@ const slugify = require("@sindresorhus/slugify");
 const promotions = [
   {
     category: "🎁 Newbie Offers",
+    date: "2025-11-14",
     slug: "newbie",
     description: "Exclusive offers for new players joining BoroJeet.",
     items: [
@@ -128,6 +129,7 @@ const promotions = [
   },
   {
     category: "✨ Special Offers",
+    date: "2025-11-14",
     slug: "special",
     description: "Limited-time offers for special events and holidays.",
     items: [
@@ -210,6 +212,7 @@ const promotions = [
   },
   {
     category: "☀️ Daily Offers",
+    date: "2025-11-14",
     slug: "daily",
     description: "Get new bonuses and rewards every day.",
     items: [
@@ -391,6 +394,7 @@ const promotions = [
   },
   {
     category: "👑 VIP Loyalty",
+    date: "2025-11-14",
     slug: "vip",
     description: "Exclusive rewards for our loyal players.",
     items: [
@@ -465,6 +469,7 @@ const promotions = [
   },
   {
     category: "💰 Rebate Offers",
+    date: "2025-11-14",
     slug: "rebate",
     description: "Get daily rebates on your turnover. The more you play, the more you get back!",
     items: [
@@ -526,6 +531,7 @@ const promotions = [
   },
   {
     category: "💸 Cashback Offers",
+    date: "2025-11-14",
     slug: "cashback",
     description: "Get a percentage of your losses back. A safety net for our players.",
     items: [
@@ -587,6 +593,7 @@ const promotions = [
   },
   {
     category: "🤝 Referral Program",
+    date: "2025-11-14",
     slug: "referral",
     description: "Invite friends and earn rewards together! The more you refer, the more you earn.",
     items: [
@@ -640,6 +647,7 @@ const promotions = [
   },
   {
     category: "🏆 Tournaments",
+    date: "2025-11-14",
     slug: "tournament",
     description: "Compete with other players in our exciting tournaments and win big prizes!",
     items: [
