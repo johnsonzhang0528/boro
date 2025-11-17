@@ -28,7 +28,7 @@ tags: "post"
        width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
 </picture>
 
-ক্রিকেট বেটিংয়ে তিন ধরনের প্রধান অডস ফরম্যাট দেখা যায়: ডেসিমাল (Decimal), ফ্র্যাকশনাল (Fractional), এবং আমেরিকান (American)।
+ক্রিকেট বেটিংয়ে তিন ধরনের প্রধান অডস ফরম্যাট দেখা যায়: ডেসিমাল (Decimal), ফ্র্যাকশনাল (Fractional), এবং আমেরিকান (American)। বাংলাদেশের [সেরা বেটিং অ্যাপগুলোতে](/blog/best-cricket-betting-apps-bangladesh-2025/) সাধারণত ডেসিমাল ফরম্যাট সবচেয়ে বেশি ব্যবহৃত হয়।
 
 ### ১. ডেসিমাল অডস (Decimal Odds)
 
@@ -86,27 +86,53 @@ tags: "post"
 
 ## উপসংহার
 
-ক্রিকেট বেটিং অডস বোঝা সফল বেটিংয়ের প্রথম ধাপ। ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান অডস-এর মধ্যে পার্থক্য জানা এবং অন্তর্নিহিত সম্ভাবনা গণনা করার ক্ষমতা আপনাকে আরও তথ্যভিত্তিক এবং কৌশলগত সিদ্ধান্ত নিতে সাহায্য করবে। সর্বদা মনে রাখবেন, দায়িত্বশীলভাবে বেটিং করুন এবং আপনার বাজেট অতিক্রম করবেন না।
+ক্রিকেট বেটিং অডস বোঝা সফল বেটিংয়ের প্রথম ধাপ। ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান অডস-এর মধ্যে পার্থক্য জানা এবং অন্তর্নিহিত সম্ভাবনা গণনা করার ক্ষমতা আপনাকে আরও তথ্যভিত্তিক এবং কৌশলগত সিদ্ধান্ত নিতে সাহায্য করবে। সর্বদা মনে রাখবেন, দায়িত্বশীলভাবে বেটিং করুন এবং আপনার বাজেট অতিক্রম করবেন না। বোনাসের শর্তাবলী বুঝতে, আমাদের [ওয়েজারিং রিকোয়ারমেন্টস-এর গাইডটি](/blog/understanding-wagering-requirements/) পড়ুন।
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are betting odds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "বেটিং অডস হলো একটি নির্দিষ্ট ফলাফলের সম্ভাবনার সংখ্যাসূচক প্রকাশ। এটি দুটি জিনিস নির্দেশ করে: (১) আপনি জিতলে কত টাকা পাবেন, এবং (২) বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড",
+    "description": "ক্রিকেট বেটিং অডস কীভাবে কাজ করে তা শিখুন। আমাদের গাইড ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান অডস ব্যাখ্যা করে, যা আপনাকে আরও স্মার্ট বেট করতে এবং আপনার সম্ভাব্য জয় গণনা করতে সাহায্য করবে।",
+    "image": "https://borojeetbd.com/assets/og/cricket-betting-odds-guide-optimized.webp",
+    "datePublished": "2025-11-02",
+    "dateModified": "2025-11-14",
+    "author": {
+      "@type": "Person",
+      "name": "Borojeet Expert"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Borojeet Bangladesh",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://borojeetbd.com/assets/borojeet-affiliate-logo-bd.webp"
       }
     },
-    {
-      "@type": "Question",
-      "name": "What are the main types of betting odds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "বেটিং অডস-এর তিনটি প্রধান ফরম্যাট রয়েছে:\n<ul>\n<li><strong>ডেসিমাল অডস (যেমন ২.৫০):</strong> এটি আপনার আসল বাজি সহ মোট ফেরতের পরিমাণ দেখায়।</li>\n<li><strong>ফ্র্যাকশনাল অডস (যেমন ৫/১):</strong> এটি শুধুমাত্র আপনার লাভের পরিমাণ দেখায়।</li>\n<li><strong>আমেরিকান অডস (যেমন +১৫০):</strong> এটি প্লাস বা মাইনাস চিহ্ন দিয়ে দেখানো হয় এবং ১০০ টাকার উপর ভিত্তি করে লাভ বা বাজি নির্ধারণ করে।</li>\n</ul>"
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://borojeetbd.com/blog/ultimate-guide-to-cricket-betting-odds/"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are betting odds?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "বেটিং অডস হলো একটি নির্দিষ্ট ফলাফলের সম্ভাবনার সংখ্যাসূচক প্রকাশ। এটি দুটি জিনিস নির্দেশ করে: (১) আপনি জিতলে কত টাকা পাবেন, এবং (২) বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the main types of betting odds?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "বেটিং অডস-এর তিনটি প্রধান ফরম্যাট রয়েছে:\n<ul>\n<li><strong>ডেসিমাল অডস (যেমন ২.৫০):</strong> এটি আপনার আসল বাজি সহ মোট ফেরতের পরিমাণ দেখায়।</li>\n<li><strong>ফ্র্যাকশনাল অডস (যেমন ৫/১):</strong> এটি শুধুমাত্র আপনার লাভের পরিমাণ দেখায়।</li>\n<li><strong>আমেরিকান অডস (যেমন +১৫০):</strong> এটি প্লাস বা মাইনাস চিহ্ন দিয়ে দেখানো হয় এবং ১০০ টাকার উপর ভিত্তি করে লাভ বা বাজি নির্ধারণ করে।</li>\n</ul>"
       }
     },
     {

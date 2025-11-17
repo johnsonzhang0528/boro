@@ -57,8 +57,8 @@ BoroJeet-এ আপনার যাত্রা শুরু হয় একট
        sizes="(max-width: 600px) 100vw, 800px">
 </picture>
 
-*   **স্পোর্টস বেটিং:** আপনি যদি ক্রিকেটের ভক্ত হন, তবে আপনি আসন্ন ম্যাচগুলিতে বাজি ধরতে পারেন। "Sports" বা "Cricket" বিভাগে যান, আপনার পছন্দের ম্যাচটি খুঁজুন এবং অডস দেখে আপনার বাজি ধরুন।
-*   **ক্যাসিনো গেমস:** "Casino" বা "Slots" বিভাগে হাজার হাজার স্লট গেম রয়েছে। আপনি Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেমও খেলতে পারেন।
+*   **স্পোর্টস বেটিং:** আপনি যদি ক্রিকেটের ভক্ত হন, তবে আপনি আসন্ন ম্যাচগুলিতে বাজি ধরতে পারেন। আমাদের [ক্রিকেট বেটিং গাইডটি](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) আপনাকে শুরু করতে সাহায্য করবে।
+*   **ক্যাসিনো গেমস:** "Casino" বা "Slots" বিভাগে হাজার হাজার [স্লট গেম](/blog/online-slots-guide-for-beginners/) রয়েছে। আমাদের [ক্যাসিনো গেমের চূড়ান্ত গাইডটি](/blog/ultimate-guide-to-online-casino-games-bangladesh/) আপনাকে বিভিন্ন বিকল্প সম্পর্কে জানতে সাহায্য করবে। আপনি [Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেমও](/blog/aviator-cashout-myths-rtp-volatility-explained/) খেলতে পারেন।
 *   **লাইভ ক্যাসিনো:** আপনি যদি আরও বাস্তব অভিজ্ঞতা চান, "Live Casino" বিভাগে যান যেখানে আপনি লাইভ ডিলারদের সাথে রুলেট বা ব্ল্যাকজ্যাকের মতো গেম খেলতে পারেন।
 
 ## ধাপ ৪: নিরাপদে আপনার জেতার টাকা তোলা (Withdrawal)
@@ -84,58 +84,85 @@ BoroJeet-এ আপনার যাত্রা শুরু হয় একট
 BoroJeet-এ খেলা শুরু করা একটি উত্তেজনাপূর্ণ অভিজ্ঞতা হতে পারে। এই নির্দেশিকা অনুসরণ করে, আপনি আত্মবিশ্বাসের সাথে এবং নিরাপদে আপনার গেমিং যাত্রা শুরু করতে পারেন। শুভকামনা!
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is BoroJeet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "BoroJeet বাংলাদেশের অন্যতম জনপ্রিয় অনলাইন গেমিং প্ল্যাটফর্ম, যা স্পোর্টস বেটিং (বিশেষ করে ক্রিকেট) এবং বিভিন্ন ধরনের ক্যাসিনো গেম অফার করে। এটি ব্যবহারকারী-বান্ধব ইন্টারফেস এবং স্থানীয় পেমেন্ট পদ্ধতির (যেমন bKash এবং Nagad) জন্য পরিচিত।"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "BoroJeet-এ নতুন? নিরাপদে খেলা শুরু করার সম্পূর্ণ গাইড",
+    "description": "BoroJeet-এ খেলা শুরু করতে চান? আমাদের এই নতুনদের জন্য গাইডটি আপনাকে রেজিস্ট্রেশন, ডিপোজিট, গেম খেলা এবং নিরাপদে জেতার টাকা তোলার প্রতিটি ধাপে সাহায্য করবে।",
+    "image": "https://borojeetbd.com/assets/og/beginners-guide-to-borojeet-optimized.webp",
+    "datePublished": "2025-11-03",
+    "dateModified": "2025-11-14",
+    "author": {
+      "@type": "Person",
+      "name": "Borojeet Expert"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Borojeet Bangladesh",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://borojeetbd.com/assets/borojeet-affiliate-logo-bd.webp"
       }
     },
-    {
-      "@type": "Question",
-      "name": "How do I create an account on BoroJeet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "BoroJeet-এ অ্যাকাউন্ট খুলতে, আপনাকে তাদের অফিসিয়াল ওয়েবসাইটে গিয়ে \"Sign Up\" বোতামে ক্লিক করতে হবে। এরপর, আপনার ব্যবহারকারীর নাম, পাসওয়ার্ড এবং ফোন নম্বর বা ইমেলের মতো তথ্য দিয়ে ফর্মটি পূরণ করুন। সবশেষে, আপনার ফোন বা ইমেলে পাঠানো কোড দিয়ে অ্যাকাউন্টটি ভেরিফাই করুন।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I deposit money into my BoroJeet account?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "অ্যাকাউন্টে লগইন করে \"Deposit\" বিভাগে যান। আপনার পছন্দের পেমেন্ট পদ্ধতি (যেমন bKash বা Nagad) বেছে নিন, টাকার পরিমাণ লিখুন এবং আপনার মোবাইল ফিনান্সিয়াল সার্ভিস (MFS) অ্যাকাউন্ট থেকে লেনদেনটি সম্পন্ন করুন।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What games can I play on BoroJeet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "BoroJeet-এ আপনি বিভিন্ন ধরণের গেম খেলতে পারেন, যার মধ্যে রয়েছে:\n<ul>\n<li><strong>স্পোর্টস বেটিং:</strong> বিশেষ করে ক্রিকেটের মতো খেলায় বাজি ধরতে পারবেন।</li>\n<li><strong>ক্যাসিনো গেমস:</strong> হাজার হাজার স্লট গেম এবং Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেম রয়েছে।</li>\n<li><strong>লাইভ ক্যাসিনো:</strong> লাইভ ডিলারদের সাথে রুলেট বা ব্ল্যাকজ্যাকের মতো ক্লাসিক টেবিল গেম খেলতে পারবেন।</li>\n</ul>"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I withdraw my winnings from BoroJeet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "টাকা তোলার জন্য, প্রথমে আপনার KYC (Know Your Customer) ভেরিফিকেশন সম্পন্ন করতে হতে পারে। এরপর, আপনার প্রোফাইলের \"Withdrawal\" বিভাগে যান, আপনার পছন্দের পেমেন্ট পদ্ধতি (bKash বা Nagad) এবং টাকার পরিমাণ নির্বাচন করে অনুরোধ জমা দিন।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are some tips for playing safely on BoroJeet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "নিরাপদে খেলার জন্য কিছু গুরুত্বপূর্ণ টিপস হলো:\n<ul>\n<li>খেলার আগে একটি নির্দিষ্ট বাজেট নির্ধারণ করুন।</li>\n<li>প্ল্যাটফর্মের সাথে পরিচিত হতে ছোট বাজি দিয়ে শুরু করুন।</li>\n<li>বোনাস অফারগুলোর সাথে যুক্ত নিয়ম ও শর্তাবলী, বিশেষ করে ওয়েজারিং রিকোয়ারমেন্ট, ভালোভাবে পড়ুন।</li>\n<li>জুয়াকে বিনোদনের মাধ্যম হিসেবে দেখুন এবং দায়িত্বের সাথে খেলুন।</li>\n</ul>"
-      }
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://borojeetbd.com/blog/beginners-guide-to-borojeet/"
     }
-  ]
-}
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is BoroJeet?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BoroJeet বাংলাদেশের অন্যতম জনপ্রিয় অনলাইন গেমিং প্ল্যাটফর্ম, যা স্পোর্টস বেটিং (বিশেষ করে ক্রিকেট) এবং বিভিন্ন ধরনের ক্যাসিনো গেম অফার করে। এটি ব্যবহারকারী-বান্ধব ইন্টারফেস এবং স্থানীয় পেমেন্ট পদ্ধতির (যেমন bKash এবং Nagad) জন্য পরিচিত।"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I create an account on BoroJeet?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BoroJeet-এ অ্যাকাউন্ট খুলতে, আপনাকে তাদের অফিসিয়াল ওয়েবসাইটে গিয়ে \"Sign Up\" বোতামে ক্লিক করতে হবে। এরপর, আপনার ব্যবহারকারীর নাম, পাসওয়ার্ড এবং ফোন নম্বর বা ইমেলের মতো তথ্য দিয়ে ফর্মটি পূরণ করুন। সবশেষে, আপনার ফোন বা ইমেলে পাঠানো কোড দিয়ে অ্যাকাউন্টটি ভেরিফাই করুন।"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I deposit money into my BoroJeet account?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "অ্যাকাউন্টে লগইন করে \"Deposit\" বিভাগে যান। আপনার পছন্দের পেমেন্ট পদ্ধতি (যেমন bKash বা Nagad) বেছে নিন, টাকার পরিমাণ লিখুন এবং আপনার মোবাইল ফিনান্সিয়াল সার্ভিস (MFS) অ্যাকাউন্ট থেকে লেনদেনটি সম্পন্ন করুন।"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What games can I play on BoroJeet?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "BoroJeet-এ আপনি বিভিন্ন ধরণের গেম খেলতে পারেন, যার মধ্যে রয়েছে:\n<ul>\n<li><strong>স্পোর্টস বেটিং:</strong> বিশেষ করে ক্রিকেটের মতো খেলায় বাজি ধরতে পারবেন।</li>\n<li><strong>ক্যাসিনো গেমস:</strong> হাজার হাজার স্লট গেম এবং Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেম রয়েছে।</li>\n<li><strong>লাইভ ক্যাসিনো:</strong> লাইভ ডিলারদের সাথে রুলেট বা ব্ল্যাকজ্যাকের মতো ক্লাসিক টেবিল গেম খেলতে পারবেন।</li>\n</ul>"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I withdraw my winnings from BoroJeet?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "টাকা তোলার জন্য, প্রথমে আপনার KYC (Know Your Customer) ভেরিফিকেশন সম্পন্ন করতে হতে পারে। এরপর, আপনার প্রোফাইলের \"Withdrawal\" বিভাগে যান, আপনার পছন্দের পেমেন্ট পদ্ধতি (bKash বা Nagad) এবং টাকার পরিমাণ নির্বাচন করে অনুরোধ জমা দিন।"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are some tips for playing safely on BoroJeet?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "নিরাপদে খেলার জন্য কিছু গুরুত্বপূর্ণ টিপস হলো:\n<ul>\n<li>খেলার আগে একটি নির্দিষ্ট বাজেট নির্ধারণ করুন।</li>\n<li>প্ল্যাটফর্মের সাথে পরিচিত হতে ছোট বাজি দিয়ে শুরু করুন।</li>\n<li>বোনাস অফারগুলোর সাথে যুক্ত নিয়ম ও শর্তাবলী, বিশেষ করে ওয়েজারিং রিকোয়ারমেন্ট, ভালোভাবে পড়ুন।</li>\n<li>জুয়াকে বিনোদনের মাধ্যম হিসেবে দেখুন এবং দায়িত্বের সাথে খেলুন।</li>\n</ul>"
+        }
+      }
+    ]
+  }
+]
 </script>
