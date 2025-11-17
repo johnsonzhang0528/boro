@@ -106,7 +106,7 @@ Borojeet-এর মতো প্ল্যাটফর্মে খেলা শ�
     "@type": "Article",
     "headline": "Borojeet-এ সর্বোচ্চ RTP সহ সেরা ৫টি স্লট গেম (2025)",
     "description": "আপনার জেতার সম্ভাবনা বাড়াতে চান? আমরা Borojeet-এ উপলব্ধ RELAX, PPV2, YGG, এবং BTG-এর মতো প্রদানকারীদের থেকে সর্বোচ্চ RTP সহ সেরা ৫টি অনলাইন স্লট গেমের তালিকা তৈরি করেছি।",
-    "image": "https://borojeetbd.com/assets/og/top-5-high-rtp-slots-og.webp",
+    "image": "https://borojeetbd.com/assets/og/top-5-high-rtp-slots-og-optimized.webp",
     "datePublished": "2025-11-16",
     "dateModified": "2025-11-17",
     "author": {
