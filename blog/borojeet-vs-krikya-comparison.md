@@ -2,7 +2,7 @@
 title: "Borojeet vs Krikya: বাংলাদেশের সেরা বেটিং সাইট কোনটি? (2025)"
 description: "Borojeet এবং Krikya-এর মধ্যে কোনটি আপনার জন্য সেরা? আমাদের এই তুলনামূলক বিশ্লেষণে বোনাস, গেম, পেমেন্ট এবং আরও অনেক কিছুর বিস্তারিত জানুন।"
 date: 2025-11-12
-lastUpdated: 2025-11-14
+lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "borojeet-vs-krikya-comparison-og-optimized.webp"
 ogImageAlt: "Borojeet এবং Krikya লোগোকে পাশাপাশি দেখানো হয়েছে, যা দুটি বেটিং সাইটের মধ্যে একটি তুলনামূলক বিশ্লেষণকে নির্দেশ করে।"
