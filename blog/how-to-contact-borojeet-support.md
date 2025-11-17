@@ -103,7 +103,7 @@ BoroJeet প্ল্যাটফর্ম সম্পর্কে আরও �
     "description": "BoroJeet-এ কোনো সমস্যায় পড়েছেন? লাইভ চ্যাট, ইমেল বা সোশ্যাল মিডিয়ার মাধ্যমে তাদের কাস্টমার সাপোর্ট দলের সাথে যোগাযোগ করার সম্পূর্ণ গাইডটি এখানে খুঁজুন।",
     "image": "https://borojeetbd.com/assets/og/how-to-contact-borojeet-support-optimized.webp",
     "datePublished": "2025-11-05",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

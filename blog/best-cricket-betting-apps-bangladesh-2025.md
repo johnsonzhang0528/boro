@@ -102,7 +102,7 @@ Bet365 একটি বিশ্বব্যাপী পরিচিত না�
     "description": "বাংলাদেশে সেরা ক্রিকেট বেটিং অ্যাপ খুঁজছেন? আমরা গতি, নিরাপত্তা এবং ব্যবহারকারী অভিজ্ঞতার উপর ভিত্তি করে BoroJeet, Bet365 এবং 1xBet-এর মতো অ্যাপগুলোর পর্যালোচনা করেছি।",
     "image": "https://borojeetbd.com/assets/og/best-cricket-betting-apps-2025-optimized.webp",
     "datePublished": "2025-11-08",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

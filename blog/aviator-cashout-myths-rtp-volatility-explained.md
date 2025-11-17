@@ -83,7 +83,7 @@ Aviator একটি উত্তেজনাপূর্ণ গেম, কি�
     "description": "Aviator গেমে ক্যাশআউটের পেছনের সত্য জানুন। এই গাইডটি RTP এবং ভলাটিলিটি ব্যাখ্যা করে আপনাকে গেমটি কীভাবে কাজ করে তা বুঝতে এবং সাধারণ মিথগুলো ভাঙতে সাহায্য করবে।",
     "image": "https://borojeetbd.com/assets/og/aviator-cashout-myths-optimized.webp",
     "datePublished": "2025-11-01",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

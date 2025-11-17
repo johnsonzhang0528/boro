@@ -97,7 +97,7 @@ tags: "post"
     "description": "ক্রিকেট বেটিং অডস কীভাবে কাজ করে তা শিখুন। আমাদের গাইড ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান অডস ব্যাখ্যা করে, যা আপনাকে আরও স্মার্ট বেট করতে এবং আপনার সম্ভাব্য জয় গণনা করতে সাহায্য করবে।",
     "image": "https://borojeetbd.com/assets/og/cricket-betting-odds-guide-optimized.webp",
     "datePublished": "2025-11-02",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

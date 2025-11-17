@@ -98,7 +98,7 @@ bKash-এর সীমা অর্থপ্রদানের ল্যান�
     "description": "bKash ব্যবহার করে ক্যাসিনো ডিপোজিটের সময় লেনদেনের সীমা নিয়ে সমস্যায় পড়ছেন? দৈনিক, মাসিক লিমিট এবং বড় ডিপোজিটের সেরা উপায় জানুন।",
     "image": "https://borojeetbd.com/assets/og/bkash-deposit-limit-error-optimized.webp",
     "datePublished": "2025-11-01",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

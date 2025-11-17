@@ -120,7 +120,7 @@ BoroJeet প্ল্যাটফর্ম সম্পর্কে আরও �
     "description": "Learn how to verify your BoroJeet account in Bangladesh with our easy step-by-step KYC guide. Complete the process quickly to unlock fast withdrawals. (Bangla)",
     "image": "https://borojeetbd.com/assets/og/borojeet-account-verification-guide-bangla-og-optimized.webp",
     "datePublished": "2025-10-31",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

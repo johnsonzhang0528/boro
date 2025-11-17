@@ -115,7 +115,7 @@ tags: "post"
     "description": "বাংলাদেশে অনলাইন ক্যাসিনো এবং বেটিংয়ের আইনগত অবস্থা সম্পর্কে বিভ্রান্ত? আমাদের এই গভীর বিশ্লেষণটি ১৮৬৭ সালের আইন, বর্তমান বাস্তবতা এবং নিরাপদে খেলার উপায় নিয়ে আলোচনা করেছে।",
     "image": "https://borojeetbd.com/assets/og/is-online-casino-legal-in-bangladesh-optimized.webp",
     "datePublished": "2025-11-04",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

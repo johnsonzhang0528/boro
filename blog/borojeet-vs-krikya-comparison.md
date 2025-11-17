@@ -93,7 +93,7 @@ tags: "post"
     "description": "Borojeet এবং Krikya-এর মধ্যে কোনটি আপনার জন্য সেরা? আমাদের এই তুলনামূলক বিশ্লেষণে বোনাস, গেম, পেমেন্ট এবং আরও অনেক কিছুর বিস্তারিত জানুন।",
     "image": "https://borojeetbd.com/assets/og/borojeet-vs-krikya-comparison-og-optimized.webp",
     "datePublished": "2025-11-12",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

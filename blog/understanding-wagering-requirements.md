@@ -121,7 +121,7 @@ tags: "post"
     "description": "অনলাইন ক্যাসিনো বোনাসের সাথে আসা 'Wagering Requirement' বা '流水' শর্তটি বুঝতে পারছেন না? আমাদের এই গাইডটি আপনাকে উদাহরণসহ ব্যাখ্যা করে সবকিছু পরিষ্কার করে দেবে।",
     "image": "https://borojeetbd.com/assets/og/understanding-wagering-requirements-optimized.webp",
     "datePublished": "2025-11-03",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

@@ -92,7 +92,7 @@ BoroJeet-এ খেলা শুরু করা একটি উত্তেজ
     "description": "BoroJeet-এ খেলা শুরু করতে চান? আমাদের এই নতুনদের জন্য গাইডটি আপনাকে রেজিস্ট্রেশন, ডিপোজিট, গেম খেলা এবং নিরাপদে জেতার টাকা তোলার প্রতিটি ধাপে সাহায্য করবে।",
     "image": "https://borojeetbd.com/assets/og/beginners-guide-to-borojeet-optimized.webp",
     "datePublished": "2025-11-03",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

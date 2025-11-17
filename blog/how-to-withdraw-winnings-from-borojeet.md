@@ -115,7 +115,7 @@ BoroJeet থেকে টাকা তোলা একটি সহজ এবং
     "description": "ধাপে ধাপে জানুন কীভাবে BoroJeet থেকে bKash বা Nagad-এর মাধ্যমে আপনার জেতার টাকা দ্রুত এবং নিরাপদে উত্তোলন করবেন। KYC ও টার্নওভারের শর্তাবলী সহ সম্পূর্ণ গাইড।",
     "image": "https://borojeetbd.com/assets/og/borojeet-withdrawal-process-optimized.webp",
     "datePublished": "2025-11-01",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

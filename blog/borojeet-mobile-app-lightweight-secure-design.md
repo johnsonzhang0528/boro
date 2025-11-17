@@ -69,7 +69,7 @@ BoroJeet মোবাইল অ্যাপটি গতি, নিরাপত�
     "description": "BoroJeet মোবাইল অ্যাপের লাইটওয়েট ডিজাইন এবং শক্তিশালী নিরাপত্তা ব্যবস্থা সম্পর্কে জানুন। এটি কীভাবে আপনার ডেটা বাঁচায় এবং একটি নিরাপদ বেটিং পরিবেশ নিশ্চিত করে তা আবিষ্কার করুন।",
     "image": "https://borojeetbd.com/assets/og/borojeet-mobile-app-lightweight-secure-design-optimized.webp",
     "datePublished": "2025-11-06",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"

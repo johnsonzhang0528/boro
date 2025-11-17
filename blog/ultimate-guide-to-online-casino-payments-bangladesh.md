@@ -90,7 +90,7 @@ tags: "post"
     "description": "বাংলাদেশে অনলাইন ক্যাসিনো খেলতে চান? বিকাশ, নগদ এবং অন্যান্য পেমেন্ট পদ্ধতি ব্যবহার করে কীভাবে নিরাপদে ডিপোজিট এবং উইথড্র করবেন তা আমাদের চূড়ান্ত গাইডে জানুন।",
     "image": "https://borojeetbd.com/assets/og/ultimate-guide-casino-payments-bangladesh-optimized.webp",
     "datePublished": "2025-11-09",
-    "dateModified": "2025-11-14",
+    "dateModified": "2025-11-17",
     "author": {
       "@type": "Person",
       "name": "Borojeet Expert"
