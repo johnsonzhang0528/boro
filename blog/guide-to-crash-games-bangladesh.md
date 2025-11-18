@@ -5,7 +5,7 @@ title: "ক্র্যাশ গেমের সম্পূর্ণ গাই
 description: "ক্র্যাশ গেম কী এবং কীভাবে খেলতে হয় তা শিখুন। আমাদের ধাপে ধাপে নির্দেশিকা দিয়ে Aviator-এর মতো জনপ্রিয় গেমগুলির কৌশল, ঝুঁকি এবং টিপস জানুন।"
 date: 2025-11-20
 lastUpdated: 2025-11-20
-ogImage: "og-guide-to-crash-games-bangladesh.webp"
+ogImage: "og-guide-to-crash-games-bangladesh-optimized.webp"
 ogImageAlt: "A guide explaining how to play crash games like Aviator in Bangladesh, showing a rising multiplier graph on a phone screen."
 tags: ["post", "guides", "crash-games"]
 ---
@@ -15,7 +15,7 @@ tags: ["post", "guides", "crash-games"]
   "@type": "Article",
   "headline": "ক্র্যাশ গেমের সম্পূর্ণ গাইড: বাংলাদেশে Aviator এবং অন্যান্য গেম খেলার নিয়ম",
   "description": "ক্র্যাশ গেম কী এবং কীভাবে খেলতে হয় তা শিখুন। আমাদের ধাপে ধাপে নির্দেশিকা দিয়ে Aviator-এর মতো জনপ্রিয় গেমগুলির কৌশল, ঝুঁকি এবং টিপস জানুন।",
-  "image": "{{ site.url }}/assets/og/og-guide-to-crash-games-bangladesh.webp",
+  "image": "{{ site.url }}/assets/og/og-guide-to-crash-games-bangladesh-optimized.webp",
   "author": {
     "@type": "Organization",
     "name": "BoroJeet BD"
@@ -30,8 +30,9 @@ tags: ["post", "guides", "crash-games"]
 <p class="lead" style="color: var(--muted);">আপনি কি অনলাইন গেমিংয়ে নতুন এবং উত্তেজনাপূর্ণ কিছু খুঁজছেন? ক্র্যাশ গেম, যেমন জনপ্রিয় Aviator, আপনার জন্য উপযুক্ত হতে পারে। এই গাইডটিতে আমরা আপনাকে ধাপে ধাপে দেখাব কিভাবে এই গেমগুলো খেলতে হয়।</p>
 
 <picture>
-  <source srcset="/assets/blog/aviator-crash-game-interface-bangladesh.webp" type="image/webp">
-  <img src="/assets/blog/aviator-crash-game-interface-bangladesh.webp" alt="Interface of the popular Aviator crash game on a mobile screen" width="800" height="450" loading="lazy" style="border-radius: 8px; margin-bottom: 1.5em;">
+  <source srcset="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.webp" type="image/webp">
+  <img src="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.webp" alt="Interface of the popular Aviator crash game on a mobile screen" width="800" height="450" loading="lazy" style="border-radius: 8px; margin-bottom: 1.5em;">
 </picture>
 
 <h2>ক্র্যাশ গেম কিভাবে কাজ করে?</h2>
@@ -55,8 +56,9 @@ tags: ["post", "guides", "crash-games"]
 <p>BoroJeet-এ খেলা শুরু করা খুব সহজ। প্রথমে, <a href="/">আমাদের গাইড অনুসরণ করে অ্যাপটি ডাউনলোড করুন</a> এবং একটি অ্যাকাউন্ট তৈরি করুন। তারপর "Slots" বা "Crash" বিভাগে যান এবং Aviator বা অন্যান্য জনপ্রিয় ক্র্যাশ গেমগুলি খুঁজে বের করুন।</p>
 
 <picture>
-  <source srcset="/assets/blog/player-winning-crash-game-on-phone.webp" type="image/webp">
-  <img src="/assets/blog/player-winning-crash-game-on-phone.webp" alt="A player happily cashing out a win from a crash game on their smartphone" width="800" height="450" loading="lazy" style="border-radius: 8px; margin-top: 1.5em;">
+  <source srcset="/assets/blog/player-winning-crash-game-on-phone-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/player-winning-crash-game-on-phone-optimized.webp" type="image/webp">
+  <img src="/assets/blog/player-winning-crash-game-on-phone-optimized.webp" alt="A player happily cashing out a win from a crash game on their smartphone" width="800" height="450" loading="lazy" style="border-radius: 8px; margin-top: 1.5em;">
 </picture>
 
 <h2 style="margin-top: 2em;">সাধারণ জিজ্ঞাস্য (FAQ)</h2>
