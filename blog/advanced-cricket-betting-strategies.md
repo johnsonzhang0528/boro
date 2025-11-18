@@ -72,7 +72,7 @@ tags: ["post", "cricket", "betting", "strategy"]
 
 ## ৫. ব্যাঙ্করোল ম্যানেজমেন্ট (Advanced Bankroll Management)
 
-সবাই জানে যে একটি বাজেট নির্ধারণ করা গুরুত্বপূর্ণ, কিন্তু উন্নত খেলোয়াড়রা আরও এক ধাপ এগিয়ে যান। তারা একটি নির্দিষ্ট স্টেকিং প্ল্যান (Staking Plan) অনুসরণ করেন।
+সবাই জানে যে একটি বাজেট নির্ধারণ করা গুরুত্বপূর্ণ, কিন্তু উন্নত খেলোয়াড়রা আরও এক ধাপ এগিয়ে যান। তারা একটি নির্দিষ্ট স্টেকিং প্ল্যান (Staking Plan) অনুসরণ করেন। বাজেট পরিচালনার একটি গুরুত্বপূর্ণ অংশ হলো [বোনাসের শর্তাবলী](/blog/understanding-wagering-requirements/) বোঝা, কারণ এটি আপনার উপলব্ধ ব্যালেন্সকে প্রভাবিত করতে পারে।
 
 <picture class="content-image">
   <source srcset="/assets/blog/advanced-strategy-bankroll-optimized.avif" type="image/avif">
