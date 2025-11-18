@@ -1,9 +1,10 @@
 ---
+layout: "post.njk"
+lang: "bn-BD"
 title: "Aviator ক্যাশআউট মিথ: RTP এবং ভলাটিলিটি ব্যাখ্যা করা হলো"
 description: "Aviator গেমে ক্যাশআউটের পেছনের সত্য জানুন। এই গাইডটি RTP এবং ভলাটিলিটি ব্যাখ্যা করে আপনাকে গেমটি কীভাবে কাজ করে তা বুঝতে এবং সাধারণ মিথগুলো ভাঙতে সাহায্য করবে।"
 date: 2025-11-01
-lastUpdated: 2025-11-17
-layout: "post.njk"
+lastUpdated: 2025-11-18
 ogImage: "aviator-cashout-myths-optimized.webp"
 ogImageAlt: "একটি গ্রাফ যা Aviator গেমের RTP এবং ভলাটিলিটি ধারণাটি চিত্রিত করছে, যেখানে বিমানের উড্ডয়নের পথ দেখানো হয়েছে।"
 tags: "post"
