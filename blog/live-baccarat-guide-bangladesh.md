@@ -24,13 +24,13 @@ tags: ["post", "guide", "live-casino", "baccarat"]
   <figure style="margin-bottom: 1rem;">
     <picture>
       <source 
-        srcset="/assets/blog/live-baccarat-table-layout-explained.avif" 
+        srcset="/assets/blog/live-baccarat-table-layout-explained-optimized.avif" 
         type="image/avif">
       <source 
-        srcset="/assets/blog/live-baccarat-table-layout-explained.webp" 
+        srcset="/assets/blog/live-baccarat-table-layout-explained-optimized.webp" 
         type="image/webp">
       <img 
-        src="/assets/blog/live-baccarat-table-layout-explained.webp" 
+        src="/assets/blog/live-baccarat-table-layout-explained-optimized.webp" 
         alt="লাইভ ব্যাকারাত টেবিলের লেআউট, যেখানে প্লেয়ার, ব্যাংকার এবং টাই বেটিং এলাকা দেখানো হয়েছে।"
         width="800"
         height="450"
