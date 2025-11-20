@@ -88,7 +88,7 @@ self.addEventListener('fetch', (event) => {
              url.pathname.endsWith('.js')) {
     // Stale-while-revalidate for assets
     event.respondWith(handleAssetRequest(event.request));
-  } else if (url.pathname.startsWith('/blog/') || url.pathname === '/') {
+  } else if (url.pathname.startsWith('/blog/') || url.pathname.startsWith('/promotions/') || url.pathname === '/') {
     // Network-first for content pages
     event.respondWith(handleContentRequest(event.request));
   } else {
