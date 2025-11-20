@@ -13,7 +13,7 @@ layout: "base.njk"
   "author": {
     "@type": "Person",
     "name": "BoroJeet Expert",
-    "url": "{{ site.url }}/about/"
+    "url": "{{ site.url }}/authors/borojeet-expert/"
   },
   "publisher": {
     "@type": "Organization",
@@ -158,6 +158,42 @@ layout: "base.njk"
       color: var(--muted);
       line-height: 1.5;
     }
+
+    /* FAQ Styles */
+    .faq-item {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid #243041;
+      border-radius: 12px;
+      margin-bottom: 16px;
+    }
+    .faq-item summary {
+      padding: 16px;
+      cursor: pointer;
+      font-weight: 600;
+      list-style: none;
+      position: relative;
+      padding-right: 40px;
+    }
+    .faq-item summary::-webkit-details-marker {
+      display: none;
+    }
+    .faq-item summary::after {
+      content: '+';
+      position: absolute;
+      right: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.5em;
+      color: var(--accent);
+    }
+    .faq-item[open] summary::after {
+      content: '-';
+    }
+    .faq-answer {
+      padding: 0 16px 16px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
   </style>
   <div class="author-box">
     <picture>
@@ -167,9 +203,29 @@ layout: "base.njk"
     </picture>
     <div class="author-info">
       <h2>About the Author: BoroJeet Expert</h2>
-      <p>An experienced analyst in the iGaming sector, focusing on the Bangladesh market. Dedicated to providing safe, reliable, and up-to-date information for players. <a href="/about/">Learn more about our editorial standards</a>.</p>
+      <p>An experienced analyst in the iGaming sector, focusing on the Bangladesh market. Dedicated to providing safe, reliable, and up-to-date information for players. <a href="/authors/borojeet-expert/">View full profile & articles</a>.</p>
     </div>
   </div>
+
+  {# --- FAQ Section --- #}
+  {% if faq %}
+  <div class="faq-section" style="margin-top: 60px; padding-top: 40px; border-top: 1px solid #243041;">
+    <h2 class="h2">সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQ)</h2>
+    <div class="faq-list">
+      {% for item in faq %}
+      <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <summary itemprop="name">{{ item.question }}</summary>
+        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <div itemprop="text">
+            {{ item.answer | safe }}
+          </div>
+        </div>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% endif %}
 
   {# --- Related Posts Section --- #}
   <div style="margin-top: 60px; padding-top: 40px; border-top: 1px solid #243041;">

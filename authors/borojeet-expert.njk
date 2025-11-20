@@ -1,0 +1,152 @@
+---
+layout: base.njk
+title: "BoroJeet Expert - iGaming Analyst & Content Creator"
+description: "Meet BoroJeet Expert, our lead iGaming analyst specializing in the Bangladesh market. Expert in casino strategies, payment methods (bkash/Nagad), and responsible gaming."
+permalink: /authors/borojeet-expert/
+tags: ["page"]
+---
+
+<div class="author-profile">
+  <div class="author-header">
+    <div class="author-avatar">
+      <picture>
+        <source srcset="/assets/authors/borojeet-expert-optimized.avif" type="image/avif">
+        <source srcset="/assets/authors/borojeet-expert-optimized.webp" type="image/webp">
+        <img src="/assets/authors/borojeet-expert-optimized.webp" alt="BoroJeet Expert" width="150" height="150">
+      </picture>
+    </div>
+    <div class="author-bio">
+      <h1 class="h1">BoroJeet Expert</h1>
+      <p class="role">Lead iGaming Analyst & Content Strategist</p>
+      <p class="bio-text">
+        With over 5 years of experience in the Asian iGaming market, BoroJeet Expert specializes in analyzing online casino platforms, payment systems, and gaming strategies specifically for Bangladeshi players. Their mission is to provide transparent, data-driven insights to help players make informed decisions.
+      </p>
+      <div class="author-expertise">
+        <span class="tag">Casino Strategy</span>
+        <span class="tag">Payment Methods</span>
+        <span class="tag">Responsible Gaming</span>
+        <span class="tag">Market Analysis</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="author-posts">
+    <h2>Latest Articles by BoroJeet Expert</h2>
+    <div class="grid grid-2">
+      {% for post in collections.post %}
+        <div class="card">
+          <div class="card-meta">{{ post.date | date("MMMM dd, yyyy") }}</div>
+          <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <p>{{ post.data.description | truncate(120) }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<style>
+  .author-profile {
+    margin-top: 40px;
+  }
+  .author-header {
+    display: flex;
+    gap: 32px;
+    align-items: start;
+    margin-bottom: 60px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid #243041;
+    border-radius: 24px;
+    padding: 32px;
+  }
+  .author-avatar img {
+    border-radius: 50%;
+    border: 4px solid var(--accent);
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.2);
+  }
+  .role {
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 16px;
+    font-size: 1.1rem;
+  }
+  .bio-text {
+    color: var(--muted);
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 24px;
+  }
+  .author-expertise {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .tag {
+    background: rgba(16, 185, 129, 0.1);
+    color: var(--accent);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .author-posts h2 {
+    margin-bottom: 32px;
+    border-bottom: 1px solid #243041;
+    padding-bottom: 16px;
+  }
+  
+  @media (max-width: 768px) {
+    .author-header {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      gap: 24px;
+    }
+    .author-expertise {
+      justify-content: center;
+    }
+  }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "BoroJeet Expert",
+    "alternateName": "BoroJeet BD Team",
+    "identifier": "borojeet-expert",
+    "url": "{{ site.url }}/authors/borojeet-expert/",
+    "sameAs": [
+      "https://www.reddit.com/user/Savings-Tomato-1069/"
+    ],
+    "interactionStatistic": [{
+      "@type": "InteractionCounter",
+      "interactionType": "https://schema.org/WriteAction",
+      "userInteractionCount": {{ collections.post | length }}
+    }],
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/authors/borojeet-expert-optimized.webp",
+      "width": 150,
+      "height": 150,
+      "caption": "BoroJeet Expert"
+    },
+    "description": "Lead iGaming Analyst specializing in the Bangladesh market. Expert in casino strategies, payment methods, and responsible gaming.",
+    "jobTitle": "iGaming Analyst",
+    "knowsAbout": [
+      "Online Casino Strategies",
+      "Sports Betting in Bangladesh",
+      "Mobile Payment Systems (bkash, Nagad)",
+      "Responsible Gaming Practices",
+      "Anti-Money Laundering (AML) Compliance"
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "BoroJeet Affiliate BD",
+      "url": "{{ site.url }}/"
+    },
+    "publishingPrinciples": "{{ site.url }}/about/"
+  }
+}
+</script>
