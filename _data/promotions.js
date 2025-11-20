@@ -268,7 +268,10 @@ const promotions = [
           "Max Withdraw: ৳1,000",
           "Turnover: 20x",
           "Condition: Today's Deposit: 200",
-          "Game Kind: Slot"
+          "Game Kind: Slot",
+          "Game Platforms: All Game Platforms",
+          "Eligible Player: All VIP Levels",
+          "Availability: Once per Day"
         ]
       },
       {
