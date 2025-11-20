@@ -212,10 +212,10 @@ layout: "base.njk"
     <h2 class="h2">সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQ)</h2>
     <div class="faq-list">
       {% for item in faq %}
-      <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <summary itemprop="name">{{ item.question }}</summary>
-        <div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-          <div itemprop="text">
+      <details class="faq-item">
+        <summary>{{ item.question }}</summary>
+        <div class="faq-answer">
+          <div>
             {{ item.answer | safe }}
           </div>
         </div>
