@@ -27,7 +27,11 @@ eleventyComputed:
   </div>
 
 <div class="post-content">
-  {% if item.startDate and item.endDate %}
+  {% if item.status == 'expired' %}
+  <div class="mb-4 p-4 border-l-4 border-red-500 bg-red-100 text-red-800 rounded-r-lg">
+    <p><strong>This promotion has expired.</strong> Please check out our <a href="/promotions/" class="underline">latest offers</a>.</p>
+  </div>
+  {% elif item.startDate and item.endDate %}
   <div class="mb-4 text-sm text-gray-600">
       <p><strong>Promotion Period:</strong> {{ item.startDate }} to {{ item.endDate }}</p>
   </div>
@@ -102,9 +106,15 @@ eleventyComputed:
     </div>
 
     <div class="text-center mt-8">
+      {% if item.status != 'expired' %}
       <a href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank" class="cta text-xl px-8 py-4 rounded-full shadow-lg hover:shadow-emerald-400/40 transition-all duration-300">
         Claim Your {{ item.title }} Now!
       </a>
+      {% else %}
+      <a href="/promotions/" class="cta text-xl px-8 py-4 rounded-full shadow-lg hover:shadow-emerald-400/40 transition-all duration-300">
+        View Latest Promotions
+      </a>
+      {% endif %}
     </div>
 
     {# SEO Optimization Note: Consider adding a section for related promotions here, with internal links. #}
