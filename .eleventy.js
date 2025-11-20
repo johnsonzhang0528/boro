@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const path = require("path");
 const Image = require("@11ty/eleventy-img");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority = "auto") {
   let fullSrc = path.join(__dirname, src);
@@ -33,6 +34,8 @@ async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority =
 }
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
+
   // Add this line to watch your CSS file for changes
   eleventyConfig.addWatchTarget("./assets/style.css");
 
