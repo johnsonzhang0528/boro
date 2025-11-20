@@ -8,22 +8,23 @@ const promotions = [
     description: "Exclusive offers for new players joining BoroJeet.",
     items: [
       {
-        title: "BoroJeet রেজিস্ট্রেশন বোনাস: ৳300 পর্যন্ত ফ্রি!",
-        slug: "registration-bonus-get-up-to-300-free",
+        title: "BoroJeet রেজিস্ট্রেশন বোনাস: ৳100 ফ্রি পান!",
+        slug: "free-100-registration-bonus",
         image: "/assets/promotions/promo-registration-bonus-optimized.webp",
         startDate: "2025-05-27",
         endDate: "2030-12-31",
-        details: "BoroJeet-এ যোগ দিন এবং ৳300 পর্যন্ত রেজিস্ট্রেশন বোনাস উপভোগ করুন। তিনটি এক্সক্লুসিভ প্ল্যান থেকে বেছে নিন এবং আপনার গেমিং শুরু করুন।",
-        seo_title: "BoroJeet রেজিস্ট্রেশন বোনাস | ৳300 পর্যন্ত ফ্রি পান!",
-        seo_description: "BoroJeet-এ সাইন আপ করে ৳300 পর্যন্ত রেজিস্ট্রেশন বোনাস পান! আপনার গেমিং যাত্রা শুরু করতে তিনটি এক্সক্লুসিভ প্ল্যান থেকে বেছে নিন।",
+        details: "BoroJeet-এ যোগ দিন এবং বিনামূল্যে ৳100 রেজিস্ট্রেশন বোনাস উপভোগ করুন। এই এক্সক্লুসিভ অফারটি শুধুমাত্র অ্যাপ ব্যবহারকারীদের জন্য।",
+        seo_title: "BoroJeet রেজিস্ট্রেশন বোনাস | বিনামূল্যে ৳100 পান!",
+        seo_description: "BoroJeet-এ সাইন আপ করে বিনামূল্যে ৳100 রেজিস্ট্রেশন বোনাস পান! এই অফারটি শুধুমাত্র আমাদের মোবাইল অ্যাপ ব্যবহারকারীদের জন্য উপলব্ধ।",
         rules: [
-          "Plan 1 (Bonus 300): Total Deposit: 300 | Max Withdraw: 300 | Turnover: 20x",
-          "Plan 2 (Bonus 200): Total Deposit: 100 | Max Withdraw: 200 | Turnover: 25x",
-          "Plan 3 (Bonus 100, App Only): Max Withdraw: 100 | Turnover: 30x | Game Kind: Slots",
+          "Bonus: 100",
+          "Max Withdraw: 100",
+          "Turnover: 30x",
+          "Game Kind: Slots",
+          "Note: App-Only Promotion",
           "Join Amount: Not Required",
           "Eligible Players: VIP 2 to VIP 5",
           "Availability: Once per Player",
-          "Applicable Games (Plan 1 & 2): Slots & Crash Games",
           "Game Platforms: All Game Platforms"
         ]
       },

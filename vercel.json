@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/promotions/newbie/registration-bonus-get-up-to-300-free/",
+      "destination": "/promotions/newbie/free-100-registration-bonus/",
+      "permanent": true
+    },
+    {
       "source": "/go/borojeet",
       "destination": "https://www.borojeetagent.com/?pid=JS168",
       "statusCode": 301
