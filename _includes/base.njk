@@ -398,6 +398,12 @@
   <title>{{ title }} | {{ site.name }}</title>
   <meta name="description" content="{{ description or site.description }}">
   <link rel="canonical" href="{{ canonicalUrl or site.url + page.url }}">
+  {% if pagination.href.previous %}
+    <link rel="prev" href="{{ site.url }}{{ pagination.href.previous }}">
+  {% endif %}
+  {% if pagination.href.next %}
+    <link rel="next" href="{{ site.url }}{{ pagination.href.next }}">
+  {% endif %}
   {% if robots %}
     <meta name="robots" content="{{ robots }}">
   {% endif %}

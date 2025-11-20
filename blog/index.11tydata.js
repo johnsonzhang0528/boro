@@ -1,7 +1,5 @@
 module.exports = {
   layout: "base.njk",
-  title: "BoroJeet Blog - Guides, Tips & News for Bangladesh",
-  description: "The official blog for BoroJeet Bangladesh. Get the latest tips, game guides for Crash/Slots, and news on bonuses.",
   pagination: {
     data: "collections.post",
     size: 10,
@@ -15,6 +13,18 @@ module.exports = {
     return "/blog/";
   },
   eleventyComputed: {
+    title: (data) => {
+      if (data.pagination && data.pagination.pageNumber > 0) {
+        return `BoroJeet Blog - Page ${data.pagination.pageNumber + 1}`;
+      }
+      return "BoroJeet Blog - Guides, Tips & News for Bangladesh";
+    },
+    description: (data) => {
+      if (data.pagination && data.pagination.pageNumber > 0) {
+        return `Browse page ${data.pagination.pageNumber + 1} of our expert guides and tips for BoroJeet players in Bangladesh.`;
+      }
+      return "The official blog for BoroJeet Bangladesh. Get the latest tips, game guides for Crash/Slots, and news on bonuses.";
+    },
     post_id: (data) => {
       // Ensure we are only calculating for actual posts
       if (data.tags && data.tags.includes('post')) {
