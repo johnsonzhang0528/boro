@@ -227,11 +227,14 @@ const promotions = [
         seo_title: "BoroJeet ডেইলি বোনাস | প্রতিদিন বিনামূল্যে ৳200 ক্লেম করুন",
         seo_description: "BoroJeet-এ লগইন করুন এবং আপনার বিনামূল্যে ৳200 দৈনিক বোনাস দাবি করুন! আজ 300 টাকা জমা দিন এবং স্লট ও কার্ড গেমের জন্য অতিরিক্ত ফান্ড উপভোগ করুন।",
         rules: [
-          "Bonus: ৳200",
-          "Max Withdraw: ৳200",
+          "Bonus: 100",
+          "Join Amount: not required",
+          "Max Withdraw: 200",
           "Turnover: 30x",
           "Condition: Today's Deposit: 300",
           "Game Kind: Slots & Card",
+          "Game Platforms: All Game Platforms",
+          "Eligible Player: All VIP Levels",
           "Availability: Once per Day"
         ]
       },
