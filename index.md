@@ -6,87 +6,22 @@ canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
 lastUpdated: 2025-11-21
 tags: "index"
+faq:
+  - question: "বোনাস পাবো কিভাবে?"
+    answer: "রেজিস্ট্রেশনের পর বোনাস ট্যাবে অফার অ্যাক্টিভ করুন; শর্তাবলী মেনে চলতে হবে।"
+  - question: "bKash/Nagad ডিপোজিটে কত সময় লাগে?"
+    answer: "সাধারণত কয়েক মিনিটে সম্পন্ন হয়; সিস্টেম ব্যস্ততায় বেশি সময় লাগতে পারে।"
+  - question: "Withdraw করার সময় KYC কেন লাগে?"
+    answer: "প্রতারণা রোধ ও নিয়ন্ত্রক মান রক্ষায় পরিচয় যাচাই প্রয়োজন হতে পারে।"
+  - question: "ডিপোজিট বা উইথড্র লিমিট কত?"
+    answer: "লিমিট আপনার VIP লেভেল ও পেমেন্ট পদ্ধতির উপর নির্ভর করে। বিস্তারিত জানতে সাপোর্টে যোগাযোগ করুন।"
+  - question: "KYC ভেরিফিকেশন কত সময় লাগে?"
+    answer: "সাধারণত ২৪-৪৮ ঘণ্টা। সঠিক ডকুমেন্ট জমা দিলে দ্রুত হয়।"
+  - question: "কোন কোন মাধ্যমে টাকা তোলা যায়?"
+    answer: "আপনি bKash, Nagad, বা Rocket-এর মাধ্যমে টাকা তুলতে পারবেন।"
+  - question: "বাংলাদেশে অনলাইন ক্যাসিনো বৈধ?"
+    answer: "স্থানীয় আইন পরিবর্তনশীল; নিজ দায়িত্বে সিদ্ধান্ত নিন ও দায়িত্বশীলভাবে খেলুন।"
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "বোনাস পাবো কিভাবে?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "রেজিস্ট্রেশনের পর বোনাস ট্যাবে অফার অ্যাক্টিভ করুন; শর্তাবলী মেনে চলতে হবে।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "bKash/Nagad ডিপোজিটে কত সময় লাগে?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "সাধারণত কয়েক মিনিটে সম্পন্ন হয়; সিস্টেম ব্যস্ততায় বেশি সময় লাগতে পারে।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Withdraw করার সময় KYC কেন লাগে?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "প্রতারণা রোধ ও নিয়ন্ত্রক মান রক্ষায় পরিচয় যাচাই প্রয়োজন হতে পারে।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "ডিপোজিট বা উইথড্র লিমিট কত?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "লিমিট আপনার VIP লেভেল ও পেমেন্ট পদ্ধতির উপর নির্ভর করে। বিস্তারিত জানতে সাপোর্টে যোগাযোগ করুন।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "KYC ভেরিফিকেশন কত সময় লাগে?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "সাধারণত ২৪-৪৮ ঘণ্টা। সঠিক ডকুমেন্ট জমা দিলে দ্রুত হয়।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "কোন কোন মাধ্যমে টাকা তোলা যায়?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "আপনি bKash, Nagad, বা Rocket-এর মাধ্যমে টাকা তুলতে পারবেন।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "বাংলাদেশে অনলাইন ক্যাসিনো বৈধ?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "স্থানীয় আইন পরিবর্তনশীল; নিজ দায়িত্বে সিদ্ধান্ত নিন ও দায়িত্বশীলভাবে খেলুন।"
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "url": "{{ site.url }}/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "{{ site.url }}/search?q={search_term_string}"
-    },
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
 
 <main class="wrap">
   <!-- HERO -->

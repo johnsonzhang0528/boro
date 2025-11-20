@@ -471,6 +471,27 @@
   {% endif %}
   {% endif %}
 
+  {% if faq %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in faq %}
+      {
+        "@type": "Question",
+        "name": "{{ item.question }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ item.answer }}"
+        }
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
   <!-- Google tag (gtag.js) - Optimized for user interaction -->
   <script>
     // Load analytics only after user interaction to reduce initial blocking

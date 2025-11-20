@@ -29,26 +29,7 @@ layout: "base.njk"
   }
 }
 </script>
-{% if faq %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {% for item in faq %}
-    {
-      "@type": "Question",
-      "name": "{{ item.question }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ item.answer }}"
-      }
-    }{% if not loop.last %},{% endif %}
-    {% endfor %}
-  ]
-}
-</script>
-{% endif %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -125,6 +106,24 @@ layout: "base.njk"
     <div class="author-info">
       <h2>About the Author: BoroJeet Expert</h2>
       <p>An experienced analyst in the iGaming sector, focusing on the Bangladesh market. Dedicated to providing safe, reliable, and up-to-date information for players. <a href="/about/">Learn more about our editorial standards</a>.</p>
+    </div>
+  </div>
+
+  {# --- Related Posts Section --- #}
+  <div style="margin-top: 60px; padding-top: 40px; border-top: 1px solid #243041;">
+    <h3 style="font-size: 1.5rem; margin-bottom: 24px;">আরও পড়ুন (Related Posts)</h3>
+    <div class="grid grid-2">
+      {% set relatedCount = 0 %}
+      {% for post in collections.post %}
+        {% if post.url != page.url and relatedCount < 2 %}
+          <div class="card">
+            <div class="card-meta">{{ post.date | date("MMMM dd, yyyy") }}</div>
+            <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+            <p>{{ post.data.description | truncate(100) }}</p>
+          </div>
+          {% set relatedCount = relatedCount + 1 %}
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
 </main>
