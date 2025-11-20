@@ -192,7 +192,15 @@ const promotions = [
           "Extra Bonus (VIP 2-20): From 550 to 6,000 based on total deposit.",
           "Wagering: 1x to 3x, depending on VIP level."
         ]
-      },
+      }
+    ]
+  },
+  {
+    category: "☀️ Daily Offers",
+    date: "2025-11-14",
+    slug: "daily",
+    description: "Get new bonuses and rewards every day.",
+    items: [
       {
         title: "ডিপোজিট বুস্ট: 0.5% থেকে 3% বোনাস!",
         slug: "deposit-boost-bonus",
@@ -210,15 +218,7 @@ const promotions = [
           "Eligible Players: All VIP Levels",
           "Availability: 1st & 3rd Sunday, Monday, and Tuesday of every month."
         ]
-      }
-    ]
-  },
-  {
-    category: "☀️ Daily Offers",
-    date: "2025-11-14",
-    slug: "daily",
-    description: "Get new bonuses and rewards every day.",
-    items: [
+      },
       {
         title: "ডেইলি বোনাস: প্রতিদিন বিনামূল্যে ৳200",
         slug: "daily-bonus-free-200",
