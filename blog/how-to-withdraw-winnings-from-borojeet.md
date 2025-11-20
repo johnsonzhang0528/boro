@@ -6,6 +6,19 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "borojeet-withdrawal-process-optimized.webp"
 tags: "post"
+faq:
+  - question: "What do I need to do before I can withdraw money from BoroJeet?"
+    answer: "টাকা তোলার অনুরোধ করার আগে আপনাকে দুটি প্রধান বিষয় নিশ্চিত করতে হবে:\n<ul>\n<li><strong>অ্যাকাউন্ট ভেরিফিকেশন (KYC):</strong> আপনার জাতীয় পরিচয়পত্র (NID) এবং ঠিকানার প্রমাণ দিয়ে অ্যাকাউন্টটি ভেরিফাই করুন।</li>\n<li><strong>ওয়েজারিং রিকোয়ারমেন্ট:</strong> আপনি যদি কোনো বোনাস ব্যবহার করে থাকেন, তবে সেই বোনাসের সাথে যুক্ত টার্নওভার বা বাজির শর্ত পূরণ করুন।</li>\n</ul>"
+  - question: "How do I withdraw my winnings from BoroJeet?"
+    answer: "টাকা তোলার জন্য এই ধাপগুলো অনুসরণ করুন:\n<ol>\n<li>আপনার অ্যাকাউন্টে লগইন করুন।</li>\n<li>\"Withdraw\" বা \"টাকা তোলা\" বিভাগে যান।</li>\n<li>আপনার পছন্দের পেমেন্ট পদ্ধতি (যেমন bKash বা Nagad) বেছে নিন।</li>\n<li>টাকার পরিমাণ এবং আপনার অ্যাকাউন্টের সঠিক বিবরণ দিন।</li>\n<li>অনুরোধটি জমা দিন এবং প্রক্রিয়াকরণের জন্য অপেক্ষা করুন।</li>\n</ol>"
+  - question: "Why was my withdrawal request canceled?"
+    answer: "টাকা তোলার অনুরোধ বাতিল হওয়ার সাধারণ কারণগুলো হলো: KYC ভেরিফিকেশন সম্পন্ন না করা, বোনাসের ওয়েজারিং রিকোয়ারমেন্ট পূরণ না করা, অথবা ভুল পেমেন্ট অ্যাকাউন্টের তথ্য প্রদান করা।"
+  - question: "What is a wagering requirement?"
+    answer: "ওয়েজারিং রিকোয়ারমেন্ট হলো একটি শর্ত যা বোনাসের সাথে যুক্ত থাকে। এর মানে হলো, বোনাস থেকে জেতা টাকা তোলার আগে আপনাকে বোনাসের টাকার একটি নির্দিষ্ট গুণিতক পরিমাণ বাজি ধরতে হবে। উদাহরণস্বরূপ, 10x ওয়েজারিং সহ ৳৩০০ বোনাসের জন্য আপনাকে ৳৩,০০০ টাকার বাজি ধরতে হবে।"
+  - question: "How long does it take to receive my money from BoroJeet?"
+    answer: "সাধারণত, টাকা তোলার অনুরোধ ২৪ ঘণ্টার মধ্যে প্রক্রিয়া করা হয়। তবে, ব্যস্ত সময়ে বা আপনার KYC ভেরিফিকেশন সম্পূর্ণ না থাকলে এটি ৪৮ ঘণ্টা পর্যন্ত সময় নিতে পারে।"
+  - question: "Is it safe to withdraw money from BoroJeet?"
+    answer: "হ্যাঁ, BoroJeet আপনার আর্থিক লেনদেন এবং ব্যক্তিগত তথ্য সুরক্ষিত রাখতে আধুনিক এনক্রিপশন প্রযুক্তি ব্যবহার করে, তাই টাকা তোলা একটি নিরাপদ প্রক্রিয়া।"
 ---
 
 অভিনন্দন! আপনি BoroJeet-এ খেলে জিতেছেন এবং এখন আপনার জেতার টাকা হাতে পেতে চান। টাকা জেতার আনন্দ তখনই সম্পূর্ণ হয় যখন তা নিরাপদে এবং দ্রুত আপনার নিজের অ্যাকাউন্টে চলে আসে।
@@ -105,87 +118,3 @@ BoroJeet থেকে টাকা তোলা একটি সহজ এবং
 ➡️ **[বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্টের চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/)**
 
 মনে রাখবেন, দায়িত্বশীলভাবে খেলুন এবং আপনার আর্থিক সীমার মধ্যে থাকুন। আপনার জেতার জন্য আবারও অভিনন্দন!
-
-<script type="application/ld+json">
-[
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "BoroJeet থেকে জেতার টাকা কীভাবে তুলবেন (সম্পূর্ণ গাইড)",
-    "description": "ধাপে ধাপে জানুন কীভাবে BoroJeet থেকে bKash বা Nagad-এর মাধ্যমে আপনার জেতার টাকা দ্রুত এবং নিরাপদে উত্তোলন করবেন। KYC ও টার্নওভারের শর্তাবলী সহ সম্পূর্ণ গাইড।",
-    "image": "https://borojeetbd.com/assets/og/borojeet-withdrawal-process-optimized.webp",
-    "datePublished": "2025-11-01",
-    "dateModified": "2025-11-17",
-    "author": {
-      "@type": "Person",
-      "name": "Borojeet Expert"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Borojeet Bangladesh",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://borojeetbd.com/assets/borojeet-affiliate-logo-bd.webp"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://borojeetbd.com/blog/how-to-withdraw-winnings-from-borojeet/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What do I need to do before I can withdraw money from BoroJeet?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "টাকা তোলার অনুরোধ করার আগে আপনাকে দুটি প্রধান বিষয় নিশ্চিত করতে হবে:\n<ul>\n<li><strong>অ্যাকাউন্ট ভেরিফিকেশন (KYC):</strong> আপনার জাতীয় পরিচয়পত্র (NID) এবং ঠিকানার প্রমাণ দিয়ে অ্যাকাউন্টটি ভেরিফাই করুন।</li>\n<li><strong>ওয়েজারিং রিকোয়ারমেন্ট:</strong> আপনি যদি কোনো বোনাস ব্যবহার করে থাকেন, তবে সেই বোনাসের সাথে যুক্ত টার্নওভার বা বাজির শর্ত পূরণ করুন।</li>\n</ul>"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How do I withdraw my winnings from BoroJeet?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "টাকা তোলার জন্য এই ধাপগুলো অনুসরণ করুন:\n<ol>\n<li>আপনার অ্যাকাউন্টে লগইন করুন।</li>\n<li>\"Withdraw\" বা \"টাকা তোলা\" বিভাগে যান।</li>\n<li>আপনার পছন্দের পেমেন্ট পদ্ধতি (যেমন bKash বা Nagad) বেছে নিন।</li>\n<li>টাকার পরিমাণ এবং আপনার অ্যাকাউন্টের সঠিক বিবরণ দিন।</li>\n<li>অনুরোধটি জমা দিন এবং প্রক্রিয়াকরণের জন্য অপেক্ষা করুন।</li>\n</ol>"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Why was my withdrawal request canceled?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "টাকা তোলার অনুরোধ বাতিল হওয়ার সাধারণ কারণগুলো হলো: KYC ভেরিফিকেশন সম্পন্ন না করা, বোনাসের ওয়েজারিং রিকোয়ারমেন্ট পূরণ না করা, অথবা ভুল পেমেন্ট অ্যাকাউন্টের তথ্য প্রদান করা।"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is a wagering requirement?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ওয়েজারিং রিকোয়ারমেন্ট হলো একটি শর্ত যা বোনাসের সাথে যুক্ত থাকে। এর মানে হলো, বোনাস থেকে জেতা টাকা তোলার আগে আপনাকে বোনাসের টাকার একটি নির্দিষ্ট গুণিতক পরিমাণ বাজি ধরতে হবে। উদাহরণস্বরূপ, 10x ওয়েজারিং সহ ৳৩০০ বোনাসের জন্য আপনাকে ৳৩,০০০ টাকার বাজি ধরতে হবে।"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How long does it take to receive my money from BoroJeet?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "সাধারণত, টাকা তোলার অনুরোধ ২৪ ঘণ্টার মধ্যে প্রক্রিয়া করা হয়। তবে, ব্যস্ত সময়ে বা আপনার KYC ভেরিফিকেশন সম্পূর্ণ না থাকলে এটি ৪৮ ঘণ্টা পর্যন্ত সময় নিতে পারে।"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is it safe to withdraw money from BoroJeet?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "হ্যাঁ, BoroJeet আপনার আর্থিক লেনদেন এবং ব্যক্তিগত তথ্য সুরক্ষিত রাখতে আধুনিক এনক্রিপশন প্রযুক্তি ব্যবহার করে, তাই টাকা তোলা একটি নিরাপদ প্রক্রিয়া।"
-        }
-      }
-    ]
-  }
-]
-</script>

@@ -7,6 +7,19 @@ layout: "post.njk"
 ogImage: "ultimate-guide-to-cricket-betting-in-bangladesh-optimized.webp"
 ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে একটি ক্রিকেট বল, ব্যাট এবং বেটিং অডস দেখানো হয়েছে, যা ক্রিকেট বেটিং গাইডের প্রতীক।"
 tags: "post"
+faq:
+  - question: "How does cricket betting work?"
+    answer: "ক্রিকেট বেটিং হলো একটি ম্যাচের বিভিন্ন ফলাফলের উপর পূর্বাভাস করে টাকা বাজি ধরা। বুকমেকার (যেমন BoroJeet) বিভিন্ন ফলাফলের জন্য অডস বা দর নির্ধারণ করে। আপনার পূর্বাভাস সঠিক হলে, আপনি আপনার বাজি এবং অডস অনুযায়ী অতিরিক্ত টাকা জেতেন।"
+  - question: "What are the most common types of bets in cricket?"
+    answer: "ক্রিকেটে সবচেয়ে জনপ্রিয় কিছু বাজি হলো:\n<ul>\n<li><strong>ম্যাচ উইনার:</strong> কোন দল ম্যাচ জিতবে তার উপর বাজি।</li>\n<li><strong>টপ ব্যাটসম্যান/বোলার:</strong> কোন খেলোয়াড় সবচেয়ে বেশি রান করবে বা উইকেট নেবে।</li>\n<li><strong>ওভার/আন্ডার রান:</strong> নির্ধারিত মোট রানের চেয়ে বেশি না কম হবে তার উপর বাজি।</li>\n<li><strong>ম্যান অফ দ্য ম্যাচ:</strong> কে ম্যাচ সেরা খেলোয়াড় হবেন।</li>\n</ul>"
+  - question: "What is a simple explanation of betting odds?"
+    answer: "অডস একটি নির্দিষ্ট ফলাফলের সম্ভাবনা এবং আপনার সম্ভাব্য জয়ের পরিমাণ নির্দেশ করে। উদাহরণস্বরূপ, ২.৫০ ডেসিমাল অডস-এ ৳১০০ বাজি ধরলে জিতলে আপনি মোট ৳২৫০ ফেরত পাবেন (৳১৫০ লাভ + ৳১০০ মূল বাজি)।"
+  - question: "What is a good strategy for beginners in cricket betting?"
+    answer: "নতুনদের জন্য কিছু সেরা কৌশল হলো:\n<ul>\n<li>বাজি ধরার আগে দল, খেলোয়াড়, পিচ এবং আবহাওয়া নিয়ে গবেষণা করা।</li>\n<li>আবেগের বশে বাজি না ধরে তথ্যের উপর ভিত্তি করে সিদ্ধান্ত নেওয়া।</li>\n<li>একটি নির্দিষ্ট বাজেট (ব্যাংকরোল) নির্ধারণ করা এবং ছোট ছোট বাজি ধরে খেলা।</li>\n<li>অভিজ্ঞতা অর্জনের জন্য প্রথমে ছোট বাজি দিয়ে শুরু করা।</li>\n</ul>"
+  - question: "How do I choose a safe cricket betting site in Bangladesh?"
+    answer: "একটি নিরাপদ সাইট বেছে নিতে, নিশ্চিত করুন যে সাইটটির আন্তর্জাতিক লাইসেন্স আছে, SSL এনক্রিপশন ব্যবহার করে, bKash বা Nagad-এর মতো স্থানীয় পেমেন্ট পদ্ধতি সমর্থন করে এবং ভালো গ্রাহক পরিষেবা প্রদান করে।"
+  - question: "What is responsible gaming?"
+    answer: "দায়িত্বশীল গেমিং মানে বেটিংকে বিনোদনের একটি মাধ্যম হিসেবে দেখা, অর্থ উপার্জনের উপায় হিসেবে নয়। এর মধ্যে রয়েছে বাজেট নির্ধারণ করা, লোকসান পূরণের জন্য বাজি না ধরা এবং খেলার অভ্যাস নিয়ন্ত্রণের বাইরে চলে গেলে বিরতি নেওয়া।"
 ---
 
 ক্রিকেট শুধু একটি খেলা নয়, এটি বাংলাদেশের মানুষের আবেগ। এই আবেগকে কাজে লাগিয়ে অনেকেই ক্রিকেট বেটিংয়ের মাধ্যমে খেলা দেখার উত্তেজনাকে আরও বাড়িয়ে তুলতে চান। কিন্তু সঠিক জ্ঞান ছাড়া বেটিং জগতে প্রবেশ করা ঝুঁকিপূর্ণ হতে পারে।
@@ -97,87 +110,3 @@ tags: "post"
 আপনি যদি আপনার বেটিংকে পরবর্তী স্তরে নিয়ে যেতে প্রস্তুত হন, তাহলে আমাদের [৫টি উন্নত ক্রিকেট বেটিং কৌশলের গাইডটি](/blog/advanced-cricket-betting-strategies/) পড়ুন।
 
 শুভকামনা!
-
-<script type="application/ld+json">
-[
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)",
-    "description": "ক্রিকেট বেটিং সম্পর্কে সবকিছু জানতে চান? আমাদের এই চূড়ান্ত গাইডটি আপনাকে বেটিং এর মূল বিষয়, অডস বোঝা, বিভিন্ন ধরনের বাজি এবং জেতার কৌশল সম্পর্কে ধাপে ধাপে শেখাবে।",
-    "image": "https://borojeetbd.com/assets/og/ultimate-guide-to-cricket-betting-in-bangladesh-optimized.webp",
-    "datePublished": "2025-11-07",
-    "dateModified": "2025-11-18",
-    "author": {
-      "@type": "Person",
-      "name": "Borojeet Expert"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Borojeet Bangladesh",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://borojeetbd.com/assets/borojeet-affiliate-logo-bd.webp"
-      }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://borojeetbd.com/blog/ultimate-guide-to-cricket-betting-in-bangladesh/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How does cricket betting work?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ক্রিকেট বেটিং হলো একটি ম্যাচের বিভিন্ন ফলাফলের উপর পূর্বাভাস করে টাকা বাজি ধরা। বুকমেকার (যেমন BoroJeet) বিভিন্ন ফলাফলের জন্য অডস বা দর নির্ধারণ করে। আপনার পূর্বাভাস সঠিক হলে, আপনি আপনার বাজি এবং অডস অনুযায়ী অতিরিক্ত টাকা জেতেন।"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What are the most common types of bets in cricket?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ক্রিকেটে সবচেয়ে জনপ্রিয় কিছু বাজি হলো:\n<ul>\n<li><strong>ম্যাচ উইনার:</strong> কোন দল ম্যাচ জিতবে তার উপর বাজি।</li>\n<li><strong>টপ ব্যাটসম্যান/বোলার:</strong> কোন খেলোয়াড় সবচেয়ে বেশি রান করবে বা উইকেট নেবে।</li>\n<li><strong>ওভার/আন্ডার রান:</strong> নির্ধারিত মোট রানের চেয়ে বেশি না কম হবে তার উপর বাজি।</li>\n<li><strong>ম্যান অফ দ্য ম্যাচ:</strong> কে ম্যাচ সেরা খেলোয়াড় হবেন।</li>\n</ul>"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is a simple explanation of betting odds?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "অডস একটি নির্দিষ্ট ফলাফলের সম্ভাবনা এবং আপনার সম্ভাব্য জয়ের পরিমাণ নির্দেশ করে। উদাহরণস্বরূপ, ২.৫০ ডেসিমাল অডস-এ ৳১০০ বাজি ধরলে জিতলে আপনি মোট ৳২৫০ ফেরত পাবেন (৳১৫০ লাভ + ৳১০০ মূল বাজি)।"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is a good strategy for beginners in cricket betting?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "নতুনদের জন্য কিছু সেরা কৌশল হলো:\n<ul>\n<li>বাজি ধরার আগে দল, খেলোয়াড়, পিচ এবং আবহাওয়া নিয়ে গবেষণা করা।</li>\n<li>আবেগের বশে বাজি না ধরে তথ্যের উপর ভিত্তি করে সিদ্ধান্ত নেওয়া।</li>\n<li>একটি নির্দিষ্ট বাজেট (ব্যাংকরোল) নির্ধারণ করা এবং ছোট ছোট বাজি ধরে খেলা।</li>\n<li>অভিজ্ঞতা অর্জনের জন্য প্রথমে ছোট বাজি দিয়ে শুরু করা।</li>\n</ul>"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How do I choose a safe cricket betting site in Bangladesh?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "একটি নিরাপদ সাইট বেছে নিতে, নিশ্চিত করুন যে সাইটটির আন্তর্জাতিক লাইসেন্স আছে, SSL এনক্রিপশন ব্যবহার করে, bKash বা Nagad-এর মতো স্থানীয় পেমেন্ট পদ্ধতি সমর্থন করে এবং ভালো গ্রাহক পরিষেবা প্রদান করে।"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is responsible gaming?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "দায়িত্বশীল গেমিং মানে বেটিংকে বিনোদনের একটি মাধ্যম হিসেবে দেখা, অর্থ উপার্জনের উপায় হিসেবে নয়। এর মধ্যে রয়েছে বাজেট নির্ধারণ করা, লোকসান পূরণের জন্য বাজি না ধরা এবং খেলার অভ্যাস নিয়ন্ত্রণের বাইরে চলে গেলে বিরতি নেওয়া।"
-        }
-      }
-    ]
-  }
-]
-</script>
