@@ -206,25 +206,8 @@ const promotions = [
           "Maximum Bonus: Unlimited",
           "Minimum Deposit: 100",
           "Turnover: 3x",
-          "Availability: 1st & 3rd Sunday, Monday, and Tuesday of every month."
-        ]
-      },
-      {
-        title: "ক্রিসমাস ডিপোজিট বুস্ট: 3% পর্যন্ত বোনাস!",
-        slug: "christmas-deposit-boost",
-        image: "/assets/promotions/promo-christmas-deposit-boost-optimized.webp",
-        startDate: "2025-12-01",
-        endDate: "2025-12-31",
-        details: "ক্রিসমাস উদযাপন করুন BoroJeet-এর সাথে! আমাদের বিশেষ ডিপোজিট বুস্ট উপভোগ করুন এবং আপনার গেমিং অভিজ্ঞতাকে আরও আনন্দময় করে তুলুন।",
-        seo_title: "BoroJeet ক্রিসমাস বোনাস | 3% ডিপোজিট বুস্ট",
-        seo_description: "এই ক্রিসমাসে BoroJeet-এ 3% ডিপোজিট বুস্ট পান। আপনার ডিপোজিটে অতিরিক্ত বোনাস উপভোগ করুন এবং বড় জয়ের সুযোগ বাড়ান।",
-        rules: [
-          "Bonus Rate: 0.5% to 3%",
-          "Maximum Bonus: Unlimited",
-          "Minimum Deposit: 100",
-          "Turnover: 3x",
           "Eligible Players: All VIP Levels",
-          "Availability: December 1st to December 31st"
+          "Availability: 1st & 3rd Sunday, Monday, and Tuesday of every month."
         ]
       }
     ]
