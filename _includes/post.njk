@@ -10,7 +10,9 @@ layout: "base.njk"
   </div>
   <article>
     <h1 class="h1">{{ title }}</h1>
-    <div class="post-meta">By BoroJeet BD Team • Published on {{ page.date | date("MMMM dd, yyyy") }}{% if lastUpdated %} • <span class="warn">Updated on {{ lastUpdated | date("MMMM dd, yyyy") }}</span>{% endif %}</div>
+    <div class="post-meta">
+      By BoroJeet BD Team • {{ content | readingTime }} • Published on {{ page.date | date("MMMM dd, yyyy") }}{% if lastUpdated %} • <span class="warn">Updated on {{ lastUpdated | date("MMMM dd, yyyy") }}</span>{% endif %}
+    </div>
     
     {# --- Table of Contents (TOC) --- #}
     <div class="toc-container">
@@ -25,9 +27,57 @@ layout: "base.njk"
     <div class="post-content">
       {{ content | safe }}
     </div>
+
+    <div class="share-section">
+      <h3>Share this article</h3>
+      <div class="share-buttons">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer" class="share-btn fb">Facebook</a>
+        <a href="https://twitter.com/intent/tweet?text={{ title }}&url={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer" class="share-btn tw">Twitter</a>
+        <a href="https://api.whatsapp.com/send?text={{ title }} {{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer" class="share-btn wa">WhatsApp</a>
+        <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ title }}" target="_blank" rel="noopener noreferrer" class="share-btn tg">Telegram</a>
+      </div>
+    </div>
   </article>
 
   <style>
+    /* Share Buttons */
+    .share-section {
+      margin: 40px 0;
+      padding: 24px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid #243041;
+      border-radius: 16px;
+      text-align: center;
+    }
+    .share-section h3 {
+      margin-top: 0;
+      margin-bottom: 16px;
+      font-size: 1.2rem;
+    }
+    .share-buttons {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .share-btn {
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: white;
+      transition: opacity 0.2s;
+    }
+    .share-btn:hover {
+      opacity: 0.9;
+      text-decoration: none;
+      color: white;
+    }
+    .fb { background: #1877f2; }
+    .tw { background: #1da1f2; }
+    .wa { background: #25d366; }
+    .tg { background: #0088cc; }
+
     /* TOC Styles */
     .toc-container {
       background: rgba(255, 255, 255, 0.03);

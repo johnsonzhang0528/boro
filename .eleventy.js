@@ -73,6 +73,13 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: 'Asia/Dhaka' }).toFormat(format);
   });
 
+  eleventyConfig.addFilter("readingTime", (content) => {
+    const wordsPerMinute = 200;
+    const numberOfWords = content.split(/\s/g).length;
+    const minutes = Math.ceil(numberOfWords / wordsPerMinute);
+    return `${minutes} min read`;
+  });
+
   eleventyConfig.addCollection("post", (api) => {
     return api.getFilteredByTag("post")
       .filter(item => !item.data.draft)
