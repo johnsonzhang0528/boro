@@ -5,7 +5,7 @@ const promotions = [
     category: "🎁 Newbie Offers",
     date: "2025-11-14",
     slug: "newbie",
-    description: "Exclusive offers for new players joining BoroJeet.",
+    description: "BoroJeet-এ নতুন? আপনার এক্সক্লুসিভ Welcome Bonus claim করুন! রেজিস্ট্রেশন করে ফ্রি ক্রেডিট এবং প্রথম Deposit Offer পান 슬롯 ও ক্যাসিনো গেমে আপনার জেতার যাত্রা শুরু করতে।",
     items: [
       {
         title: "BoroJeet রেজিস্ট্রেশন বোনাস: ৳100 ফ্রি পান!",
@@ -133,7 +133,7 @@ const promotions = [
     category: "✨ Special Offers",
     date: "2025-11-14",
     slug: "special",
-    description: "Limited-time offers for special events and holidays.",
+    description: "BoroJeet-এর সীমিত সময়ের Special Offers আবিষ্কার করুন। উইকেন্ড এবং বিশেষ ছুটির দিনে বিশাল Bonus জিতে আপনার জেতার সম্ভাবনা বাড়ান।",
     items: [
       {
         title: "300% হ্যাপি উইকেন্ড বোনাস",
@@ -199,7 +199,7 @@ const promotions = [
     category: "☀️ Daily Offers",
     date: "2025-11-14",
     slug: "daily",
-    description: "Get new bonuses and rewards every day.",
+    description: "BoroJeet-এর Daily Offers দিয়ে প্রতিদিন আপনার খেলা বুস্ট করুন। Daily Free Bonus, Deposit Boost, এবং জনপ্রিয় গেমের জন্য Free Spins claim করতে লগইন করুন।",
     items: [
       {
         title: "ডিপোজিট বুস্ট: 0.5% থেকে 3% বোনাস!",
@@ -406,7 +406,7 @@ const promotions = [
     category: "👑 VIP Loyalty",
     date: "2025-11-14",
     slug: "vip",
-    description: "Exclusive rewards for our loyal players.",
+    description: "BoroJeet VIP হয়ে এক্সক্লুসিভ Loyalty Rewards আনলক করুন। আমাদের VIP সদস্যরা Weekly Cashback, বড় Bonus এবং বিশেষ উপহার উপভোগ করেন।",
     items: [
       {
         title: "সাপ্তাহিক ফেসবুক শেয়ার: বিনামূল্যে ৳100",
@@ -485,7 +485,7 @@ const promotions = [
     category: "💰 Rebate Offers",
     date: "2025-11-14",
     slug: "rebate",
-    description: "Get daily rebates on your turnover. The more you play, the more you get back!",
+    description: "BoroJeet-এর Daily Rebate Offers দিয়ে আপনার রিটার্ন সর্বাধিক করুন। Slots, Live Casino, এবং Sports Betting-এ আপনার টার্নওভারের উপর তাত্ক্ষণিক Rebate পান।",
     items: [
       {
         title: "স্লট ও ফিশারে 1.5% ডেইলি রিবেট",
@@ -547,7 +547,7 @@ const promotions = [
     category: "💸 Cashback Offers",
     date: "2025-11-14",
     slug: "cashback",
-    description: "Get a percentage of your losses back. A safety net for our players.",
+    description: "BoroJeet-এর Weekly Cashback Offers দিয়ে আত্মবিশ্বাসের সাথে খেলুন। আমরা প্রতি সপ্তাহে আপনার ক্ষতির উপর একটি শতাংশ ফেরত দিয়ে একটি সেফটি নেট প্রদান করি।",
     items: [
       {
         title: "স্লট ও ফিশারে 8% পর্যন্ত ক্যাশব্যাক",
@@ -609,7 +609,7 @@ const promotions = [
     category: "🤝 Referral Program",
     date: "2025-11-14",
     slug: "referral",
-    description: "Invite friends and earn rewards together! The more you refer, the more you earn.",
+    description: "বন্ধুদের BoroJeet-এ আমন্ত্রণ জানান এবং আনলিমিটেড Referral Bonus উপার্জন করুন! আপনার কোড শেয়ার করুন এবং প্রতিটি নতুন বন্ধুর জন্য পুরস্কৃত হন।",
     items: [
       {
         title: "৳400 রেফারেল বোনাস: বন্ধুদের আমন্ত্রণ জানান এবং পুরস্কার জিতুন",
@@ -663,7 +663,7 @@ const promotions = [
     category: "🏆 Tournaments",
     date: "2025-11-14",
     slug: "tournament",
-    description: "Compete with other players in our exciting tournaments and win big prizes!",
+    description: "BoroJeet-এর উত্তেজনাপূর্ণ Betting Tournaments-এ যোগ দিন এবং বিশাল পুরস্কারের জন্য প্রতিযোগিতা করুন। লিডারবোর্ডে উঠুন এবং বড় জিতুন!",
     items: [
       {
         title: "ড্রাগন ও টাইগার স্লট টুর্নামেন্ট",
