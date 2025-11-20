@@ -640,6 +640,60 @@
     // Fallback: load after 10 seconds if no interaction
     setTimeout(loadGoogleAnalytics, 10000);
   </script>
+
+  {% if page.url.startsWith('/blog/') and page.url != '/blog/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ title }}",
+    "description": "{{ description }}",
+    "image": "{{ site.url }}/assets/og/{{ ogImage or 'og-default-optimized.webp' }}",
+    "datePublished": "{{ page.date.toISOString() }}",
+    "dateModified": "{{ (lastUpdated or page.date).toISOString() }}",
+    "author": {
+      "@type": "Person",
+      "name": "BoroJeet Expert",
+      "url": "{{ site.url }}/authors/borojeet-expert/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "BoroJeet Affiliate BD",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/assets/borojeet-affiliate-logo-bd.webp"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}/"
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "{{ site.url }}/blog/"
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ title }}",
+      "item": "{{ site.url }}{{ page.url }}"
+    }]
+  }
+  </script>
+  {% endif %}
 </head>
 <body 
   data-page-type="{% if page.url == '/' %}home{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}blog-post{% elif page.url.startsWith('/blog/') %}blog-index{% else %}page{% endif %}"
@@ -667,7 +721,9 @@
     </div>
   </header>
 
-  {{ content | safe }}
+  <main id="main-content">
+    {{ content | safe }}
+  </main>
 
   <footer class="wrap">
     <p>© <span id="year">2025</span> BoroJeet Affiliate BD.

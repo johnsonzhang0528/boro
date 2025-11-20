@@ -1,59 +1,8 @@
 ---
 layout: "base.njk"
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{{ title }}",
-  "description": "{{ description }}",
-  "image": "{{ site.url }}/assets/og/{{ ogImage or 'og-default-optimized.webp' }}",
-  "datePublished": "{{ page.date.toISOString() }}",
-  "dateModified": "{{ (lastUpdated or page.date).toISOString() }}",
-  "author": {
-    "@type": "Person",
-    "name": "BoroJeet Expert",
-    "url": "{{ site.url }}/authors/borojeet-expert/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "BoroJeet Affiliate BD",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.url }}/assets/borojeet-affiliate-logo-bd.webp"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
-    "name": "Home",
-    "item": "{{ site.url }}/"
-  },{
-    "@type": "ListItem",
-    "position": 2,
-    "name": "Blog",
-    "item": "{{ site.url }}/blog/"
-  },{
-    "@type": "ListItem",
-    "position": 3,
-    "name": "{{ title }}",
-    "item": "{{ site.url }}{{ page.url }}"
-  }]
-}
-</script>
-
-<main class="wrap">
+<div class="wrap">
   <div class="breadcrumb">
     <a href="{{ '/' | url }}">Home</a> / 
     <a href="/blog/">Blog</a> / 
@@ -280,4 +229,4 @@ layout: "base.njk"
       {% endif %}
     </div>
   </div>
-</main>
+</div>
