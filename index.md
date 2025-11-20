@@ -6,6 +6,14 @@ canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
 lastUpdated: 2025-11-21
 tags: "index"
+softwareApp:
+  name: "BoroJeet App"
+  os: "Android"
+  category: "GameApplication"
+  price: "0"
+  currency: "BDT"
+  ratingValue: "4.8"
+  ratingCount: "1250"
 faq:
   - question: "বোনাস পাবো কিভাবে?"
     answer: "রেজিস্ট্রেশনের পর বোনাস ট্যাবে অফার অ্যাক্টিভ করুন; শর্তাবলী মেনে চলতে হবে।"
