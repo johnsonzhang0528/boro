@@ -402,13 +402,14 @@
     <meta name="robots" content="{{ robots }}">
   {% endif %}
 
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="{% if page.url.startsWith('/blog/') %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ canonicalUrl or site.url + page.url }}">
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
-  {% if canonicalUrl %}
-    <meta property="og:url" content="{{ canonicalUrl }}">
-  {% else %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  {% endif %}
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
+
   {# --- OG Image Dynamic Logic --- #}
   {% if page.url == '/' %}
     <meta property="og:image" content="{{ site.url }}/assets/og/hero-optimized.webp">
@@ -417,8 +418,29 @@
   {% else %}
     <meta property="og:image" content="{{ site.url }}/assets/og/og-default-optimized.webp">
   {% endif %}
-  <meta property="og:type" content="website">
-  <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
+
+  {% if ogImageAlt %}
+    <meta property="og:image:alt" content="{{ ogImageAlt }}">
+  {% endif %}
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="{{ canonicalUrl or site.url + page.url }}">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  
+  {# --- Twitter Image Logic (Same as OG) --- #}
+  {% if page.url == '/' %}
+    <meta name="twitter:image" content="{{ site.url }}/assets/og/hero-optimized.webp">
+  {% elif ogImage %}
+    <meta name="twitter:image" content="{{ site.url }}/assets/og/{{ ogImage }}">
+  {% else %}
+    <meta name="twitter:image" content="{{ site.url }}/assets/og/og-default-optimized.webp">
+  {% endif %}
+
+  {% if ogImageAlt %}
+    <meta name="twitter:image:alt" content="{{ ogImageAlt }}">
+  {% endif %}
 
 
   
