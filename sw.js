@@ -1,5 +1,5 @@
 // Enhanced Service Worker for BoroJeet Blog with optimized caching
-const CACHE_NAME = 'borojeet-blog-v6';
+const CACHE_NAME = 'borojeet-blog-v7';
 const STATIC_ASSETS = [
   '/assets/style.css',
   '/assets/universal-performance.js',
@@ -78,7 +78,8 @@ self.addEventListener('fetch', (event) => {
   }
   
   // Handle different types of requests with optimized strategies
-  if (url.pathname.endsWith('.webp') || 
+  if (url.pathname.endsWith('.avif') ||
+      url.pathname.endsWith('.webp') || 
       url.pathname.endsWith('.jpg') || 
       url.pathname.endsWith('.png') ||
       url.pathname.endsWith('.svg')) {
