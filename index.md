@@ -4,6 +4,7 @@ title: "BoroJeet অ্যাপ ডাউনলোড (apk) | সুরক্�
 description: "বাংলাদেশের জন্য অফিসিয়াল BoroJeet অ্যাপ ডাউনলোড করুন। আমাদের লাইটওয়েট এবং সুরক্ষিত apk দিয়ে আপনার বোনাস পান। bKash/Nagad ডিপোজিট এবং উইথড্রয়ালের সম্পূর্ণ গাইড।"
 canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
+lastUpdated: 2025-11-21
 tags: "index"
 ---
 <script type="application/ld+json">
@@ -93,7 +94,7 @@ tags: "index"
     <div>
       <div class="badge">
         <span class="kicker">Bangladesh • bn‑BD</span>
-        <span>Last updated: <span class="last-updated">{{ date | date("MMMM dd, yyyy") }}</span></span>
+        <span>Last updated: <span class="last-updated">{{ lastUpdated | date("MMMM dd, yyyy") }}</span></span>
       </div>
       <h1 class="h1">BoroJeet অ্যাপ: বাংলাদেশের জন্য অফিসিয়াল সুরক্ষিত ডাউনলোড</h1>
       <p class="lead">একটি সুরক্ষিত এবং লাইটওয়েট অভিজ্ঞতার জন্য অফিসিয়াল BoroJeet অ্যাপ APK পান। এই পৃষ্ঠাটি সরাসরি ডাউনলোড লিঙ্ক এবং বাংলাদেশে বোনাস, ডিপোজিট এবং উইথড্রয়ালের জন্য একটি সম্পূর্ণ গাইড প্রদান করে।</p>
