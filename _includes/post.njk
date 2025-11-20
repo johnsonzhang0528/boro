@@ -62,12 +62,74 @@ layout: "base.njk"
   <article>
     <h1 class="h1">{{ title }}</h1>
     <div class="post-meta">By BoroJeet BD Team • Published on {{ page.date | date("MMMM dd, yyyy") }}{% if lastUpdated %} • <span class="warn">Updated on {{ lastUpdated | date("MMMM dd, yyyy") }}</span>{% endif %}</div>
+    
+    {# --- Table of Contents (TOC) --- #}
+    <div class="toc-container">
+      <details open>
+        <summary>Table of Contents</summary>
+        <div class="toc-content">
+          {{ content | toc | safe }}
+        </div>
+      </details>
+    </div>
+
     <div class="post-content">
       {{ content | safe }}
     </div>
   </article>
 
   <style>
+    /* TOC Styles */
+    .toc-container {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid #243041;
+      border-radius: 12px;
+      margin-bottom: 32px;
+      font-size: 0.95rem;
+    }
+    .toc-container details {
+      padding: 16px;
+    }
+    .toc-container summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--accent);
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .toc-container summary::before {
+      content: '▶';
+      font-size: 0.8em;
+      transition: transform 0.2s;
+    }
+    .toc-container details[open] summary::before {
+      transform: rotate(90deg);
+    }
+    .toc-content {
+      margin-top: 12px;
+      padding-left: 12px;
+      border-left: 2px solid #243041;
+    }
+    .toc-content ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .toc-content li {
+      margin: 8px 0;
+    }
+    .toc-content a {
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .toc-content a:hover {
+      color: var(--text);
+      text-decoration: underline;
+    }
+    
     .author-box {
       background: rgba(255, 255, 255, 0.03);
       border: 1px solid #243041;
