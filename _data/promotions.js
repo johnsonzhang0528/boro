@@ -415,11 +415,14 @@ const promotions = [
         seo_title: "BoroJeet ফেসবুক শেয়ার বোনাস | সাপ্তাহিক বিনামূল্যে ৳100 পান",
         seo_description: "আপনার ফেসবুকে BoroJeet শেয়ার করুন এবং প্রতি সপ্তাহে 100 টাকা বোনাস পান। 300 টাকার সাপ্তাহিক ডিপোজিট সহ VIP 5+ সদস্যদের জন্য উপলব্ধ।",
         rules: [
-          "Bonus: ৳100",
-          "Turnover: 1x",
+          "Bonus: 100",
+          "Join Amount: Not Required",
+          "Max Withdraw: Unlimited",
           "Condition: Weekly Total Deposit: 300",
           "Eligible Player: VIP 5 and above",
-          "Note: Your Facebook share must be publicly visible for review."
+          "Release Time: November 17th, 00:00:00 ~ November 23th, 23:59:59",
+          "Turnover: 1x",
+          "Note: Your Facebook entry will be reviewed. If it is not visible on your profile,the reward may not be issued."
         ]
       },
       {
