@@ -8,6 +8,7 @@ layout: "base.njk"
 eleventyComputed:
   title: "{{ item.seo_title | default(item.title + ' | Borojeat Promotions') }}"
   description: "{{ item.seo_description | default(item.details | striptags | truncate(150)) }}"
+  ogImage: "{{ item.image }}"
   date: "{{ item.startDate }}"
   category:
     slug: "{{ item.category.slug }}"

@@ -6,6 +6,20 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "borojeet-withdrawal-process-optimized.webp"
 tags: "post"
+howto:
+  name: "BoroJeet থেকে টাকা তোলার নিয়ম"
+  description: "BoroJeet থেকে bKash বা Nagad-এর মাধ্যমে টাকা তোলার সহজ ৫টি ধাপ।"
+  steps:
+    - name: "অ্যাকাউন্টে লগইন করুন"
+      text: "আপনার BoroJeet অ্যাপ বা ওয়েবসাইটে লগইন করুন।"
+    - name: "Withdraw অপশনে যান"
+      text: "মেনু থেকে 'Withdraw' বা 'টাকা তোলা' অপশনটি নির্বাচন করুন।"
+    - name: "পেমেন্ট মেথড সিলেক্ট করুন"
+      text: "bKash, Nagad বা আপনার পছন্দের অন্য কোনো মেথড বেছে নিন।"
+    - name: "টাকার পরিমাণ ও ডিটেইলস দিন"
+      text: "কত টাকা তুলতে চান তা লিখুন এবং আপনার ওয়ালেট নম্বর দিন।"
+    - name: "কনফার্ম করুন"
+      text: "সব তথ্য সঠিক থাকলে 'Submit' বাটনে ক্লিক করুন।"
 faq:
   - question: "What do I need to do before I can withdraw money from BoroJeet?"
     answer: "টাকা তোলার অনুরোধ করার আগে আপনাকে দুটি প্রধান বিষয় নিশ্চিত করতে হবে:\n<ul>\n<li><strong>অ্যাকাউন্ট ভেরিফিকেশন (KYC):</strong> আপনার জাতীয় পরিচয়পত্র (NID) এবং ঠিকানার প্রমাণ দিয়ে অ্যাকাউন্টটি ভেরিফাই করুন।</li>\n<li><strong>ওয়েজারিং রিকোয়ারমেন্ট:</strong> আপনি যদি কোনো বোনাস ব্যবহার করে থাকেন, তবে সেই বোনাসের সাথে যুক্ত টার্নওভার বা বাজির শর্ত পূরণ করুন।</li>\n</ul>"

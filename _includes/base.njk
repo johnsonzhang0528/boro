@@ -414,7 +414,11 @@
   {% if page.url == '/' %}
     <meta property="og:image" content="{{ site.url }}/assets/og/hero-optimized.webp">
   {% elif ogImage %}
-    <meta property="og:image" content="{{ site.url }}/assets/og/{{ ogImage }}">
+    {% if ogImage.startsWith('/') or ogImage.startsWith('http') %}
+      <meta property="og:image" content="{{ site.url }}{{ ogImage }}">
+    {% else %}
+      <meta property="og:image" content="{{ site.url }}/assets/og/{{ ogImage }}">
+    {% endif %}
   {% else %}
     <meta property="og:image" content="{{ site.url }}/assets/og/og-default-optimized.webp">
   {% endif %}
@@ -433,7 +437,11 @@
   {% if page.url == '/' %}
     <meta name="twitter:image" content="{{ site.url }}/assets/og/hero-optimized.webp">
   {% elif ogImage %}
-    <meta name="twitter:image" content="{{ site.url }}/assets/og/{{ ogImage }}">
+    {% if ogImage.startsWith('/') or ogImage.startsWith('http') %}
+      <meta name="twitter:image" content="{{ site.url }}{{ ogImage }}">
+    {% else %}
+      <meta name="twitter:image" content="{{ site.url }}/assets/og/{{ ogImage }}">
+    {% endif %}
   {% else %}
     <meta name="twitter:image" content="{{ site.url }}/assets/og/og-default-optimized.webp">
   {% endif %}
@@ -502,6 +510,32 @@
           "@type": "Answer",
           "text": "{{ item.answer }}"
         }
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% if howto %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "{{ howto.name or title }}",
+    "description": "{{ howto.description or description }}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/og/{{ ogImage or 'og-default-optimized.webp' }}"
+    },
+    "step": [
+      {% for step in howto.steps %}
+      {
+        "@type": "HowToStep",
+        "name": "{{ step.name }}",
+        "text": "{{ step.text }}",
+        "url": "{{ site.url }}{{ page.url }}#step-{{ loop.index }}",
+        "image": "{{ site.url }}/assets/og/{{ step.image or ogImage or 'og-default-optimized.webp' }}"
       }{% if not loop.last %},{% endif %}
       {% endfor %}
     ]

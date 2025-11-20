@@ -4,6 +4,22 @@ title: "BoroJeet Promotions: All Bonuses and Offers"
 description: "Explore all promotions and bonuses available for players in Bangladesh at BoroJeet. Updated daily with the latest offers."
 date: 2025-11-09
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {% for category in promotions.all %}
+    {
+      "@type": "ListItem",
+      "position": {{ loop.index }},
+      "url": "{{ site.url }}/promotions/{{ category.slug }}/",
+      "name": "{{ category.category }}"
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
 <link rel="stylesheet" href="/assets/css/swiper/swiper-bundle.min.css" />
 <main class="wrap">
   <div class="breadcrumb">
