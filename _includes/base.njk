@@ -8,6 +8,8 @@
   <link rel="manifest" href="/manifest.json">
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/assets/favicon.svg">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <script>
     // Prevent FOUC by setting the background color immediately, matching --bg in CSS
     document.documentElement.style.background = '#0b0f14';
@@ -691,6 +693,32 @@
       "name": "{{ title }}",
       "item": "{{ site.url }}{{ page.url }}"
     }]
+  }
+  </script>
+  {% endif %}
+
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.name }}",
+    "url": "{{ site.url }}",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ site.url }}/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "url": "{{ site.url }}",
+    "logo": "{{ site.url }}/assets/borojeet-affiliate-logo-bd.webp",
+    "description": "{{ site.description }}"
   }
   </script>
   {% endif %}
