@@ -696,32 +696,6 @@
   }
   </script>
   {% endif %}
-
-  {% if page.url == '/' %}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "{{ site.name }}",
-    "url": "{{ site.url }}",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "{{ site.url }}/search?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "{{ site.name }}",
-    "url": "{{ site.url }}",
-    "logo": "{{ site.url }}/assets/borojeet-affiliate-logo-bd.webp",
-    "description": "{{ site.description }}"
-  }
-  </script>
-  {% endif %}
 </head>
 <body 
   data-page-type="{% if page.url == '/' %}home{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}blog-post{% elif page.url.startsWith('/blog/') %}blog-index{% else %}page{% endif %}"
