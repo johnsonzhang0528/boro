@@ -97,26 +97,25 @@ self.addEventListener('fetch', (event) => {
   }
 });
 
-// Image caching strategy - Cache first with long TTL
+// Image caching strategy - Stale-while-revalidate
 async function handleImageRequest(request) {
   const cache = await caches.open(IMAGE_CACHE);
   const cached = await cache.match(request);
-  
-  if (cached) {
-    return cached;
-  }
-  
-  try {
-    const response = await fetch(request);
+
+  // Fetch in background to update cache
+  const fetchPromise = fetch(request).then(response => {
     if (response.ok) {
       cache.put(request, response.clone());
     }
     return response;
-  } catch (error) {
-    // Return a placeholder or cached fallback
-    return cache.match('/assets/borojeet-affiliate-logo-bd.webp') || 
-           new Response('Image not available', { status: 404 });
-  }
+  }).catch(async () => {
+    // If fetch fails, return cached response or a fallback
+    const fallback = await cache.match('/assets/borojeet-affiliate-logo-bd.webp');
+    return cached || fallback || new Response('Image not available', { status: 404 });
+  });
+
+  // Return cached version immediately if available
+  return cached || fetchPromise;
 }
 
 // Asset caching strategy - Stale while revalidate
