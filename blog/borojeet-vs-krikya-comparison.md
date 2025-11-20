@@ -92,7 +92,7 @@ faq:
 ---
 
 <div class="card cta-card">
-  <h3>সিদ্ধান্ত নিয়েছেন?</h3>
+  ### সিদ্ধান্ত নিয়েছেন?
   <p>Borojeet-এর খেলোয়াড়-বান্ধব বোনাস এবং বিশাল গেম সংগ্রহ উপভোগ করতে প্রস্তুত? আজই যোগ দিন এবং আপনার জেতার যাত্রা শুরু করুন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">Borojeet-এ যোগ দিন এবং বোনাস নিন</a>
 </div>

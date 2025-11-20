@@ -45,7 +45,7 @@ faq:
 ---
 
 <div class="card cta-card">
-  <h3>মাছ ধরার রোমাঞ্চ উপভোগ করতে প্রস্তুত?</h3>
+  ### মাছ ধরার রোমাঞ্চ উপভোগ করতে প্রস্তুত?
   <p>BoroJeet-এ Mega Fishing এবং অন্যান্য উত্তেজনাপূর্ণ ফিশিং গেম খেলুন। এখনই যোগ দিন এবং আপনার শুটিং দক্ষতা পরীক্ষা করুন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই ফিশিং গেম খেলুন</a>
 </div>

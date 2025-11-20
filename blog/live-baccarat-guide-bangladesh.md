@@ -48,7 +48,7 @@ faq:
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
-  <h3 style="margin-bottom: 0.5rem;">ব্যাকারাতের উত্তেজনা অনুভব করতে প্রস্তুত?</h3>
+  ### ব্যাকারাতের উত্তেজনা অনুভব করতে প্রস্তুত?
   <p>BoroJeet-এ লাইভ ডিলারদের সাথে ব্যাকারাত খেলুন এবং আপনার ভাগ্য পরীক্ষা করুন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই ব্যাকারাত খেলুন</a>
 </div>
