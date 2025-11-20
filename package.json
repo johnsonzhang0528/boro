@@ -36,11 +36,11 @@
     "esbuild": "^0.25.11",
     "glob": "^10.3.10",
     "luxon": "^3.7.2",
-    "markdown-it": "^14.1.0",
-    "markdown-it-anchor": "^9.2.0",
     "terser": "^5.24.0"
   },
   "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
     "sharp": "^0.34.4"
   }
 }
