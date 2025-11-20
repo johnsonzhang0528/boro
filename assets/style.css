@@ -364,12 +364,6 @@ img[loading="lazy"].loaded {
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
-  header .row {
-    flex-direction: column;
-    gap: 8px;
-    align-items: center;
-  }
-  
   .wrap { 
     padding: 12px; 
   }

@@ -45,9 +45,14 @@
       color: var(--text);
       line-height: 1.6;
       overflow-x: hidden; /* Prevent horizontal scroll CLS */
+      overflow-wrap: break-word; /* Prevent long words from causing overflow */
     }
     
-    /* Critical layout containers */
+    /* Prevent overflow from code blocks and tables */
+    pre, code {
+      white-space: pre-wrap; /* Wrap code by default to prevent overflow */
+      word-break: break-all;
+    }
     .wrap { 
       max-width: var(--maxw); 
       margin: 0 auto; 
@@ -361,6 +366,39 @@
     .loaded {
       opacity: 1;
     }
+
+    /* Mobile Header Optimization */
+    @media (max-width: 768px) {
+      .logo span {
+        display: none; /* Hide text to save space */
+      }
+      
+      header .row {
+        flex-direction: row !important; /* Force horizontal layout */
+        flex-wrap: nowrap;
+        gap: 8px;
+        padding: 0 12px;
+      }
+      
+      nav {
+        gap: 8px;
+      }
+      
+      nav a:not(.cta) {
+        font-size: 14px;
+        padding: 4px;
+      }
+      
+      .cta {
+        padding: 6px 10px;
+        font-size: 13px;
+        white-space: nowrap;
+      }
+      
+      .mobile-hide {
+        display: none;
+      }
+    }
   </style>
   
   <!-- Preload critical resources to improve LCP -->
@@ -622,7 +660,9 @@
       <nav aria-label="Primary">
         <a href="/blog/" style="font-weight: 600;"{% if page.url.startsWith('/blog/') %} aria-current="page"{% endif %}>Blog</a>
         <a href="/promotions/" style="font-weight: 600;"{% if page.url.startsWith('/promotions/') %} aria-current="page"{% endif %}>Promotions</a>
-        <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">Get Bonus / নিবন্ধন করুন</a>
+        <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">
+          Get Bonus <span class="mobile-hide">/ নিবন্ধন করুন</span>
+        </a>
       </nav>
     </div>
   </header>
