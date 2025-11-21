@@ -522,15 +522,7 @@
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "BoroJeet Affiliate BD",
-      "url": "{{ site.url }}/",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": {
-          "@type": "EntryPoint",
-          "urlTemplate": "{{ site.url }}/search?q={search_term_string}"
-        },
-        "query-input": "required name=search_term_string"
-      }
+      "url": "{{ site.url }}/"
     },
     {
       "@context": "https://schema.org",
@@ -588,6 +580,7 @@
   </script>
   {% endif %}
 
+  {# --- SoftwareApplication Schema (For App Download Pages) --- #}
   {% if softwareApp %}
   <script type="application/ld+json">
   {
@@ -610,6 +603,7 @@
   </script>
   {% endif %}
 
+  {# --- FAQPage Schema (Universal) --- #}
   {% if faq %}
   <script type="application/ld+json">
   {
@@ -622,7 +616,7 @@
         "name": "{{ item.question }}",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "{{ item.answer }}"
+          "text": "{{ item.answer | replace('"', '\\"') | safe }}"
         }
       }{% if not loop.last %},{% endif %}
       {% endfor %}
