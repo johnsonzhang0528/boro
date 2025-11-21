@@ -1,5 +1,5 @@
 // Enhanced Service Worker for BoroJeet Blog with optimized caching
-const CACHE_NAME = 'borojeet-blog-v7';
+const CACHE_NAME = 'borojeet-blog-v8';
 const STATIC_ASSETS = [
   '/assets/style.css',
   '/assets/universal-performance.js',
