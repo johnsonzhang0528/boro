@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const path = require("path");
+const esbuild = require("esbuild");
 const Image = require("@11ty/eleventy-img");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginTOC = require("eleventy-plugin-toc");
@@ -38,6 +39,15 @@ async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority =
 }
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.on("eleventy.before", async () => {
+    await esbuild.build({
+      entryPoints: ["assets/style.css"],
+      bundle: true,
+      minify: true,
+      outfile: "_site/assets/style.min.css",
+    });
+  });
+
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h2', 'h3'],

@@ -4,7 +4,7 @@
   "description": "BoroJeet affiliate website",
   "main": ".eleventy.js",
   "scripts": {
-    "build:css": "esbuild assets/style.css --bundle --minify --outfile=_site/assets/style.css",
+    "build:css": "esbuild assets/style.css --bundle --minify --outfile=_site/assets/style.min.css",
     "start": "npx @11ty/eleventy --serve",
     "build": "node node_modules/@11ty/eleventy/cmd.js && npm run build:css",
     "images:convert": "node convert-to-webp.js",

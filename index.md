@@ -83,6 +83,49 @@ faq:
     </div>
   </section>
 
+  <!-- Featured Promotions Grid -->
+  <section class="card" aria-labelledby="more-promos">
+    <h2 id="more-promos">More Ways to Win</h2>
+    <div class="grid grid-3" style="gap: 1rem; margin-top: 1rem;">
+      <div style="text-align: center;">
+        <h3 class="h4">Daily Rebate</h3>
+        <p>Get up to 1.5% rebate on your daily turnover.</p>
+        <a href="/promotions/rebate/">View Rebates &rarr;</a>
+      </div>
+      <div style="text-align: center;">
+        <h3 class="h4">VIP Rewards</h3>
+        <p>Unlock exclusive bonuses up to ৳6,000.</p>
+        <a href="/promotions/vip/">Join VIP &rarr;</a>
+      </div>
+      <div style="text-align: center;">
+        <h3 class="h4">Cashback</h3>
+        <p>Weekly cashback up to 8% on losses.</p>
+        <a href="/promotions/cashback/">See Cashback &rarr;</a>
+      </div>
+    </div>
+    <div style="text-align: center; margin-top: 1.5rem;">
+      <a href="/promotions/" class="cta">View All Promotions</a>
+    </div>
+  </section>
+
+  <!-- Latest Guides -->
+  <section aria-labelledby="latest-guides">
+    <h2 id="latest-guides">Latest Guides & News</h2>
+    <div class="grid grid-2" style="gap: 1.5rem;">
+      {%- set posts = collections.post | reverse -%}
+      {%- for post in posts.slice(0, 2) -%}
+      <div class="card">
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <p>{{ post.data.description }}</p>
+        <a href="{{ post.url }}">Read More &rarr;</a>
+      </div>
+      {%- endfor -%}
+    </div>
+    <div style="margin-top: 1rem; text-align: center;">
+      <a href="/blog/">Browse All Articles &rarr;</a>
+    </div>
+  </section>
+
   <!-- HOWTO DEPOSIT -->
   <section class="grid grid-2">
     <div class="card">
