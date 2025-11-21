@@ -7,6 +7,9 @@ layout: "post.njk"
 ogImage: "borojeet-mobile-app-lightweight-secure-design-optimized.webp"
 ogImageAlt: "একটি স্মার্টফোনে BoroJeet অ্যাপের ইন্টারফেস দেখানো হয়েছে, যার চারপাশে একটি শিল্ড (নিরাপত্তা) এবং একটি পালক (হালকা) এর প্রতীক রয়েছে।"
 tags: "post"
+review:
+  item: "BoroJeet Mobile App"
+  rating: 4.8
 faq:
   - question: "What are the main benefits of the BoroJeet mobile app?"
     answer: "BoroJeet মোবাইল অ্যাপের প্রধান সুবিধা হলো এর হালকা (লাইটওয়েট) ডিজাইন এবং শক্তিশালী নিরাপত্তা। হালকা ডিজাইনের কারণে এটি কম ডেটা খরচ করে এবং সব ধরনের ফোনে দ্রুত চলে। শক্তিশালী নিরাপত্তা ব্যবস্থা এন্ড-টু-এন্ড এনক্রিপশন এবং নিরাপদ লগইন প্রোটোকলের মাধ্যমে আপনার তথ্য ও অর্থ সুরক্ষিত রাখে।"

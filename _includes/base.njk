@@ -535,6 +535,10 @@
         "@type": "ContactPoint",
         "contactType": "customer support",
         "url": "{{ site.url }}/contact/"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Bangladesh"
       }
     }
   ]
@@ -544,6 +548,34 @@
   {% if page.url.includes('how-to-withdraw-winnings-from-borojeet') %}
   <link rel="prefetch" href="/blog/understanding-wagering-requirements/">
   {% endif %}
+  {% endif %}
+
+  {% if review %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "Organization",
+      "name": "{{ review.item }}"
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ review.rating }}",
+      "bestRating": "{{ review.maxRating or 5 }}"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "BoroJeet Expert",
+      "url": "{{ site.url }}/authors/borojeet-expert/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}"
+    }
+  }
+  </script>
   {% endif %}
 
   {% if softwareApp %}

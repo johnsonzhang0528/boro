@@ -7,6 +7,10 @@ layout: "post.njk"
 ogImage: "borojeet-vs-krikya-comparison-og-optimized.webp"
 ogImageAlt: "Borojeet এবং Krikya লোগোকে পাশাপাশি দেখানো হয়েছে, যা দুটি বেটিং সাইটের মধ্যে একটি তুলনামূলক বিশ্লেষণকে নির্দেশ করে।"
 tags: "post"
+review:
+  item: "BoroJeet"
+  rating: 4.8
+  maxRating: 5
 faq:
   - question: "Which site is better for Bangladeshi players, Borojeet or Krikya?"
     answer: "সামগ্রিকভাবে, Borojeet বাংলাদেশী খেলোয়াড়দের জন্য একটি সেরা অল-রাউন্ড পছন্দ। এর প্রধান কারণ হলো এর ন্যায্য বোনাস শর্তাবলী, বিশাল গেম সংগ্রহ এবং অতিরিক্ত পেমেন্ট বিকল্প। তবে, যারা বিশেষভাবে লাইভ ক্যাসিনো খেলতে ভালোবাসেন, তাদের জন্য Krikya একটি ভালো বিকল্প হতে পারে।"

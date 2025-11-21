@@ -7,6 +7,9 @@ layout: "post.njk"
 ogImage: "top-5-high-rtp-slots-og-optimized.webp"
 ogImageAlt: "একটি উজ্জ্বল গোল্ডেন স্লট মেশিনের পাশে 'High RTP' লেখা, যা উচ্চ প্লেয়ার রিটার্ন সহ গেমগুলিকে নির্দেশ করে।"
 tags: ["post", "slots", "guide"]
+review:
+  item: "Book of 99"
+  rating: 4.9
 faq:
   - question: "Borojeet-এ সর্বোচ্চ RTP স্লট গেম কোনটি?"
     answer: "Relax Gaming-এর Book of 99 গেমটি ৯৯% RTP অফার করে, যা Borojeet-এ উপলব্ধ প্রদানকারীদের মধ্যে সর্বোচ্চ। তবে, গেম লাইব্রেরি পরিবর্তিত হতে পারে, তাই খেলার আগে সর্বদা গেমের তথ্য পরীক্ষা করে নেওয়া ভালো।"
