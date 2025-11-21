@@ -10,6 +10,16 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/assets/favicon.svg">
   <link rel="preconnect" href="https://www.googletagmanager.com">
+  {# Canonical URL #}
+  <link rel="canonical" href="{{ canonicalUrl or site.url + page.url }}">
+
+  {# Pagination Rel Tags #}
+  {% if pagination.href.previous %}
+    <link rel="prev" href="{{ site.url }}{{ pagination.href.previous }}">
+  {% endif %}
+  {% if pagination.href.next %}
+    <link rel="next" href="{{ site.url }}{{ pagination.href.next }}">
+  {% endif %}
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <script>
     // Prevent FOUC by setting the background color immediately, matching --bg in CSS
