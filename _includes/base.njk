@@ -581,23 +581,24 @@
   {% endif %}
 
   {# --- SoftwareApplication Schema (For App Download Pages) --- #}
-  {% if softwareApp %}
+  {% set appData = softwareApp or app_schema %}
+  {% if appData %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "{{ softwareApp.name }}",
-    "operatingSystem": "{{ softwareApp.os }}",
-    "applicationCategory": "{{ softwareApp.category }}",
+    "name": "{{ appData.name }}",
+    "operatingSystem": "{{ appData.os }}",
+    "applicationCategory": "{{ appData.category }}",
     "offers": {
       "@type": "Offer",
-      "price": "{{ softwareApp.price }}",
-      "priceCurrency": "{{ softwareApp.currency }}"
+      "price": "{{ appData.price }}",
+      "priceCurrency": "{{ appData.currency }}"
     },
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": "{{ softwareApp.ratingValue }}",
-      "ratingCount": "{{ softwareApp.ratingCount }}"
+      "ratingValue": "{{ appData.ratingValue }}",
+      "ratingCount": "{{ appData.ratingCount }}"
     }
   }
   </script>

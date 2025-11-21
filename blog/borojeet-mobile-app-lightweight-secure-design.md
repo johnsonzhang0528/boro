@@ -10,7 +10,7 @@ tags: "post"
 review:
   item: "BoroJeet Mobile App"
   rating: 4.8
-softwareApp:
+app_schema:
   name: "BoroJeet App"
   os: "Android"
   category: "SportsApplication"
