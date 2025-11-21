@@ -318,21 +318,25 @@ const promotions = [
         ]
       },
       {
-        title: "ডেইলি স্লট ও ক্র্যাশ বোনাস: ৳1,000 পর্যন্ত জিতুন!",
+        title: "ডেইলি স্লট, ফিশার ও ক্র্যাশ বোনাস: ৳1,000 পর্যন্ত জিতুন!",
         slug: "daily-slots-crash-bonus-win-1000",
         image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
         startDate: "2025-11-16",
         endDate: "2030-12-31",
-        details: "প্রতিদিন ৳1,000 পর্যন্ত জেতার সুযোগের জন্য স্লট এবং ক্র্যাশ গেম খেলুন।",
-        seo_title: "BoroJeet ডেইলি বোনাস | স্লট ও ক্র্যাশে ৳1,000 পর্যন্ত জিতুন",
-        seo_description: "প্রতিদিন 100 টাকা জমা দিন এবং স্লট বা ক্র্যাশ গেম খেলে এটিকে 1,000 টাকায় পরিণত করার সুযোগ পান! আপনার জয়ের উপর কোনো টার্নওভারের প্রয়োজন নেই।",
+        details: "প্রতিদিন ৳1,000 পর্যন্ত জেতার সুযোগের জন্য স্লট, ফিশার এবং ক্র্যাশ গেম খেলুন।",
+        seo_title: "BoroJeet ডেইলি বোনাস | স্লট, ফিশার ও ক্র্যাশে ৳1,000 পর্যন্ত জিতুন",
+        seo_description: "প্রতিদিন 100 টাকা জমা দিন এবং স্লট, ফিশার বা ক্র্যাশ গেম খেলে এটিকে 1,000 টাকায় পরিণত করার সুযোগ পান! আপনার জয়ের উপর কোনো টার্নওভারের প্রয়োজন নেই।",
         rules: [
           "Bonus: 88",
           "Join Amount: 100",
           "Max Withdraw: 1,000",
           "Turnover: Not Required",
-          "Condition: Daily Deposit of 100",
-          "How to Win?: Play until promotional wallet reaches 1,000"
+          "Condition: Today's Deposit: 100",
+          "Game Kind: Slots, Fisher & Crash",
+          "Game Platforms: All Game Platforms",
+          "Eligible Player: All VIP Levels",
+          "Availability: Once per Day",
+          "How to Win?: Play until promotional wallet hits 1,000"
         ]
       },
       {
