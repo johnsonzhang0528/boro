@@ -91,6 +91,36 @@ module.exports = function(eleventyConfig) {
     return `${minutes} min read`;
   });
 
+  // Advanced Related Posts Logic
+  eleventyConfig.addFilter("getRelatedPosts", (collection, currentUrl, currentTags) => {
+    if (!collection || !currentTags) return [];
+    
+    // Filter out current post
+    const posts = collection.filter(post => post.url !== currentUrl);
+    
+    const scoredPosts = posts.map(post => {
+      let score = 0;
+      const postTags = post.data.tags || [];
+      
+      // Calculate intersection count (excluding 'post' tag)
+      const intersection = postTags.filter(tag => tag !== 'post' && currentTags.includes(tag));
+      score = intersection.length;
+      
+      return { post, score };
+    });
+    
+    // Sort by score (descending), then by date (descending)
+    scoredPosts.sort((a, b) => {
+      if (b.score !== a.score) {
+        return b.score - a.score;
+      }
+      return b.post.date - a.post.date;
+    });
+    
+    // Return top 4 posts
+    return scoredPosts.slice(0, 4).map(item => item.post);
+  });
+
   eleventyConfig.addCollection("post", (api) => {
     return api.getFilteredByTag("post")
       .filter(item => !item.data.draft)

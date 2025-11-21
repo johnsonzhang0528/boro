@@ -235,56 +235,82 @@ layout: "base.njk"
   {% endif %}
 
   {# --- Related Posts Section --- #}
-  <div style="margin-top: 60px; padding-top: 40px; border-top: 1px solid #243041;">
-    <h3 style="font-size: 1.5rem; margin-bottom: 24px;">আরও পড়ুন (Related Posts)</h3>
+  <div class="related-posts-section">
+    <h3 class="h3">আরও পড়ুন (Related Posts)</h3>
     <div class="grid grid-2">
-      {% set relatedCount = 0 %}
-      {% set currentTags = tags | default([]) %}
+      {% set relatedPosts = collections.post | getRelatedPosts(page.url, tags) %}
       
-      {# First pass: Look for posts with matching tags #}
-      {% for post in collections.post %}
-        {% if post.url != page.url and relatedCount < 2 %}
-          {% set isRelated = false %}
-          {% for tag in post.data.tags %}
-            {% if tag != "post" and tag in currentTags %}
-              {% set isRelated = true %}
-            {% endif %}
-          {% endfor %}
-          
-          {% if isRelated %}
-            <div class="card">
-              <div class="card-meta">{{ post.date | date("MMMM dd, yyyy") }}</div>
-              <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-              <p>{{ post.data.description | truncate(100) }}</p>
-            </div>
-            {% set relatedCount = relatedCount + 1 %}
-          {% endif %}
-        {% endif %}
+      {% for post in relatedPosts %}
+        <article class="card related-card">
+          <a href="{{ post.url }}" class="card-image-link">
+            <picture>
+              <source srcset="/assets/og/{{ post.data.ogImage | replace('.webp', '.avif') }}" type="image/avif">
+              <source srcset="/assets/og/{{ post.data.ogImage }}" type="image/webp">
+              <img src="/assets/og/{{ post.data.ogImage }}" alt="{{ post.data.ogImageAlt or post.data.title }}" loading="lazy" width="300" height="169">
+            </picture>
+          </a>
+          <div class="card-content">
+            <div class="card-meta">{{ post.date | date("MMMM dd, yyyy") }}</div>
+            <h4 class="h4"><a href="{{ post.url }}">{{ post.data.title }}</a></h4>
+          </div>
+        </article>
       {% endfor %}
-
-      {# Second pass: Fill remaining spots with recent posts if needed #}
-      {% if relatedCount < 2 %}
-        {% for post in collections.post %}
-          {% if post.url != page.url and relatedCount < 2 %}
-            {# Check if we already added this post in the first pass to avoid duplicates #}
-            {% set alreadyAdded = false %}
-            {% for tag in post.data.tags %}
-              {% if tag != "post" and tag in currentTags %}
-                {% set alreadyAdded = true %}
-              {% endif %}
-            {% endfor %}
-
-            {% if not alreadyAdded %}
-              <div class="card">
-                <div class="card-meta">{{ post.date | date("MMMM dd, yyyy") }}</div>
-                <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-                <p>{{ post.data.description | truncate(100) }}</p>
-              </div>
-              {% set relatedCount = relatedCount + 1 %}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      {% endif %}
     </div>
   </div>
 </div>
+
+<style>
+  .related-posts-section {
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 1px solid #243041;
+  }
+  
+  .related-card {
+    padding: 0 !important; /* Override default card padding */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .card-image-link {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+  }
+
+  .card-image-link img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .card-image-link:hover img {
+    transform: scale(1.05);
+  }
+
+  .card-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .related-card h4 {
+    margin: 8px 0 0;
+    font-size: 1.1rem;
+    line-height: 1.4;
+  }
+
+  .related-card h4 a {
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .related-card h4 a:hover {
+    color: var(--accent);
+  }
+</style>
