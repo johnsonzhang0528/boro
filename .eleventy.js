@@ -5,6 +5,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginTOC = require("eleventy-plugin-toc");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const htmlMinifier = require("html-minifier");
 
 async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority = "auto") {
   let fullSrc = path.join(__dirname, src);
@@ -85,6 +86,21 @@ module.exports = function(eleventyConfig) {
       .filter(item => !item.data.draft)
       .filter(item => (item.date || item.data.date) <= new Date())
       .sort((a,b) => (b.date || b.data.date) - (a.date || a.data.date));
+  });
+
+  // HTML Minification Transform
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if( outputPath && outputPath.endsWith(".html") ) {
+      let minified = htmlMinifier.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        minifyCSS: true,
+        minifyJS: true
+      });
+      return minified;
+    }
+    return content;
   });
 
   return {
