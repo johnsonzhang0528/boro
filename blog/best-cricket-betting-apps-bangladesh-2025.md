@@ -1,6 +1,6 @@
 --- 
-title: "২০২৫ সালের সেরা ক্রিকেট বেটিং অ্যাপস: একটি বিস্তারিত পর্যালোচনা"
-description: "বাংলাদেশে সেরা ক্রিকেট বেটিং অ্যাপ খুঁজছেন? আমরা গতি, নিরাপত্তা এবং ব্যবহারকারী অভিজ্ঞতার উপর ভিত্তি করে BoroJeet, Bet365 এবং 1xBet-এর মতো অ্যাপগুলোর পর্যালোচনা করেছি।"
+title: "Top 5 Cricket Betting Apps BD 2025 (সেরা অ্যাপ) - Bkash & Nagad"
+description: "২০২৫ সালের সেরা Cricket Betting Apps খুঁজছেন? Bkash ও Nagad পেমেন্ট সহ ৫টি Trusted Apps এর তালিকা। BoroJeet, Bet365 ও 1xBet এর বিস্তারিত রিভিউ। High Odds & Fast Withdrawal."
 date: 2025-11-08
 lastUpdated: 2025-11-17
 layout: "post.njk"
