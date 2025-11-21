@@ -10,6 +10,14 @@ tags: "post"
 review:
   item: "BoroJeet Mobile App"
   rating: 4.8
+softwareApp:
+  name: "BoroJeet App"
+  os: "Android"
+  category: "SportsApplication"
+  price: "0"
+  currency: "BDT"
+  ratingValue: "4.8"
+  ratingCount: "1250"
 faq:
   - question: "What are the main benefits of the BoroJeet mobile app?"
     answer: "BoroJeet মোবাইল অ্যাপের প্রধান সুবিধা হলো এর হালকা (লাইটওয়েট) ডিজাইন এবং শক্তিশালী নিরাপত্তা। হালকা ডিজাইনের কারণে এটি কম ডেটা খরচ করে এবং সব ধরনের ফোনে দ্রুত চলে। শক্তিশালী নিরাপত্তা ব্যবস্থা এন্ড-টু-এন্ড এনক্রিপশন এবং নিরাপদ লগইন প্রোটোকলের মাধ্যমে আপনার তথ্য ও অর্থ সুরক্ষিত রাখে।"
