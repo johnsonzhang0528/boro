@@ -447,7 +447,9 @@
   
   <!-- Load main stylesheet -->
   <link rel="stylesheet" href="/assets/style.min.css">
-  <link rel="stylesheet" href="/assets/css/components/promo-filter.css">
+  <style>
+    {% include "css/promo-filter.css" %}
+  </style>
   
   <title>{{ title }} | {{ site.name }}</title>
   <meta name="description" content="{{ description or site.description }}">
