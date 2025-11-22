@@ -35,7 +35,7 @@ faq:
 
 **কখন ব্যবহার করবেন:**
 *   [ডিপোজিট](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) বা [উইথড্রয়াল](/blog/how-to-withdraw-winnings-from-borojeet/) সংক্রান্ত জরুরি প্রশ্ন।
-*   লগইন বা পাসওয়ার্ড সমস্যা।
+*   [লগইন বা পাসওয়ার্ড সমস্যা](/blog/borojeet-login-troubleshooting-guide/)।
 *   [বোনাস](/blog/understanding-wagering-requirements/) সক্রিয়করণে সমস্যা।
 *   ওয়েবসাইটের কোনো ফিচার বুঝতে অসুবিধা হলে।
 
