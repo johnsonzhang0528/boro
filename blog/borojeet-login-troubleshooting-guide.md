@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "BoroJeet Login Guide: Solutions for Forgot Password & Account Issues | বড়জিত লগইন সমস্যা সমাধান"
 description: "Having trouble logging into BoroJeet? Follow our step-by-step guide to fix login issues, reset your password, and unlock your account securely. বড়জিত লগইন সমস্যা এবং পাসওয়ার্ড রিসেট করার সম্পূর্ণ গাইড।"
-date: 2025-11-31
-lastUpdated: 2025-11-31
+date: 2025-12-01
+lastUpdated: 2025-12-01
 ogImage: borojeet-login-troubleshooting-optimized.webp
 ogImageAlt: "BoroJeet Login and Troubleshooting Guide - বড়জিত লগইন সমস্যা সমাধান"
 tags: ["post", "guide", "troubleshooting", "borojeet"]
