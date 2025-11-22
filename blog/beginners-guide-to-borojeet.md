@@ -15,7 +15,7 @@ faq:
   - question: "How can I deposit money into my BoroJeet account?"
     answer: "অ্যাকাউন্টে লগইন করে \"Deposit\" বিভাগে যান। আপনার পছন্দের পেমেন্ট পদ্ধতি (যেমন bKash বা Nagad) বেছে নিন, টাকার পরিমাণ লিখুন এবং আপনার মোবাইল ফিনান্সিয়াল সার্ভিস (MFS) অ্যাকাউন্ট থেকে লেনদেনটি সম্পন্ন করুন।"
   - question: "What games can I play on BoroJeet?"
-    answer: "BoroJeet-এ আপনি বিভিন্ন ধরণের গেম খেলতে পারেন, যার মধ্যে রয়েছে:\n<ul>\n<li><strong>স্পোর্টস বেটিং:</strong> বিশেষ করে ক্রিকেটের মতো খেলায় বাজি ধরতে পারবেন।</li>\n<li><strong>ক্যাসিনো গেমস:</strong> হাজার হাজার স্লট গেম এবং Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেম রয়েছে।</li>\n<li><strong>লাইভ ক্যাসিনো:</strong> লাইভ ডিলারদের সাথে রুলেট বা ব্ল্যাকজ্যাকের মতো ক্লাসিক টেবিল গেম খেলতে পারবেন।</li>\n</ul>"
+    answer: "BoroJeet-এ আপনি বিভিন্ন ধরণের গেম খেলতে পারেন, যার মধ্যে রয়েছে:\n<ul>\n<li><strong>স্পোর্টস বেটিং:</strong> বিশেষ করে ক্রিকেট এবং <a href='/blog/football-betting-guide-bangladesh/'>ফুটবলের</a> মতো খেলায় বাজি ধরতে পারবেন।</li>\n<li><strong>ক্যাসিনো গেমস:</strong> হাজার হাজার স্লট গেম এবং Aviator-এর মতো জনপ্রিয় ক্র্যাশ গেম রয়েছে।</li>\n<li><strong>লাইভ ক্যাসিনো:</strong> লাইভ ডিলারদের সাথে রুলেট বা ব্ল্যাকজ্যাকের মতো ক্লাসিক টেবিল গেম খেলতে পারবেন।</li>\n</ul>"
   - question: "How do I withdraw my winnings from BoroJeet?"
     answer: "টাকা তোলার জন্য, প্রথমে আপনার KYC (Know Your Customer) ভেরিফিকেশন সম্পন্ন করতে হতে পারে। এরপর, আপনার প্রোফাইলের \"Withdrawal\" বিভাগে যান, আপনার পছন্দের পেমেন্ট পদ্ধতি (bKash বা Nagad) এবং টাকার পরিমাণ নির্বাচন করে অনুরোধ জমা দিন।"
   - question: "What are some tips for playing safely on BoroJeet?"
