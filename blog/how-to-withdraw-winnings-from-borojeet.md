@@ -5,7 +5,7 @@ date: 2025-11-01
 lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "borojeet-withdrawal-process-optimized.webp"
-tags: "post"
+tags: ["post", "payments", "withdrawal"]
 howto:
   name: "BoroJeet থেকে টাকা তোলার নিয়ম"
   description: "BoroJeet থেকে bKash বা Nagad-এর মাধ্যমে টাকা তোলার সহজ ৫টি ধাপ।"

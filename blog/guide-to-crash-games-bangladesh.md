@@ -7,7 +7,7 @@ date: 2025-11-20
 lastUpdated: 2025-11-20
 ogImage: "og-guide-to-crash-games-bangladesh-optimized.webp"
 ogImageAlt: "A guide explaining how to play crash games like Aviator in Bangladesh, showing a rising multiplier graph on a phone screen."
-tags: ["post", "guides", "crash-games"]
+tags: ["post", "guide", "crash-games"]
 faq:
   - question: "ক্র্যাশ গেম কি ন্যায্য?"
     answer: "হ্যাঁ, BoroJeet-এর মতো স্বনামধন্য প্ল্যাটফর্মগুলিতে ক্র্যাশ গেমগুলি \"Provably Fair\" প্রযুক্তি ব্যবহার করে। এর মানে হল প্রতিটি রাউন্ডের ফলাফল স্বচ্ছ এবং যাচাইযোগ্য, যাความเป็นธรรม নিশ্চিত করে।"

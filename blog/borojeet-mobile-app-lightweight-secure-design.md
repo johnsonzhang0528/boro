@@ -6,7 +6,7 @@ lastUpdated: 2025-11-22
 layout: "post.njk"
 ogImage: "borojeet-mobile-app-lightweight-secure-design-optimized.webp"
 ogImageAlt: "একটি স্মার্টফোনে BoroJeet অ্যাপের ইন্টারফেস দেখানো হয়েছে, যার চারপাশে একটি শিল্ড (নিরাপত্তা) এবং একটি পালক (হালকা) এর প্রতীক রয়েছে।"
-tags: "post"
+tags: ["post", "borojeet", "app"]
 review:
   item: "BoroJeet Mobile App"
   rating: 4.8

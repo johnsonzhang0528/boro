@@ -6,7 +6,7 @@ lastUpdated: 2025-11-22
 layout: "post.njk"
 ogImage: "borojeet-vs-krikya-comparison-og-optimized.webp"
 ogImageAlt: "Borojeet এবং Krikya লোগোকে পাশাপাশি দেখানো হয়েছে, যা দুটি বেটিং সাইটের মধ্যে একটি তুলনামূলক বিশ্লেষণকে নির্দেশ করে।"
-tags: "post"
+tags: ["post", "borojeet", "comparison"]
 review:
   item: "BoroJeet"
   rating: 4.8

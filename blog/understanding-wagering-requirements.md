@@ -6,7 +6,7 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "understanding-wagering-requirements-optimized.webp"
 ogImageAlt: "একটি ক্যালকুলেটর এবং ক্যাসিনো চিপসের পাশে 'Wagering Requirement' শব্দটি লেখা একটি নোটপ্যাড, যা বোনাসের শর্তাবলী গণনার ধারণাটি তুলে ধরছে।"
-tags: "post"
+tags: ["post", "guide", "wagering"]
 faq:
   - question: "What is a wagering requirement in online casinos?"
     answer: "ওয়েজারিং রিকোয়ারমেন্ট (Wagering Requirement) হলো ক্যাসিনো বোনাসের সাথে যুক্ত একটি শর্ত। এটি একটি গুণক যা নির্ধারণ করে যে, বোনাস থেকে জেতা টাকা তোলার আগে আপনাকে মোট কত টাকার বাজি ধরতে হবে। এটি খেলোয়াড়দের বোনাস নিয়েই চলে যাওয়া থেকে বিরত রাখে।"

@@ -6,7 +6,7 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "top-5-high-rtp-slots-og-optimized.webp"
 ogImageAlt: "একটি উজ্জ্বল গোল্ডেন স্লট মেশিনের পাশে 'High RTP' লেখা, যা উচ্চ প্লেয়ার রিটার্ন সহ গেমগুলিকে নির্দেশ করে।"
-tags: ["post", "slots", "guide"]
+tags: ["post", "casino", "slots", "guide"]
 review:
   item: "Book of 99"
   rating: 4.9

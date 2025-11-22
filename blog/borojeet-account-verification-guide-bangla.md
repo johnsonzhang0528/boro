@@ -5,7 +5,7 @@ date: 2025-10-31
 lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "borojeet-account-verification-guide-bangla-og-optimized.webp"
-tags: ["post", "guide", "kyc"]
+tags: ["post", "borojeet", "guide", "kyc"]
 faq:
   - question: "Why do I need to verify my BoroJeet account?"
     answer: "অ্যাকাউন্ট ভেরিফিকেশন বা KYC (Know Your Customer) আপনার তহবিল নিরাপদ রাখতে, দ্রুত টাকা তোলার সুবিধা পেতে এবং প্ল্যাটফর্মকে স্থানীয় আইন মেনে চলতে সাহায্য করে। এটি আপনার এবং প্ল্যাটফর্ম উভয়ের জন্যই একটি গুরুত্বপূর্ণ নিরাপত্তা পদক্ষেপ।"

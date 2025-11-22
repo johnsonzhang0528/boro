@@ -6,7 +6,7 @@ lastUpdated: 2025-11-22
 layout: "post.njk"
 ogImage: "beginners-guide-to-borojeet-optimized.webp"
 ogImageAlt: "BoroJeet লোগো এবং বিভিন্ন গেমের আইকন যেমন ক্রিকেট, ক্যাসিনো চিপস এবং স্লট মেশিন সহ একটি স্বাগত ব্যানার।"
-tags: "post"
+tags: ["post", "borojeet", "guide"]
 faq:
   - question: "What is BoroJeet?"
     answer: "BoroJeet বাংলাদেশের অন্যতম জনপ্রিয় অনলাইন গেমিং প্ল্যাটফর্ম, যা স্পোর্টস বেটিং (বিশেষ করে ক্রিকেট) এবং বিভিন্ন ধরনের ক্যাসিনো গেম অফার করে। এটি ব্যবহারকারী-বান্ধব ইন্টারফেস এবং স্থানীয় পেমেন্ট পদ্ধতির (যেমন bKash এবং Nagad) জন্য পরিচিত।"

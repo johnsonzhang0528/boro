@@ -6,7 +6,7 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "best-cricket-betting-apps-2025-optimized.webp"
 ogImageAlt: "একটি স্মার্টফোনের স্ক্রিনে বিভিন্ন ক্রিকেট বেটিং অ্যাপের লোগো দেখানো হচ্ছে, যা সেরা অ্যাপ পর্যালোচনার প্রতীক।"
-tags: "post"
+tags: ["post", "cricket", "apps"]
 review:
   item: "BoroJeet App"
   rating: 4.9

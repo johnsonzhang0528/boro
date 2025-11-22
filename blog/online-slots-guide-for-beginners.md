@@ -6,7 +6,7 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "online-slots-guide-for-beginners-optimized.webp"
 ogImageAlt: "একটি উজ্জ্বল এবং রঙিন অনলাইন স্লট মেশিনের স্ক্রিন, যেখানে নতুনদের জন্য নিয়ম এবং কৌশল সম্পর্কিত আইকন দেখানো হয়েছে।"
-tags: "post"
+tags: ["post", "casino", "slots"]
 faq:
   - question: "How do I play online slots?"
     answer: "অনলাইন স্লট খেলা খুব সহজ এবং তিনটি ধাপে সম্পন্ন হয়:\n<ol>\n<li>আপনার পছন্দের একটি গেম বেছে নিন।</li>\n<li>প্রতিটি স্পিনের জন্য আপনার বাজির পরিমাণ নির্ধারণ করুন।</li>\n<li>\"Spin\" বোতামে ক্লিক করুন। পে-লাইনে প্রতীকগুলো মিলে গেলে আপনি জিতে যাবেন।</li>\n</ol>"

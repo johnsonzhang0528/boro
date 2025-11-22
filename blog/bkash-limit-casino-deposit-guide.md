@@ -5,7 +5,7 @@ date: 2025-11-01
 lastUpdated: 2025-11-22
 layout: "post.njk"
 ogImage: "bkash-deposit-limit-error-optimized.webp"
-tags: "post"
+tags: ["post", "payments", "bkash"]
 faq:
   - question: "Why did my bKash deposit to an online casino fail?"
     answer: "আপনার bKash ডিপোজিট ব্যর্থ হওয়ার সবচেয়ে সাধারণ কারণ হলো বাংলাদেশ ব্যাংক কর্তৃক নির্ধারিত লেনদেনের সীমা অতিক্রম করা। অনেক সময় ক্যাসিনো প্ল্যাটফর্মগুলো ডিপোজিটকে \"পেমেন্ট\"-এর পরিবর্তে \"সেন্ড মানি\" হিসেবে প্রক্রিয়া করে, যার লেনদেনের সীমা কম। এই কারণে আপনার বড় অঙ্কের ডিপোজিটের অনুরোধ বাতিল হতে পারে।"

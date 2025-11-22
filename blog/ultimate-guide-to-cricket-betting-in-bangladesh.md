@@ -6,7 +6,7 @@ lastUpdated: 2025-11-18
 layout: "post.njk"
 ogImage: "ultimate-guide-to-cricket-betting-in-bangladesh-optimized.webp"
 ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে একটি ক্রিকেট বল, ব্যাট এবং বেটিং অডস দেখানো হয়েছে, যা ক্রিকেট বেটিং গাইডের প্রতীক।"
-tags: "post"
+tags: ["post", "cricket", "guide"]
 faq:
   - question: "How does cricket betting work?"
     answer: "ক্রিকেট বেটিং হলো একটি ম্যাচের বিভিন্ন ফলাফলের উপর পূর্বাভাস করে টাকা বাজি ধরা। বুকমেকার (যেমন BoroJeet) বিভিন্ন ফলাফলের জন্য অডস বা দর নির্ধারণ করে। আপনার পূর্বাভাস সঠিক হলে, আপনি আপনার বাজি এবং অডস অনুযায়ী অতিরিক্ত টাকা জেতেন।"

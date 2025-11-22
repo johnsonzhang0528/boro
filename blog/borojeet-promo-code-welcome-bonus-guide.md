@@ -7,7 +7,7 @@ date: 2025-11-22
 lastUpdated: 2025-11-22
 ogImage: "borojeet-promo-code-bonus-guide-optimized.webp"
 ogImageAlt: "BoroJeet Promo Code এবং Bonus অফারগুলোর একটি তালিকা, যেখানে ৳100 ফ্রি এবং 400% বোনাস হাইলাইট করা হয়েছে।"
-tags: "post"
+tags: ["post", "borojeet", "bonus"]
 faq:
   - question: "Do I need a promo code to get the BoroJeet welcome bonus?"
     answer: "না, BoroJeet-এ বোনাস পেতে সাধারণত কোনো প্রোমো কোডের প্রয়োজন হয় না। আপনি আমাদের লিঙ্কের মাধ্যমে সাইন আপ করলে এবং অ্যাপ ডাউনলোড করলে অফারগুলো স্বয়ংক্রিয়ভাবে আপনার অ্যাকাউন্টে যুক্ত হয়ে যাবে।"

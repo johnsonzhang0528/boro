@@ -7,7 +7,7 @@ date: 2025-11-01
 lastUpdated: 2025-11-22
 ogImage: "aviator-cashout-myths-optimized.webp"
 ogImageAlt: "একটি গ্রাফ যা Aviator গেমের RTP এবং ভলাটিলিটি ধারণাটি চিত্রিত করছে, যেখানে বিমানের উড্ডয়নের পথ দেখানো হয়েছে।"
-tags: "post"
+tags: ["post", "casino", "aviator"]
 faq:
   - question: "What is RTP in the Aviator game?"
     answer: "RTP (Return to Player) in Aviator is a percentage indicating the average amount of wagered money returned to players over a long period. Aviator typically has a high RTP, around 97%, making it favorable for players."

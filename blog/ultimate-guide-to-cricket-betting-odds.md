@@ -6,7 +6,7 @@ lastUpdated: 2025-11-17
 layout: "post.njk"
 ogImage: "cricket-betting-odds-guide-optimized.webp"
 ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে ক্রিকেট বল এবং ব্যাটের সাথে বিভিন্ন বেটিং অডস (ডেসিমাল, ফ্র্যাকশনাল) দেখানো একটি গ্রাফিক।"
-tags: "post"
+tags: ["post", "cricket", "odds"]
 faq:
   - question: "What are betting odds?"
     answer: "বেটিং অডস হলো একটি নির্দিষ্ট ফলাফলের সম্ভাবনার সংখ্যাসূচক প্রকাশ। এটি দুটি জিনিস নির্দেশ করে: (১) আপনি জিতলে কত টাকা পাবেন, এবং (২) বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।"
