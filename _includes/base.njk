@@ -20,7 +20,14 @@
   {% if pagination.href.next %}
     <link rel="next" href="{{ site.url }}{{ pagination.href.next }}">
   {% endif %}
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  
+  {# SEO: Handle future dated posts #}
+  {% if page.date and page.date > now %}
+    <meta name="robots" content="noindex, nofollow">
+  {% else %}
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  {% endif %}
+
   <script>
     // Prevent FOUC by setting the background color immediately, matching --bg in CSS
     document.documentElement.style.background = '#0b0f14';

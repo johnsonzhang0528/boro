@@ -48,6 +48,9 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // Add 'now' global data for date comparisons
+  eleventyConfig.addGlobalData("now", () => new Date());
+
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h2', 'h3'],
