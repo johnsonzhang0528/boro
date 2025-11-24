@@ -14,6 +14,9 @@ const ASSETS_DIR = 'assets';
 const ENGINE_ID = 'stable-diffusion-xl-1024-v1-0'; // SDXL 1.0
 const API_HOST = 'https://api.stability.ai';
 
+// Standard Negative Prompt to improve quality and reduce blur/text issues
+const DEFAULT_NEGATIVE_PROMPT = "blurry, low quality, low resolution, pixelated, ugly, deformed, noisy, artifacts, low contrast, amateur, distortion, bad anatomy, extra limbs, missing limbs, bad hands, watermark, signature, username, artist name, error, malformed text, unreadable text, gibberish";
+
 if (!STABILITY_API_KEY) {
     console.error('❌ Error: STABILITY_API_KEY environment variable is not set.');
     process.exit(1);
@@ -122,6 +125,11 @@ Example prompts.json format:
                         text_prompts: [
                             {
                                 text: prompt,
+                                weight: 1,
+                            },
+                            {
+                                text: DEFAULT_NEGATIVE_PROMPT,
+                                weight: -1,
                             },
                         ],
                         cfg_scale: 7,
