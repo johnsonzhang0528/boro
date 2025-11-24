@@ -60,7 +60,8 @@ async function main() {
     // 3. Frontmatter: ogImage: "path" (Note: SOP says ogImage is filename only, path is assets/og/)
     
     // We need to handle full paths in content and filename-only in ogImage
-    const imageRegex = /(?:!\[.*?\]\((.*?)\))|(?:src=["'](.*?)["'])|(?:srcset=["'](.*?)["'])|(?:ogImage:\s*["']?(.*?)["']?)/g;
+    // Fix: ogImage regex needs to be greedy enough or character class based to capture the filename
+    const imageRegex = /(?:!\[.*?\]\((.*?)\))|(?:src=["'](.*?)["'])|(?:srcset=["'](.*?)["'])|(?:ogImage:\s*["']?([^"'\s\n]+)["']?)/g;
     let match;
     const imagesToProcess = new Set();
 
@@ -78,6 +79,9 @@ async function main() {
             // It's an OG image in frontmatter
             imgPath = `assets/og/${match[4].trim()}`;
             isOgImage = true;
+            console.log(`   🔍 Found OG Image: ${imgPath}`);
+        } else if (imgPath) {
+             console.log(`   🔍 Found Content Image: ${imgPath}`);
         }
 
         if (imgPath && !imgPath.includes('-optimized') && !imgPath.startsWith('http')) {
