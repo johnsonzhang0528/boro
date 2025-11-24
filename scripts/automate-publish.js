@@ -15,18 +15,39 @@ const AVIF_QUALITY = 50;
 async function main() {
     console.log('🚀 Starting automation script...');
 
-    // 1. Identify the target file (most recently modified markdown file in blog/)
-    const files = await glob(`${BLOG_DIR}/*.md`);
-    if (files.length === 0) {
-        console.error('❌ No markdown files found in blog directory.');
-        process.exit(1);
+    let targetFile;
+    const argFile = process.argv[2];
+
+    if (argFile) {
+        targetFile = argFile;
+        // Try to resolve path if it doesn't exist directly
+        if (!fs.existsSync(targetFile)) {
+            if (fs.existsSync(path.join(BLOG_DIR, argFile))) {
+                targetFile = path.join(BLOG_DIR, argFile);
+            } else if (fs.existsSync(path.join(BLOG_DIR, `${argFile}.md`))) {
+                targetFile = path.join(BLOG_DIR, `${argFile}.md`);
+            }
+        }
+
+        if (!fs.existsSync(targetFile)) {
+            console.error(`❌ Error: Specified file not found: ${argFile}`);
+            process.exit(1);
+        }
+        console.log(`📝 Target file specified: ${targetFile}`);
+    } else {
+        // 1. Identify the target file (most recently modified markdown file in blog/)
+        const files = await glob(`${BLOG_DIR}/*.md`);
+        if (files.length === 0) {
+            console.error('❌ No markdown files found in blog directory.');
+            process.exit(1);
+        }
+
+        targetFile = files
+            .map(file => ({ file, mtime: fs.statSync(file).mtime }))
+            .sort((a, b) => b.mtime - a.mtime)[0].file;
+
+        console.log(`📝 Target file identified (latest): ${targetFile}`);
     }
-
-    const targetFile = files
-        .map(file => ({ file, mtime: fs.statSync(file).mtime }))
-        .sort((a, b) => b.mtime - a.mtime)[0].file;
-
-    console.log(`📝 Target file identified: ${targetFile}`);
 
     let content = fs.readFileSync(targetFile, 'utf8');
 
@@ -83,6 +104,7 @@ async function main() {
         }
     }
 
+    const processedFiles = new Set();
     for (const img of imagesToProcess) {
         const ext = path.extname(img.originalPath);
         const basename = path.basename(img.originalPath, ext);
@@ -92,34 +114,42 @@ async function main() {
         const webpPath = path.join(dirname, `${optimizedBase}.webp`);
         const avifPath = path.join(dirname, `${optimizedBase}.avif`);
 
-        console.log(`   Processing: ${img.originalPath}`);
+        // 1. Image Processing (Once per file)
+        if (!processedFiles.has(img.originalPath)) {
+            processedFiles.add(img.originalPath);
+            console.log(`   Processing: ${img.originalPath}`);
+
+            try {
+                const imageBuffer = fs.readFileSync(img.originalPath);
+                const metadata = await sharp(imageBuffer).metadata();
+
+                // Resize and Convert to WebP
+                let pipeline = sharp(imageBuffer);
+                
+                if (metadata.width > MAX_WIDTH) {
+                    pipeline = pipeline.resize({ width: MAX_WIDTH, kernel: sharp.kernel.lanczos3 });
+                }
+
+                await pipeline
+                    .webp({ quality: WEBP_QUALITY, effort: 4 })
+                    .toFile(webpPath);
+
+                // Convert to AVIF
+                let avifPipeline = sharp(imageBuffer);
+                if (metadata.width > MAX_WIDTH) {
+                    avifPipeline = avifPipeline.resize({ width: MAX_WIDTH, kernel: sharp.kernel.lanczos3 });
+                }
+                await avifPipeline
+                    .avif({ quality: AVIF_QUALITY })
+                    .toFile(avifPath);
+
+                console.log(`   ✅ Created: ${webpPath} & ${avifPath}`);
+            } catch (error) {
+                console.error(`   ❌ Error processing ${img.originalPath}:`, error);
+            }
+        }
 
         try {
-            const imageBuffer = fs.readFileSync(img.originalPath);
-            const metadata = await sharp(imageBuffer).metadata();
-
-            // Resize and Convert to WebP
-            let pipeline = sharp(imageBuffer);
-            
-            if (metadata.width > MAX_WIDTH) {
-                pipeline = pipeline.resize({ width: MAX_WIDTH, kernel: sharp.kernel.lanczos3 });
-            }
-
-            await pipeline
-                .webp({ quality: WEBP_QUALITY, effort: 4 })
-                .toFile(webpPath);
-
-            // Convert to AVIF
-            // Re-use pipeline or start fresh? Sharp instances are immutable-ish in chain, but let's start fresh to be safe or clone
-            let avifPipeline = sharp(imageBuffer);
-            if (metadata.width > MAX_WIDTH) {
-                avifPipeline = avifPipeline.resize({ width: MAX_WIDTH, kernel: sharp.kernel.lanczos3 });
-            }
-            await avifPipeline
-                .avif({ quality: AVIF_QUALITY })
-                .toFile(avifPath);
-
-            console.log(`   ✅ Created: ${webpPath} & ${avifPath}`);
 
             // Update Content with Context Awareness
             // We use a regex that matches the specific path to replace it correctly based on context

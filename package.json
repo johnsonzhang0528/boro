@@ -21,7 +21,7 @@
     "audit:cls": "node -e \"console.log('Run: npm run test:performance to check CLS improvements')\"",
     "publish:new-post": "node scripts/automate-publish.js",
     "generate-images": "node scripts/generate-images.js",
-    "magic": "npm run generate-images && npm run publish:new-post"
+    "magic": "node scripts/magic.js"
   },
   "keywords": [
     "eleventy",

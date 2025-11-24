@@ -22,18 +22,39 @@ if (!STABILITY_API_KEY) {
 async function main() {
     console.log('🚀 Starting image generation script (Stability AI)...');
 
-    // 1. Identify the target file (most recently modified markdown file in blog/)
-    const files = await glob(`${BLOG_DIR}/*.md`);
-    if (files.length === 0) {
-        console.error('❌ No markdown files found in blog directory.');
-        process.exit(1);
+    let targetFile;
+    const argFile = process.argv[2];
+
+    if (argFile) {
+        targetFile = argFile;
+        // Try to resolve path if it doesn't exist directly
+        if (!fs.existsSync(targetFile)) {
+            if (fs.existsSync(path.join(BLOG_DIR, argFile))) {
+                targetFile = path.join(BLOG_DIR, argFile);
+            } else if (fs.existsSync(path.join(BLOG_DIR, `${argFile}.md`))) {
+                targetFile = path.join(BLOG_DIR, `${argFile}.md`);
+            }
+        }
+
+        if (!fs.existsSync(targetFile)) {
+            console.error(`❌ Error: Specified file not found: ${argFile}`);
+            process.exit(1);
+        }
+        console.log(`📝 Target file specified: ${targetFile}`);
+    } else {
+        // 1. Identify the target file (most recently modified markdown file in blog/)
+        const files = await glob(`${BLOG_DIR}/*.md`);
+        if (files.length === 0) {
+            console.error('❌ No markdown files found in blog directory.');
+            process.exit(1);
+        }
+
+        targetFile = files
+            .map(file => ({ file, mtime: fs.statSync(file).mtime }))
+            .sort((a, b) => b.mtime - a.mtime)[0].file;
+
+        console.log(`📝 Target file identified (latest): ${targetFile}`);
     }
-
-    const targetFile = files
-        .map(file => ({ file, mtime: fs.statSync(file).mtime }))
-        .sort((a, b) => b.mtime - a.mtime)[0].file;
-
-    console.log(`📝 Target file identified: ${targetFile}`);
 
     const content = fs.readFileSync(targetFile, 'utf8');
 
