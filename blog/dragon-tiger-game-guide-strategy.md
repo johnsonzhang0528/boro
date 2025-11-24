@@ -9,24 +9,24 @@ ogImage: dragon-tiger-game-guide-optimized.webp
 ogImageAlt: "Dragon Tiger game table with cards dealt on Dragon and Tiger sides - ড্রাগন টাইগার গেম টেবিল"
 tags: ["post", "casino", "guide", "dragon-tiger"]
 faq:
-  - question: "What is the RTP of Dragon Tiger?"
-    answer: "The RTP (Return to Player) for the main Dragon and Tiger bets is usually around 96.27%. The Tie bet has a much lower RTP, making Dragon or Tiger bets the safer choice."
-  - question: "Can I count cards in Dragon Tiger?"
-    answer: "While possible in theory since few cards are used per round, live dealer shoes are shuffled frequently, making card counting difficult and often ineffective for significant advantage."
-  - question: "Is Dragon Tiger better than Baccarat?"
-    answer: "It is simpler and faster than Baccarat. If you prefer quick rounds without complex drawing rules (like the third card rule in Baccarat), Dragon Tiger is a better choice."
+  - question: "ড্রাগন টাইগারের RTP কত?"
+    answer: "ড্রাগন এবং টাইগার বাজির জন্য RTP (Return to Player) সাধারণত ৯৬.২৭%। টাই (Tie) বাজির RTP অনেক কম, তাই ড্রাগন বা টাইগার বাজি ধরাই নিরাপদ।"
+  - question: "আমি কি ড্রাগন টাইগারে কার্ড গুনতে পারি?"
+    answer: "তাত্ত্বিকভাবে সম্ভব হলেও, লাইভ ডিলার গেমগুলিতে কার্ডগুলি ঘন ঘন শাফেল করা হয়, তাই কার্ড গণনা করা কঠিন এবং সাধারণত বিশেষ কোনো সুবিধা দেয় না।"
+  - question: "ড্রাগন টাইগার কি ব্যাকারাটের চেয়ে ভালো?"
+    answer: "এটি ব্যাকারাটের চেয়ে সহজ এবং দ্রুত। আপনি যদি জটিল নিয়ম (যেমন ব্যাকারাটের তৃতীয় কার্ডের নিয়ম) ছাড়া দ্রুত রাউন্ড পছন্দ করেন, তবে ড্রাগন টাইগার একটি ভালো বিকল্প।"
 howto:
-  name: "How to Play Dragon Tiger"
-  description: "A step-by-step guide to playing the Dragon Tiger live casino game."
+  name: "ড্রাগন টাইগার কীভাবে খেলবেন"
+  description: "ড্রাগন টাইগার লাইভ ক্যাসিনো গেম খেলার ধাপে ধাপে নির্দেশিকা।"
   steps:
-    - name: "Place Your Bet"
-      text: "Choose your chip size and place your bet on either 'Dragon', 'Tiger', or 'Tie' within the betting time."
-    - name: "Deal"
-      text: "The dealer deals one card face-up to the Dragon position and one card to the Tiger position."
-    - name: "Determine Winner"
-      text: "The side with the higher card value wins. King is the highest, Ace is the lowest."
-    - name: "Payout"
-      text: "Winning Dragon or Tiger bets pay 1:1. Tie bets pay significantly higher, usually 11:1 or 8:1."
+    - name: "বাজি ধরুন"
+      text: "বেটিং সময়ের মধ্যে আপনার চিপ সাইজ নির্বাচন করুন এবং 'ড্রাগন', 'টাইগার' বা 'টাই'-এর উপর বাজি ধরুন।"
+    - name: "ডিল"
+      text: "ডিলার ড্রাগন পজিশনে একটি এবং টাইগার পজিশনে একটি কার্ড ফেস-আপ (খোলা) অবস্থায় দেন।"
+    - name: "বিজয়ী নির্ধারণ"
+      text: "যেই পাশের কার্ডের মান বেশি, সেই পাশ জিতে যায়। রাজা (King) সর্বোচ্চ এবং টেক্কা (Ace) সর্বনিম্ন।"
+    - name: "পে-আউট"
+      text: "ড্রাগন বা টাইগার বাজিতে জিতলে ১:১ অনুপাতে পে-আউট পাওয়া যায়। টাই বাজিতে জিতলে সাধারণত ১১:১ বা ৮:১ অনুপাতে পে-আউট পাওয়া যায়।"
 ---
 
 <p class="lead">**Dragon Tiger (ড্রাগন টাইগার)** কে প্রায়শই Baccarat-এর দুই-কার্ডের সংস্করণ বলা হয়। এটি বাংলাদেশের খেলোয়াড়দের মধ্যে অত্যন্ত জনপ্রিয় এবং সবচেয়ে সহজ লাইভ ক্যাসিনো গেমগুলির মধ্যে একটি। এই গাইডে, আমরা Dragon Tiger-এর নিয়ম, পেআউট এবং জয়ের কৌশলগুলি নিয়ে আলোচনা করব。</p>
