@@ -27,8 +27,8 @@ faq:
 আপনি যদি **[Gates of Olympus](/blog/gates-of-olympus-slot-review-strategy/)** পছন্দ করেন, তবে Sweet Bonanza আপনার জন্য একটি দুর্দান্ত বিকল্প হতে পারে। এই রিভিউতে, আমরা গেমটির নিয়ম, বোনাস ফিচার এবং জেতার কৌশল নিয়ে বিস্তারিত আলোচনা করব।
 
 <picture class="hero-image" data-critical="true">
-  <source srcset="/assets/blog/sweet-bonanza-review-strategy.avif" type="image/avif">
-  <source srcset="/assets/blog/sweet-bonanza-review-strategy-optimized.avif" type="image/webp">
+  <source srcset="/assets/blog/sweet-bonanza-review-strategy-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/sweet-bonanza-review-strategy-optimized.webp" type="image/webp">
   <img src="/assets/blog/sweet-bonanza-review-strategy-optimized.webp"
        alt="Sweet Bonanza slot game background with candies and fruits."
        width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
@@ -68,8 +68,8 @@ Sweet Bonanza-এর আসল মজা এর বোনাস রাউন্�
 স্ক্রিনে ৪টি বা তার বেশি **Lollipop Scatter** প্রতীক আসলে আপনি ১০টি ফ্রি স্পিন পাবেন। ফ্রি স্পিন চলাকালীন, যদি ৩টি বা তার বেশি স্ক্যাটার আসে, তবে আরও ৫টি অতিরিক্ত স্পিন যোগ হবে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/sweet-bonanza-multiplier-bomb-feature.avif" type="image/avif">
-  <source srcset="/assets/blog/sweet-bonanza-multiplier-bomb-feature-optimized.avif" type="image/webp">
+  <source srcset="/assets/blog/sweet-bonanza-multiplier-bomb-feature-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/sweet-bonanza-multiplier-bomb-feature-optimized.webp" type="image/webp">
   <img src="/assets/blog/sweet-bonanza-multiplier-bomb-feature-optimized.webp"
        alt="A colorful multiplier bomb symbol from Sweet Bonanza slot game."
        width="800" height="450" loading="lazy" decoding="async">
