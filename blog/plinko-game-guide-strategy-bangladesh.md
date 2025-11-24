@@ -34,7 +34,7 @@ howto:
 <p class="lead">আপনি কি এমন একটি গেম খুঁজছেন যা খেলা খুব সহজ কিন্তু উত্তেজনাপূর্ণ? Plinko (প্লিঙ্কো) হতে পারে আপনার জন্য সেরা পছন্দ। বিখ্যাত টিভি শো 'The Price is Right' থেকে অনুপ্রাণিত এই গেমটি এখন বাংলাদেশের অনলাইন ক্যাসিনো জগতে ঝড় তুলেছে।</p>
 
 <picture class="hero-image" data-critical="true">
-  <source srcset="/assets/blog/plinko-game-guide-bangladesh.avif" type="image/avif">
+  <source srcset="/assets/blog/plinko-game-guide-bangladesh-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/plinko-game-guide-bangladesh-optimized.webp" type="image/webp">
   <img src="/assets/blog/plinko-game-guide-bangladesh-optimized.webp"
        alt="A Plinko board with a ball falling through pegs into high multiplier slots, representing the popular casino game."
@@ -62,7 +62,7 @@ Plinko খেলা শুরু করা খুব সহজ। নিচে�
 5.  **সারি নির্বাচন করুন (Select Rows):** আপনি ৮ থেকে ১৬টি সারির মধ্যে বেছে নিতে পারেন। সারি যত বেশি, গেমটি তত বেশি চ্যালেঞ্জিং এবং লাভজনক হতে পারে।
 
 <picture>
-  <source srcset="/assets/blog/plinko-game-interface-settings.avif" type="image/avif">
+  <source srcset="/assets/blog/plinko-game-interface-settings-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/plinko-game-interface-settings-optimized.webp" type="image/webp">
   <img src="/assets/blog/plinko-game-interface-settings-optimized.webp" alt="Plinko game interface showing risk levels and row settings." width="800" height="450" loading="lazy" decoding="async">
 </picture>
