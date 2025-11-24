@@ -92,14 +92,36 @@ async function main() {
             if (fs.existsSync(localPath)) {
                 imagesToProcess.add({ originalPath: localPath, isOgImage, originalString: match[0], capturedPath: match[1] || match[2] || match[3] || match[4] });
             }
-        } else if (imgPath && imgPath.includes('-optimized') === false && !imgPath.startsWith('http')) {
-             // Special case: User manually wrote .avif or .webp but forgot -optimized
-             // We need to check if the base file exists (e.g. user wrote image.avif, but only image.png exists)
-             // OR if the user actually has image.avif and wants it optimized to image-optimized.avif
+        } else if (imgPath && imgPath.includes('-optimized') && !imgPath.startsWith('http')) {
+             // Case: Markdown already has -optimized path, but we need to ensure the optimized file exists.
+             // If it doesn't exist, we look for the source file (without -optimized) to generate it.
              
              let localPath = imgPath.startsWith('/') ? imgPath.slice(1) : imgPath;
-             if (fs.existsSync(localPath)) {
-                 imagesToProcess.add({ originalPath: localPath, isOgImage, originalString: match[0], capturedPath: match[1] || match[2] || match[3] || match[4] });
+             
+             // If the optimized file already exists, we might skip or re-process. 
+             // But if it's missing (which is the issue here), we must find the source.
+             if (!fs.existsSync(localPath)) {
+                 const dir = path.dirname(localPath);
+                 const ext = path.extname(localPath);
+                 const basename = path.basename(localPath, ext); // e.g. image-optimized
+                 const originalBasename = basename.replace('-optimized', ''); // e.g. image
+                 
+                 // Look for source file with common extensions
+                 const extensions = ['.png', '.jpg', '.jpeg', '.webp'];
+                 for (const srcExt of extensions) {
+                     const sourcePath = path.join(dir, originalBasename + srcExt);
+                     if (fs.existsSync(sourcePath)) {
+                         // Found the source! Add it to processing list.
+                         // The script will generate the optimized versions from this source.
+                         imagesToProcess.add({ 
+                             originalPath: sourcePath, 
+                             isOgImage, 
+                             originalString: match[0], 
+                             capturedPath: match[1] || match[2] || match[3] || match[4] 
+                         });
+                         break;
+                     }
+                 }
              }
         }
     }

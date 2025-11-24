@@ -94,7 +94,14 @@ Example prompts.json format:
     const tasks = JSON.parse(fs.readFileSync(promptsFile, 'utf8'));
 
     for (const task of tasks) {
-        const { filename, prompt } = task;
+        let { filename, prompt } = task;
+
+        // Force .webp extension for the source file
+        // The user wants the original generated file to be .webp
+        if (path.extname(filename) !== '.webp') {
+            const ext = path.extname(filename);
+            filename = filename.substring(0, filename.length - ext.length) + '.webp';
+        }
         
         // Ensure directory exists
         const dir = path.dirname(filename);
@@ -151,18 +158,10 @@ Example prompts.json format:
                 // Convert PNG buffer to WebP using sharp
                 const pngBuffer = Buffer.from(image.base64, 'base64');
                 
-                // If the filename ends with .webp, we convert. 
-                // If user still wants .png, we respect it (or we can force webp).
-                // Let's force conversion if the target filename is .webp, otherwise save as is.
-                
-                if (filename.endsWith('.webp')) {
-                    await sharp(pngBuffer)
-                        .webp({ quality: 80 }) // Adjust quality as needed
-                        .toFile(filename);
-                } else {
-                    // Fallback for non-webp extensions (e.g. .png)
-                    fs.writeFileSync(filename, pngBuffer);
-                }
+                // Always save as WebP (High Quality for source)
+                await sharp(pngBuffer)
+                    .webp({ quality: 90 }) 
+                    .toFile(filename);
                 
                 console.log(`   ✅ Saved to ${filename}`);
             }
