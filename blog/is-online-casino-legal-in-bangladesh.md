@@ -42,7 +42,7 @@ faq:
     style="width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px;">
 </picture>
 
-### আইন কী বলে: The Public Gambling Act, 1867
+## আইন কী বলে: The Public Gambling Act, 1867
 
 বাংলাদেশের জুয়া সংক্রান্ত আইনটি ব্রিটিশ ঔপনিবেশিক আমলের, যা **"প্রকাশ্য জুয়া আইন, ১৮৬৭"** নামে পরিচিত। এই আইনটি তৈরি হয়েছিল যখন ইন্টারনেট বা অনলাইন ক্যাসিনোর কোনো অস্তিত্বই ছিল না।
 

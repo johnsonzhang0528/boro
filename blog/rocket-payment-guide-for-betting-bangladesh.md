@@ -35,7 +35,7 @@ howto:
 
 > অন্যান্য পেমেন্ট অপশন সম্পর্কে জানতে, আমাদের **[অনলাইন ক্যাসিনো পেমেন্টের চূড়ান্ত নির্দেশিকা](/blog/ultimate-guide-to-online-casino-payments-bangladesh/)** দেখুন।
 
-### কেন Rocket ব্যবহার করবেন? (Why Use Rocket?)
+## কেন Rocket ব্যবহার করবেন? (Why Use Rocket?)
 
 <picture class="hero-image" data-critical="true">
   <source srcset="/assets/blog/rocket-payment-guide-hero-optimized.avif" type="image/avif">

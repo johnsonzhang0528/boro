@@ -25,7 +25,7 @@ bKash বাংলাদেশের সবচেয়ে জনপ্রিয
 
 > সকল পেমেন্ট পদ্ধতি সম্পর্কে একটি পূর্ণাঙ্গ ধারণার জন্য, আমাদের **[অনলাইন ক্যাসিনো পেমেন্টের চূড়ান্ত নির্দেশিকাটি](/blog/ultimate-guide-to-online-casino-payments-bangladesh/)** পড়তে পারেন।
 
-### bKash লিমিটগুলি বোঝা (Understanding bKash Limits)
+## bKash লিমিটগুলি বোঝা (Understanding bKash Limits)
 <picture class="hero-image" data-critical="true">
   <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/withdrawal-pre-check-list-optimized.webp" type="image/webp">
