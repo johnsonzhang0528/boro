@@ -206,7 +206,10 @@ async function main() {
     // Find the latest date among all OTHER posts
     let maxDate = DateTime.now().minus({ days: 1 }); // Default to yesterday if no posts
     
-    for (const file of files) {
+    // Ensure 'files' is defined. If we used argFile, 'files' might not be populated yet.
+    const allFiles = await glob(`${BLOG_DIR}/*.md`);
+
+    for (const file of allFiles) {
         if (file === targetFile) continue; // Skip the current file being edited
         
         const fileContent = fs.readFileSync(file, 'utf8');
