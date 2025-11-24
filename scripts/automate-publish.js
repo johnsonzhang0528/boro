@@ -208,7 +208,14 @@ async function main() {
     fs.writeFileSync(targetFile, content, 'utf8');
     console.log('✅ File updated with new paths and date.');
 
-    // 4. Git Operations
+    // 4. Cleanup
+    console.log('🧹 Cleaning up...');
+    if (fs.existsSync('prompts.json')) {
+        fs.unlinkSync('prompts.json');
+        console.log('   🗑️  Deleted prompts.json');
+    }
+
+    // 5. Git Operations
     console.log('octocat Git operations...');
     try {
         execSync('git add .', { stdio: 'inherit' });
