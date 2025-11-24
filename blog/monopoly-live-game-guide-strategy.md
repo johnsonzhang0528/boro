@@ -26,7 +26,7 @@ faq:
 Monopoly Live হলো ড্রিম ক্যাচার (Dream Catcher) গেমের একটি উন্নত সংস্করণ। এতে একটি ৫৪-সেগমেন্টের চাকা রয়েছে, যা একজন লাইভ হোস্ট দ্বারা ঘোরানো হয়। তবে গেমের আসল তারকা হলেন ভার্চুয়াল **Mr. Monopoly**, যিনি স্টুডিওতে বসে থাকেন এবং বোনাস রাউন্ডের সময় অ্যাকশনে আসেন।
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/monopoly-live-wheel-bonus-round.avif" type="image/avif">
+  <source srcset="/assets/blog/monopoly-live-wheel-bonus-round-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/monopoly-live-wheel-bonus-round-optimized.webp" type="image/webp">
   <img src="/assets/blog/monopoly-live-wheel-bonus-round-optimized.webp" alt="Monopoly Live স্টুডিওতে হোস্ট এবং মিস্টার মনোপলি চাকার পাশে দাঁড়িয়ে আছেন।" width="800" height="450" loading="lazy" decoding="async">
 </picture>
@@ -55,7 +55,7 @@ Monopoly Live হলো ড্রিম ক্যাচার (Dream Catcher) �
 Monopoly Live-এর সবচেয়ে উত্তেজনাপূর্ণ অংশ হলো এর বোনাস রাউন্ড। যদি আপনি '2 Rolls' বা '4 Rolls'-এ বাজি ধরেন এবং চাকাটি সেখানে থামে, তবে আপনি মিস্টার মনোপলির সাথে একটি 3D ভার্চুয়াল দুনিয়ায় প্রবেশ করবেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/monopoly-live-mr-monopoly-3d-world.avif" type="image/avif">
+  <source srcset="/assets/blog/monopoly-live-mr-monopoly-3d-world-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/monopoly-live-mr-monopoly-3d-world-optimized.webp" type="image/webp">
   <img src="/assets/blog/monopoly-live-mr-monopoly-3d-world-optimized.webp" alt="মিস্টার মনোপলি 3D বোনাস রাউন্ডে বোর্ডের উপর হাঁটছেন।" width="800" height="450" loading="lazy" decoding="async">
 </picture>
