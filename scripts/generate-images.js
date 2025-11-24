@@ -3,7 +3,8 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const { glob } = require('glob');
-const fetch = require('node-fetch');
+// const fetch = require('node-fetch'); // node-fetch v3 is ESM-only
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const sharp = require('sharp'); // Import sharp for image conversion
 
 // Configuration

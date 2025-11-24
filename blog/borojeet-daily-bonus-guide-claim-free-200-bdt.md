@@ -12,7 +12,7 @@ faq:
   - question: "How can I claim the BoroJeet Daily Bonus?"
     answer: "Daily Bonus দাবি করতে প্রতিদিন অ্যাপে লগইন করুন এবং 'Promotions' পেজ থেকে অফারটি অ্যাক্টিভ করুন। কিছু অফারের জন্য ন্যূনতম ডিপোজিট প্রয়োজন হতে পারে।"
   - question: "Is the Daily Bonus available for all players?"
-    answer: "হ্যাঁ, বেশিরভাগ Daily Bonus সকল ভিআইপি লেভেলের খেলোয়াড়দের জন্য উন্মুক্ত। তবে কিছু বিশেষ অফার শুধুমাত্র অ্যাপ ব্যবহারকারীদের জন্য হতে পারে।"
+    answer: "হ্যাঁ, বেশিরভাগ Daily Bonus সকল ভিআইপি লেভেলের খেলোয়াড়দের জন্য উন্মুক্ত। তবে কিছু বিশেষ অফার শুধুমাত্র অ্যাপ ব্যবহারকারীদের জন্য হতে পারে। উচ্চতর লেভেলের খেলোয়াড়রা **[VIP প্রোগ্রাম](/blog/borojeet-vip-program-guide-levels-rewards/)**-এর মাধ্যমে আরো বড় বোনাস পেতে পারেন।"
   - question: "What is the wagering requirement for daily bonuses?"
     answer: "Daily Bonus-এর ওয়েজারিং রিকোয়ারমেন্ট সাধারণত কম থাকে, যেমন 20x বা 30x। অফার ভেদে এটি ভিন্ন হতে পারে, তাই দাবি করার আগে শর্তাবলী দেখে নিন।"
 ---
