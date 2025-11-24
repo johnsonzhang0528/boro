@@ -48,8 +48,10 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  // Add 'now' global data for date comparisons
-  eleventyConfig.addGlobalData("now", () => new Date());
+  // Add 'now' global data for date comparisons (using Asia/Dhaka timezone)
+  eleventyConfig.addGlobalData("now", () => {
+    return DateTime.now().setZone('Asia/Dhaka').toJSDate();
+  });
 
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {

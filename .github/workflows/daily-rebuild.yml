@@ -1,0 +1,20 @@
+name: Daily Rebuild
+
+on:
+  schedule:
+    # 每天 UTC 18:00 = 孟加拉時間 (UTC+6) 00:00
+    # 這樣可以確保在孟加拉時間進入新的一天時，網站自動更新
+    - cron: '0 18 * * *'
+  workflow_dispatch: # 允許在 GitHub Actions 介面手動按按鈕觸發
+
+jobs:
+  trigger_vercel_build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Vercel Deploy Hook
+        run: |
+          if [ -z "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" ]; then
+            echo "Error: VERCEL_DEPLOY_HOOK_URL secret is not set."
+            exit 1
+          fi
+          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
