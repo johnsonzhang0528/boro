@@ -252,6 +252,12 @@ main img,
   display: block; /* Optional: helps remove extra space below images */
 }
 
+/* Accessibility: Underline links in post content */
+.post-content a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 /* Performance optimizations */
 .article-list {
   contain: layout style paint; /* Enable CSS containment */
