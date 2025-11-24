@@ -3,7 +3,8 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const { glob } = require('glob');
-const fetch = require('node-fetch'); // You might need to install this: npm install node-fetch
+const fetch = require('node-fetch');
+const sharp = require('sharp'); // Import sharp for image conversion
 
 // Configuration
 const STABILITY_API_KEY = process.env.STABILITY_API_KEY; // Ensure this is set in your environment
@@ -116,11 +117,25 @@ Example prompts.json format:
 
             const responseJSON = await response.json();
 
-            responseJSON.artifacts.forEach((image, index) => {
-                // We only requested 1 sample, so this runs once
-                fs.writeFileSync(filename, Buffer.from(image.base64, 'base64'));
+            for (const image of responseJSON.artifacts) {
+                // Convert PNG buffer to WebP using sharp
+                const pngBuffer = Buffer.from(image.base64, 'base64');
+                
+                // If the filename ends with .webp, we convert. 
+                // If user still wants .png, we respect it (or we can force webp).
+                // Let's force conversion if the target filename is .webp, otherwise save as is.
+                
+                if (filename.endsWith('.webp')) {
+                    await sharp(pngBuffer)
+                        .webp({ quality: 80 }) // Adjust quality as needed
+                        .toFile(filename);
+                } else {
+                    // Fallback for non-webp extensions (e.g. .png)
+                    fs.writeFileSync(filename, pngBuffer);
+                }
+                
                 console.log(`   ✅ Saved to ${filename}`);
-            });
+            }
 
         } catch (error) {
             console.error(`   ❌ Failed to generate ${filename}:`, error.message);
