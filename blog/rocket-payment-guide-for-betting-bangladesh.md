@@ -38,8 +38,8 @@ howto:
 ### কেন Rocket ব্যবহার করবেন? (Why Use Rocket?)
 
 <picture class="hero-image" data-critical="true">
-  <source srcset="/assets/blog/rocket-payment-guide-hero.avif" type="image/avif">
-  <source srcset="/assets/blog/rocket-payment-guide-hero-optimized.avif" type="image/webp">
+  <source srcset="/assets/blog/rocket-payment-guide-hero-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/rocket-payment-guide-hero-optimized.webp" type="image/webp">
   <img src="/assets/blog/rocket-payment-guide-hero-optimized.webp"
        alt="Rocket payment app interface on a smartphone. স্মার্টফোনে রকেট পেমেন্ট অ্যাপ ইন্টারফেস।"
        width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
@@ -94,8 +94,8 @@ Rocket-এর লেনদেনের সীমা বাংলাদেশ ব
 *   **লিমিট শেষ:** যদি আপনার Rocket লিমিট শেষ হয়ে যায়, তবে আপনি **[bKash](/blog/bkash-limit-casino-deposit-guide/)** বা Nagad ব্যবহার করতে পারেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/rocket-transaction-success.avif" type="image/avif">
-  <source srcset="/assets/blog/rocket-transaction-success-optimized.avif" type="image/webp">
+  <source srcset="/assets/blog/rocket-transaction-success-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/rocket-transaction-success-optimized.webp" type="image/webp">
   <img src="/assets/blog/rocket-transaction-success-optimized.webp"
        alt="Successful transaction message on Rocket app. রকেট অ্যাপে সফল লেনদেনের বার্তা।"
        width="800" height="450" loading="lazy" decoding="async"

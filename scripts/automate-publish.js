@@ -197,21 +197,19 @@ async function main() {
                 const pathRegex = new RegExp(`(src|srcset)=["']${escapedPath}["']`, 'g');
                 
                 content = content.replace(pathRegex, (match, attr, offset, string) => {
-                    // Look at the surrounding context (e.g., +/- 100 chars) to find type="image/avif"
-                    // We look backwards and forwards to cover <source type="..." srcset="..."> and <source srcset="..." type="...">
-                    const contextStart = Math.max(0, offset - 100);
-                    const contextEnd = Math.min(string.length, offset + match.length + 100);
-                    const context = string.slice(contextStart, contextEnd);
+                    // Find the boundaries of the current tag to ensure we check the correct context
+                    const tagStart = string.lastIndexOf('<', offset);
+                    const tagEnd = string.indexOf('>', offset + match.length);
                     
-                    // Check if it belongs to a <source> tag with type="image/avif"
-                    // Simple heuristic: if "image/avif" appears nearby and we are in a srcset
-                    if (attr === 'srcset' && context.includes('image/avif')) {
-                         // Verify it's the same tag? 
-                         // A simplified check: if 'type="image/avif"' is closer to this match than another tag start/end
-                         return `${attr}="${path.dirname(img.capturedPath)}/${optimizedBase}.avif"`;
+                    if (tagStart !== -1 && tagEnd !== -1) {
+                        const tagContent = string.slice(tagStart, tagEnd);
+                        // Check if it belongs to a <source> tag with type="image/avif"
+                        if (attr === 'srcset' && tagContent.includes('type="image/avif"')) {
+                             return `${attr}="${path.dirname(img.capturedPath)}/${optimizedBase}.avif"`;
+                        }
                     }
                     
-                    // Default to WebP for img src, source type="image/webp", or markdown syntax (handled separately if needed)
+                    // Default to WebP for img src, source type="image/webp", or markdown syntax
                     return `${attr}="${path.dirname(img.capturedPath)}/${optimizedBase}.webp"`;
                 });
 
