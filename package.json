@@ -19,7 +19,9 @@
     "setup:hooks": "git config core.hooksPath .githooks",
     "test:performance": "lighthouse http://localhost:8080 --output=html --output-path=lighthouse-report.html",
     "audit:cls": "node -e \"console.log('Run: npm run test:performance to check CLS improvements')\"",
-    "publish:new-post": "node scripts/automate-publish.js"
+    "publish:new-post": "node scripts/automate-publish.js",
+    "generate-images": "node scripts/generate-images.js",
+    "magic": "npm run generate-images && npm run publish:new-post"
   },
   "keywords": [
     "eleventy",
@@ -41,8 +43,10 @@
     "terser": "^5.24.0"
   },
   "dependencies": {
+    "dotenv": "^17.2.3",
     "markdown-it": "^13.0.2",
     "markdown-it-anchor": "^8.6.7",
+    "node-fetch": "^3.3.2",
     "sharp": "^0.34.4"
   }
 }
