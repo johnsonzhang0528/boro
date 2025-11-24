@@ -71,6 +71,15 @@ async function main() {
             if (fs.existsSync(localPath)) {
                 imagesToProcess.add({ originalPath: localPath, isOgImage, originalString: match[0], capturedPath: match[1] || match[2] || match[3] || match[4] });
             }
+        } else if (imgPath && imgPath.includes('-optimized') === false && !imgPath.startsWith('http')) {
+             // Special case: User manually wrote .avif or .webp but forgot -optimized
+             // We need to check if the base file exists (e.g. user wrote image.avif, but only image.png exists)
+             // OR if the user actually has image.avif and wants it optimized to image-optimized.avif
+             
+             let localPath = imgPath.startsWith('/') ? imgPath.slice(1) : imgPath;
+             if (fs.existsSync(localPath)) {
+                 imagesToProcess.add({ originalPath: localPath, isOgImage, originalString: match[0], capturedPath: match[1] || match[2] || match[3] || match[4] });
+             }
         }
     }
 
@@ -112,22 +121,48 @@ async function main() {
 
             console.log(`   ✅ Created: ${webpPath} & ${avifPath}`);
 
-            // Update Content
-            // If it was OG Image (filename only in frontmatter)
+            // Update Content with Context Awareness
+            // We use a regex that matches the specific path to replace it correctly based on context
+            
+            // Escape the path for regex
+            const escapedPath = escapeRegExp(img.capturedPath);
+            
+            // 1. Handle OG Image (Frontmatter) - Always WebP
             if (img.isOgImage) {
-                // Replace the filename in the content
-                // Regex for ogImage line specifically to be safe
-                const ogRegex = new RegExp(`(ogImage:\\s*["']?)(${escapeRegExp(img.capturedPath)})(["']?)`);
+                const ogRegex = new RegExp(`(ogImage:\\s*["']?)(${escapedPath})(["']?)`);
                 content = content.replace(ogRegex, `$1${optimizedBase}.webp$3`);
             } else {
-                // Replace the path in the content
-                // We replace the extension with .webp and add -optimized
-                // The user wants to use the optimized version in the src
+                // 2. Handle Content Images
+                // We iterate through all occurrences of this image path in the content
+                // and check the surrounding context to decide extension
                 
-                // Simple string replacement for the path might be risky if same string appears elsewhere
-                // But paths are usually unique enough
-                const newPath = img.capturedPath.replace(basename + ext, optimizedBase + '.webp');
-                content = content.split(img.capturedPath).join(newPath);
+                // Regex to find the path within src or srcset attributes
+                // We capture the attribute name to help with context, but mostly we look at the full match
+                const pathRegex = new RegExp(`(src|srcset)=["']${escapedPath}["']`, 'g');
+                
+                content = content.replace(pathRegex, (match, attr, offset, string) => {
+                    // Look at the surrounding context (e.g., +/- 100 chars) to find type="image/avif"
+                    // We look backwards and forwards to cover <source type="..." srcset="..."> and <source srcset="..." type="...">
+                    const contextStart = Math.max(0, offset - 100);
+                    const contextEnd = Math.min(string.length, offset + match.length + 100);
+                    const context = string.slice(contextStart, contextEnd);
+                    
+                    // Check if it belongs to a <source> tag with type="image/avif"
+                    // Simple heuristic: if "image/avif" appears nearby and we are in a srcset
+                    if (attr === 'srcset' && context.includes('image/avif')) {
+                         // Verify it's the same tag? 
+                         // A simplified check: if 'type="image/avif"' is closer to this match than another tag start/end
+                         return `${attr}="${path.dirname(img.capturedPath)}/${optimizedBase}.avif"`;
+                    }
+                    
+                    // Default to WebP for img src, source type="image/webp", or markdown syntax (handled separately if needed)
+                    return `${attr}="${path.dirname(img.capturedPath)}/${optimizedBase}.webp"`;
+                });
+
+                // 3. Handle Markdown Syntax ![alt](path) - Always WebP
+                // The regex above handles HTML attributes. We need another pass for Markdown if mixed.
+                const mdRegex = new RegExp(`(!\\[.*?\\]\\()${escapedPath}(\\))`, 'g');
+                content = content.replace(mdRegex, `$1${path.dirname(img.capturedPath)}/${optimizedBase}.webp$2`);
             }
 
         } catch (error) {
