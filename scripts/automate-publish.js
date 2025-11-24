@@ -111,7 +111,7 @@ async function main() {
                  const originalBasename = basename.replace('-optimized', ''); // e.g. image
                  
                  // Look for source file with common extensions
-                 const extensions = ['.png', '.jpg', '.jpeg', '.webp'];
+                 const extensions = ['.png', '.jpg', '.jpeg', '.webp', '.avif'];
                  for (const srcExt of extensions) {
                      const sourcePath = path.join(dir, originalBasename + srcExt);
                      if (fs.existsSync(sourcePath)) {
