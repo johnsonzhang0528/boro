@@ -19,7 +19,7 @@ faq:
   - question: "Can I play Jili slots for free on BoroJeet?"
     answer: "হ্যাঁ, BoroJeet-এ আপনি আসল টাকা দিয়ে খেলার আগে ডেমো মোডে (Demo Mode) জিলি স্লট গেমগুলো বিনামূল্যে খেলে অনুশীলন করতে পারেন।"
   - question: "How do I win big on Jili slots?"
-    answer: "**বড় জেতার জন্য উচ্চ RTP (Return to Player) যুক্ত গেম বেছে নিন, যেমন [Golden Empire](/blog/golden-empire-slot-review-strategy/) বা [Money Coming](/blog/money-coming-slot-review-strategy/)। এছাড়াও, আপনার ব্যাঙ্করোল ম্যানেজমেন্ট ঠিক রাখুন এবং বোনাস রাউন্ডের সদ্ব্যবহার করুন।""
+    answer: "**বড় জেতার জন্য উচ্চ RTP (Return to Player) যুক্ত গেম বেছে নিন, যেমন [Golden Empire](/blog/golden-empire-slot-review-strategy/) বা [Money Coming](/blog/money-coming-slot-review-strategy/)। এছাড়াও, আপনার ব্যাঙ্করোল ম্যানেজমেন্ট ঠিক রাখুন এবং বোনাস রাউন্ডের সদ্ব্যবহার করুন।"
 ---
 
 <p class="lead">অনলাইন ক্যাসিনো জগতে <strong>Jili Games</strong> বর্তমানে সবচেয়ে আলোচিত নামগুলোর মধ্যে একটি। তাদের চমৎকার গ্রাফিক্স, উত্তেজনাপূর্ণ গেমপ্লে এবং বিশাল জয়ের সম্ভাবনার কারণে বাংলাদেশের খেলোয়াড়দের কাছে জিলি স্লট অত্যন্ত জনপ্রিয়।</p>
