@@ -41,7 +41,7 @@ howto:
 4.  **গ্লোবাল অ্যাক্সেস (Global Access):** আপনি বিশ্বের যেকোনো প্রান্ত থেকে সহজেই লেনদেন করতে পারেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/crypto-wallet-deposit-process.avif" type="image/avif">
+  <source srcset="/assets/blog/crypto-wallet-deposit-process-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/crypto-wallet-deposit-process-optimized.webp" type="image/webp">
   <img src="/assets/blog/crypto-wallet-deposit-process-optimized.webp" alt="Process of depositing money using a crypto wallet like Binance or Trust Wallet." loading="lazy" decoding="async">
 </picture>

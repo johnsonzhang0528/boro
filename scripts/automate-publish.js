@@ -217,6 +217,18 @@ async function main() {
                 // The regex above handles HTML attributes. We need another pass for Markdown if mixed.
                 const mdRegex = new RegExp(`(!\\[.*?\\]\\()${escapedPath}(\\))`, 'g');
                 content = content.replace(mdRegex, `$1${path.dirname(img.capturedPath)}/${optimizedBase}.webp$2`);
+
+                // 4. Handle corresponding .avif reference if the current file is .webp
+                // This fixes the issue where <source srcset="...avif"> is not updated because the .avif file doesn't exist yet
+                if (path.extname(img.capturedPath) === '.webp') {
+                    const avifPathStr = img.capturedPath.replace(/\.webp$/, '.avif');
+                    const escapedAvifPath = escapeRegExp(avifPathStr);
+                    const avifRegex = new RegExp(`(src|srcset)=["']${escapedAvifPath}["']`, 'g');
+                    
+                    content = content.replace(avifRegex, (match, attr) => {
+                        return `${attr}="${path.dirname(img.capturedPath)}/${optimizedBase}.avif"`;
+                    });
+                }
             }
 
         } catch (error) {
