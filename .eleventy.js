@@ -49,8 +49,9 @@ module.exports = function(eleventyConfig) {
   });
 
   // Add 'now' global data for date comparisons (using Asia/Dhaka timezone)
+  // We add 6 hours to match Eleventy's default UTC date parsing for Front Matter
   eleventyConfig.addGlobalData("now", () => {
-    return DateTime.now().setZone('Asia/Dhaka').toJSDate();
+    return DateTime.now().plus({ hours: 6 }).toJSDate();
   });
 
   eleventyConfig.addPlugin(pluginRss);
@@ -129,7 +130,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("post", (api) => {
     return api.getFilteredByTag("post")
       .filter(item => !item.data.draft)
-      .filter(item => (item.date || item.data.date) <= DateTime.now().setZone('Asia/Dhaka').toJSDate())
+      .filter(item => (item.date || item.data.date) <= DateTime.now().plus({ hours: 6 }).toJSDate())
       .sort((a,b) => (b.date || b.data.date) - (a.date || a.data.date));
   });
 
