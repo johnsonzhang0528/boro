@@ -239,11 +239,9 @@ async function main() {
     // 3. Date Scheduling
     console.log('📅 Scheduling post...');
     
-    // Find the latest date among all OTHER posts
-    let maxDate = DateTime.now().minus({ days: 1 }); // Default to yesterday if no posts
-    
-    // Ensure 'files' is defined. If we used argFile, 'files' might not be populated yet.
     const allFiles = await glob(`${BLOG_DIR}/*.md`);
+    const dateCounts = {};
+    let maxDate = null;
 
     for (const file of allFiles) {
         if (file === targetFile) continue; // Skip the current file being edited
@@ -251,17 +249,46 @@ async function main() {
         const fileContent = fs.readFileSync(file, 'utf8');
         const dateMatch = fileContent.match(/date:\s*(\d{4}-\d{2}-\d{2})/);
         if (dateMatch) {
-            const date = DateTime.fromISO(dateMatch[1]);
-            if (date > maxDate) {
+            const dateStr = dateMatch[1];
+            const date = DateTime.fromISO(dateStr);
+            
+            dateCounts[dateStr] = (dateCounts[dateStr] || 0) + 1;
+
+            if (!maxDate || date > maxDate) {
                 maxDate = date;
             }
         }
     }
 
-    const newDate = maxDate.plus({ days: 1 });
+    const today = DateTime.now().startOf('day');
+    let newDate;
+    const MAX_POSTS_PER_DAY = 2;
+
+    if (!maxDate || maxDate < today) {
+        // If no posts or last post is in the past, check today's slots
+        const todayStr = today.toISODate();
+        const todayCount = dateCounts[todayStr] || 0;
+        
+        if (todayCount < MAX_POSTS_PER_DAY) {
+            newDate = today;
+        } else {
+            newDate = today.plus({ days: 1 });
+        }
+    } else {
+        // Last post is today or future
+        const maxDateStr = maxDate.toISODate();
+        const maxDateCount = dateCounts[maxDateStr] || 0;
+
+        if (maxDateCount < MAX_POSTS_PER_DAY) {
+            newDate = maxDate;
+        } else {
+            newDate = maxDate.plus({ days: 1 });
+        }
+    }
+
     const newDateStr = newDate.toISODate();
-    console.log(`   Latest existing post: ${maxDate.toISODate()}`);
-    console.log(`   New post date: ${newDateStr}`);
+    console.log(`   Latest existing post: ${maxDate ? maxDate.toISODate() : 'None'}`);
+    console.log(`   New post date: ${newDateStr} (Daily Limit: ${MAX_POSTS_PER_DAY})`);
 
     // Update Frontmatter
     content = content.replace(/date:\s*(\d{4}-\d{2}-\d{2})/, `date: ${newDateStr}`);
