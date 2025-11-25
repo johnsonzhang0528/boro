@@ -73,7 +73,7 @@ faq:
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
-  ### একটি দ্রুত এবং সস্তা ডিপোজিট করতে প্রস্তুত?
+  <h3>একটি দ্রুত এবং সস্তা ডিপোজিট করতে প্রস্তুত?</h3>
   <p>BoroJeet তাৎক্ষণিক ডিপোজিটের জন্য Nagad এবং bKash উভয়ই সমর্থন করে। দ্রুত এবং কম ফিতে খেলা শুরু করুন।</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই BoroJeet-এ যোগ দিন</a>
 </div>

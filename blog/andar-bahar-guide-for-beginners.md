@@ -50,7 +50,7 @@ faq:
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
-  ### অন্দর বাহারের রোমাঞ্চ উপভোগ করতে প্রস্তুত?
+  <h3>অন্দর বাহারের রোমাঞ্চ উপভোগ করতে প্রস্তুত?</h3>
   <p>BoroJeet-এ লাইভ ডিলারদের সাথে অন্দর বাহার খেলুন এবং আপনার ভাগ্য পরীক্ষা করুন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই অন্দর বাহার খেলুন</a>
 </div>

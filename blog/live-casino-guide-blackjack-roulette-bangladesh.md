@@ -53,7 +53,7 @@ faq:
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
-  ### লাইভ ডিলারের সাথে খেলার জন্য প্রস্তুত?
+  <h3>লাইভ ডিলারের সাথে খেলার জন্য প্রস্তুত?</h3>
   <p>BoroJeet-এ লাইভ ব্ল্যাকজ্যাক এবং রুলেট টেবিলের রোমাঞ্চ উপভোগ করুন।</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই যোগ দিন</a>
 </div>
@@ -123,7 +123,7 @@ faq:
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
-  ### আপনার বাজি ধরতে প্রস্তুত?
+  <h3>আপনার বাজি ধরতে প্রস্তুত?</h3>
   <p>রুলেটের বিভিন্ন বেটিং অপশন সম্পর্কে জানুন এবং BoroJeet-এ আপনার কৌশল পরীক্ষা করুন।</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই রুলেট খেলুন</a>
 </div>
