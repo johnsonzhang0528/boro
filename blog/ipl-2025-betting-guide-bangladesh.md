@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: IPL 2025 Betting Guide for Bangladesh: Odds, Teams & Tips (IPL 2025 বেটিং গাইড: অডস, দল এবং টিপস)
+title: "IPL 2025 Betting Guide for Bangladesh: Odds, Teams & Tips (IPL 2025 বেটিং গাইড: অডস, দল এবং টিপস)"
 description: The Indian Premier League is back! Find out how to bet on IPL 2025 from Bangladesh with Borojeet. (ইন্ডিয়ান প্রিমিয়ার লিগ ফিরে এসেছে! বাংলাদেশ থেকে IPL 2025 এ কীভাবে বাজি ধরবেন তা জানুন।)
 date: 2025-12-11
 lastUpdated: 2025-12-11

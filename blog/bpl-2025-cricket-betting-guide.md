@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: BPL 2025 Betting Guide: Teams, Odds, and Predictions (BPL 2025 বেটিং গাইড: দল, অডস এবং ভবিষ্যদ্বাণী)
+title: "BPL 2025 Betting Guide: Teams, Odds, and Predictions (BPL 2025 বেটিং গাইড: দল, অডস এবং ভবিষ্যদ্বাণী)"
 description: Get ready for the Bangladesh Premier League 2025! Learn how to bet on BPL matches, find the best odds, and read our expert predictions. (বাংলাদেশ প্রিমিয়ার লিগ ২০২৫ এর জন্য প্রস্তুত হন!)
 date: 2025-12-11
 lastUpdated: 2025-12-11

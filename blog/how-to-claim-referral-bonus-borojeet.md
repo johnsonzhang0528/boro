@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: How to Claim Referral Bonus on Borojeet: Earn Unlimited Cash (Borojeet এ রেফারেল বোনাস কিভাবে দাবি করবেন: আনলিমিটেড ক্যাশ আয় করুন)
+title: "How to Claim Referral Bonus on Borojeet: Earn Unlimited Cash (Borojeet এ রেফারেল বোনাস কিভাবে দাবি করবেন: আনলিমিটেড ক্যাশ আয় করুন)"
 description: Invite your friends to Borojeet and earn lifetime commissions. Follow our step-by-step guide to claim your referral bonus today. (আপনার বন্ধুদের Borojeet এ আমন্ত্রণ জানান এবং আজীবন কমিশন আয় করুন।)
 date: 2025-12-13
 lastUpdated: 2025-12-13

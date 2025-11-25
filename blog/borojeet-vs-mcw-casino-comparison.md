@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Borojeet vs MCW Casino: A Comprehensive Comparison (Borojeet বনাম MCW Casino: একটি বিস্তারিত তুলনা)
+title: "Borojeet vs MCW Casino: A Comprehensive Comparison (Borojeet বনাম MCW Casino: একটি বিস্তারিত তুলনা)"
 description: Compare Borojeet and MCW Casino to find the best platform for you. We cover sports betting, casino games, and payment options. (Borojeet এবং MCW Casino এর তুলনা।)
 date: 2025-12-10
 lastUpdated: 2025-12-10

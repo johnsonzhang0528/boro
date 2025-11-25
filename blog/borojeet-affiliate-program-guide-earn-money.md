@@ -7,7 +7,7 @@ date: 2025-12-08
 lastUpdated: 2025-12-08
 ogImage: "og-borojeet-affiliate-program-optimized.webp"
 ogImageAlt: "A professional graphic showing a growing graph of earnings and the BoroJeet Affiliate logo. (BoroJeet অ্যাফিলিয়েট লোগো এবং আয়ের গ্রাফ সহ একটি পেশাদার গ্রাফিক।)"
-tags: ["post", "borojeet", "guide", "affiliate", "earn money"]
+tags: ["post", "borojeet", "guide", "affiliate", "earn-money"]
 faq:
   - question: "How much commission can I earn with BoroJeet Affiliate?"
     answer: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে আপনি আপনার রেফার করা খেলোয়াড়দের নেট লস (Net Loss) এর ওপর ভিত্তি করে ৪০% পর্যন্ত কমিশন আয় করতে পারেন।"

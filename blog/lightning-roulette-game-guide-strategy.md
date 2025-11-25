@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Lightning Roulette Guide: Rules, Payouts & Strategy (লাইটেনিং রুলেট গাইড: নিয়ম, পেআউট এবং কৌশল)
+title: "Lightning Roulette Guide: Rules, Payouts & Strategy (লাইটেনিং রুলেট গাইড: নিয়ম, পেআউট এবং কৌশল)"
 description: Experience the electrifying Lightning Roulette by Evolution. Learn how lucky numbers can multiply your winnings up to 500x. (ইভোলিউশনের লাইটেনিং রুলেটের অভিজ্ঞতা নিন।)
 date: 2025-12-12
 lastUpdated: 2025-12-12

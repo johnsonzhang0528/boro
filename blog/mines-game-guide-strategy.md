@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Mines Game Guide: How to Play & Win (মাইনস গেম গাইড: কিভাবে খেলবেন এবং জিতবেন)
+title: "Mines Game Guide: How to Play & Win (মাইনস গেম গাইড: কিভাবে খেলবেন এবং জিতবেন)"
 description: Mines is a thrilling strategy game where you avoid hidden mines to multiply your bet. Learn the best strategies to win big on Borojeet. (মাইনস একটি রোমাঞ্চকর কৌশল গেম।)
 date: 2025-12-13
 lastUpdated: 2025-12-13
