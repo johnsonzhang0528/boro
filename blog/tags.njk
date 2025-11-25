@@ -44,7 +44,11 @@ permalink: /blog/tag/{{ tag | slug }}/
           <picture>
              <source srcset="/assets/og/{{ post.data.ogImage | replace('.webp', '.avif') }}" type="image/avif">
              <source srcset="/assets/og/{{ post.data.ogImage }}" type="image/webp">
-             <img src="/assets/og/{{ post.data.ogImage }}" alt="{{ post.data.ogImageAlt or post.data.title }}" loading="lazy" width="300" height="169">
+             {% if loop.first %}
+               <img src="/assets/og/{{ post.data.ogImage }}" alt="{{ post.data.ogImageAlt or post.data.title }}" width="300" height="169" fetchpriority="high">
+             {% else %}
+               <img src="/assets/og/{{ post.data.ogImage }}" alt="{{ post.data.ogImageAlt or post.data.title }}" loading="lazy" width="300" height="169">
+             {% endif %}
           </picture>
         </a>
         <div class="card-meta">{{ post.date | date("LLLL dd, yyyy") }}</div>
