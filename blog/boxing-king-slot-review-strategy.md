@@ -28,7 +28,7 @@ howto:
       text: Consecutive wins trigger combo multipliers.
 ---
 
-<p class="lead">Boxing King (বক্সিং কিং) Jili Games-এর একটি অ্যাকশন-প্যাকড স্লট গেম যা আপনাকে বক্সিং রিংয়ের উত্তেজনা অনুভব করাবে। এই গেমটি তার Combo Multiplier ফিচারের জন্য বিখ্যাত।</p>
+<p class="lead">Boxing King (বক্সিং কিং) [Jili Games](/blog/top-5-jili-slots-games-on-borojeet/)-এর একটি অ্যাকশন-প্যাকড [স্লট গেম](/blog/online-slots-guide-for-beginners/) যা আপনাকে বক্সিং রিংয়ের উত্তেজনা অনুভব করাবে। এই গেমটি তার Combo Multiplier ফিচারের জন্য বিখ্যাত।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/boxing-king-slot-gameplay-optimized.avif" type="image/avif">

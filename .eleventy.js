@@ -129,7 +129,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("post", (api) => {
     return api.getFilteredByTag("post")
       .filter(item => !item.data.draft)
-      .filter(item => (item.date || item.data.date) <= new Date())
+      .filter(item => (item.date || item.data.date) <= DateTime.now().setZone('Asia/Dhaka').toJSDate())
       .sort((a,b) => (b.date || b.data.date) - (a.date || a.data.date));
   });
 

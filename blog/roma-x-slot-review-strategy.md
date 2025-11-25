@@ -28,7 +28,7 @@ howto:
       text: In the bonus game, choose an option to attack the lion for prizes.
 ---
 
-<p class="lead">Roma X (রোমা এক্স) Jili Games-এর একটি আইকনিক স্লট গেম যা আপনাকে রোমান গ্ল্যাডিয়েটরদের যুগে নিয়ে যাবে। সিংহ এবং গ্ল্যাডিয়েটরের লড়াই এই গেমের প্রধান আকর্ষণ।</p>
+<p class="lead">Roma X (রোমা এক্স) [Jili Games](/blog/top-5-jili-slots-games-on-borojeet/)-এর একটি আইকনিক [স্লট গেম](/blog/online-slots-guide-for-beginners/) যা আপনাকে রোমান গ্ল্যাডিয়েটরদের যুগে নিয়ে যাবে। সিংহ এবং গ্ল্যাডিয়েটরের লড়াই এই গেমের প্রধান আকর্ষণ।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/roma-x-slot-gameplay-optimized.avif" type="image/avif">

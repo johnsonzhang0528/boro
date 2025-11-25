@@ -28,7 +28,7 @@ howto:
       text: Land 4 or more Scatter symbols to trigger the Free Game feature.
 ---
 
-<p class="lead">Golden Empire (গোল্ডেন এম্পায়ার) Jili Games-এর অন্যতম জনপ্রিয় স্লট গেম, যা তার উচ্চ RTP এবং রোমাঞ্চকর গেমপ্লে-এর জন্য পরিচিত। এই আর্টিকেলে আমরা এই গেমের বিস্তারিত আলোচনা করব।</p>
+<p class="lead">Golden Empire (গোল্ডেন এম্পায়ার) [Jili Games](/blog/top-5-jili-slots-games-on-borojeet/)-এর অন্যতম জনপ্রিয় [স্লট গেম](/blog/online-slots-guide-for-beginners/), যা তার উচ্চ RTP এবং রোমাঞ্চকর গেমপ্লে-এর জন্য পরিচিত। এই আর্টিকেলে আমরা এই গেমের বিস্তারিত আলোচনা করব।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/golden-empire-slot-gameplay-screenshot-optimized.avif" type="image/avif">

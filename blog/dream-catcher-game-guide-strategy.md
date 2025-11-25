@@ -28,7 +28,7 @@ howto:
       text: If the wheel stops on your number, you win according to the payout table.
 ---
 
-<p class="lead">Dream Catcher (ড্রিম ক্যাচার) Evolution Gaming-এর একটি অত্যন্ত জনপ্রিয় লাইভ ক্যাসিনো গেম। এটি একটি বিশাল মানি হুইল গেম যা খেলা খুবই সহজ এবং উত্তেজনাপূর্ণ।</p>
+<p class="lead">Dream Catcher (ড্রিম ক্যাচার) [Evolution Gaming](/blog/top-5-live-casino-games-on-borojeet/)-এর একটি অত্যন্ত জনপ্রিয় [লাইভ ক্যাসিনো গেম](/blog/live-casino-guide-blackjack-roulette-bangladesh/)। এটি একটি বিশাল মানি হুইল গেম যা খেলা খুবই সহজ এবং উত্তেজনাপূর্ণ।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/dream-catcher-wheel-spin-optimized.avif" type="image/avif">

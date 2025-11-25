@@ -25,7 +25,7 @@ howto:
       text: Enter your stake and confirm your bet slip.
 ---
 
-<p class="lead">Basketball (বাস্কেটবল), বিশেষ করে NBA, সারা বিশ্বে অত্যন্ত জনপ্রিয়। এর দ্রুত গতি এবং উচ্চ স্কোরের কারণে এটি বেটিং এর জন্য একটি আদর্শ খেলা।</p>
+<p class="lead">Basketball (বাস্কেটবল), বিশেষ করে NBA, সারা বিশ্বে অত্যন্ত জনপ্রিয়। এর দ্রুত গতি এবং উচ্চ স্কোরের কারণে এটি [বেটিং এর জন্য](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) একটি আদর্শ খেলা।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/basketball-game-action-optimized.avif" type="image/avif">

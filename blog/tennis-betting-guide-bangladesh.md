@@ -25,7 +25,7 @@ howto:
       text: Click on the odds and enter your stake in the bet slip.
 ---
 
-<p class="lead">Tennis (টেনিস) বিশ্বের অন্যতম জনপ্রিয় খেলা এবং বেটিং এর জন্য এটি অত্যন্ত রোমাঞ্চকর। গ্র্যান্ড স্ল্যাম থেকে শুরু করে ছোট টুর্নামেন্ট, সারা বছরই টেনিস বেটিং এর সুযোগ থাকে।</p>
+<p class="lead">Tennis (টেনিস) বিশ্বের অন্যতম জনপ্রিয় খেলা এবং [বেটিং এর জন্য](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) এটি অত্যন্ত রোমাঞ্চকর। গ্র্যান্ড স্ল্যাম থেকে শুরু করে ছোট টুর্নামেন্ট, সারা বছরই টেনিস বেটিং এর সুযোগ থাকে।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/tennis-match-action-shot-optimized.avif" type="image/avif">
