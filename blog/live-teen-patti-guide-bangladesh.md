@@ -48,7 +48,7 @@ faq:
         style="width: 100%; height: auto; max-width: 800px; border-radius: 8px; display: block; margin: 0 auto;">
     </picture>
   </figure>
-  ### টিন পট্টির কৌশল আয়ত্ত করতে প্রস্তুত?
+  <h3>টিন পট্টির কৌশল আয়ত্ত করতে প্রস্তুত?</h3>
   <p>BoroJeet-এ লাইভ ডিলারদের সাথে টিন পট্টি খেলুন এবং আপনার দক্ষতা পরীক্ষা করুন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">এখনই টিন পট্টি খেলুন</a>
 </div>
