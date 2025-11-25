@@ -9,19 +9,19 @@ ogImage: casino-myths-debunked-og-optimized.webp
 ogImageAlt: Myth vs Fact Concept Art. ভুল ধারণা বনাম সত্য।
 tags: [post, guide, myths, facts, casino]
 faq:
-  - question: Are online slots rigged?
-    answer: No, licensed casinos use Random Number Generators (RNG) to ensure fair and random outcomes.
-  - question: Does playing at night increase winning chances?
-    answer: No, the time of day has no impact on the game's outcome as it is determined by RNG.
+  - question: Are online slots rigged? (অনলাইন স্লট কি কারচুপি করা হয়?)
+    answer: No, licensed casinos use Random Number Generators (RNG) to ensure fair and random outcomes. (না, লাইসেন্সপ্রাপ্ত ক্যাসিনোগুলি ন্যায্য এবং দৈব ফলাফল নিশ্চিত করতে র‍্যান্ডম নম্বর জেনারেটর (RNG) ব্যবহার করে।)
+  - question: Does playing at night increase winning chances? (রাতে খেললে কি জেতার সম্ভাবনা বাড়ে?)
+    answer: No, the time of day has no impact on the game's outcome as it is determined by RNG. (না, দিনের সময়ের উপর গেমের ফলাফলের কোনো প্রভাব নেই কারণ এটি RNG দ্বারা নির্ধারিত হয়।)
 howto:
-  name: How to Spot a Myth
-  description: Tips to identify gambling myths.
+  name: How to Spot a Myth (কিভাবে ভুল ধারণা চিনবেন)
+  description: Tips to identify gambling myths. (জুয়া সম্পর্কিত ভুল ধারণা চেনার টিপস।)
   steps:
-    - name: Check the Math
+    - name: Check the Math (গণিত যাচাই করুন)
       text: Understand that the house always has an edge.
-    - name: Ignore Superstitions
+    - name: Ignore Superstitions (কুসংস্কার এড়িয়ে চলুন)
       text: Lucky charms or rituals do not affect the software.
-    - name: Trust RNG
+    - name: Trust RNG (RNG-এর উপর বিশ্বাস রাখুন)
       text: Believe in the randomness of the certified software.
 ---
 

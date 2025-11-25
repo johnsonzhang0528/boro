@@ -12,19 +12,19 @@ review:
   item: "Golden Empire Slot"
   rating: 4.8
 faq:
-  - question: What is the RTP of Golden Empire?
-    answer: The RTP of Golden Empire is approximately 97.06%, making it a high-paying slot game.
-  - question: Can I play Golden Empire for free?
-    answer: Yes, you can play the demo version on Borojeet before wagering real money.
+  - question: What is the RTP of Golden Empire? (গোল্ডেন এম্পায়ারের RTP কত?)
+    answer: The RTP of Golden Empire is approximately 97.06%, making it a high-paying slot game. (গোল্ডেন এম্পায়ারের RTP প্রায় 97.06%, যা এটিকে একটি উচ্চ-পেয়িং স্লট গেম করে তোলে।)
+  - question: Can I play Golden Empire for free? (আমি কি বিনামূল্যে গোল্ডেন এম্পায়ার খেলতে পারি?)
+    answer: Yes, you can play the demo version on Borojeet before wagering real money. (হ্যাঁ, আপনি আসল টাকা বাজি ধরার আগে Borojeet-এ ডেমো সংস্করণ খেলতে পারেন।)
 howto:
-  name: How to Play Golden Empire Slot
-  description: Step-by-step guide to playing Golden Empire slot game.
+  name: How to Play Golden Empire Slot (কিভাবে গোল্ডেন এম্পায়ার স্লট খেলবেন)
+  description: Step-by-step guide to playing Golden Empire slot game. (গোল্ডেন এম্পায়ার স্লট গেম খেলার ধাপে ধাপে নির্দেশিকা।)
   steps:
-    - name: Set Your Bet
+    - name: Set Your Bet (আপনার বাজি সেট করুন)
       text: Adjust your bet size using the plus and minus buttons.
-    - name: Spin the Reels
+    - name: Spin the Reels (রিল স্পিন করুন)
       text: Click the spin button to start the game.
-    - name: Trigger Free Spins
+    - name: Trigger Free Spins (ফ্রি স্পিন ট্রিগার করুন)
       text: Land 4 or more Scatter symbols to trigger the Free Game feature.
 ---
 

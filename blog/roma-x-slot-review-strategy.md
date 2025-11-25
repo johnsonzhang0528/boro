@@ -12,19 +12,19 @@ review:
   item: "Roma X Slot"
   rating: 4.9
 faq:
-  - question: How do I enter the Bonus Game in Roma X?
-    answer: You need to clear 4 or more consecutive winning combos to trigger the Bonus Game.
-  - question: Is Roma X better than the original Roma slot?
-    answer: Roma X features updated graphics and smoother gameplay while keeping the classic mechanics loved by players.
+  - question: How do I enter the Bonus Game in Roma X? (কিভাবে রোমা এক্স বোনাস গেমে প্রবেশ করবেন?)
+    answer: You need to clear 4 or more consecutive winning combos to trigger the Bonus Game. (বোনাস গেম ট্রিগার করতে আপনাকে পরপর ৪ বা তার বেশি জয়ের কম্বো ক্লিয়ার করতে হবে।)
+  - question: Is Roma X better than the original Roma slot? (রোমা এক্স কি আসল রোমা স্লটের চেয়ে ভালো?)
+    answer: Roma X features updated graphics and smoother gameplay while keeping the classic mechanics loved by players. (রোমা এক্স-এ আপডেট করা গ্রাফিক্স এবং মসৃণ গেমপ্লে রয়েছে, পাশাপাশি খেলোয়াড়দের পছন্দের ক্লাসিক মেকানিক্স বজায় রাখা হয়েছে।)
 howto:
-  name: How to Play Roma X Slot
-  description: Step-by-step guide to playing Roma X slot game.
+  name: How to Play Roma X Slot (কিভাবে রোমা এক্স স্লট খেলবেন)
+  description: Step-by-step guide to playing Roma X slot game. (রোমা এক্স স্লট গেম খেলার ধাপে ধাপে নির্দেশিকা।)
   steps:
-    - name: Select Bet
+    - name: Select Bet (বাজি নির্বাচন করুন)
       text: Choose your wager amount.
-    - name: Spin
+    - name: Spin (স্পিন)
       text: Click the spin button to start the battle.
-    - name: Fight the Lion
+    - name: Fight the Lion (সিংহের সাথে লড়াই)
       text: In the bonus game, choose an option to attack the lion for prizes.
 ---
 

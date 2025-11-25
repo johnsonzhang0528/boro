@@ -12,19 +12,19 @@ review:
   item: "Mega Ball Live"
   rating: 4.9
 faq:
-  - question: How many cards can I buy in Mega Ball?
-    answer: You can buy up to 200 cards per game round.
-  - question: What is the Mega Ball multiplier?
-    answer: The final ball drawn is the Mega Ball, which can have a multiplier from 5x to 100x.
+  - question: How many cards can I buy in Mega Ball? (মেগা বলে আমি কয়টি কার্ড কিনতে পারি?)
+    answer: You can buy up to 200 cards per game round. (আপনি প্রতি গেম রাউন্ডে ২০০টি পর্যন্ত কার্ড কিনতে পারেন।)
+  - question: What is the Mega Ball multiplier? (মেগা বল মাল্টিপ্লায়ার কী?)
+    answer: The final ball drawn is the Mega Ball, which can have a multiplier from 5x to 100x. (শেষ বলটি হলো মেগা বল, যার মাল্টিপ্লায়ার 5x থেকে 100x পর্যন্ত হতে পারে।)
 howto:
-  name: How to Play Mega Ball
-  description: Step-by-step guide to playing Mega Ball live game.
+  name: How to Play Mega Ball (কিভাবে মেগা বল খেলবেন)
+  description: Step-by-step guide to playing Mega Ball live game. (মেগা বল লাইভ গেম খেলার ধাপে ধাপে নির্দেশিকা।)
   steps:
-    - name: Buy Cards
+    - name: Buy Cards (কার্ড কিনুন)
       text: Purchase your bingo-style cards.
-    - name: Ball Draw
+    - name: Ball Draw (বল ড্র)
       text: Watch as 20 balls are drawn from the machine.
-    - name: Mega Ball
+    - name: Mega Ball (মেগা বল)
       text: The final ball adds a multiplier to your winnings.
 ---
 

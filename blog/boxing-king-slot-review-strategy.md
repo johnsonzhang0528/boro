@@ -12,19 +12,19 @@ review:
   item: "Boxing King Slot"
   rating: 4.7
 faq:
-  - question: How do I trigger Free Spins in Boxing King?
-    answer: You need to land 3 or more Scatter symbols (Bell icon) to trigger the Free Spins round.
-  - question: What is the max win in Boxing King?
-    answer: The maximum win potential in Boxing King is 2000x your bet.
+  - question: How do I trigger Free Spins in Boxing King? (বক্সিং কিং-এ ফ্রি স্পিন কিভাবে ট্রিগার করবেন?)
+    answer: You need to land 3 or more Scatter symbols (Bell icon) to trigger the Free Spins round. (ফ্রি স্পিন রাউন্ড ট্রিগার করতে আপনাকে ৩ বা তার বেশি স্ক্যাটার সিম্বল (বেল আইকন) পেতে হবে।)
+  - question: What is the max win in Boxing King? (বক্সিং কিং-এ সর্বোচ্চ জয় কত?)
+    answer: The maximum win potential in Boxing King is 2000x your bet. (বক্সিং কিং-এ সর্বোচ্চ জয়ের সম্ভাবনা আপনার বাজির ২০০০ গুণ।)
 howto:
-  name: How to Play Boxing King Slot
-  description: Step-by-step guide to playing Boxing King slot game.
+  name: How to Play Boxing King Slot (কিভাবে বক্সিং কিং স্লট খেলবেন)
+  description: Step-by-step guide to playing Boxing King slot game. (বক্সিং কিং স্লট গেম খেলার ধাপে ধাপে নির্দেশিকা।)
   steps:
-    - name: Choose Your Bet
+    - name: Choose Your Bet (আপনার বাজি নির্বাচন করুন)
       text: Select your bet amount before spinning.
-    - name: Spin
+    - name: Spin (স্পিন)
       text: Press the spin button to start the match.
-    - name: Watch for Combos
+    - name: Watch for Combos (কম্বো লক্ষ্য করুন)
       text: Consecutive wins trigger combo multipliers.
 ---
 

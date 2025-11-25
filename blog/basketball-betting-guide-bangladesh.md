@@ -9,19 +9,19 @@ ogImage: basketball-betting-guide-og-optimized.webp
 ogImageAlt: Basketball Hoop and Ball. বাস্কেটবল হুপ এবং বল।
 tags: [post, sports-betting, basketball, guide, strategy]
 faq:
-  - question: What is a Point Spread in basketball?
-    answer: It's a handicap given to the underdog to level the playing field. For example, Lakers -5.5 means they must win by 6 or more points.
-  - question: Can I bet on NBA games from Bangladesh?
-    answer: Yes, Borojeet covers all major basketball leagues including the NBA, EuroLeague, and more.
+  - question: What is a Point Spread in basketball? (বাস্কেটবলে পয়েন্ট স্প্রেড কী?)
+    answer: It's a handicap given to the underdog to level the playing field. For example, Lakers -5.5 means they must win by 6 or more points. (এটি আন্ডারডগ দলকে দেওয়া একটি হ্যান্ডিক্যাপ যা খেলার মাঠ সমান করে। উদাহরণস্বরূপ, Lakers -5.5 মানে তাদের ৬ বা তার বেশি পয়েন্টে জিততে হবে।)
+  - question: Can I bet on NBA games from Bangladesh? (আমি কি বাংলাদেশ থেকে NBA গেমে বাজি ধরতে পারি?)
+    answer: Yes, Borojeet covers all major basketball leagues including the NBA, EuroLeague, and more. (হ্যাঁ, Borojeet NBA, EuroLeague এবং আরও অনেক বড় বাস্কেটবল লিগ কভার করে।)
 howto:
-  name: How to Bet on Basketball
-  description: Step-by-step guide to placing basketball bets.
+  name: How to Bet on Basketball (কিভাবে বাস্কেটবলে বাজি ধরবেন)
+  description: Step-by-step guide to placing basketball bets. (বাস্কেটবল বাজি ধরার ধাপে ধাপে নির্দেশিকা।)
   steps:
-    - name: Choose League
+    - name: Choose League (লিগ নির্বাচন করুন)
       text: Select NBA or any other league from the menu.
-    - name: Analyze Odds
+    - name: Analyze Odds (অডস বিশ্লেষণ করুন)
       text: Check the spread, moneyline, and total points odds.
-    - name: Confirm Bet
+    - name: Confirm Bet (বাজি নিশ্চিত করুন)
       text: Enter your stake and confirm your bet slip.
 ---
 

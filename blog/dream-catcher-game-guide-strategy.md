@@ -12,19 +12,19 @@ review:
   item: "Dream Catcher Live"
   rating: 4.8
 faq:
-  - question: What is the maximum payout in Dream Catcher?
-    answer: The maximum payout is capped at ৳50,000,000 (or currency equivalent).
-  - question: Are there multipliers in Dream Catcher?
-    answer: Yes, the 2x and 7x multiplier segments can boost your winnings significantly.
+  - question: What is the maximum payout in Dream Catcher? (ড্রিম ক্যাচারে সর্বোচ্চ পেআউট কত?)
+    answer: The maximum payout is capped at ৳50,000,000 (or currency equivalent). (সর্বোচ্চ পেআউট ৳৫০,০০০,০০০ (বা সমতুল্য মুদ্রা) পর্যন্ত সীমাবদ্ধ।)
+  - question: Are there multipliers in Dream Catcher? (ড্রিম ক্যাচারে কি মাল্টিপ্লায়ার আছে?)
+    answer: Yes, the 2x and 7x multiplier segments can boost your winnings significantly. (হ্যাঁ, 2x এবং 7x মাল্টিপ্লায়ার সেগমেন্টগুলি আপনার জয়কে উল্লেখযোগ্যভাবে বাড়িয়ে তুলতে পারে।)
 howto:
-  name: How to Play Dream Catcher
-  description: Step-by-step guide to playing Dream Catcher live game.
+  name: How to Play Dream Catcher (কিভাবে ড্রিম ক্যাচার খেলবেন)
+  description: Step-by-step guide to playing Dream Catcher live game. (ড্রিম ক্যাচার লাইভ গেম খেলার ধাপে ধাপে নির্দেশিকা।)
   steps:
-    - name: Place Your Bets
+    - name: Place Your Bets (আপনার বাজি ধরুন)
       text: Bet on numbers 1, 2, 5, 10, 20, or 40.
-    - name: Wheel Spin
+    - name: Wheel Spin (চাকা ঘোরানো)
       text: The live host spins the wheel.
-    - name: Win
+    - name: Win (জয়)
       text: If the wheel stops on your number, you win according to the payout table.
 ---
 
