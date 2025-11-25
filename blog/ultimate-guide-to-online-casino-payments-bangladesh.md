@@ -39,6 +39,10 @@ faq:
 ### অন্যান্য পদ্ধতি
 কিছু সাইট রকেট, উপায় বা এমনকি ব্যাংক ট্রান্সফারের মতো বিকল্পও অফার করে। তবে সুবিধা এবং প্রাপ্যতার দিক থেকে বিকাশ ও নগদই সেরা।
 
+### ক্রিপ্টোকারেন্সি (Cryptocurrency)
+আধুনিক খেলোয়াড়দের জন্য, ক্রিপ্টোকারেন্সি (যেমন USDT, Bitcoin) একটি নিরাপদ এবং গোপনীয় লেনদেনের মাধ্যম। এটি বিশেষ করে বড় লেনদেনের জন্য উপযোগী।
+*   **বিস্তারিত গাইড:** **[আমাদের ক্রিপ্টোকারেন্সি ডিপোজিট গাইড পড়ুন](/blog/cryptocurrency-deposit-guide-bangladesh-casinos/)**।
+
 <picture class="hero-image" data-critical="true">
 <source srcset="/assets/blog/bkash-vs-nagad-comparison-optimized.avif" type="image/avif">
 <source srcset="/assets/blog/bkash-vs-nagad-comparison-optimized.webp" type="image/webp">
