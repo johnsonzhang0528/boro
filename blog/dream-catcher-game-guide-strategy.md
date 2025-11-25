@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Dream Catcher Game Guide: Strategy & Big Wins (ড্রিম ক্যাচার গেম গাইড)
+title: "Dream Catcher Game Guide: Strategy & Big Wins (ড্রিম ক্যাচার গেম গাইড)"
 description: Learn how to play Dream Catcher by Evolution Gaming. Master the money wheel strategy and win up to 40x multipliers. ড্রিম ক্যাচার গেমের নিয়ম এবং জয়ের কৌশল।
 date: 2025-12-15
 lastUpdated: 2025-12-15
@@ -31,6 +31,8 @@ howto:
 <p class="lead">Dream Catcher (ড্রিম ক্যাচার) Evolution Gaming-এর একটি অত্যন্ত জনপ্রিয় লাইভ ক্যাসিনো গেম। এটি একটি বিশাল মানি হুইল গেম যা খেলা খুবই সহজ এবং উত্তেজনাপূর্ণ।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/dream-catcher-wheel-spin-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/dream-catcher-wheel-spin-optimized.webp" type="image/webp">
   <img src="/assets/blog/dream-catcher-wheel-spin-optimized.webp" alt="Dream Catcher Wheel Spin">
 </picture>
 
@@ -59,6 +61,8 @@ Dream Catcher খেলা শুরু করার জন্য:
 যদি চাকা **2x** বা **7x** মাল্টিপ্লায়ার সেগমেন্টে থামে, তবে সমস্ত বাজি পরবর্তী স্পিনের জন্য বহাল থাকে। পরবর্তী স্পিনে যে নম্বরটি জিতবে, তার পে-আউট মাল্টিপ্লায়ার দ্বারা গুণ করা হবে।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/dream-catcher-live-studio-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/dream-catcher-live-studio-optimized.webp" type="image/webp">
   <img src="/assets/blog/dream-catcher-live-studio-optimized.webp" alt="Dream Catcher Live Studio Atmosphere">
 </picture>
 

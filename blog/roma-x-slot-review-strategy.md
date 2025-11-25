@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Roma X Slot Review: Battle for Glory & Riches (রোমা এক্স স্লট রিভিউ)
+title: "Roma X Slot Review: Battle for Glory & Riches (রোমা এক্স স্লট রিভিউ)"
 description: Join the gladiator arena in Jili's Roma X slot. Fight lions, trigger bonus games, and win big. রোমা এক্স স্লট গেমের বিস্তারিত রিভিউ এবং বোনাস গেম গাইড।
 date: 2025-12-15
 lastUpdated: 2025-12-15
@@ -31,6 +31,8 @@ howto:
 <p class="lead">Roma X (রোমা এক্স) Jili Games-এর একটি আইকনিক স্লট গেম যা আপনাকে রোমান গ্ল্যাডিয়েটরদের যুগে নিয়ে যাবে। সিংহ এবং গ্ল্যাডিয়েটরের লড়াই এই গেমের প্রধান আকর্ষণ।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/roma-x-slot-gameplay-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/roma-x-slot-gameplay-optimized.webp" type="image/webp">
   <img src="/assets/blog/roma-x-slot-gameplay-optimized.webp" alt="Roma X Slot Gameplay Screenshot">
 </picture>
 
@@ -62,6 +64,8 @@ Roma X-এর সবচেয়ে রোমাঞ্চকর অংশ হল
 *   **Shield (ঢাল):** সিংহের আক্রমণ প্রতিহত করে।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/roma-x-bonus-game-lion-fight-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/roma-x-bonus-game-lion-fight-optimized.webp" type="image/webp">
   <img src="/assets/blog/roma-x-bonus-game-lion-fight-optimized.webp" alt="Roma X Bonus Game Lion Fight">
 </picture>
 

@@ -28,6 +28,8 @@ howto:
 <p class="lead">অনলাইন ক্যাসিনো খেলার সময় নিরাপত্তা সবচেয়ে গুরুত্বপূর্ণ বিষয়। ইন্টারনেটে অনেক সাইট থাকলেও সবাই নিরাপদ নয়। এই গাইডে আমরা আলোচনা করব কিভাবে আপনি একটি নিরাপদ এবং বিশ্বাসযোগ্য ক্যাসিনো নির্বাচন করবেন।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/online-casino-security-shield-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/online-casino-security-shield-optimized.webp" type="image/webp">
   <img src="/assets/blog/online-casino-security-shield-optimized.webp" alt="Online Casino Security Shield Concept">
 </picture>
 
@@ -55,6 +57,8 @@ Borojeet খেলোয়াড়দের নিরাপত্তার ব
 *   **24/7 Support:** যেকোনো সমস্যায় আমাদের সাপোর্ট টিম সর্বদা প্রস্তুত।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/secure-payment-methods-icons-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/secure-payment-methods-icons-optimized.webp" type="image/webp">
   <img src="/assets/blog/secure-payment-methods-icons-optimized.webp" alt="Secure Payment Methods Icons">
 </picture>
 

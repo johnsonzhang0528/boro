@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Golden Empire Slot Review: Winning Strategies & RTP (গোল্ডেন এম্পায়ার স্লট রিভিউ)
+title: "Golden Empire Slot Review: Winning Strategies & RTP (গোল্ডেন এম্পায়ার স্লট রিভিউ)"
 description: Discover the secrets of Jili's Golden Empire slot. Learn about RTP, volatility, and winning strategies. গোল্ডেন এম্পায়ার স্লট গেমের বিস্তারিত রিভিউ এবং জয়ের কৌশল জানুন।
 date: 2025-12-14
 lastUpdated: 2025-12-14
@@ -31,6 +31,8 @@ howto:
 <p class="lead">Golden Empire (গোল্ডেন এম্পায়ার) Jili Games-এর অন্যতম জনপ্রিয় স্লট গেম, যা তার উচ্চ RTP এবং রোমাঞ্চকর গেমপ্লে-এর জন্য পরিচিত। এই আর্টিকেলে আমরা এই গেমের বিস্তারিত আলোচনা করব।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/golden-empire-slot-gameplay-screenshot-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/golden-empire-slot-gameplay-screenshot-optimized.webp" type="image/webp">
   <img src="/assets/blog/golden-empire-slot-gameplay-screenshot-optimized.webp" alt="Golden Empire Slot Gameplay Screenshot">
 </picture>
 
@@ -63,6 +65,8 @@ Golden Empire খেলা খুবই সহজ। প্রথমে আপ�
 যদি আপনি ৪টি **Scatter** সিম্বল পান, তাহলে আপনি ৮টি ফ্রি স্পিন পাবেন। ফ্রি স্পিন রাউন্ডে প্রতিটি জয়ের সাথে মাল্টিপ্লায়ার (Multiplier) বৃদ্ধি পায়।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/golden-empire-free-spins-bonus-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/golden-empire-free-spins-bonus-optimized.webp" type="image/webp">
   <img src="/assets/blog/golden-empire-free-spins-bonus-optimized.webp" alt="Golden Empire Free Spins Bonus Feature">
 </picture>
 

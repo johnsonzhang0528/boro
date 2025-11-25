@@ -7,7 +7,7 @@ date: 2025-12-08
 lastUpdated: 2025-12-08
 ogImage: "og-virtual-sports-betting-guide-optimized.webp"
 ogImageAlt: "A futuristic graphic showing virtual athletes (cricket and football) with digital data overlays, representing virtual sports betting. (ভার্চুয়াল স্পোর্টস বেটিং এর প্রতীক হিসেবে ডিজিটাল ডেটা সহ ভার্চুয়াল খেলোয়াড়দের একটি গ্রাফিক।)"
-tags: ["post", "sports betting", "virtual sports", "guide", "cricket", "football"]
+tags: ["post", "sports-betting", "virtual-sports", "guide", "cricket", "football"]
 faq:
   - question: "What is Virtual Sports Betting?"
     answer: "ভার্চুয়াল স্পোর্টস বেটিং হলো কম্পিউটার সিমুলেটেড খেলার ওপর বাজি ধরা। এখানে ফলাফল একটি র‍্যান্ডম নম্বর জেনারেটর (RNG) দ্বারা নির্ধারিত হয়, যা সম্পূর্ণ নিরপেক্ষ।"

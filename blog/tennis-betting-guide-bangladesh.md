@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Tennis Betting Guide Bangladesh: Markets & Tips (টেনিস বেটিং গাইড)
+title: "Tennis Betting Guide Bangladesh: Markets & Tips (টেনিস বেটিং গাইড)"
 description: A complete guide to tennis betting in Bangladesh. Learn about match winner, set betting, handicaps, and live betting strategies. টেনিস বেটিং এর নিয়ম এবং কৌশল।
 date: 2025-12-16
 lastUpdated: 2025-12-16
@@ -28,6 +28,8 @@ howto:
 <p class="lead">Tennis (টেনিস) বিশ্বের অন্যতম জনপ্রিয় খেলা এবং বেটিং এর জন্য এটি অত্যন্ত রোমাঞ্চকর। গ্র্যান্ড স্ল্যাম থেকে শুরু করে ছোট টুর্নামেন্ট, সারা বছরই টেনিস বেটিং এর সুযোগ থাকে।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/tennis-match-action-shot-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/tennis-match-action-shot-optimized.webp" type="image/webp">
   <img src="/assets/blog/tennis-match-action-shot-optimized.webp" alt="Tennis Match Action Shot">
 </picture>
 
@@ -55,6 +57,8 @@ howto:
 ৩. **Surface Matters:** ক্লে, গ্রাস বা হার্ড কোর্ট - একেক খেলোয়াড় একেক কোর্টে ভালো খেলে।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/tennis-betting-odds-interface-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/tennis-betting-odds-interface-optimized.webp" type="image/webp">
   <img src="/assets/blog/tennis-betting-odds-interface-optimized.webp" alt="Tennis Betting Odds Interface">
 </picture>
 

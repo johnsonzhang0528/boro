@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Basketball Betting Guide: NBA & More (বাস্কেটবল বেটিং গাইড)
+title: "Basketball Betting Guide: NBA & More (বাস্কেটবল বেটিং গাইড)"
 description: Master basketball betting with our comprehensive guide. Learn about point spreads, totals, and NBA betting strategies. বাস্কেটবল বেটিং এর নিয়ম এবং জয়ের কৌশল।
 date: 2025-12-17
 lastUpdated: 2025-12-17
@@ -28,6 +28,8 @@ howto:
 <p class="lead">Basketball (বাস্কেটবল), বিশেষ করে NBA, সারা বিশ্বে অত্যন্ত জনপ্রিয়। এর দ্রুত গতি এবং উচ্চ স্কোরের কারণে এটি বেটিং এর জন্য একটি আদর্শ খেলা।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/basketball-game-action-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/basketball-game-action-optimized.webp" type="image/webp">
   <img src="/assets/blog/basketball-game-action-optimized.webp" alt="Basketball Game Action Shot">
 </picture>
 
@@ -55,6 +57,8 @@ howto:
 ৩. **Home Court Advantage:** বাস্কেটবলে হোম কোর্টের সুবিধা অনেক বড় ফ্যাক্টর।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/nba-betting-app-screen-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/nba-betting-app-screen-optimized.webp" type="image/webp">
   <img src="/assets/blog/nba-betting-app-screen-optimized.webp" alt="NBA Betting App Screen">
 </picture>
 

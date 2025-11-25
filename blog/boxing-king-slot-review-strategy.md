@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Boxing King Slot Review: Knockout Wins & Free Spins (বক্সিং কিং স্লট রিভিউ)
+title: "Boxing King Slot Review: Knockout Wins & Free Spins (বক্সিং কিং স্লট রিভিউ)"
 description: Enter the ring with Jili's Boxing King slot. Learn about the Free Spins, Combo Multipliers, and how to win big. বক্সিং কিং স্লট গেমের বিস্তারিত রিভিউ এবং জয়ের কৌশল।
 date: 2025-12-14
 lastUpdated: 2025-12-14
@@ -31,6 +31,8 @@ howto:
 <p class="lead">Boxing King (বক্সিং কিং) Jili Games-এর একটি অ্যাকশন-প্যাকড স্লট গেম যা আপনাকে বক্সিং রিংয়ের উত্তেজনা অনুভব করাবে। এই গেমটি তার Combo Multiplier ফিচারের জন্য বিখ্যাত।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/boxing-king-slot-gameplay-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boxing-king-slot-gameplay-optimized.webp" type="image/webp">
   <img src="/assets/blog/boxing-king-slot-gameplay-optimized.webp" alt="Boxing King Slot Gameplay Screenshot">
 </picture>
 
@@ -63,6 +65,8 @@ Boxing King-এর সবচেয়ে আকর্ষণীয় ফিচ�
 ৩টি বা তার বেশি **Scatter** (Bell) সিম্বল পেলে আপনি ফ্রি স্পিন রাউন্ডে প্রবেশ করবেন। ফ্রি স্পিন মোডে মাল্টিপ্লায়ারগুলি দ্বিগুণ হয়ে যায়, যা বিশাল জয়ের সুযোগ দেয়।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/boxing-king-free-spins-feature-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boxing-king-free-spins-feature-optimized.webp" type="image/webp">
   <img src="/assets/blog/boxing-king-free-spins-feature-optimized.webp" alt="Boxing King Free Spins Feature">
 </picture>
 

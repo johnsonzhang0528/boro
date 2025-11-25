@@ -28,6 +28,8 @@ howto:
 <p class="lead">Upay (উপায়) বাংলাদেশের একটি দ্রুত বর্ধনশীল মোবাইল ফিনান্সিয়াল সার্ভিস। Borojeet-এ টাকা জমা এবং উত্তোলনের জন্য এটি একটি নিরাপদ এবং সুবিধাজনক মাধ্যম।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/upay-app-transaction-screen-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/upay-app-transaction-screen-optimized.webp" type="image/webp">
   <img src="/assets/blog/upay-app-transaction-screen-optimized.webp" alt="Upay App Transaction Screen">
 </picture>
 
@@ -55,6 +57,8 @@ howto:
 ৪. রিকোয়েস্ট সাবমিট করুন। সাধারণত ১৫-৩০ মিনিটের মধ্যে টাকা আপনার ওয়ালেটে পৌঁছে যাবে।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/upay-deposit-confirmation-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/upay-deposit-confirmation-optimized.webp" type="image/webp">
   <img src="/assets/blog/upay-deposit-confirmation-optimized.webp" alt="Upay Deposit Confirmation Message">
 </picture>
 

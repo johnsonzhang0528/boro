@@ -28,6 +28,8 @@ howto:
 <p class="lead">অনলাইন ক্যাসিনো নিয়ে মানুষের মনে অনেক ভুল ধারণা বা কুসংস্কার (Myths) রয়েছে। কেউ মনে করেন গেমগুলো কারচুপি করা, আবার কেউ ভাবেন নির্দিষ্ট সময়ে খেললে জেতা যায়। আজ আমরা এই ভুল ধারণাগুলোর সত্য উদঘাটন করব।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/myth-vs-fact-scale-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/myth-vs-fact-scale-optimized.webp" type="image/webp">
   <img src="/assets/blog/myth-vs-fact-scale-optimized.webp" alt="Myth vs Fact Scale Illustration">
 </picture>
 
@@ -46,6 +48,8 @@ howto:
 > **Reality Check:** <a href="/go/borojeet" rel="sponsored nofollow" target="_blank">Play responsibly</a> and understand that gambling is a game of chance, not skill. জুয়া একটি ভাগ্যের খেলা, এটি মনে রেখে দায়িত্বশীলভাবে খেলুন।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/rng-random-number-generator-concept-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/rng-random-number-generator-concept-optimized.webp" type="image/webp">
   <img src="/assets/blog/rng-random-number-generator-concept-optimized.webp" alt="RNG Random Number Generator Concept">
 </picture>
 

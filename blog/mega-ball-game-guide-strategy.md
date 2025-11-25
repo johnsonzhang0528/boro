@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Mega Ball Game Guide: Bingo Meets Lottery (মেগা বল গেম গাইড)
+title: "Mega Ball Game Guide: Bingo Meets Lottery (মেগা বল গেম গাইড)"
 description: Discover Mega Ball by Evolution Gaming. A unique blend of bingo and lottery with multipliers up to 1,000,000x. মেগা বল গেমের নিয়ম এবং জয়ের কৌশল।
 date: 2025-12-16
 lastUpdated: 2025-12-16
@@ -31,6 +31,8 @@ howto:
 <p class="lead">Mega Ball (মেগা বল) Evolution Gaming-এর একটি অনন্য গেম শো যা বিঙ্গো এবং লটারির উত্তেজনাকে একত্রিত করে। এখানে আপনি ১,০০০,০০০ গুণ পর্যন্ত জয়ের সুযোগ পেতে পারেন।</p>
 
 <picture class="content-image" data-critical="true">
+  <source srcset="/assets/blog/mega-ball-draw-machine-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/mega-ball-draw-machine-optimized.webp" type="image/webp">
   <img src="/assets/blog/mega-ball-draw-machine-optimized.webp" alt="Mega Ball Draw Machine">
 </picture>
 
@@ -59,6 +61,8 @@ Mega Ball খেলা শুরু করার জন্য:
 গেমের শেষ বলটি হলো Mega Ball। ড্র করার আগে একটি স্লট মেশিন ৫x থেকে ১০০x পর্যন্ত একটি মাল্টিপ্লায়ার নির্ধারণ করে। যদি এই বলটি আপনার কোনো লাইন পূর্ণ করে, তবে আপনার জয় ওই মাল্টিপ্লায়ার দিয়ে গুণ হবে।
 
 <picture class="content-image">
+  <source srcset="/assets/blog/mega-ball-winning-cards-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/mega-ball-winning-cards-optimized.webp" type="image/webp">
   <img src="/assets/blog/mega-ball-winning-cards-optimized.webp" alt="Mega Ball Winning Cards Interface">
 </picture>
 
