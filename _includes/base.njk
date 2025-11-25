@@ -21,8 +21,8 @@
     <link rel="next" href="{{ site.url }}{{ pagination.href.next }}">
   {% endif %}
   
-  {# SEO: Handle future dated posts #}
-  {% if page.date and page.date > now %}
+  {# SEO: Handle future dated posts or explicit noindex #}
+  {% if (page.date and page.date > now) or noindex %}
     <meta name="robots" content="noindex, nofollow">
   {% else %}
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">

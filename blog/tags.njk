@@ -1,0 +1,57 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - post
+    - posts
+    - tagList
+    - about
+    - anti-money-laundering
+    - contact
+    - index
+    - kyc
+    - privacy
+    - responsible-gaming
+    - terms
+    - underage-gaming
+    - page
+    - archive
+  addAllPagesToCollections: true
+layout: base.njk
+eleventyComputed:
+  title: "Articles tagged with {{ tag | capitalize }}"
+  description: "Explore our comprehensive guides, tips, and latest news about {{ tag | capitalize }} on BoroJeet. Stay updated with expert analysis."
+tags: "archive"
+permalink: /blog/tag/{{ tag | slug }}/
+---
+<main class="wrap">
+  <div class="breadcrumb">
+    <a href="{{ '/' | url }}">Home</a> / 
+    <a href="{{ '/blog/' | url }}">Blog</a> / 
+    <span>{{ tag | capitalize }}</span>
+  </div>
+
+  <h1 class="h1">Articles tagged with "{{ tag | capitalize }}"</h1>
+
+  <div class="article-list">
+    {% set taglist = collections[ tag ] %}
+    {% for post in taglist | reverse %}
+      <article class="card">
+        <a href="{{ post.url }}" class="card-image-link">
+          <picture>
+             <source srcset="/assets/og/{{ post.data.ogImage | replace('.webp', '.avif') }}" type="image/avif">
+             <source srcset="/assets/og/{{ post.data.ogImage }}" type="image/webp">
+             <img src="/assets/og/{{ post.data.ogImage }}" alt="{{ post.data.ogImageAlt or post.data.title }}" loading="lazy" width="300" height="169">
+          </picture>
+        </a>
+        <div class="card-meta">{{ post.date | date("LLLL dd, yyyy") }}</div>
+        <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        <p>{{ post.data.description }}</p>
+        <a href="{{ post.url }}">Read More &rarr;</a>
+      </article>
+    {% endfor %}
+  </div>
+</main>

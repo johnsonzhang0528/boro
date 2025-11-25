@@ -38,7 +38,7 @@ eleventyExcludeFromCollections: true
   
   {# Add all other pages that are not posts #}
   {%- for page in collections.all %}
-    {%- if page.data.tags and 'post' not in page.data.tags and page.url and page.data.eleventyExcludeFromCollections != true and page.data.robots != 'noindex' %}
+    {%- if page.data.tags and 'post' not in page.data.tags and page.url and page.data.eleventyExcludeFromCollections != true and page.data.robots != 'noindex' and not page.data.noindex %}
       <url>
         <loc>{{ site.url }}{{ page.url | url }}</loc>
         <lastmod>{{ (page.data.lastUpdated or page.date).toISOString().slice(0,10) }}</lastmod>

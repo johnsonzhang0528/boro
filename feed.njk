@@ -15,6 +15,7 @@ eleventyExcludeFromCollections: true
     <email>contact@borojeetbd.com</email>
   </author>
   {%- for post in collections.post %}
+  {%- if not post.data.noindex %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(site.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
@@ -23,5 +24,6 @@ eleventyExcludeFromCollections: true
     <id>{{ absolutePostUrl }}</id>
     <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>
+  {%- endif %}
   {%- endfor %}
 </feed>

@@ -1,0 +1,68 @@
+---
+layout: base.njk
+title: Search Blog
+permalink: /blog/search/
+noindex: true
+---
+<main class="wrap">
+  <div class="breadcrumb">
+    <a href="{{ '/' | url }}">Home</a> / 
+    <a href="{{ '/blog/' | url }}">Blog</a> / 
+    <span>Search</span>
+  </div>
+
+  <h1 class="h1">Search Articles</h1>
+
+  <div class="search-container" style="margin-bottom: 2rem;">
+    <input type="text" id="search-input" placeholder="Type to search..." style="width: 100%; padding: 12px; font-size: 16px; border-radius: 8px; border: 1px solid #243041; background: #0f172a; color: white;">
+  </div>
+
+  <div id="search-results" class="article-list">
+    <!-- Results will appear here -->
+  </div>
+</main>
+
+<script>
+  const searchInput = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('search-results');
+  let posts = [];
+
+  // Fetch the search index
+  fetch('/search-index.json')
+    .then(response => response.json())
+    .then(data => {
+      posts = data;
+    });
+
+  searchInput.addEventListener('input', (e) => {
+    const term = e.target.value.toLowerCase();
+    if (term.length < 2) {
+      resultsContainer.innerHTML = '';
+      return;
+    }
+
+    const filteredPosts = posts.filter(post => {
+      return post.title.toLowerCase().includes(term) || 
+             (post.description && post.description.toLowerCase().includes(term));
+    });
+
+    displayResults(filteredPosts);
+  });
+
+  function displayResults(results) {
+    if (results.length === 0) {
+      resultsContainer.innerHTML = '<p>No results found.</p>';
+      return;
+    }
+
+    const html = results.map(post => `
+      <article class="card">
+        <h2><a href="${post.url}">${post.title}</a></h2>
+        <p>${post.description}</p>
+        <a href="${post.url}">Read More &rarr;</a>
+      </article>
+    `).join('');
+
+    resultsContainer.innerHTML = html;
+  }
+</script>
