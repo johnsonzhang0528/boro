@@ -21,9 +21,11 @@
     <link rel="next" href="{{ site.url }}{{ pagination.href.next }}">
   {% endif %}
   
-  {# SEO: Handle future dated posts or explicit noindex #}
+  {# SEO: Handle future dated posts, explicit noindex, or custom robots #}
   {% if (page.date and page.date > now) or noindex %}
     <meta name="robots" content="noindex, nofollow">
+  {% elif robots %}
+    <meta name="robots" content="{{ robots }}">
   {% else %}
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   {% endif %}
@@ -473,16 +475,6 @@
   
   <title>{{ title }} | {{ site.name }}</title>
   <meta name="description" content="{{ description or site.description }}">
-  <link rel="canonical" href="{{ canonicalUrl or site.url + page.url }}">
-  {% if pagination.href.previous %}
-    <link rel="prev" href="{{ site.url }}{{ pagination.href.previous }}">
-  {% endif %}
-  {% if pagination.href.next %}
-    <link rel="next" href="{{ site.url }}{{ pagination.href.next }}">
-  {% endif %}
-  {% if robots %}
-    <meta name="robots" content="{{ robots }}">
-  {% endif %}
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="{% if page.url.startsWith('/blog/') %}article{% else %}website{% endif %}">
