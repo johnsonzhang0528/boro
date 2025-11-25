@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet VIP Program Guide: লেভেল, রিওয়ার্ড এবং এক্সক্লুসিভ সুবিধা"
 description: "Unlock exclusive rewards with the BoroJeet VIP Program. Learn about VIP levels, monthly bonuses, and special gifts. BoroJeet VIP লেভেল এবং সুবিধা সম্পর্কে বিস্তারিত জানুন।"
-date: 2025-12-04
-lastUpdated: 2025-12-04
+date: 2025-11-30
+lastUpdated: 2025-11-30
 ogImage: "borojeet-vip-program-levels-rewards.webp"
 ogImageAlt: "BoroJeet VIP Program levels ladder showing rewards and benefits for loyal players."
 tags: ["post", "borojeet", "vip", "guide"]

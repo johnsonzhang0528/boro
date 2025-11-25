@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Cryptocurrency Deposit Guide for Bangladesh Online Casinos | বাংলাদেশে ক্রিপ্টোকারেন্সি ডিপোজিট গাইড"
 description: "Learn how to deposit using USDT, Bitcoin, and other cryptocurrencies in Bangladesh online casinos. Secure, fast, and anonymous transactions explained. বাংলাদেশে ক্রিপ্টোকারেন্সি দিয়ে ক্যাসিনো ডিপোজিট করার সম্পূর্ণ গাইড।"
-date: 2025-12-11
-lastUpdated: 2025-12-11
+date: 2025-12-04
+lastUpdated: 2025-12-04
 ogImage: cryptocurrency-deposit-guide-bangladesh-optimized.webp
 ogImageAlt: "Cryptocurrency deposit methods including USDT and Bitcoin for online casinos in Bangladesh."
 tags: ["post", "guide", "payments", "crypto"]

@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Dragon Tiger Game Guide: Rules, Strategy & How to Play | ড্রাগন টাইগার গেম গাইড"
 description: "Master the Dragon Tiger live casino game with our comprehensive guide. Learn rules, payouts, and winning strategies for Bangladeshi players. ড্রাগন টাইগার খেলার নিয়ম এবং জয়ের কৌশল জানুন।"
-date: 2025-12-05
-lastUpdated: 2025-12-05
+date: 2025-12-01
+lastUpdated: 2025-12-01
 ogImage: dragon-tiger-game-guide-optimized.webp
 ogImageAlt: "Dragon Tiger game table with cards dealt on Dragon and Tiger sides - ড্রাগন টাইগার গেম টেবিল"
 tags: ["post", "casino", "guide", "dragon-tiger"]

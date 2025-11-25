@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Rocket Payment Guide for Betting in Bangladesh (বাংলাদেশে বেটিং এর জন্য রকেট পেমেন্ট গাইড)"
 description: "Learn how to deposit and withdraw using Rocket on betting sites in Bangladesh. রকেট পেমেন্ট গাইড, লিমিট এবং ট্রানজেকশন টিপস। Secure & Fast Transactions."
-date: 2025-12-08
-lastUpdated: 2025-12-08
+date: 2025-12-02
+lastUpdated: 2025-12-02
 ogImage: "rocket-payment-guide-optimized.webp"
 ogImageAlt: "Rocket logo with coins representing betting deposits. রকেট পেমেন্ট লোগো এবং কয়েন।"
 tags: ["post", "payments", "rocket", "guide"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet Daily Bonus Guide: প্রতিদিন Free ৳200 ক্লেইম করার নিয়ম"
 description: "BoroJeet Daily Bonus সম্পর্কে জানুন। প্রতিদিন লগইন করে কিভাবে Free ৳200, Deposit Boost এবং App Daily Wins দাবি করবেন তার বিস্তারিত গাইড।"
-date: 2025-12-03
-lastUpdated: 2025-12-03
+date: 2025-11-30
+lastUpdated: 2025-11-30
 ogImage: "borojeet-daily-bonus-guide.webp"
 ogImageAlt: "BoroJeet Daily Bonus অফারগুলোর একটি দৃশ্য, যেখানে Free ৳200 এবং Deposit Boost হাইলাইট করা হয়েছে।"
 tags: ["post", "borojeet", "bonus", "guide"]

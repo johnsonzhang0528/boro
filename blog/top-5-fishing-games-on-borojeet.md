@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Top 5 Fishing Games on BoroJeet: Best Arcade Games to Play in 2025 (সেরা ৫টি মাছ ধরার গেম)"
 description: "Discover the top 5 fishing games on BoroJeet, including Mega Fishing and Jackpot Fishing. Learn about their features, special weapons, and strategies to win big. (BoroJeet-এ সেরা ৫টি মাছ ধরার গেম এবং জেতার কৌশল জানুন।)"
-date: 2025-12-13
-lastUpdated: 2025-12-13
+date: 2025-12-05
+lastUpdated: 2025-12-05
 ogImage: "og-top-5-fishing-games-optimized.webp"
 ogImageAlt: "A collage of popular fishing game characters, including a giant golden dragon and a mechanical shark, with the BoroJeet logo. (জনপ্রিয় মাছ ধরার গেমের চরিত্র এবং প্রতীকের একটি কোলাজ।)"
 tags: ["post", "fishing-games", "arcade", "guide"]

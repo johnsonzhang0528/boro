@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Kabaddi Betting Guide BD (2025) - Pro Kabaddi League & Tips (কাবাডি বেটিং)"
 description: "বাংলাদেশে কাবাডি বেটিং নিয়ে আগ্রহী? আমাদের এই গাইডটি আপনাকে প্রো কাবাডি লিগ (PKL), বেটিং মার্কেট এবং জেতার কৌশল সম্পর্কে বিস্তারিত জানাবে। BoroJeet-এ কাবাডি বেটিং শুরু করুন।"
-date: 2025-11-30
-lastUpdated: 2025-11-30
+date: 2025-11-28
+lastUpdated: 2025-11-28
 ogImage: "kabaddi-betting-guide-bangladesh-optimized.webp"
 ogImageAlt: "একটি কাবাডি ম্যাচের অ্যাকশন দৃশ্য, যেখানে একজন রেইডার ডিফেন্ডারদের এড়িয়ে যাওয়ার চেষ্টা করছেন, পাশে বেটিং অডস দেখানো হয়েছে।"
 tags: ["post", "kabaddi", "betting", "guide"]

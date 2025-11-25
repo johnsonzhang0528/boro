@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Sweet Bonanza Slot Review (2025): Strategy, RTP & Max Win | সুইট বোনানজা স্লট রিভিউ"
 description: "Pragmatic Play-এর Sweet Bonanza স্লট গেমের পূর্ণাঙ্গ রিভিউ। জানুন RTP, Volatility, এবং জেতার সেরা কৌশল। 21,100x Max Win জেতার টিপস এবং ট্রিকস।"
-date: 2025-12-07
-lastUpdated: 2025-12-07
+date: 2025-12-02
+lastUpdated: 2025-12-02
 ogImage: "sweet-bonanza-review-strategy-optimized.webp"
 ogImageAlt: "Sweet Bonanza slot game background with candies and fruits. সুইট বোনানজা স্লট গেমের দৃশ্য।"
 tags: ["post", "casino", "slots", "review"]

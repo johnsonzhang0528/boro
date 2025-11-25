@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Top 5 Live Casino Games on BoroJeet: Real Dealer Experience (সেরা ৫টি লাইভ ক্যাসিনো গেম)"
 description: "Experience the thrill of real-time gaming with the top 5 live casino games on BoroJeet. From Crazy Time to Lightning Roulette, discover the best games with live dealers. (BoroJeet-এ সেরা ৫টি লাইভ ক্যাসিনো গেম এবং তাদের বৈশিষ্ট্য জানুন।)"
-date: 2025-12-14
-lastUpdated: 2025-12-14
+date: 2025-12-05
+lastUpdated: 2025-12-05
 ogImage: "og-top-5-live-casino-games-optimized.webp"
 ogImageAlt: "A collage of popular live casino game hosts and wheels, including Crazy Time and Lightning Roulette, with the BoroJeet logo. (জনপ্রিয় লাইভ ক্যাসিনো গেমের হোস্ট এবং চাকার একটি কোলাজ।)"
 tags: ["post", "live-casino", "guide", "evolution-gaming"]

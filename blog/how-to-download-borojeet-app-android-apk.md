@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "How to Download BoroJeet App (Android APK) - Step-by-Step Guide"
 description: "BoroJeet App Download Guide 2025. Learn how to install the BoroJeet APK on Android safely. ধাপে ধাপে BoroJeet অ্যাপ ডাউনলোড এবং ইনস্টল করার নিয়ম।"
-date: 2025-12-16
-lastUpdated: 2025-12-16
+date: 2025-12-06
+lastUpdated: 2025-12-06
 ogImage: "og-how-to-download-borojeet-app-optimized.webp"
 ogImageAlt: "A smartphone displaying the BoroJeet app download page with an Android robot icon."
 tags: ["post", "borojeet", "app", "guide"]

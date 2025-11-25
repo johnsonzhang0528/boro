@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Sugar Rush Slot Review (2025): Strategy, RTP & Max Win | সুগার রাশ স্লট রিভিউ"
 description: "Pragmatic Play-এর Sugar Rush স্লট গেমের পূর্ণাঙ্গ রিভিউ। জানুন RTP, Volatility, এবং জেতার সেরা কৌশল। 5,000x Max Win জেতার টিপস এবং ট্রিকস।"
-date: 2025-12-17
-lastUpdated: 2025-12-17
+date: 2025-12-07
+lastUpdated: 2025-12-07
 ogImage: "sugar-rush-review-strategy-optimized.webp"
 ogImageAlt: "Sugar Rush slot game background with gummy bears and multipliers. সুগার রাশ স্লট গেমের দৃশ্য।"
 tags: ["post", "casino", "slots", "review"]

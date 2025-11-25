@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Gates of Olympus Slot Review (2025): Strategy, RTP & Max Win | গেটস অফ অলিম্পাস গেম রিভিউ"
 description: "Pragmatic Play-এর Gates of Olympus স্লট গেমের পূর্ণাঙ্গ রিভিউ। জানুন RTP, Volatility, এবং জেতার সেরা কৌশল। 5000x Max Win জেতার টিপস এবং ট্রিকস।"
-date: 2025-12-02
-lastUpdated: 2025-12-02
+date: 2025-11-29
+lastUpdated: 2025-11-29
 ogImage: "gates-of-olympus-review-strategy-optimized.webp"
 ogImageAlt: "Zeus floating next to the Gates of Olympus slot grid, showcasing the 5000x max win potential. জিউস এবং গেটস অফ অলিম্পাস স্লট গেমের দৃশ্য।"
 tags: ["post", "casino", "slots", "review"]

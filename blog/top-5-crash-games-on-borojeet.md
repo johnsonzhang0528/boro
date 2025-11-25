@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Top 5 Crash Games on BoroJeet: Beyond Aviator (সেরা ৫টি ক্র্যাশ গেম)"
 description: "Discover the top 5 crash games on BoroJeet. While Aviator is famous, explore other exciting options like JetX, Spaceman, and Cricket X for big wins. (BoroJeet-এ Aviator ছাড়াও সেরা ৫টি ক্র্যাশ গেম সম্পর্কে জানুন।)"
-date: 2025-12-15
-lastUpdated: 2025-12-15
+date: 2025-12-06
+lastUpdated: 2025-12-06
 ogImage: "og-top-5-crash-games-optimized.webp"
 ogImageAlt: "A collage of popular crash game themes, including Aviator's plane, Spaceman's astronaut, and Cricket X's batsman, with the BoroJeet logo. (জনপ্রিয় ক্র্যাশ গেমের থিম এবং চরিত্রের একটি কোলাজ।)"
 tags: ["post", "crash-games", "guide", "aviator"]

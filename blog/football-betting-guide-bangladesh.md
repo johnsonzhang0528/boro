@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)"
 description: "বাংলাদেশে ফুটবল বেটিং শুরু করতে চান? আমাদের এই গাইডটি আপনাকে জনপ্রিয় লিগ (EPL, World Cup), বেটিং মার্কেট (1X2, Over/Under) এবং জেতার কৌশল সম্পর্কে বিস্তারিত জানাবে।"
-date: 2025-11-28
-lastUpdated: 2025-11-28
+date: 2025-11-27
+lastUpdated: 2025-11-27
 ogImage: "football-betting-guide-bangladesh-optimized.webp"
 ogImageAlt: "একটি ফুটবল স্টেডিয়ামের পটভূমিতে একটি ফুটবল এবং বেটিং অডস চার্ট, যা ফুটবল বেটিং গাইডকে নির্দেশ করছে।"
 tags: ["post", "football", "betting", "guide"]

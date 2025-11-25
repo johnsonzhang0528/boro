@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Sic Bo Game Guide: Rules, Payouts & Strategy | সিক বো খেলার নিয়ম"
 description: "Master the Sic Bo live casino game with our comprehensive guide. Learn dice patterns, payouts, and winning strategies for Bangladeshi players. সিক বো গেমের নিয়ম এবং কৌশল জানুন।"
-date: 2025-12-06
-lastUpdated: 2025-12-06
+date: 2025-12-01
+lastUpdated: 2025-12-01
 ogImage: sic-bo-game-guide-optimized.webp
 ogImageAlt: "Sic Bo table layout with three dice and betting options - সিক বো গেম টেবিল"
 tags: ["post", "casino", "guide", "sic-bo"]

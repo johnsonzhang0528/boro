@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Top 5 Jili Slots Games on BoroJeet: High RTP & Big Wins (সেরা ৫টি জিলি স্লট গেম)"
 description: "Discover the top 5 Jili slots on BoroJeet with high RTP and massive jackpots. Learn strategies for Super Ace, Golden Empire, and more to maximize your winnings. (BoroJeet-এ সেরা ৫টি জিলি স্লট গেম এবং জেতার কৌশল জানুন।)"
-date: 2025-12-12
-lastUpdated: 2025-12-12
+date: 2025-12-04
+lastUpdated: 2025-12-04
 ogImage: "og-top-5-jili-slots-optimized.webp"
 ogImageAlt: "A collage of popular Jili slot game characters and symbols, including Super Ace cards and Golden Empire treasures, with the BoroJeet logo. (জনপ্রিয় জিলি স্লট গেমের চরিত্র এবং প্রতীকের একটি কোলাজ।)"
 tags: ["post", "casino", "slots", "jili", "guide"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Monopoly Live গেম গাইড: নিয়ম, কৌশল এবং 3D বোনাস রাউন্ড"
 description: "Evolution Gaming-এর Monopoly Live গেমটি কীভাবে খেলতে হয় তা জানুন। এই গাইডে নিয়ম, 3D বোনাস রাউন্ড এবং বাংলাদেশী খেলোয়াড়দের জন্য জেতার কৌশল আলোচনা করা হয়েছে।"
-date: 2025-12-10
-lastUpdated: 2025-12-10
+date: 2025-12-03
+lastUpdated: 2025-12-03
 ogImage: "og-monopoly-live-game-guide-optimized.webp"
 ogImageAlt: "Monopoly Live গেমের মানি হুইল এবং মিস্টার মনোপলি, যা একটি উত্তেজনাপূর্ণ 3D বোনাস রাউন্ডের ইঙ্গিত দিচ্ছে।"
 tags: ["post", "guide", "live-casino", "game-shows", "monopoly-live"]
