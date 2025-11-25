@@ -4,7 +4,7 @@ lang: "bn-BD"
 title: "ক্র্যাশ গেমের সম্পূর্ণ গাইড: বাংলাদেশে Aviator এবং অন্যান্য গেম খেলার নিয়ম"
 description: "ক্র্যাশ গেম কী এবং কীভাবে খেলতে হয় তা শিখুন। আমাদের ধাপে ধাপে নির্দেশিকা দিয়ে Aviator-এর মতো জনপ্রিয় গেমগুলির কৌশল, ঝুঁকি এবং টিপস জানুন।"
 date: 2025-11-20
-lastUpdated: 2025-11-20
+lastUpdated: 2025-11-25
 ogImage: "og-guide-to-crash-games-bangladesh-optimized.webp"
 ogImageAlt: "A guide explaining how to play crash games like Aviator in Bangladesh, showing a rising multiplier graph on a phone screen."
 tags: ["post", "guide", "crash-games"]
@@ -25,9 +25,11 @@ faq:
   <img src="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.webp" alt="Interface of the popular Aviator crash game on a mobile screen" width="800" height="450" loading="lazy" style="border-radius: 8px; margin-bottom: 1.5em;">
 </picture>
 
-## ক্র্যাশ গেম কিভাবে কাজ করে?
+## ক্র্যাশ গেম খেলার নিয়ম (Crash Game Playing Rules)
 
-ক্র্যাশ গেমের ধারণাটি খুবই সহজ: একটি গুণক (multiplier) বাড়তে শুরু করে এবং আপনাকে অবশ্যই এটি "ক্র্যাশ" করার বা উড়ে যাওয়ার আগেই আপনার বাজি ক্যাশ আউট করতে হবে। আপনি যত বেশিক্ষণ অপেক্ষা করবেন, আপনার সম্ভাব্য জয় তত বেশি হবে, কিন্তু ঝুঁকিও তত বাড়বে।
+ক্র্যাশ গেম খেলার নিয়ম (Rules) খুবই সহজ এবং রোমাঞ্চকর। নিচে ধাপে ধাপে নিয়মগুলো আলোচনা করা হলো:
+
+ক্র্যাশ গেমের মূল ধারণাটি হলো: একটি গুণক (multiplier) বাড়তে শুরু করে এবং আপনাকে অবশ্যই এটি "ক্র্যাশ" করার বা উড়ে যাওয়ার আগেই আপনার বাজি ক্যাশ আউট করতে হবে। আপনি যত বেশিক্ষণ অপেক্ষা করবেন, আপনার সম্ভাব্য জয় তত বেশি হবে, কিন্তু ঝুঁকিও তত বাড়বে।
 
 1. **বাজি ধরুন (Place Your Bet):** রাউন্ড শুরু হওয়ার আগে আপনার বাজির পরিমাণ নির্ধারণ করুন।
 2. **গুণক দেখুন (Watch the Multiplier):** রাউন্ড শুরু হলে, একটি গ্রাফ বা উড়ন্ত বস্তু (যেমন Aviator-এর বিমান) উপরের দিকে উঠতে শুরু করবে এবং এর সাথে গুণকও বাড়তে থাকবে (1.01x, 1.5x, 2x, 5x...)।
