@@ -419,6 +419,19 @@
         display: none;
       }
     }
+
+    /* Visually hidden utility class */
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
   </style>
   
   <!-- Preload critical resources to improve LCP -->
@@ -858,9 +871,6 @@
       }
     })();
   </script>
-  
-  <!-- Universal Performance Optimizer - replaces all page-specific JS -->
-  <script src="/assets/universal-performance.js" defer></script>
-  
 </body>
 </html>
+     
