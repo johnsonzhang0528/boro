@@ -1,28 +1,28 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: "Basketball Betting Guide: NBA & More (বাস্কেটবল বেটিং গাইড)"
-description: Master basketball betting with our comprehensive guide. Learn about point spreads, totals, and NBA betting strategies. বাস্কেটবল বেটিং এর নিয়ম এবং জয়ের কৌশল।
+title: "Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল"
+description: "NBA এবং অন্যান্য লিগে বাস্কেটবল বেটিং শিখুন। Point Spread, Totals এবং Moneyline সম্পর্কে বিস্তারিত জানুন। বাস্কেটবল বেটিং এর নিয়ম এবং জয়ের কৌশল।"
 date: 2025-12-17
 lastUpdated: 2025-12-17
 ogImage: basketball-betting-guide-og-optimized.webp
-ogImageAlt: Basketball Hoop and Ball. বাস্কেটবল হুপ এবং বল।
+ogImageAlt: "বাস্কেটবল হুপ এবং বল"
 tags: [post, sports-betting, basketball, guide, strategy]
 faq:
-  - question: What is a Point Spread in basketball? (বাস্কেটবলে পয়েন্ট স্প্রেড কী?)
-    answer: It's a handicap given to the underdog to level the playing field. For example, Lakers -5.5 means they must win by 6 or more points. (এটি আন্ডারডগ দলকে দেওয়া একটি হ্যান্ডিক্যাপ যা খেলার মাঠ সমান করে। উদাহরণস্বরূপ, Lakers -5.5 মানে তাদের ৬ বা তার বেশি পয়েন্টে জিততে হবে।)
-  - question: Can I bet on NBA games from Bangladesh? (আমি কি বাংলাদেশ থেকে NBA গেমে বাজি ধরতে পারি?)
-    answer: Yes, Borojeet covers all major basketball leagues including the NBA, EuroLeague, and more. (হ্যাঁ, Borojeet NBA, EuroLeague এবং আরও অনেক বড় বাস্কেটবল লিগ কভার করে।)
+  - question: "বাস্কেটবলে Point Spread কী?"
+    answer: "এটি একটি Handicap যা খেলার মাঠ সমান করে। উদাহরণস্বরূপ, Lakers -5.5 মানে তাদের ৬ বা তার বেশি পয়েন্টে জিততে হবে।"
+  - question: "আমি কি বাংলাদেশ থেকে NBA গেমে বাজি ধরতে পারি?"
+    answer: "হ্যাঁ, Borojeet NBA, EuroLeague এবং আরও অনেক বড় বাস্কেটবল লিগ কভার করে।"
 howto:
-  name: How to Bet on Basketball (কিভাবে বাস্কেটবলে বাজি ধরবেন)
-  description: Step-by-step guide to placing basketball bets. (বাস্কেটবল বাজি ধরার ধাপে ধাপে নির্দেশিকা।)
+  name: "কিভাবে বাস্কেটবলে বাজি ধরবেন"
+  description: "বাস্কেটবল বাজি ধরার ধাপে ধাপে নির্দেশিকা।"
   steps:
-    - name: Choose League (লিগ নির্বাচন করুন)
-      text: Select NBA or any other league from the menu.
-    - name: Analyze Odds (অডস বিশ্লেষণ করুন)
-      text: Check the spread, moneyline, and total points odds.
-    - name: Confirm Bet (বাজি নিশ্চিত করুন)
-      text: Enter your stake and confirm your bet slip.
+    - name: "Choose League"
+      text: "মেনু থেকে NBA বা অন্য লিগ নির্বাচন করুন।"
+    - name: "Analyze Odds"
+      text: "Spread, Moneyline এবং Total Points অডস দেখুন।"
+    - name: "Confirm Bet"
+      text: "আপনার স্টেক লিখুন এবং বাজি নিশ্চিত করুন।"
 ---
 
 <p class="lead">Basketball (বাস্কেটবল), বিশেষ করে NBA, সারা বিশ্বে অত্যন্ত জনপ্রিয়। এর দ্রুত গতি এবং উচ্চ স্কোরের কারণে এটি [বেটিং এর জন্য](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) একটি আদর্শ খেলা।</p>
@@ -38,7 +38,7 @@ howto:
 বাস্কেটবল বেটিং এ তিনটি প্রধান মার্কেট রয়েছে:
 
 ### Moneyline (মানিলাইন)
-এটি সবচেয়ে সহজ - কে ম্যাচ জিতবে? এখানে কোনো হ্যান্ডিক্যাপ নেই।
+এটি সবচেয়ে সহজ - কে ম্যাচ জিতবে? এখানে কোনো Handicap নেই।
 
 ### Point Spread (পয়েন্ট স্প্রেড)
 এটি বাস্কেটবলের সবচেয়ে জনপ্রিয় বেটিং। বুকমেকাররা একটি পয়েন্ট মার্জিন নির্ধারণ করে।
@@ -53,7 +53,7 @@ howto:
 > **Expert Advice:** <a href="/go/borojeet" rel="sponsored nofollow" target="_blank">Sign up now</a> to get access to detailed stats and live betting markets. বিস্তারিত পরিসংখ্যান এবং লাইভ বেটিং এর জন্য সাইন আপ করুন।
 
 ১. **Check Injuries:** বাস্কেটবলে একজন তারকা খেলোয়াড়ের ইনজুরি পুরো ম্যাচের ফলাফল বদলে দিতে পারে।
-২. **Schedule:** ব্যাক-টু-ব্যাক ম্যাচ বা দীর্ঘ ভ্রমণের ক্লান্তি দলের পারফরম্যান্সে প্রভাব ফেলে।
+২. **Schedule:** Back-to-back ম্যাচ বা দীর্ঘ ভ্রমণের ক্লান্তি দলের পারফরম্যান্সে প্রভাব ফেলে।
 ৩. **Home Court Advantage:** বাস্কেটবলে হোম কোর্টের সুবিধা অনেক বড় ফ্যাক্টর।
 
 <picture class="content-image">

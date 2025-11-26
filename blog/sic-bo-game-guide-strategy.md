@@ -2,7 +2,7 @@
 layout: post.njk
 lang: bn-BD
 title: "Sic Bo Game Guide: Rules, Payouts & Strategy | সিক বো খেলার নিয়ম"
-description: "Master the Sic Bo live casino game with our comprehensive guide. Learn dice patterns, payouts, and winning strategies for Bangladeshi players. সিক বো গেমের নিয়ম এবং কৌশল জানুন।"
+description: "আমাদের বিস্তারিত গাইডের মাধ্যমে Sic Bo Live Casino গেমটি আয়ত্ত করুন। বাংলাদেশী খেলোয়াড়দের জন্য Dice Patterns, Payouts এবং জেতার কৌশল সম্পর্কে জানুন।"
 date: 2025-12-01
 lastUpdated: 2025-12-01
 ogImage: sic-bo-game-guide-optimized.webp
@@ -29,7 +29,7 @@ howto:
       text: "প্রতিটি বাজির অডস অনুযায়ী জেতা টাকা প্রদান করা হয়।"
 ---
 
-<p class="lead">**Sic Bo (সিক বো)** হলো একটি প্রাচীন চীনা ডাইস গেম যা আধুনিক লাইভ ক্যাসিনোগুলিতে অত্যন্ত জনপ্রিয়। তিনটি ডাইস দিয়ে খেলা এই গেমটি বাজির বিভিন্ন বিকল্প অফার করে, যা নিরাপদ ৫০/৫০ বাজি থেকে শুরু করে বিশাল পে-আউট সহ উচ্চ-ঝুঁকির বিকল্প পর্যন্ত বিস্তৃত। এই গাইডে, আমরা সিক বো খেলার নিয়ম, পে-আউট এবং জয়ের কৌশল নিয়ে আলোচনা করব।</p>
+<p class="lead">**Sic Bo** হলো একটি প্রাচীন চীনা Dice Game যা আধুনিক Live Casino-গুলিতে অত্যন্ত জনপ্রিয়। তিনটি ডাইস দিয়ে খেলা এই গেমটি বাজির বিভিন্ন বিকল্প অফার করে, যা নিরাপদ ৫০/৫০ বাজি থেকে শুরু করে বিশাল Payouts সহ উচ্চ-ঝুঁকির বিকল্প পর্যন্ত বিস্তৃত।</p>
 
 ## Before You Play: Registration First (রেজিস্ট্রেশন করুন)
 

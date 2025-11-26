@@ -2,7 +2,7 @@
 layout: post.njk
 lang: bn-BD
 title: "Mines Game Guide: How to Play & Win (মাইনস গেম গাইড: কিভাবে খেলবেন এবং জিতবেন)"
-description: Mines is a thrilling strategy game where you avoid hidden mines to multiply your bet. Learn the best strategies to win big on Borojeet. (মাইনস একটি রোমাঞ্চকর কৌশল গেম।)
+description: Mines একটি রোমাঞ্চকর Strategy Game যেখানে আপনি লুকানো মাইন এড়িয়ে আপনার বাজি গুণ করতে পারেন। Borojeet-এ বড় জয়ের সেরা কৌশলগুলো শিখুন।
 date: 2025-12-13
 lastUpdated: 2025-12-13
 ogImage: og-mines-game-guide-optimized.webp
@@ -23,7 +23,7 @@ faq:
     answer: "Yes, you can cash out after revealing at least one diamond. (হ্যাঁ, আপনি অন্তত একটি হীরা প্রকাশ করার পরে যেকোনো সময় ক্যাশ আউট করতে পারেন।)"
 ---
 
-<p class="lead">Mines is a simple yet addictive game inspired by the classic Minesweeper. The goal is to reveal diamonds while avoiding hidden mines. (মাইনস ক্লাসিক মাইনসুইপার দ্বারা অনুপ্রাণিত একটি সহজ কিন্তু আসক্তিপূর্ণ গেম।)</p>
+<p class="lead">Mines হলো ক্লাসিক Minesweeper দ্বারা অনুপ্রাণিত একটি সহজ কিন্তু আসক্তিপূর্ণ গেম। এর মূল লক্ষ্য হলো লুকানো মাইন এড়িয়ে হীরা (Diamonds) খুঁজে বের করা।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/mines-game-grid-diamond-reveal-optimized.avif" type="image/avif">

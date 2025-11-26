@@ -1,13 +1,13 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: "BoroJeet Login Guide: Solutions for Forgot Password & Account Issues | বড়জিত লগইন সমস্যা সমাধান"
-description: "Having trouble logging into BoroJeet? Follow our step-by-step guide to fix login issues, reset your password, and unlock your account securely. বড়জিত লগইন সমস্যা এবং পাসওয়ার্ড রিসেট করার সম্পূর্ণ গাইড।"
+title: "BoroJeet Login Guide: পাসওয়ার্ড ভুলে গেছেন? সমাধান এখানে"
+description: "BoroJeet-এ লগইন করতে সমস্যা হচ্ছে? পাসওয়ার্ড রিসেট, অ্যাকাউন্ট আনলক এবং অ্যাপ লগইন সমস্যার সহজ সমাধান। Forgot Password & Account Issues Fixed."
 date: 2025-11-29
 lastUpdated: 2025-11-29
 ogImage: borojeet-login-troubleshooting-optimized.webp
-ogImageAlt: "BoroJeet Login and Troubleshooting Guide - বড়জিত লগইন সমস্যা সমাধান"
-tags: ["post", "guide", "troubleshooting", "borojeet"]
+ogImageAlt: "BoroJeet লগইন সমস্যা সমাধান"
+tags: [post, guide, troubleshooting, borojeet]
 faq:
   - question: "আমি কি অ্যাপ ছাড়া ওয়েবসাইটে গেম খেলতে পারব?"
     answer: "হ্যাঁ, আপনি অ্যাপ ডাউনলোড না করেও সরাসরি মোবাইল বা ডেস্কটপ ব্রাউজার দিয়ে ওয়েবসাইটে লগইন করে সব গেম খেলতে পারবেন।"

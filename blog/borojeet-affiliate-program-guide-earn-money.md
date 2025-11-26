@@ -1,13 +1,13 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "BoroJeet Affiliate Program Guide: Earn Money Online (BoroJeet অ্যাফিলিয়েট প্রোগ্রাম)"
-description: "Learn how to join the BoroJeet Affiliate Program and earn high commissions by referring friends. A complete guide to making money online in Bangladesh. (BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দিয়ে টাকা আয় করার সম্পূর্ণ গাইড।)"
+layout: post.njk
+lang: bn-BD
+title: "BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়"
+description: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দিয়ে মাসে হাজার হাজার টাকা আয় করুন। ৪০% পর্যন্ত কমিশন, ফ্রি রেজিস্ট্রেশন এবং সহজ পেমেন্ট। জানুন কিভাবে শুরু করবেন।"
 date: 2025-12-08
 lastUpdated: 2025-12-08
-ogImage: "og-borojeet-affiliate-program-optimized.webp"
-ogImageAlt: "A professional graphic showing a growing graph of earnings and the BoroJeet Affiliate logo. (BoroJeet অ্যাফিলিয়েট লোগো এবং আয়ের গ্রাফ সহ একটি পেশাদার গ্রাফিক।)"
-tags: ["post", "borojeet", "guide", "affiliate", "earn-money"]
+ogImage: og-borojeet-affiliate-program-optimized.webp
+ogImageAlt: "BoroJeet অ্যাফিলিয়েট আয়ের গ্রাফ"
+tags: [post, borojeet, guide, affiliate, earn-money]
 faq:
   - question: "How much commission can I earn with BoroJeet Affiliate?"
     answer: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে আপনি আপনার রেফার করা খেলোয়াড়দের নেট লস (Net Loss) এর ওপর ভিত্তি করে ৪০% পর্যন্ত কমিশন আয় করতে পারেন।"

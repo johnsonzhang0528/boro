@@ -1,16 +1,16 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "BoroJeet Promo Code 2025 (Free ৳100) - Welcome Bonus & Sign Up Offer"
-description: "BoroJeet Promo Code খুঁজছেন? নতুন ইউজারদের জন্য ৳100 Free Bonus এবং 400% Welcome Offer। জানুন কিভাবে Sign Up Bonus পাবেন এবং Wagering Requirement পূরণ করবেন।"
+layout: post.njk
+lang: bn-BD
+title: "BoroJeet Promo Code 2025: Free ৳100 & Welcome Bonus"
+description: "BoroJeet Promo Code ছাড়াই পান ৳100 ফ্রি বোনাস এবং 400% ওয়েলকাম অফার। সাইন আপ বোনাস ক্লেইম করার নিয়ম এবং Wagering Requirement সম্পর্কে বিস্তারিত জানুন।"
 date: 2025-11-22
 lastUpdated: 2025-11-22
-ogImage: "borojeet-promo-code-bonus-guide-optimized.webp"
-ogImageAlt: "BoroJeet Promo Code এবং Bonus অফারগুলোর একটি তালিকা, যেখানে ৳100 ফ্রি এবং 400% বোনাস হাইলাইট করা হয়েছে।"
-tags: ["post", "borojeet", "bonus"]
+ogImage: borojeet-promo-code-bonus-guide-optimized.webp
+ogImageAlt: "BoroJeet প্রোমো কোড অফার"
+tags: [post, borojeet, bonus]
 faq:
   - question: "Do I need a promo code to get the BoroJeet welcome bonus?"
-    answer: "না, BoroJeet-এ বোনাস পেতে সাধারণত কোনো প্রোমো কোডের প্রয়োজন হয় না। আপনি আমাদের লিঙ্কের মাধ্যমে সাইন আপ করলে এবং অ্যাপ ডাউনলোড করলে অফারগুলো স্বয়ংক্রিয়ভাবে আপনার অ্যাকাউন্টে যুক্ত হয়ে যাবে।"
+    answer: "না, BoroJeet-এ বোনাস পেতে সাধারণত কোনো প্রোমো কোডের প্রয়োজন হয় না। আপনি আমাদের লিঙ্কের মাধ্যমে সাইন আপ করলে এবং অ্যাপ ডাউনলোড করলে অফারগুলো অটোমেটিক্যালি আপনার অ্যাকাউন্টে যুক্ত হয়ে যাবে।"
   - question: "How can I get the ৳100 free registration bonus?"
     answer: "৳100 ফ্রি বোনাস পেতে প্রথমে আমাদের লিঙ্কের মাধ্যমে ওয়েবসাইটে রেজিস্ট্রেশন করুন। এরপর অ্যাপ ডাউনলোড করে লগইন করলেই বোনাসটি দাবি করতে পারবেন।"
   - question: "What is the wagering requirement for the 400% welcome bonus?"

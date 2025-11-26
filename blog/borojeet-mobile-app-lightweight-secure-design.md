@@ -1,12 +1,13 @@
---- 
-title: "BoroJeet মোবাইল অ্যাপ: হালকা, দ্রুত এবং নিরাপদ বেটিং অভিজ্ঞতা"
-description: "BoroJeet মোবাইল অ্যাপের লাইটওয়েট ডিজাইন এবং শক্তিশালী নিরাপত্তা ব্যবস্থা সম্পর্কে জানুন। এটি কীভাবে আপনার ডেটা বাঁচায় এবং একটি নিরাপদ বেটিং পরিবেশ নিশ্চিত করে তা আবিষ্কার করুন।"
+---
+layout: post.njk
+lang: bn-BD
+title: "BoroJeet App Review: হালকা, দ্রুত এবং নিরাপদ"
+description: "BoroJeet অ্যাপ কেন সেরা? এর লাইটওয়েট ডিজাইন ডেটা বাঁচায় এবং শক্তিশালী সিকিউরিটি আপনার তথ্য সুরক্ষিত রাখে। ডাউনলোড গাইড সহ বিস্তারিত।"
 date: 2025-11-06
 lastUpdated: 2025-11-22
-layout: "post.njk"
-ogImage: "borojeet-mobile-app-lightweight-secure-design-optimized.webp"
-ogImageAlt: "একটি স্মার্টফোনে BoroJeet অ্যাপের ইন্টারফেস দেখানো হয়েছে, যার চারপাশে একটি শিল্ড (নিরাপত্তা) এবং একটি পালক (হালকা) এর প্রতীক রয়েছে।"
-tags: ["post", "borojeet", "app"]
+ogImage: borojeet-mobile-app-lightweight-secure-design-optimized.webp
+ogImageAlt: "BoroJeet অ্যাপ ইন্টারফেস"
+tags: [post, borojeet, app]
 review:
   item: "BoroJeet Mobile App"
   rating: 4.8

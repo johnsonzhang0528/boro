@@ -31,7 +31,7 @@ howto:
       text: "'Play' বা 'Bet' বোতামে ক্লিক করুন এবং বলটি নিচে পড়া দেখুন।"
 ---
 
-<p class="lead">আপনি কি এমন একটি গেম খুঁজছেন যা খেলা খুব সহজ কিন্তু উত্তেজনাপূর্ণ? Plinko (প্লিঙ্কো) হতে পারে আপনার জন্য সেরা পছন্দ। বিখ্যাত টিভি শো 'The Price is Right' থেকে অনুপ্রাণিত এই গেমটি এখন বাংলাদেশের অনলাইন ক্যাসিনো জগতে ঝড় তুলেছে।</p>
+<p class="lead">আপনি কি এমন একটি গেম খুঁজছেন যা খেলা খুব সহজ কিন্তু উত্তেজনাপূর্ণ? **Plinko** হতে পারে আপনার জন্য সেরা পছন্দ। বিখ্যাত টিভি শো 'The Price is Right' থেকে অনুপ্রাণিত এই গেমটি এখন বাংলাদেশের Online Casino জগতে ঝড় তুলেছে।</p>
 
 <picture class="hero-image" data-critical="true">
   <source srcset="/assets/blog/plinko-game-guide-bangladesh-optimized.avif" type="image/avif">

@@ -2,7 +2,7 @@
 layout: post.njk
 lang: bn-BD
 title: "Online Casino Terminology Guide: A-Z Glossary (অনলাইন ক্যাসিনো পরিভাষা নির্দেশিকা: A-Z শব্দকোষ)"
-description: Confused by casino jargon? Learn the meaning of RTP, Volatility, Wagering Requirements, and more in our comprehensive glossary. (ক্যাসিনো পরিভাষা নিয়ে বিভ্রান্ত? আমাদের ব্যাপক শব্দকোষে RTP, ভোলাটিলিটি, ওয়েজারিং রিকোয়ারমেন্ট এবং আরও অনেক কিছুর অর্থ জানুন।)
+description: Casino Jargon নিয়ে বিভ্রান্ত? আমাদের ব্যাপক শব্দকোষে RTP, Volatility, Wagering Requirements এবং আরও অনেক কিছুর অর্থ জানুন।
 date: 2025-12-23
 lastUpdated: 2025-12-23
 ogImage: og-casino-terminology-guide-optimized.webp
@@ -31,7 +31,7 @@ howto:
       text: Use Ctrl+F to find specific words. (নির্দিষ্ট শব্দ খুঁজতে Ctrl+F ব্যবহার করুন।)
 ---
 
-<p class="lead">Entering the world of online casinos can feel like learning a new language. Terms like "RTP", "Volatility", and "House Edge" are thrown around constantly. This guide decodes the jargon so you can play with confidence. (অনলাইন ক্যাসিনো জগতে প্রবেশ করা একটি নতুন ভাষা শেখার মতো মনে হতে পারে। "RTP", "ভোলাটিলিটি" এবং "হাউস এজ"-এর মতো শব্দগুলি ক্রমাগত ব্যবহার করা হয়। এই নির্দেশিকাটি পরিভাষাগুলি ডিকোড করে যাতে আপনি আত্মবিশ্বাসের সাথে খেলতে পারেন।)</p>
+<p class="lead">Online Casino জগতে প্রবেশ করা একটি নতুন ভাষা শেখার মতো মনে হতে পারে। "RTP", "Volatility" এবং "House Edge"-এর মতো শব্দগুলি ক্রমাগত ব্যবহার করা হয়। এই নির্দেশিকাটি পরিভাষাগুলি ডিকোড করে যাতে আপনি আত্মবিশ্বাসের সাথে খেলতে পারেন।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/casino-terminology-dictionary-concept-optimized.avif" type="image/avif">

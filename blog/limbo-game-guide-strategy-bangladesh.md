@@ -2,7 +2,7 @@
 layout: post.njk
 lang: bn-BD
 title: Limbo Game Guide & Strategy (লিম্বো গেম গাইড এবং কৌশল)
-description: Complete guide to playing Limbo on Borojeet. Learn rules, payouts, and winning strategies. (Borojeet-এ লিম্বো খেলার সম্পূর্ণ নির্দেশিকা। নিয়ম, পেআউট এবং জয়ের কৌশল জানুন।)
+description: Borojeet-এ Limbo খেলার সম্পূর্ণ গাইড। নিয়ম, Payouts এবং জেতার কৌশল সম্পর্কে বিস্তারিত জানুন।
 date: 2025-12-19
 lastUpdated: 2025-12-19
 ogImage: og-limbo-game-guide-optimized.webp
@@ -33,7 +33,7 @@ howto:
       text: Click the 'Bet' button to start the round. (রাউন্ড শুরু করতে 'Bet' বোতামে ক্লিক করুন।)
 ---
 
-<p class="lead">Limbo is a fast-paced and thrilling crash game that has gained immense popularity on Borojeet. Unlike Aviator, where you cash out, in Limbo, you predict if the result will be higher than your target. (লিম্বো একটি দ্রুত গতির এবং রোমাঞ্চকর ক্র্যাশ গেম যা Borojeet-এ ব্যাপক জনপ্রিয়তা অর্জন করেছে। Aviator-এর বিপরীতে, যেখানে আপনি ক্যাশ আউট করেন, লিম্বোতে আপনি ভবিষ্যদ্বাণী করেন যে ফলাফল আপনার লক্ষ্যের চেয়ে বেশি হবে কিনা।)</p>
+<p class="lead">Limbo একটি দ্রুত গতির এবং রোমাঞ্চকর Crash Game যা Borojeet-এ ব্যাপক জনপ্রিয়তা অর্জন করেছে। Aviator-এর মতো গেমের বিপরীতে যেখানে আপনাকে Cash Out করতে হয়, Limbo-তে আপনাকে ভবিষ্যদ্বাণী করতে হয় যে ফলাফল আপনার Target Multiplier-এর চেয়ে বেশি হবে কিনা।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/limbo-game-big-win-hero-optimized.avif" type="image/avif">
