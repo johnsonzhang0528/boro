@@ -17,6 +17,7 @@
     }
   ],
   "rewrites": [
+    { "source": "/favicon.ico", "destination": "/assets/favicon.svg" },
     { "source": "/admin/(.*)", "destination": "/404" }
   ],
   "headers": [
