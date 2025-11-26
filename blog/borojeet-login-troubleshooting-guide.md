@@ -63,6 +63,7 @@ faq:
 2.  আপনার রেজিস্টার্ড **ফোন নম্বর** বা **ইমেইল** দিন।
 3.  আপনার ফোনে একটি **OTP (One Time Password)** যাবে।
 4.  OTP টি বসান এবং নতুন একটি শক্তিশালী পাসওয়ার্ড সেট করুন।
+*   বিস্তারিত নির্দেশনার জন্য আমাদের **[পাসওয়ার্ড রিসেট ও রিকভারি গাইড](/blog/borojeet-password-reset-recovery-guide/)** পড়ুন।
 
 <picture>
   <source srcset="/assets/blog/forgot-password-reset-unlock-account-optimized.avif" type="image/avif">
