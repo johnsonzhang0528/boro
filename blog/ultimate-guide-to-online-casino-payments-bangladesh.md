@@ -96,3 +96,4 @@ faq:
 *   **[Nagad বনাম bKash: কোনটি সেরা?](/blog/nagad-vs-bkash-casino-deposits/)** - দুটি প্রধান MFS পরিষেবার মধ্যে একটি গভীর তুলনা।
 *   **[bKash ডিপোজিট লিমিট গাইড](/blog/bkash-limit-casino-deposit-guide/)** - লেনদেনের সীমা সংক্রান্ত সমস্যা কীভাবে মোকাবেলা করবেন।
 *   **[কীভাবে টাকা তুলবেন (Withdrawal Guide)](/blog/how-to-withdraw-winnings-from-borojeet/)** - আপনার জেতা টাকা নিরাপদে তোলার জন্য ধাপে ধাপে নির্দেশিকা।
+*   **[সাধারণ ডিপোজিট সমস্যা এবং সমাধান](/blog/common-deposit-issues-solutions-bangladesh/)** - ডিপোজিট ব্যর্থ হলে বা দেরি হলে কী করবেন।
