@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Esports Betting Guide: Dota 2, CS:GO & More (ইস্পোর্টস বেটিং গাইড: ডোটা ২, সিএস:জিও এবং আরও অনেক কিছু)
+title: "Esports Betting Guide: Dota 2, CS:GO & More (ইস্পোর্টস বেটিং গাইড: ডোটা ২, সিএস:জিও এবং আরও অনেক কিছু)"
 description: Dive into the world of Esports betting on Borojeet. Learn how to bet on popular games like Dota 2, League of Legends, and CS:GO. (Borojeet-এ ইস্পোর্টস বেটিং জগতে ডুব দিন। ডোটা ২, লিগ অফ লিজেন্ডস এবং সিএস:জিও-এর মতো জনপ্রিয় গেমগুলিতে কীভাবে বাজি ধরতে হয় তা শিখুন।)
 date: 2025-12-22
 lastUpdated: 2025-12-22

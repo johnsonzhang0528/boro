@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Online Casino Terminology Guide: A-Z Glossary (অনলাইন ক্যাসিনো পরিভাষা নির্দেশিকা: A-Z শব্দকোষ)
+title: "Online Casino Terminology Guide: A-Z Glossary (অনলাইন ক্যাসিনো পরিভাষা নির্দেশিকা: A-Z শব্দকোষ)"
 description: Confused by casino jargon? Learn the meaning of RTP, Volatility, Wagering Requirements, and more in our comprehensive glossary. (ক্যাসিনো পরিভাষা নিয়ে বিভ্রান্ত? আমাদের ব্যাপক শব্দকোষে RTP, ভোলাটিলিটি, ওয়েজারিং রিকোয়ারমেন্ট এবং আরও অনেক কিছুর অর্থ জানুন।)
 date: 2025-12-23
 lastUpdated: 2025-12-23

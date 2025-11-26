@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Crazy Time vs Monopoly Live: Which Game Show is Better? (ক্রেজি টাইম বনাম মনোপলি লাইভ: কোনটি সেরা?)
+title: "Crazy Time vs Monopoly Live: Which Game Show is Better? (ক্রেজি টাইম বনাম মনোপলি লাইভ: কোনটি সেরা?)"
 description: A detailed comparison of Evolution Gaming's top two game shows. Compare RTP, bonus rounds, and winning potential to decide which one to play. (ইভোলিউশন গেমিংয়ের সেরা দুটি গেম শো-এর বিস্তারিত তুলনা। কোনটি খেলবেন তা সিদ্ধান্ত নিতে RTP, বোনাস রাউন্ড এবং জয়ের সম্ভাবনা তুলনা করুন।)
 date: 2025-12-22
 lastUpdated: 2025-12-22
