@@ -72,4 +72,6 @@ BoroJeet-এ আপনি বিভিন্ন ধরণের ভার্চ�
 
 **Virtual Sports Betting** হলো বিনোদনের একটি চমৎকার মাধ্যম, বিশেষ করে যখন কোনো লাইভ খেলা থাকে না। এর দ্রুত গতি এবং উত্তেজনা আপনাকে এক মুহূর্তের জন্যও বোর হতে দেবে না।
 
+আপনি যদি ভিডিও গেমের ভক্ত হন কিন্তু মানুষের খেলা দেখতে পছন্দ করেন, তবে আমাদের **[Esports Betting Guide](/blog/esports-betting-guide-bangladesh/)** দেখুন, যেখানে ডোটা ২ এবং সিএস:জিও-এর মতো গেম নিয়ে আলোচনা করা হয়েছে।
+
 আপনি কি ভার্চুয়াল মাঠে নামতে প্রস্তুত? আজই <a href="/go/borojeet" rel="sponsored nofollow" target="_blank"><strong>BoroJeet-এ যোগ দিন</strong></a> এবং আপনার প্রথম ভার্চুয়াল বাজি ধরুন! আরও জানতে আমাদের **[ক্রিকেট বেটিং গাইড](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/)** পড়ুন।
