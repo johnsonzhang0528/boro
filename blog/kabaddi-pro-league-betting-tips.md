@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)
 description: প্রো কাবাডি লিগে বাজি ধরে জিততে চান? আমাদের বিশেষজ্ঞ টিপস এবং কৌশলগুলো জানুন। রেইডার এবং ডিফেন্ডার বিশ্লেষণ করে কীভাবে সঠিক বাজি ধরবেন। (Pro Kabaddi Betting Tips.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-kabaddi-betting-tips.webp
+date: 2026-01-02
+lastUpdated: 2026-01-02
+ogImage: og-kabaddi-betting-tips-optimized.webp
 ogImageAlt: Pro Kabaddi Betting Tips and Strategy
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">বাংলাদেশে এবং ভারতে **Pro Kabaddi League (PKL)** অত্যন্ত জনপ্রিয়। এই দ্রুত গতির এবং শারীরিক খেলাটি বেটিং-এর জন্য দারুণ সুযোগ তৈরি করে। সঠিক কৌশল জানা থাকলে আপনি এখান থেকে ভালো আয় করতে পারেন।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/kabaddi-raider-action-moment.avif" type="image/avif">
-  <source srcset="/assets/blog/kabaddi-raider-action-moment.webp" type="image/webp">
-  <img src="/assets/blog/kabaddi-raider-action-moment.webp" alt="Kabaddi Raider in Action Moment">
+  <source srcset="/assets/blog/kabaddi-raider-action-moment-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/kabaddi-raider-action-moment-optimized.webp" type="image/webp">
+  <img src="/assets/blog/kabaddi-raider-action-moment-optimized.webp" alt="Kabaddi Raider in Action Moment">
 </picture>
 
 ## কাবাডি বেটিং টিপস (Kabaddi Betting Tips)
@@ -42,9 +42,9 @@ faq:
 *   **Top Defender**: কে সবচেয়ে বেশি ট্যাকল পয়েন্ট পাবে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/kabaddi-betting-markets-explained.avif" type="image/avif">
-  <source srcset="/assets/blog/kabaddi-betting-markets-explained.webp" type="image/webp">
-  <img src="/assets/blog/kabaddi-betting-markets-explained.webp" alt="Kabaddi Betting Markets Explained">
+  <source srcset="/assets/blog/kabaddi-betting-markets-explained-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/kabaddi-betting-markets-explained-optimized.webp" type="image/webp">
+  <img src="/assets/blog/kabaddi-betting-markets-explained-optimized.webp" alt="Kabaddi Betting Markets Explained">
 </picture>
 
 ## লাইভ বেটিং কৌশল (Live Betting Strategy)
