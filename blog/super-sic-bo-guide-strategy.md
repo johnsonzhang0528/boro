@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)
 description: Evolution Gaming-এর Super Sic Bo খেলার সম্পূর্ণ গাইড। নিয়ম, মাল্টিপ্লায়ার এবং জয়ের সেরা কৌশলগুলো সম্পর্কে বিস্তারিত জানুন। (Complete guide to Super Sic Bo rules and strategy.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-super-sic-bo-guide.webp
+date: 2025-12-29
+lastUpdated: 2025-12-29
+ogImage: og-super-sic-bo-guide-optimized.webp
 ogImageAlt: Super Sic Bo Live Casino Game Guide
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">আপনি কি ডাইস গেম পছন্দ করেন? তাহলে Evolution Gaming-এর **Super Sic Bo** আপনার জন্য একটি অসাধারণ অভিজ্ঞতা হতে পারে। এটি ক্লাসিক Sic Bo গেমের একটি উন্নত সংস্করণ, যেখানে যুক্ত হয়েছে বিশাল মাল্টিপ্লায়ার এবং জয়ের অকল্পনীয় সুযোগ।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/super-sic-bo-studio-dice-shaker.avif" type="image/avif">
-  <source srcset="/assets/blog/super-sic-bo-studio-dice-shaker.webp" type="image/webp">
-  <img src="/assets/blog/super-sic-bo-studio-dice-shaker.webp" alt="Super Sic Bo Live Studio with Dice Shaker">
+  <source srcset="/assets/blog/super-sic-bo-studio-dice-shaker-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/super-sic-bo-studio-dice-shaker-optimized.webp" type="image/webp">
+  <img src="/assets/blog/super-sic-bo-studio-dice-shaker-optimized.webp" alt="Super Sic Bo Live Studio with Dice Shaker">
 </picture>
 
 ## Super Sic Bo কি? (What is Super Sic Bo?)
@@ -53,9 +53,9 @@ Super Sic Bo-তে বাজি ধরার অনেক অপশন রয�
 *   **Triple**: নির্দিষ্ট একটি সংখ্যা যা তিনটি ডাইসেই আসবে। এর পেআউট সবচেয়ে বেশি (সাধারণত 150:1, কিন্তু মাল্টিপ্লায়ার সহ 1000:1 পর্যন্ত হতে পারে)।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/super-sic-bo-betting-grid-multipliers.avif" type="image/avif">
-  <source srcset="/assets/blog/super-sic-bo-betting-grid-multipliers.webp" type="image/webp">
-  <img src="/assets/blog/super-sic-bo-betting-grid-multipliers.webp" alt="Super Sic Bo Betting Grid with Multipliers Highlighted">
+  <source srcset="/assets/blog/super-sic-bo-betting-grid-multipliers-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/super-sic-bo-betting-grid-multipliers-optimized.webp" type="image/webp">
+  <img src="/assets/blog/super-sic-bo-betting-grid-multipliers-optimized.webp" alt="Super Sic Bo Betting Grid with Multipliers Highlighted">
 </picture>
 
 ## জয়ের কৌশল (Winning Strategies)
