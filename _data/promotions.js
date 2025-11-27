@@ -376,7 +376,7 @@ const promotions = [
         slug: "daily-slots-crash-bonus-win-1000",
         image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
         startDate: "2025-11-16",
-        endDate: "2030-11-26",
+        endDate: "2025-11-26",
         details: "প্রতিদিন ৳1,000 পর্যন্ত জেতার সুযোগের জন্য স্লট, ফিশার এবং ক্র্যাশ গেম খেলুন।",
         seo_title: "BoroJeet ডেইলি বোনাস | স্লট, ফিশার ও ক্র্যাশে ৳1,000 পর্যন্ত জিতুন",
         seo_description: "প্রতিদিন 100 টাকা জমা দিন এবং স্লট, ফিশার বা ক্র্যাশ গেম খেলে এটিকে 1,000 টাকায় পরিণত করার সুযোগ পান! আপনার জয়ের উপর কোনো টার্নওভারের প্রয়োজন নেই।",
