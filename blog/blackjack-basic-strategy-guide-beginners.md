@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Blackjack বেসিক স্ট্র্যাটেজি: নতুনদের জন্য গাইড (Blackjack Basic Strategy Guide)
 description: Blackjack-এ জেতার সম্ভাবনা বাড়াতে চান? আমাদের বেসিক স্ট্র্যাটেজি চার্ট এবং নিয়মগুলো শিখুন। কখন Hit, Stand বা Double Down করতে হবে তা জানুন। (Learn Blackjack Basic Strategy.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-blackjack-basic-strategy.webp
+date: 2025-12-31
+lastUpdated: 2025-12-31
+ogImage: og-blackjack-basic-strategy-optimized.webp
 ogImageAlt: Blackjack Basic Strategy Guide and Chart
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">Blackjack হলো ক্যাসিনোর একমাত্র গেম যেখানে আপনার দক্ষতা এবং সিদ্ধান্ত সরাসরি খেলার ফলাফলকে প্রভাবিত করতে পারে। **Basic Strategy** বা মৌলিক কৌশল ব্যবহার করে আপনি ক্যাসিনোর সুবিধাকে (House Edge) সর্বনিম্ন পর্যায়ে নামিয়ে আনতে পারেন।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/blackjack-table-cards-chips-strategy.avif" type="image/avif">
-  <source srcset="/assets/blog/blackjack-table-cards-chips-strategy.webp" type="image/webp">
-  <img src="/assets/blog/blackjack-table-cards-chips-strategy.webp" alt="Blackjack Table with Cards and Chips">
+  <source srcset="/assets/blog/blackjack-table-cards-chips-strategy-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/blackjack-table-cards-chips-strategy-optimized.webp" type="image/webp">
+  <img src="/assets/blog/blackjack-table-cards-chips-strategy-optimized.webp" alt="Blackjack Table with Cards and Chips">
 </picture>
 
 ## Basic Strategy কি? (What is Basic Strategy?)
@@ -61,9 +61,9 @@ Blackjack-এ আপনাকে মূলত চারটি সিদ্ধা
     *   কখনও **10s** বা **5s** স্প্লিট করবেন না।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/blackjack-basic-strategy-chart-bangla.avif" type="image/avif">
-  <source srcset="/assets/blog/blackjack-basic-strategy-chart-bangla.webp" type="image/webp">
-  <img src="/assets/blog/blackjack-basic-strategy-chart-bangla.webp" alt="Blackjack Basic Strategy Chart">
+  <source srcset="/assets/blog/blackjack-basic-strategy-chart-bangla-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/blackjack-basic-strategy-chart-bangla-optimized.webp" type="image/webp">
+  <img src="/assets/blog/blackjack-basic-strategy-chart-bangla-optimized.webp" alt="Blackjack Basic Strategy Chart">
 </picture>
 
 ## কেন স্ট্র্যাটেজি চার্ট ব্যবহার করবেন? (Why Use a Strategy Chart?)
