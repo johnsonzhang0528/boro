@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Blackjack বেসিক স্ট্র্যাটেজি: নতুনদের জন্য গাইড (Blackjack Basic Strategy Guide)
+title: "Blackjack বেসিক স্ট্র্যাটেজি: নতুনদের জন্য গাইড (Blackjack Basic Strategy Guide)"
 description: Blackjack-এ জেতার সম্ভাবনা বাড়াতে চান? আমাদের বেসিক স্ট্র্যাটেজি চার্ট এবং নিয়মগুলো শিখুন। কখন Hit, Stand বা Double Down করতে হবে তা জানুন। (Learn Blackjack Basic Strategy.)
 date: 2025-12-31
 lastUpdated: 2025-12-31
@@ -9,7 +9,7 @@ ogImage: og-blackjack-basic-strategy-optimized.webp
 ogImageAlt: Blackjack Basic Strategy Guide and Chart
 tags:
   - post
-  - live casino
+  - live-casino
   - blackjack
   - strategy
   - guide

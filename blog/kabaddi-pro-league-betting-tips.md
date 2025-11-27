@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)
+title: "Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)"
 description: প্রো কাবাডি লিগে বাজি ধরে জিততে চান? আমাদের বিশেষজ্ঞ টিপস এবং কৌশলগুলো জানুন। রেইডার এবং ডিফেন্ডার বিশ্লেষণ করে কীভাবে সঠিক বাজি ধরবেন। (Pro Kabaddi Betting Tips.)
 date: 2026-01-02
 lastUpdated: 2026-01-02
@@ -9,7 +9,7 @@ ogImage: og-kabaddi-betting-tips-optimized.webp
 ogImageAlt: Pro Kabaddi Betting Tips and Strategy
 tags:
   - post
-  - sports betting
+  - sports-betting
   - kabaddi
   - strategy
   - guide

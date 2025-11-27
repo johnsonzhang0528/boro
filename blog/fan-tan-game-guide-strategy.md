@@ -9,10 +9,10 @@ ogImage: og-fan-tan-game-guide-optimized.webp
 ogImageAlt: Fan Tan Live Casino Game Guide and Strategy
 tags:
   - post
-  - live casino
-  - fan tan
+  - live-casino
+  - fan-tan
   - strategy
-  - evolution gaming
+  - evolution-gaming
 faq:
   - question: Fan Tan খেলায় RTP কত? (What is the RTP of Fan Tan?)
     answer: Fan Tan গেমের RTP সাধারণত 98.75% পর্যন্ত হতে পারে, যা নির্ভর করে আপনার বেটিং অপশনের উপর।

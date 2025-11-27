@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)
+title: "Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)"
 description: ক্রিকেটে টস বেটিং কি এবং কীভাবে জিতবেন? টস প্রেডিকশন, পিচ রিপোর্ট এবং বেটিং টিপস সম্পর্কে বিস্তারিত জানুন। (Cricket Toss Betting Guide and Tips.)
 date: 2026-01-01
 lastUpdated: 2026-01-01
@@ -9,7 +9,7 @@ ogImage: og-cricket-toss-betting-optimized.webp
 ogImageAlt: Cricket Toss Betting Strategy Guide
 tags:
   - post
-  - sports betting
+  - sports-betting
   - cricket
   - strategy
   - guide

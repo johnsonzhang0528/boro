@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)
+title: "Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)"
 description: Roulette-এ ঝুঁকি কমাতে চান? Outside Bets (Red/Black, Odd/Even) সম্পর্কে জানুন এবং নিরাপদ খেলার কৌশল শিখুন। নতুনদের জন্য সেরা গাইড। (Learn about Roulette Outside Bets.)
 date: 2025-12-31
 lastUpdated: 2025-12-31
@@ -9,7 +9,7 @@ ogImage: og-roulette-outside-bets-optimized.webp
 ogImageAlt: Roulette Outside Bets Strategy Guide
 tags:
   - post
-  - live casino
+  - live-casino
   - roulette
   - strategy
   - guide

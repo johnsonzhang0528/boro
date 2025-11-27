@@ -9,10 +9,10 @@ ogImage: og-peek-baccarat-guide-optimized.webp
 ogImageAlt: Peek Baccarat Live Casino Game Guide
 tags:
   - post
-  - live casino
+  - live-casino
   - baccarat
   - strategy
-  - evolution gaming
+  - evolution-gaming
 faq:
   - question: Peek Baccarat এবং সাধারণ Baccarat-এর মধ্যে পার্থক্য কি? (Difference between Peek Baccarat and regular Baccarat?)
     answer: Peek Baccarat-এ আপনি ডিলারের কার্ড রিভিল করার আগেই ১-৪টি কার্ড দেখার (Peek) সুযোগ পান এবং আপনার বাজি দ্বিগুণ বা তিনগুণ করতে পারেন।

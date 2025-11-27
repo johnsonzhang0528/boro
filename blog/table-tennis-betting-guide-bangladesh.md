@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)
+title: "Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)"
 description: টেবিল টেনিস বা পিং পং বেটিং গাইড। দ্রুত গতির এই খেলায় কীভাবে বাজি ধরবেন এবং জিতবেন তা জানুন। লাইভ বেটিং-এর জন্য সেরা খেলা। (Table Tennis Betting Guide.)
 date: 2026-01-02
 lastUpdated: 2026-01-02
@@ -9,8 +9,8 @@ ogImage: og-table-tennis-betting-optimized.webp
 ogImageAlt: Table Tennis Betting Guide and Strategy
 tags:
   - post
-  - sports betting
-  - table tennis
+  - sports-betting
+  - table-tennis
   - strategy
   - guide
 faq:

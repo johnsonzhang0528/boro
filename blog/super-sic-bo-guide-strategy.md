@@ -9,10 +9,10 @@ ogImage: og-super-sic-bo-guide-optimized.webp
 ogImageAlt: Super Sic Bo Live Casino Game Guide
 tags:
   - post
-  - live casino
-  - sic bo
+  - live-casino
+  - sic-bo
   - strategy
-  - evolution gaming
+  - evolution-gaming
 faq:
   - question: Super Sic Bo এবং সাধারণ Sic Bo-এর মধ্যে পার্থক্য কি? (Difference between Super Sic Bo and regular Sic Bo?)
     answer: মূল পার্থক্য হলো Super Sic Bo-তে র‍্যান্ডম মাল্টিপ্লায়ার (Random Multipliers) থাকে যা আপনার জয়কে 1000x পর্যন্ত বাড়িয়ে দিতে পারে।
