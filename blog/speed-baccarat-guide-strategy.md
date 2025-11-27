@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Speed Baccarat খেলার নিয়ম ও সুবিধা (Speed Baccarat Game Guide & Strategy)
 description: দ্রুত গতির গেম পছন্দ করেন? Evolution Gaming-এর Speed Baccarat সম্পর্কে জানুন। প্রতি রাউন্ড মাত্র ২৭ সেকেন্ডে শেষ হয়! নিয়ম এবং কৌশল জানুন। (Learn about Speed Baccarat rules and strategy.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-speed-baccarat-guide.webp
+date: 2025-12-30
+lastUpdated: 2025-12-30
+ogImage: og-speed-baccarat-guide-optimized.webp
 ogImageAlt: Speed Baccarat Live Casino Game Guide
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">আপনি কি সময়ের মূল্য দেন এবং দ্রুত ফলাফলের উত্তেজনা পছন্দ করেন? তাহলে **Speed Baccarat** আপনার জন্য আদর্শ গেম। Evolution Gaming-এর এই সংস্করণটি সাধারণ Baccarat-এর মতোই, কিন্তু অনেক বেশি দ্রুত এবং অ্যাকশন-প্যাকড।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/speed-baccarat-fast-dealing-action.avif" type="image/avif">
-  <source srcset="/assets/blog/speed-baccarat-fast-dealing-action.webp" type="image/webp">
-  <img src="/assets/blog/speed-baccarat-fast-dealing-action.webp" alt="Speed Baccarat Dealer Dealing Cards Fast">
+  <source srcset="/assets/blog/speed-baccarat-fast-dealing-action-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/speed-baccarat-fast-dealing-action-optimized.webp" type="image/webp">
+  <img src="/assets/blog/speed-baccarat-fast-dealing-action-optimized.webp" alt="Speed Baccarat Dealer Dealing Cards Fast">
 </picture>
 
 ## Speed Baccarat কি? (What is Speed Baccarat?)
@@ -49,9 +49,9 @@ Speed Baccarat-এর নিয়মগুলো [Live Baccarat](/blog/live-bac
 *   **No Waiting**: ফলাফলের জন্য দীর্ঘক্ষণ অপেক্ষা করতে হয় না।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/speed-baccarat-roadmap-scorecard.avif" type="image/avif">
-  <source srcset="/assets/blog/speed-baccarat-roadmap-scorecard.webp" type="image/webp">
-  <img src="/assets/blog/speed-baccarat-roadmap-scorecard.webp" alt="Speed Baccarat Roadmap and Scorecard">
+  <source srcset="/assets/blog/speed-baccarat-roadmap-scorecard-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/speed-baccarat-roadmap-scorecard-optimized.webp" type="image/webp">
+  <img src="/assets/blog/speed-baccarat-roadmap-scorecard-optimized.webp" alt="Speed Baccarat Roadmap and Scorecard">
 </picture>
 
 ## জয়ের কৌশল (Winning Strategies)
