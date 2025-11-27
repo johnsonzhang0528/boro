@@ -5,7 +5,7 @@ title: "Dream Catcher গেম গাইড: নিয়ম, কৌশল এ�
 description: "Evolution Gaming-এর Dream Catcher মানি হুইল গেমটি কীভাবে খেলতে হয় তা শিখুন। এই গাইডে নিয়ম, পে-আউট এবং বাংলাদেশী খেলোয়াড়দের জন্য জেতার কৌশল আলোচনা করা হয়েছে।"
 date: 2025-12-01
 lastUpdated: 2025-12-01
-ogImage: dream-catcher-game-guide-optimized.webp
+ogImage: dream-catcher-game-og-optimized.webp
 ogImageAlt: "Dream Catcher গেমের বিশাল রঙিন চাকা এবং হোস্ট।"
 tags: [post, guide, live-casino, game-shows, dream-catcher]
 faq:

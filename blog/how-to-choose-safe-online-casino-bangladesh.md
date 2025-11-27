@@ -5,7 +5,7 @@ title: "How to Choose a Safe Online Casino: নিরাপদ অনলাই�
 description: "বাংলাদেশে একটি নিরাপদ এবং বিশ্বস্ত অনলাইন ক্যাসিনো কিভাবে চিনবেন? লাইসেন্স, নিরাপত্তা এবং পেমেন্ট মেথড যাচাই করার গাইড।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-safe-casino-guide-optimized.webp
+ogImage: safe-casino-guide-og-optimized.webp
 ogImageAlt: "Safe Online Casino Guide Bangladesh"
 tags: [post, safety, guide, casino-tips]
 faq:

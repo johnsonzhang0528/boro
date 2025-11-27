@@ -5,7 +5,7 @@ title: "Guide to Responsible Gaming: দায়িত্বশীল গেম
 description: "অনলাইন ক্যাসিনো খেলার সময় কিভাবে দায়িত্বশীল থাকবেন? জুয়ার আসক্তি এড়ানোর টিপস এবং নিরাপদ খেলার গাইড।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-responsible-gaming-guide-optimized.webp
+ogImage: og-responsible-gaming-guide-bangladesh-optimized.webp
 ogImageAlt: "Responsible Gaming Guide Bangladesh"
 tags: [post, responsible-gaming, safety, guide]
 faq:

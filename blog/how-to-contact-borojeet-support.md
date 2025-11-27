@@ -5,7 +5,7 @@ title: "How to Contact BoroJeet Support: কাস্টমার সাপো�
 description: "BoroJeet-এ কোনো সমস্যায় পড়েছেন? লাইভ চ্যাট, ইমেল বা সোশ্যাল মিডিয়ার মাধ্যমে তাদের কাস্টমার সাপোর্ট দলের সাথে যোগাযোগ করার সম্পূর্ণ গাইড।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-contact-support-optimized.webp
+ogImage: how-to-contact-borojeet-support-optimized.webp
 ogImageAlt: "BoroJeet Customer Support"
 tags: [post, borojeet, support, guide]
 faq:

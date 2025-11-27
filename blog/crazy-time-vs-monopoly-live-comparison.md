@@ -5,7 +5,7 @@ title: "Crazy Time বনাম Monopoly Live: কোনটি সেরা ল�
 description: "Evolution Gaming-এর দুটি জনপ্রিয় গেম শো Crazy Time এবং Monopoly Live-এর তুলনা। জানুন কোন গেমটি আপনার জন্য সেরা, তাদের RTP, বোনাস রাউন্ড এবং জয়ের সম্ভাবনা।"
 date: 2025-11-28
 lastUpdated: 2025-11-28
-ogImage: crazy-time-vs-monopoly-live-comparison-optimized.webp
+ogImage: og-crazy-time-vs-monopoly-optimized.webp
 ogImageAlt: "Crazy Time এবং Monopoly Live গেমের লোগো এবং হোস্টদের পাশাপাশি তুলনা।"
 tags: [post, comparison, live-casino, game-shows, crazy-time, monopoly-live]
 faq:

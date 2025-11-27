@@ -5,7 +5,7 @@ title: "Golden Empire Slot Review: গোল্ডেন এম্পায়�
 description: "Jili-র Golden Empire Slot-এর সম্পূর্ণ রিভিউ। RTP, Volatility এবং জয়ের কৌশল সম্পর্কে বিস্তারিত জানুন।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-golden-empire-slot-review-optimized.webp
+ogImage: golden-empire-slot-og-optimized.webp
 ogImageAlt: "Golden Empire স্লট গেম ইন্টারফেস"
 tags: [post, slots, jili, review, strategy]
 review:

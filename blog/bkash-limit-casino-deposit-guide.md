@@ -5,7 +5,7 @@ title: "Bkash Casino Deposit Limit: সমস্যা ও সমাধান (2
 description: "Bkash Deposit Limit বা সমস্যা হচ্ছে? জানুন কিভাবে বড় Amount Deposit করবেন। Send Money vs Payment এর সমাধান। Bkash Limit Solution for Gamblers."
 date: 2025-11-12
 lastUpdated: 2025-11-25
-ogImage: bkash-limit-solution-optimized.webp
+ogImage: bkash-deposit-limit-error-optimized.webp
 ogImageAlt: "Bkash ডিপোজিট লিমিট এরর"
 tags: [post, payment, guide]
 faq:

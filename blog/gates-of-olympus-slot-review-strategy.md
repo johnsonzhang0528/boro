@@ -5,7 +5,7 @@ title: "Gates of Olympus Slot Review: গেটস অফ অলিম্পা�
 description: "Pragmatic Play-এর Gates of Olympus স্লটের সম্পূর্ণ রিভিউ। RTP, Volatility এবং জয়ের কৌশল সম্পর্কে জানুন।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-gates-of-olympus-slot-review-optimized.webp
+ogImage: gates-of-olympus-review-strategy-optimized.webp
 ogImageAlt: "Gates of Olympus স্লট গেম ইন্টারফেস"
 tags: [post, slots, pragmatic-play, review, strategy]
 review:

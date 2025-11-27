@@ -5,7 +5,7 @@ title: "How to Download BoroJeet App: অ্যান্ড্রয়েড AP
 description: "BoroJeet অ্যাপ ডাউনলোড করে মোবাইলে ক্যাসিনো খেলার সেরা অভিজ্ঞতা নিন। অ্যান্ড্রয়েড APK ইনস্টল করার ধাপে ধাপে নির্দেশিকা।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-borojeet-app-download-optimized.webp
+ogImage: og-how-to-download-borojeet-app-optimized.webp
 ogImageAlt: "BoroJeet App Download"
 tags: [post, borojeet, app, guide, android]
 faq:

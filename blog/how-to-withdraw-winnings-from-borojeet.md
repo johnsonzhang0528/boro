@@ -5,7 +5,7 @@ title: "How to Withdraw Winnings from BoroJeet: টাকা উত্তোল�
 description: "BoroJeet থেকে জেতার টাকা কিভাবে তুলবেন? Bkash, Nagad এবং Rocket দিয়ে টাকা উত্তোলনের ধাপে ধাপে গাইড।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-withdrawal-guide-optimized.webp
+ogImage: borojeet-withdrawal-process-optimized.webp
 ogImageAlt: "BoroJeet Withdrawal Guide"
 tags: [post, withdrawal, payments, guide]
 faq:

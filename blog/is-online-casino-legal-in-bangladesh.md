@@ -5,7 +5,7 @@ title: "Is Online Casino Legal in Bangladesh? বাংলাদেশে অন
 description: "বাংলাদেশে অনলাইন ক্যাসিনো কি বৈধ? ১৮৬৭ সালের জুয়া আইন এবং বর্তমান পরিস্থিতি সম্পর্কে বিস্তারিত জানুন।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-legal-status-bangladesh-optimized.webp
+ogImage: is-online-casino-legal-in-bangladesh-optimized.webp
 ogImageAlt: "Legal Status of Online Casino in Bangladesh"
 tags: [post, legal, guide, bangladesh]
 faq:

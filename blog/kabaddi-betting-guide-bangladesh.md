@@ -5,7 +5,7 @@ title: "Kabaddi Betting Guide: কাবাডি বেটিং গাইড �
 description: "বাংলাদেশে কাবাডি বেটিংয়ের জনপ্রিয়তা বাড়ছে। প্রো কাবাডি লিগ এবং অন্যান্য টুর্নামেন্টে বাজি ধরার নিয়ম ও কৌশল জানুন।"
 date: 2025-12-09
 lastUpdated: 2025-12-09
-ogImage: og-kabaddi-betting-guide-optimized.webp
+ogImage: og-kabaddi-betting-tips-optimized.webp
 ogImageAlt: "Kabaddi Betting Guide Bangladesh"
 tags: [post, kabaddi, betting, guide]
 faq:
