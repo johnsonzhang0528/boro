@@ -220,6 +220,30 @@ const promotions = [
     description: "BoroJeet-এর Daily Offers দিয়ে প্রতিদিন আপনার খেলা বুস্ট করুন। Daily Free Bonus, Deposit Boost, এবং জনপ্রিয় গেমের জন্য Free Spins claim করতে লগইন করুন।",
     items: [
       {
+        title: "Win 500 Daily! (Boost 50 to 500)",
+        slug: "win-500-daily-boost-50-to-500",
+        image: "/assets/promotions/promo-win-500-daily-optimized.webp",
+        startDate: "2025-11-26",
+        endDate: "2030-12-31",
+        details: "প্রতিদিন 50 টাকা জমা দিয়ে 500 টাকা পর্যন্ত জেতার সুযোগ নিন। কোনো টার্নওভার ছাড়াই!",
+        seo_title: "BoroJeet ডেইলি উইন 500 | 50 থেকে 500 বুস্ট",
+        seo_description: "BoroJeet-এ প্রতিদিন 500 টাকা জেতার সুযোগ! মাত্র 50 টাকা জমা দিন এবং স্লট, ফিশার বা ক্র্যাশ গেম খেলে 500 টাকা পর্যন্ত জিতুন। কোনো টার্নওভার নেই।",
+        minDeposit: "50",
+        turnoverRequirement: "0",
+        rules: [
+          "Bonus: 50",
+          "Join Amount: 50",
+          "Max Withdraw: 500",
+          "Turnover: Not Required",
+          "Condition: Today's Deposit: 50",
+          "Game Kind: Slots, Fisher & Crash",
+          "Game Platforms: All Game Platforms",
+          "Eligible Player: All VIP Levels",
+          "Availability: Once per Day",
+          "How to Win?: Play until promotional wallet hits 500"
+        ]
+      },
+      {
         title: "ডিপোজিট বুস্ট: 0.5% থেকে 3% বোনাস!",
         slug: "deposit-boost-bonus",
         image: "/assets/promotions/promo-deposit-boost-optimized.webp",
@@ -352,7 +376,7 @@ const promotions = [
         slug: "daily-slots-crash-bonus-win-1000",
         image: "/assets/promotions/promo-win-1000-daily-optimized.webp",
         startDate: "2025-11-16",
-        endDate: "2030-12-31",
+        endDate: "2030-11-26",
         details: "প্রতিদিন ৳1,000 পর্যন্ত জেতার সুযোগের জন্য স্লট, ফিশার এবং ক্র্যাশ গেম খেলুন।",
         seo_title: "BoroJeet ডেইলি বোনাস | স্লট, ফিশার ও ক্র্যাশে ৳1,000 পর্যন্ত জিতুন",
         seo_description: "প্রতিদিন 100 টাকা জমা দিন এবং স্লট, ফিশার বা ক্র্যাশ গেম খেলে এটিকে 1,000 টাকায় পরিণত করার সুযোগ পান! আপনার জয়ের উপর কোনো টার্নওভারের প্রয়োজন নেই।",
