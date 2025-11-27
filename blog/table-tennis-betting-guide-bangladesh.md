@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)
 description: টেবিল টেনিস বা পিং পং বেটিং গাইড। দ্রুত গতির এই খেলায় কীভাবে বাজি ধরবেন এবং জিতবেন তা জানুন। লাইভ বেটিং-এর জন্য সেরা খেলা। (Table Tennis Betting Guide.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-table-tennis-betting.webp
+date: 2026-01-02
+lastUpdated: 2026-01-02
+ogImage: og-table-tennis-betting-optimized.webp
 ogImageAlt: Table Tennis Betting Guide and Strategy
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">**Table Tennis** (বা পিং পং) বেটিং জগতের একটি গোপন রত্ন। এটি অত্যন্ত দ্রুত গতির এবং সারা বছর ধরে টুর্নামেন্ট চলতে থাকে, যা বেটরদের জন্য অফুরন্ত সুযোগ তৈরি করে।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/table-tennis-match-action-shot.avif" type="image/avif">
-  <source srcset="/assets/blog/table-tennis-match-action-shot.webp" type="image/webp">
-  <img src="/assets/blog/table-tennis-match-action-shot.webp" alt="Table Tennis Match Action Shot">
+  <source srcset="/assets/blog/table-tennis-match-action-shot-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/table-tennis-match-action-shot-optimized.webp" type="image/webp">
+  <img src="/assets/blog/table-tennis-match-action-shot-optimized.webp" alt="Table Tennis Match Action Shot">
 </picture>
 
 ## টেবিল টেনিস বেটিং-এর সুবিধা (Benefits of Table Tennis Betting)
@@ -42,9 +42,9 @@ faq:
 *   **Handicap Betting**: পয়েন্ট বা সেটের ব্যবধানে বাজি ধরা।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/table-tennis-betting-points-handicap.avif" type="image/avif">
-  <source srcset="/assets/blog/table-tennis-betting-points-handicap.webp" type="image/webp">
-  <img src="/assets/blog/table-tennis-betting-points-handicap.webp" alt="Table Tennis Betting Points and Handicap Explained">
+  <source srcset="/assets/blog/table-tennis-betting-points-handicap-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/table-tennis-betting-points-handicap-optimized.webp" type="image/webp">
+  <img src="/assets/blog/table-tennis-betting-points-handicap-optimized.webp" alt="Table Tennis Betting Points and Handicap Explained">
 </picture>
 
 ## জয়ের কৌশল (Winning Strategies)
