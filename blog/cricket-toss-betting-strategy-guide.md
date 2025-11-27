@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)
 description: ক্রিকেটে টস বেটিং কি এবং কীভাবে জিতবেন? টস প্রেডিকশন, পিচ রিপোর্ট এবং বেটিং টিপস সম্পর্কে বিস্তারিত জানুন। (Cricket Toss Betting Guide and Tips.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-cricket-toss-betting.webp
+date: 2026-01-01
+lastUpdated: 2026-01-01
+ogImage: og-cricket-toss-betting-optimized.webp
 ogImageAlt: Cricket Toss Betting Strategy Guide
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">ক্রিকেট ম্যাচে **Toss** একটি ছোট ঘটনা মনে হতে পারে, কিন্তু বেটিং জগতে এটি একটি জনপ্রিয় মার্কেট। যদিও এটি মূলত ভাগ্যের খেলা, তবুও কিছু পরিসংখ্যান এবং বিশ্লেষণ আপনাকে সঠিক সিদ্ধান্ত নিতে সাহায্য করতে পারে।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/cricket-captain-flipping-coin-toss.avif" type="image/avif">
-  <source srcset="/assets/blog/cricket-captain-flipping-coin-toss.webp" type="image/webp">
-  <img src="/assets/blog/cricket-captain-flipping-coin-toss.webp" alt="Cricket Captain Flipping Coin for Toss">
+  <source srcset="/assets/blog/cricket-captain-flipping-coin-toss-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/cricket-captain-flipping-coin-toss-optimized.webp" type="image/webp">
+  <img src="/assets/blog/cricket-captain-flipping-coin-toss-optimized.webp" alt="Cricket Captain Flipping Coin for Toss">
 </picture>
 
 ## Toss Betting কি? (What is Toss Betting?)
@@ -41,9 +41,9 @@ Toss Betting হলো এমন একটি বাজি যেখানে �
 3.  **Pitch Conditions**: পিচের অবস্থার উপর ভিত্তি করে অধিনায়করা টস জিততে কতটা মরিয়া, তা বোঝা যায়। তবে এটি টস জয়ের ফলাফলকে সরাসরি প্রভাবিত করে না।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/cricket-pitch-conditions-analysis.avif" type="image/avif">
-  <source srcset="/assets/blog/cricket-pitch-conditions-analysis.webp" type="image/webp">
-  <img src="/assets/blog/cricket-pitch-conditions-analysis.webp" alt="Cricket Pitch Inspection and Analysis">
+  <source srcset="/assets/blog/cricket-pitch-conditions-analysis-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/cricket-pitch-conditions-analysis-optimized.webp" type="image/webp">
+  <img src="/assets/blog/cricket-pitch-conditions-analysis-optimized.webp" alt="Cricket Pitch Inspection and Analysis">
 </picture>
 
 ## সতর্কতা (Warnings)
