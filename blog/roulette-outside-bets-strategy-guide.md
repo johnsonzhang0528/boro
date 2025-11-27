@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)
 description: Roulette-এ ঝুঁকি কমাতে চান? Outside Bets (Red/Black, Odd/Even) সম্পর্কে জানুন এবং নিরাপদ খেলার কৌশল শিখুন। নতুনদের জন্য সেরা গাইড। (Learn about Roulette Outside Bets.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-roulette-outside-bets.webp
+date: 2025-12-31
+lastUpdated: 2025-12-31
+ogImage: og-roulette-outside-bets-optimized.webp
 ogImageAlt: Roulette Outside Bets Strategy Guide
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">আপনি কি Roulette-এ নতুন এবং খুব বেশি ঝুঁকি নিতে চান না? তাহলে **Outside Bets** আপনার জন্য সেরা কৌশল হতে পারে। যদিও এতে পেআউট কম, কিন্তু জয়ের সম্ভাবনা অনেক বেশি।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/roulette-wheel-ball-spinning-close-up.avif" type="image/avif">
-  <source srcset="/assets/blog/roulette-wheel-ball-spinning-close-up.webp" type="image/webp">
-  <img src="/assets/blog/roulette-wheel-ball-spinning-close-up.webp" alt="Close up of Roulette Wheel with Ball Spinning">
+  <source srcset="/assets/blog/roulette-wheel-ball-spinning-close-up-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/roulette-wheel-ball-spinning-close-up-optimized.webp" type="image/webp">
+  <img src="/assets/blog/roulette-wheel-ball-spinning-close-up-optimized.webp" alt="Close up of Roulette Wheel with Ball Spinning">
 </picture>
 
 ## Outside Bets কি? (What are Outside Bets?)
@@ -43,9 +43,9 @@ Roulette টেবিলে সংখ্যাগুলোর (0-36) বাই�
 5.  **Columns (কলাম)**: টেবিলের তিনটি উল্লম্ব কলামের যেকোনো একটিতে বাজি ধরা। পেআউট 2:1।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/roulette-table-outside-bets-highlighted.avif" type="image/avif">
-  <source srcset="/assets/blog/roulette-table-outside-bets-highlighted.webp" type="image/webp">
-  <img src="/assets/blog/roulette-table-outside-bets-highlighted.webp" alt="Roulette Table with Outside Bets Highlighted">
+  <source srcset="/assets/blog/roulette-table-outside-bets-highlighted-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/roulette-table-outside-bets-highlighted-optimized.webp" type="image/webp">
+  <img src="/assets/blog/roulette-table-outside-bets-highlighted-optimized.webp" alt="Roulette Table with Outside Bets Highlighted">
 </picture>
 
 ## কেন Outside Bets খেলবেন? (Why Play Outside Bets?)
