@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: Football Over/Under Betting: গোল বেটিং গাইড (Over/Under Betting Guide)
 description: ফুটবলে Over/Under বাজি কি? 2.5 গোলের অর্থ কি? এই গাইডে জানুন কীভাবে গোল সংখ্যার উপর বাজি ধরে জিতবেন এবং সঠিক ভবিষ্যদ্বাণী করবেন। (Football Over/Under Betting Guide.)
-date: 2025-11-27
-lastUpdated: 2025-11-27
-ogImage: og-football-over-under.webp
+date: 2026-01-01
+lastUpdated: 2026-01-01
+ogImage: og-football-over-under-optimized.webp
 ogImageAlt: Football Over Under Betting Strategy Guide
 tags:
   - post
@@ -23,9 +23,9 @@ faq:
 <p class="lead">ফুটবল বেটিং-এ কে জিতবে তা বলা কঠিন হতে পারে, কিন্তু ম্যাচে কয়টি গোল হবে তা অনুমান করা অনেক সময় সহজ হয়। এখানেই **Over/Under Betting** বা টোটাল গোলস মার্কেট এত জনপ্রিয়।</p>
 
 <picture data-critical="true">
-  <source srcset="/assets/blog/football-match-goal-scoring-moment.avif" type="image/avif">
-  <source srcset="/assets/blog/football-match-goal-scoring-moment.webp" type="image/webp">
-  <img src="/assets/blog/football-match-goal-scoring-moment.webp" alt="Football Match Goal Scoring Moment">
+  <source srcset="/assets/blog/football-match-goal-scoring-moment-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/football-match-goal-scoring-moment-optimized.webp" type="image/webp">
+  <img src="/assets/blog/football-match-goal-scoring-moment-optimized.webp" alt="Football Match Goal Scoring Moment">
 </picture>
 
 ## Over/Under Betting কি? (What is Over/Under Betting?)
@@ -40,9 +40,9 @@ faq:
 *   **Under 2.5**: ম্যাচে ০, ১ বা ২টি গোল হলে আপনি জিতবেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/over-under-2-5-goals-infographic.avif" type="image/avif">
-  <source srcset="/assets/blog/over-under-2-5-goals-infographic.webp" type="image/webp">
-  <img src="/assets/blog/over-under-2-5-goals-infographic.webp" alt="Infographic Explaining Over Under 2.5 Goals">
+  <source srcset="/assets/blog/over-under-2-5-goals-infographic-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/over-under-2-5-goals-infographic-optimized.webp" type="image/webp">
+  <img src="/assets/blog/over-under-2-5-goals-infographic-optimized.webp" alt="Infographic Explaining Over Under 2.5 Goals">
 </picture>
 
 ## জয়ের কৌশল (Winning Strategies)
