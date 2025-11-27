@@ -28,6 +28,20 @@ layout: "base.njk"
       {{ content | safe }}
     </div>
 
+    {# --- Tags Section --- #}
+    {% if tags %}
+    <div class="post-tags">
+      <span class="tags-label">Tags:</span>
+      <div class="tags-list">
+        {% for tag in tags %}
+          {% if tag != "post" %}
+            <a href="/blog/tag/{{ tag | slug }}/" class="tag-pill">{{ tag | capitalize }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
     <div class="share-section">
       <h3>Share this article</h3>
       <div class="share-buttons">
@@ -85,6 +99,39 @@ layout: "base.njk"
     .tw { background: #0c7abf; }
     .wa { background: #075e54; }
     .tg { background: #00619e; }
+
+    /* Tags Styles */
+    .post-tags {
+      margin: 32px 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .tags-label {
+      font-weight: 600;
+      color: var(--muted);
+    }
+    .tags-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .tag-pill {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid #243041;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      color: var(--text);
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+    .tag-pill:hover {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
 
     /* TOC Styles */
     .toc-container {
