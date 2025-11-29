@@ -5,7 +5,7 @@ title: "BoroJeet Daily Bonus Guide: প্রতিদিন Free ৳200 ক্�
 description: "BoroJeet Daily Bonus সম্পর্কে জানুন। প্রতিদিন লগইন করে কিভাবে Free ৳200, Deposit Boost এবং App Daily Wins দাবি করবেন তার বিস্তারিত গাইড।"
 date: 2025-11-30
 lastUpdated: 2025-11-30
-ogImage: borojeet-daily-bonus-guide.webp
+ogImage: borojeet-daily-bonus-guide-optimized.webp
 ogImageAlt: "BoroJeet ডেইলি বোনাস অফার"
 tags: [post, borojeet, bonus, guide]
 faq:
