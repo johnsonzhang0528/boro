@@ -28,7 +28,7 @@ howto:
       text: "যেই সাইডের দুই-ডাইস টোটাল বেশি, সেই সাইড জয়ী হয়।"
 ---
 
-<p class="lead">Bac Bo হলো Evolution Gaming-এর একটি অনন্য লাইভ ক্যাসিনো গেম যা [Baccarat](/blog/live-baccarat-guide-bangladesh)-এর কমনীয়তা এবং Dice-এর সরলতাকে একত্রিত করে।</p>
+<p class="lead">Bac Bo হলো Evolution Gaming-এর একটি অনন্য লাইভ ক্যাসিনো গেম যা <a href="/blog/live-baccarat-guide-bangladesh">Baccarat</a>-এর কমনীয়তা এবং Dice-এর সরলতাকে একত্রিত করে।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/bac-bo-live-casino-hero-optimized.avif" type="image/avif">

@@ -20,7 +20,7 @@ faq:
     answer: যখন একজন রেইডার এক রেইডে ৩ বা তার বেশি পয়েন্ট স্কোর করে, তাকে Super Raid বলা হয়।
 ---
 
-<p class="lead">বাংলাদেশে এবং ভারতে **Pro Kabaddi League (PKL)** অত্যন্ত জনপ্রিয়। এই দ্রুত গতির এবং শারীরিক খেলাটি বেটিং-এর জন্য দারুণ সুযোগ তৈরি করে। সঠিক কৌশল জানা থাকলে আপনি এখান থেকে ভালো আয় করতে পারেন।</p>
+<p class="lead">বাংলাদেশে এবং ভারতে <strong>Pro Kabaddi League (PKL)</strong> অত্যন্ত জনপ্রিয়। এই দ্রুত গতির এবং শারীরিক খেলাটি বেটিং-এর জন্য দারুণ সুযোগ তৈরি করে। সঠিক কৌশল জানা থাকলে আপনি এখান থেকে ভালো আয় করতে পারেন।</p>
 
 <picture data-critical="true">
   <source srcset="/assets/blog/kabaddi-raider-action-moment-optimized.avif" type="image/avif">

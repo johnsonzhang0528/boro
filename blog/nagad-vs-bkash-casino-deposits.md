@@ -4,7 +4,7 @@ description: "ফি কম, লেনদেন দ্রুত, নাকি �
 date: 2025-10-31
 lastUpdated: 2025-11-17
 layout: "post.njk"
-ogImage: "nagad-vs-bkash.webp"
+ogImage: "nagad-vs-bkash-optimized.webp"
 tags: ["post", "payments", "comparison"]
 faq:
   - question: "Which is better for casino deposits, Nagad or bKash?"

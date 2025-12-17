@@ -20,7 +20,7 @@ faq:
     answer: না, নিয়মগুলো সাধারণ Baccarat-এর মতোই। পার্থক্য শুধু গেমের গতি এবং কার্ড ডিল করার পদ্ধতিতে।
 ---
 
-<p class="lead">আপনি কি সময়ের মূল্য দেন এবং দ্রুত ফলাফলের উত্তেজনা পছন্দ করেন? তাহলে **Speed Baccarat** আপনার জন্য আদর্শ গেম। Evolution Gaming-এর এই সংস্করণটি সাধারণ Baccarat-এর মতোই, কিন্তু অনেক বেশি দ্রুত এবং অ্যাকশন-প্যাকড।</p>
+<p class="lead">আপনি কি সময়ের মূল্য দেন এবং দ্রুত ফলাফলের উত্তেজনা পছন্দ করেন? তাহলে <strong>Speed Baccarat</strong> আপনার জন্য আদর্শ গেম। Evolution Gaming-এর এই সংস্করণটি সাধারণ Baccarat-এর মতোই, কিন্তু অনেক বেশি দ্রুত এবং অ্যাকশন-প্যাকড।</p>
 
 <picture data-critical="true">
   <source srcset="/assets/blog/speed-baccarat-fast-dealing-action-optimized.avif" type="image/avif">
@@ -36,7 +36,7 @@ Speed Baccarat হলো স্ট্যান্ডার্ড Baccarat-এর
 
 ## খেলার নিয়ম (Game Rules)
 
-Speed Baccarat-এর নিয়মগুলো [Live Baccarat](/blog/live-baccarat-guide-bangladesh/)-এর মতোই:
+Speed Baccarat-এর নিয়মগুলো **[Live Baccarat](/blog/live-baccarat-guide-bangladesh/)**-এর মতোই:
 
 1.  **Betting**: বাজি ধরার জন্য খুব অল্প সময় (প্রায় ১০-১২ সেকেন্ড) পাওয়া যায়।
 2.  **Dealing**: ডিলার দ্রুত Player এবং Banker-এর কার্ডগুলো ফেস-আপ ডিল করেন।

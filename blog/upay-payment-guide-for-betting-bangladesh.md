@@ -25,7 +25,7 @@ howto:
       text: Follow the instructions in your Upay app to complete the payment.
 ---
 
-<p class="lead">**Upay** (উপায়) বাংলাদেশের একটি দ্রুত বর্ধনশীল **Mobile Financial Service**। Borojeet-এ [টাকা জমা এবং উত্তোলনের](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) জন্য এটি একটি নিরাপদ এবং সুবিধাজনক মাধ্যম।</p>
+<p class="lead"><strong>Upay</strong> (উপায়) বাংলাদেশের একটি দ্রুত বর্ধনশীল <strong>Mobile Financial Service</strong>। Borojeet-এ <a href="/blog/ultimate-guide-to-online-casino-payments-bangladesh/">টাকা জমা এবং উত্তোলনের</a> জন্য এটি একটি নিরাপদ এবং সুবিধাজনক মাধ্যম।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/upay-app-transaction-screen-optimized.avif" type="image/avif">
@@ -41,7 +41,7 @@ howto:
 
 ## How to Deposit (কিভাবে টাকা জমা দেবেন)
 
-১. আপনার Borojeet অ্যাকাউন্টে লগইন করুন।
+১. আপনার Borojeet অ্যাকাউন্টে **[লগইন](/blog/borojeet-login-troubleshooting-guide/)** করুন।
 ২. **Deposit** বাটনে ক্লিক করুন এবং **Upay** নির্বাচন করুন।
 ৩. টাকার পরিমাণ লিখুন এবং **Submit** করুন।
 ৪. স্ক্রিনে প্রদর্শিত নাম্বারে আপনার উপায় অ্যাপ থেকে **Cash Out** বা **Send Money** করুন (নির্দেশনা অনুযায়ী)।

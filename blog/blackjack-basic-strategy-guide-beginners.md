@@ -20,7 +20,7 @@ faq:
     answer: না, তবে এটি ক্যাসিনোর সুবিধা (House Edge) কমিয়ে 0.5%-এর নিচে নামিয়ে আনতে পারে, যা দীর্ঘমেয়াদে আপনার জেতার সম্ভাবনা বাড়ায়।
 ---
 
-<p class="lead">Blackjack হলো ক্যাসিনোর একমাত্র গেম যেখানে আপনার দক্ষতা এবং সিদ্ধান্ত সরাসরি খেলার ফলাফলকে প্রভাবিত করতে পারে। **Basic Strategy** বা মৌলিক কৌশল ব্যবহার করে আপনি ক্যাসিনোর সুবিধাকে (House Edge) সর্বনিম্ন পর্যায়ে নামিয়ে আনতে পারেন।</p>
+<p class="lead"><a href="/blog/live-dealer-blackjack-side-bets-guide/">Blackjack</a> হলো ক্যাসিনোর একমাত্র গেম যেখানে আপনার দক্ষতা এবং সিদ্ধান্ত সরাসরি খেলার ফলাফলকে প্রভাবিত করতে পারে। <strong>Basic Strategy</strong> বা মৌলিক কৌশল ব্যবহার করে আপনি ক্যাসিনোর সুবিধাকে (House Edge) সর্বনিম্ন পর্যায়ে নামিয়ে আনতে পারেন।</p>
 
 <picture data-critical="true">
   <source srcset="/assets/blog/blackjack-table-cards-chips-strategy-optimized.avif" type="image/avif">

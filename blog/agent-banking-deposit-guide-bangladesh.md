@@ -17,7 +17,7 @@ faq:
     answer: "Deposits through agents are usually instant or take 5-10 minutes."
 ---
 
-<p class="lead">বাংলাদেশে অনলাইন বেটিং বা ক্যাসিনো সাইটে টাকা জমা (Deposit) এবং উত্তোলন (Withdrawal) করার সবচেয়ে সহজ এবং জনপ্রিয় মাধ্যম হলো **Agent Banking**। **Bkash**, **Nagad**, এবং **Rocket**-এর মতো মোবাইল ফিনান্সিয়াল সার্ভিস ব্যবহার করে আপনি খুব সহজেই লেনদেন করতে পারেন।</p>
+<p class="lead">বাংলাদেশে অনলাইন বেটিং বা ক্যাসিনো সাইটে টাকা জমা (Deposit) এবং উত্তোলন (Withdrawal) করার সবচেয়ে সহজ এবং জনপ্রিয় মাধ্যম হলো <strong>Agent Banking</strong>। <strong>Bkash</strong>, <strong>Nagad</strong>, এবং <strong>Rocket</strong>-এর মতো মোবাইল ফিনান্সিয়াল সার্ভিস ব্যবহার করে আপনি খুব সহজেই লেনদেন করতে পারেন।</p>
 
 ## What is Agent Banking? (এজেন্ট ব্যাংকিং কী?)
 

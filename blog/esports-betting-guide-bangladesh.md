@@ -28,7 +28,7 @@ howto:
       text: "আপনি যে দলটি জিতবে বলে মনে করেন তার Odds-এ ক্লিক করুন।"
 ---
 
-<p class="lead">Esports এখন আর শুধু ভিডিও গেম নয়; এটি বিশাল টুর্নামেন্ট এবং রোমাঞ্চকর বেটিং সুযোগ সহ একটি বিশ্বব্যাপী ঘটনা। **Dota 2**-এর কৌশলগত গভীরতা থেকে **CS:GO**-এর দ্রুত রিফ্লেক্স পর্যন্ত, **Esports Betting** সবার জন্য কিছু না কিছু অফার করে।</p>
+<p class="lead">Esports এখন আর শুধু ভিডিও গেম নয়; এটি বিশাল টুর্নামেন্ট এবং রোমাঞ্চকর বেটিং সুযোগ সহ একটি বিশ্বব্যাপী ঘটনা। <strong>Dota 2</strong>-এর কৌশলগত গভীরতা থেকে <strong>CS:GO</strong>-এর দ্রুত রিফ্লেক্স পর্যন্ত, <strong>Esports Betting</strong> সবার জন্য কিছু না কিছু অফার করে।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/esports-tournament-stage-hero-optimized.avif" type="image/avif">

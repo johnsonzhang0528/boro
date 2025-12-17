@@ -20,7 +20,7 @@ faq:
     answer: "এর মানে হলো ম্যাচে মোট ২ বা তার কম গোল হতে হবে। (যেমন: 0-0, 1-0, 1-1, 2-0)।"
 ---
 
-<p class="lead">ফুটবল বেটিং-এ কে জিতবে তা বলা কঠিন হতে পারে, কিন্তু ম্যাচে কয়টি গোল হবে তা অনুমান করা অনেক সময় সহজ হয়। এখানেই **Over/Under Betting** বা টোটাল গোলস মার্কেট এত জনপ্রিয়।</p>
+<p class="lead">ফুটবল বেটিং-এ কে জিতবে তা বলা কঠিন হতে পারে, কিন্তু ম্যাচে কয়টি গোল হবে তা অনুমান করা অনেক সময় সহজ হয়। এখানেই <strong>Over/Under Betting</strong> বা টোটাল গোলস মার্কেট এত জনপ্রিয়।</p>
 
 <picture data-critical="true">
   <source srcset="/assets/blog/football-match-goal-scoring-moment-optimized.avif" type="image/avif">

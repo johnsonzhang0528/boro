@@ -28,7 +28,7 @@ howto:
       text: "Find the Cashback offer and click 'Claim'."
 ---
 
-<p class="lead">খেলায় হার-জিত থাকবেই, এটাই স্বাভাবিক। কিন্তু BoroJeet-এর **Cashback Bonus** আপনার লস কমিয়ে দেয় এবং আপনাকে ঘুরে দাঁড়ানোর সুযোগ দেয়। এই প্রমোশনের মাধ্যমে আপনি আপনার লোকসানের একটি অংশ ফেরত পেতে পারেন, যা আপনাকে জেতার দ্বিতীয় সুযোগ (Second Chance) দেয়।</p>
+<p class="lead">খেলায় হার-জিত থাকবেই, এটাই স্বাভাবিক। কিন্তু BoroJeet-এর <strong>Cashback Bonus</strong> আপনার লস কমিয়ে দেয় এবং আপনাকে ঘুরে দাঁড়ানোর সুযোগ দেয়। এই প্রমোশনের মাধ্যমে আপনি আপনার লোকসানের একটি অংশ ফেরত পেতে পারেন, যা আপনাকে জেতার দ্বিতীয় সুযোগ (Second Chance) দেয়।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/cashback-bonus-coins-returning-optimized.avif" type="image/avif">

@@ -23,7 +23,7 @@ faq:
     answer: "হ্যাঁ, ৩টি Scatter প্রতীক সংগ্রহ করলে উচ্চতর Multipliers সহ Free Game মোড চালু হয়।"
 ---
 
-<p class="lead">**Super Ace** Jili-র একটি কার্ড-থিমযুক্ত Slot Game যা অনলাইন ক্যাসিনো বিশ্বে ঝড় তুলেছে। এর অনন্য Golden Card ফিচার এবং Elimination Multipliers সহ, এটি অফুরন্ত উত্তেজনা প্রদান করে।</p>
+<p class="lead"><strong>Super Ace</strong> Jili-র একটি কার্ড-থিমযুক্ত Slot Game যা অনলাইন ক্যাসিনো বিশ্বে ঝড় তুলেছে। এর অনন্য Golden Card ফিচার এবং Elimination Multipliers সহ, এটি অফুরন্ত উত্তেজনা প্রদান করে।</p>
 
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/super-ace-slot-golden-cards-win-optimized.avif" type="image/avif">
@@ -35,7 +35,7 @@ faq:
 
 Super Ace একটি সাধারণ ৫x৪ গ্রিড ব্যবহার করে তবে একটি Cascading Mechanic প্রবর্তন করে যেখানে বিজয়ী প্রতীকগুলি সরানো হয় এবং নতুনগুলি দ্বারা প্রতিস্থাপিত হয়।
 
-*   **Provider**: Jili Games
+*   **Provider**: **[Jili Games](/blog/jili-slot-games-guide-bangladesh/)**
 *   **RTP**: ~97%
 *   **Volatility**: Low-Medium
 *   **Max Win**: 1500x

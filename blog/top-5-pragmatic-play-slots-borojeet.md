@@ -65,6 +65,7 @@ Gates of Olympus এর একটি অ্যানিমে সংস্কর
 *   **থিম:** অ্যানিমে রাজকুমারী।
 *   **ফিচার:** মেকানিক্স প্রায় Gates of Olympus এর মতোই, কিন্তু ভিন্ন ভিজ্যুয়াল এবং সাউন্ডট্র্যাক।
 *   **ম্যাক্স উইন:** ৫,০০০ গুণ।
+*   **আরও জানুন:** **[Starlight Princess রিভিউ](/blog/starlight-princess-slot-review-strategy/)**।
 
 ## কেন Pragmatic Play সেরা?
 

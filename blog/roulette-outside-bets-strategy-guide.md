@@ -20,7 +20,7 @@ faq:
     answer: ইউরোপিয়ান রুলেটে Outside Bets-এ জয়ের সম্ভাবনা প্রায় 48.6%, যা Inside Bets-এর চেয়ে অনেক বেশি।
 ---
 
-<p class="lead">আপনি কি Roulette-এ নতুন এবং খুব বেশি ঝুঁকি নিতে চান না? তাহলে **Outside Bets** আপনার জন্য সেরা কৌশল হতে পারে। যদিও এতে পেআউট কম, কিন্তু জয়ের সম্ভাবনা অনেক বেশি।</p>
+<p class="lead">আপনি কি <a href="/blog/roulette-strategies-and-betting-systems/">Roulette</a>-এ নতুন এবং খুব বেশি ঝুঁকি নিতে চান না? তাহলে <strong>Outside Bets</strong> আপনার জন্য সেরা কৌশল হতে পারে। যদিও এতে পেআউট কম, কিন্তু জয়ের সম্ভাবনা অনেক বেশি।</p>
 
 <picture data-critical="true">
   <source srcset="/assets/blog/roulette-wheel-ball-spinning-close-up-optimized.avif" type="image/avif">

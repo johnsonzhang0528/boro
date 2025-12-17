@@ -20,7 +20,7 @@ faq:
     answer: Player এবং Banker বাজির উপর 20% Peek Fee প্রযোজ্য হয়।
 ---
 
-<p class="lead">Baccarat খেলার সময় আপনি কি কখনও ভেবেছেন, "ইশ! যদি কার্ডগুলো একটু দেখে নিতে পারতাম?" Evolution Gaming আপনার সেই ইচ্ছা পূরণ করেছে **Peek Baccarat**-এর মাধ্যমে। এই গেমটি আপনাকে কার্ড দেখার এবং আপনার বাজি বাড়ানোর এক অনন্য সুযোগ দেয়।</p>
+<p class="lead"><a href="/blog/live-baccarat-guide-bangladesh/">Baccarat</a> খেলার সময় আপনি কি কখনও ভেবেছেন, "ইশ! যদি কার্ডগুলো একটু দেখে নিতে পারতাম?" Evolution Gaming আপনার সেই ইচ্ছা পূরণ করেছে <strong>Peek Baccarat</strong>-এর মাধ্যমে। এই গেমটি আপনাকে কার্ড দেখার এবং আপনার বাজি বাড়ানোর এক অনন্য সুযোগ দেয়।</p>
 
 <picture data-critical="true">
   <source srcset="/assets/blog/peek-baccarat-live-dealer-revealing-cards-optimized.avif" type="image/avif">

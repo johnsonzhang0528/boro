@@ -5,7 +5,7 @@ title: "Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্য
 description: "A complete guide to badminton betting in Bangladesh. Learn about major tournaments, betting markets, and winning tips. ব্যাডমিন্টন খেলায় বাজি ধরার নিয়ম।"
 date: 2026-01-06
 lastUpdated: 2026-01-06
-ogImage: badminton-betting-thumbnail.webp
+ogImage: badminton-betting-thumbnail-optimized.webp
 ogImageAlt: "Badminton shuttlecock and racket with betting odds in background - ব্যাডমিন্টন বেটিং"
 tags: ["post", "sports-betting", "badminton", "guide"]
 faq:
@@ -17,7 +17,7 @@ faq:
     answer: "A handicap bet gives a virtual advantage or disadvantage to a player to level the playing field."
 ---
 
-<p class="lead">ক্রিকেট এবং ফুটবলের পর বাংলাদেশে **Badminton (ব্যাডমিন্টন)** অত্যন্ত জনপ্রিয় একটি খেলা। বিশেষ করে শীতকালে এর জনপ্রিয়তা তুঙ্গে থাকে। আপনি কি জানেন যে ব্যাডমিন্টন খেলায় বাজি ধরেও আপনি আয় করতে পারেন? এই গাইডে আমরা ব্যাডমিন্টন বেটিং-এর খুঁটিনাটি আলোচনা করব।</p>
+<p class="lead">ক্রিকেট এবং ফুটবলের পর বাংলাদেশে <strong>Badminton (ব্যাডমিন্টন)</strong> অত্যন্ত জনপ্রিয় একটি খেলা। বিশেষ করে শীতকালে এর জনপ্রিয়তা তুঙ্গে থাকে। আপনি কি জানেন যে ব্যাডমিন্টন খেলায় বাজি ধরেও আপনি আয় করতে পারেন? এই গাইডে আমরা ব্যাডমিন্টন বেটিং-এর খুঁটিনাটি আলোচনা করব।</p>
 
 ## Major Tournaments (প্রধান টুর্নামেন্টসমূহ)
 
@@ -29,9 +29,9 @@ faq:
 4.  **All England Open:** বিশ্বের প্রাচীনতম এবং মর্যাদাপূর্ণ টুর্নামেন্ট।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/badminton-match-action.avif" type="image/avif">
-  <source srcset="/assets/blog/badminton-match-action.webp" type="image/webp">
-  <img src="/assets/blog/badminton-match-action.webp" alt="Action shot of a badminton player smashing the shuttlecock" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/badminton-match-action-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/badminton-match-action-optimized.webp" type="image/webp">
+  <img src="/assets/blog/badminton-match-action-optimized.webp" alt="Action shot of a badminton player smashing the shuttlecock" loading="lazy" decoding="async">
 </picture>
 
 ## Betting Markets (বেটিং মার্কেট)
@@ -50,9 +50,9 @@ faq:
 3.  **Live Betting:** ব্যাডমিন্টন খুব দ্রুত গতির খেলা। লাইভ বেটিং-এ আপনি খেলার মোড় ঘুরে যাওয়ার সাথে সাথে বাজি ধরতে পারেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/badminton-betting-odds.avif" type="image/avif">
-  <source srcset="/assets/blog/badminton-betting-odds.webp" type="image/webp">
-  <img src="/assets/blog/badminton-betting-odds.webp" alt="Digital screen displaying badminton betting odds and statistics" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/badminton-betting-odds-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/badminton-betting-odds-optimized.webp" type="image/webp">
+  <img src="/assets/blog/badminton-betting-odds-optimized.webp" alt="Digital screen displaying badminton betting odds and statistics" loading="lazy" decoding="async">
 </picture>
 
 ## Conclusion (উপসংহার)
