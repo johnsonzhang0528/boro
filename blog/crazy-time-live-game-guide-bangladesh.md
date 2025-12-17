@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Crazy Time Live Game Bangladesh: Rules, Bonus Rounds & Strategy"
 description: "Crazy Time Live ক্যাসিনো গেম খেলার নিয়ম এবং জেতার কৌশল। Pachinko, Cash Hunt, Coin Flip এবং Crazy Time বোনাস রাউন্ড সম্পর্কে বিস্তারিত জানুন।"
-date: 2025-12-18
-lastUpdated: 2025-12-18
+date: 2026-01-09
+lastUpdated: 2026-01-09
 ogImage: crazy-time-live-game-guide-optimized.webp
 ogImageAlt: "Crazy Time Live Game Wheel"
 tags: [post, live-casino, crazy-time, evolution-gaming, guide]
