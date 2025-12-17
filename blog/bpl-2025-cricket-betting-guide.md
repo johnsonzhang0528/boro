@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী"
 description: "BPL 2025 এর জন্য প্রস্তুত হন! বিপিএল ম্যাচগুলিতে কীভাবে বাজি ধরবেন, সেরা অডস খুঁজবেন এবং আমাদের বিশেষজ্ঞ ভবিষ্যদ্বাণীগুলি জানুন। বাংলাদেশ প্রিমিয়ার লিগ ২০২৫ গাইড।"
-date: 2025-12-11
-lastUpdated: 2025-12-11
+date: 2026-01-09
+lastUpdated: 2026-01-09
 ogImage: og-bpl-2025-betting-guide-optimized.webp
 ogImageAlt: "BPL 2025 cricket stadium with team flags (BPL 2025 ক্রিকেট স্টেডিয়াম)"
 tags: [post, cricket, betting, bpl, guide]
