@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়"
 description: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দিয়ে মাসে হাজার হাজার টাকা আয় করুন। ৪০% পর্যন্ত কমিশন, ফ্রি রেজিস্ট্রেশন এবং সহজ পেমেন্ট। জানুন কিভাবে শুরু করবেন।"
-date: 2025-12-08
-lastUpdated: 2025-12-08
+date: 2026-01-12
+lastUpdated: 2026-01-12
 ogImage: og-borojeet-affiliate-program-optimized.webp
 ogImageAlt: "BoroJeet অ্যাফিলিয়েট আয়ের গ্রাফ"
 tags: [post, borojeet, guide, affiliate, earn-money]
