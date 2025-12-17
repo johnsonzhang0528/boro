@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "BoroJeet VIP Program: লেভেল, রিওয়ার্ড ও সুবিধা"
 description: "BoroJeet VIP মেম্বার হয়ে আনলক করুন এক্সক্লুসিভ রিওয়ার্ড। লেভেল আপ বোনাস, মাসিক গিফট এবং ফাস্ট উইথড্রয়াল সুবিধা। জানুন কিভাবে দ্রুত VIP লেভেল বাড়াবেন।"
-date: 2025-11-30
-lastUpdated: 2025-11-30
+date: 2026-01-12
+lastUpdated: 2026-01-12
 ogImage: borojeet-vip-program-levels-rewards-optimized.webp
 ogImageAlt: "BoroJeet VIP লেভেল চার্ট"
 tags: [post, borojeet, vip, guide]
