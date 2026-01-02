@@ -62,7 +62,7 @@ faq:
 
 ## ৩. 1xBet
 
-আপনি যদি **High Odds** এবং প্রচুর বেটিং অপশন খোঁজেন, তবে 1xBet একটি ভালো বিকল্প। এদের অ্যাপে **Cricket Betting** এর জন্য বিশেষ ফিচার রয়েছে। আরও জানতে আমাদের **[ক্রিকেট বেটিং অ্যাপ গাইড](/blog/best-cricket-betting-apps-bangladesh-2025/)** পড়ুন।
+আপনি যদি **High Odds** এবং প্রচুর বেটিং অপশন খোঁজেন, তবে 1xBet একটি ভালো বিকল্প। এদের অ্যাপে **Cricket Betting** এর জন্য বিশেষ ফিচার রয়েছে। এছাড়াও, আপনি **[ফুটবল](/blog/football-betting-guide-bangladesh/)**, **[টেনিস](/blog/tennis-betting-guide-bangladesh/)** এবং **[ভলিবল](/blog/volleyball-betting-guide-bangladesh/)** এর মতো খেলাতেও বাজি ধরতে পারেন। আরও জানতে আমাদের **[ক্রিকেট বেটিং অ্যাপ গাইড](/blog/best-cricket-betting-apps-bangladesh-2025/)** পড়ুন।
 
 <picture class="content-image">
   <source srcset="/assets/blog/sports-betting-app-interface-example-optimized.avif" type="image/avif">
