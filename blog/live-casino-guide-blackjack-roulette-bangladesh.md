@@ -144,6 +144,7 @@ faq:
 
 আপনি যদি ব্যাকারাত বা টিন পট্টির মতো অন্যান্য জনপ্রিয় লাইভ কার্ড গেম সম্পর্কে জানতে আগ্রহী হন, তাহলে আমাদের সম্পূর্ণ গাইডগুলো পড়ুন:
 *   **[লাইভ ব্যাকারাত খেলার সম্পূর্ণ গাইড](/blog/live-baccarat-guide-bangladesh/)**
+*   **[Boro Jeet Baccarat Strategy Guide](/blog/boro-jeet-baccarat-strategy-guide/)**
 *   **[লাইভ টিন পট্টি খেলার সম্পূর্ণ গাইড](/blog/live-teen-patti-guide-bangladesh/)**
 *   **[ড্রাগন টাইগার গেম গাইড এবং কৌশল](/blog/dragon-tiger-game-guide-strategy/)**
 *   **[সিক বো খেলার নিয়ম এবং কৌশল](/blog/sic-bo-game-guide-strategy/)**
