@@ -21,7 +21,7 @@ faq:
 
 <p class="lead">আপনি কি এমন একটি ক্যাসিনো গেম খুঁজছেন যা শেখা খুব সহজ এবং প্রতিটি রাউন্ড মাত্র কয়েক সেকেন্ডের মধ্যে শেষ হয়? তাহলে <strong>Dragon Tiger (ড্রাগন টাইগার)</strong> আপনার জন্য সেরা পছন্দ। এটি এশিয়ার সবচেয়ে জনপ্রিয় ক্যাসিনো গেমগুলির মধ্যে একটি এবং বাংলাদেশী খেলোয়াড়দের কাছেও এটি অত্যন্ত প্রিয়।</p>
 
-এই গাইডে, আমরা আপনাকে Dragon Tiger খেলার নিয়ম, বাজির ধরন এবং জেতার কিছু কার্যকর কৌশল সম্পর্কে জানাব। আপনি যদি কার্ড গেম পছন্দ করেন, তবে আমাদের **[Baccarat গাইড](/blog/live-baccarat-guide-bangladesh/)** এবং **[Andar Bahar গাইড](/blog/andar-bahar-guide-for-beginners/)**-ও দেখতে পারেন।
+এই গাইডে, আমরা আপনাকে Dragon Tiger খেলার নিয়ম, বাজির ধরন এবং জেতার কিছু কার্যকর কৌশল সম্পর্কে জানাব। আপনি যদি কার্ড গেম পছন্দ করেন, তবে আমাদের **[Baccarat গাইড](/blog/live-baccarat-guide-bangladesh/)** এবং **[Andar Bahar গাইড](/blog/andar-bahar-guide-for-beginners/)**-ও দেখতে পারেন। Boro Jeet-এ ড্রাগন টাইগার খেলার বিশেষ টিপস জানতে, আমাদের **[Boro Jeet Dragon Tiger গাইড](/blog/boro-jeet-dragon-tiger-game-guide/)** পড়ুন।
 
 ## Dragon Tiger কী?
 
