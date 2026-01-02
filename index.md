@@ -4,7 +4,7 @@ title: "Boro Jeet অ্যাপ ডাউনলোড (apk) - BoroJeet Officia
 description: "বাংলাদেশের জন্য অফিসিয়াল Boro Jeet (BoroJeet) অ্যাপ ডাউনলোড করুন। আমাদের লাইটওয়েট এবং সুরক্ষিত apk দিয়ে আপনার বোনাস পান। bKash/Nagad ডিপোজিট এবং উইথড্রয়ালের সম্পূর্ণ গাইড।"
 canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
-lastUpdated: 2025-11-21
+lastUpdated: 2026-01-03
 tags: "index"
 softwareApp:
   name: "BoroJeet App"
