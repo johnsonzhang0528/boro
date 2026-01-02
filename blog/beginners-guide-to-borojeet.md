@@ -98,7 +98,7 @@ BoroJeet-এ আপনার যাত্রা শুরু হয় একট
 অনেকেই গুগলে খোঁজেন "মোবাইল দিয়ে টাকা আয় করার উপায়"। অনলাইন বেটিং বা ক্যাসিনো গেম খেলে টাকা আয় করা সম্ভব, তবে এটি ঝুঁকির সাথে আসে। BoroJeet-এ স্মার্টলি খেলে আপনি আপনার জেতার সম্ভাবনা বাড়াতে পারেন:
 
 1.  **Use Bonuses:** Welcome Bonus, [Daily Bonus](/blog/borojeet-daily-bonus-guide-claim-free-200-bdt/) এবং Rebate Offer-গুলো আপনার খেলার ব্যালেন্স বাড়িয়ে দেয়। কোন বোনাসটি আপনার জন্য সেরা তা জানতে আমাদের **[সেরা বোনাস গাইড](/blog/best-value-borojeet-promotions-guide/)** দেখুন। নিয়মিত খেললে **[VIP Program](/blog/borojeet-vip-program-guide-levels-rewards/)** থেকেও বাড়তি রিওয়ার্ড পাওয়া যায়।
-2.  **দক্ষতার গেম খেলুন:** শুধুমাত্র ভাগ্যের উপর নির্ভর না করে, ব্ল্যাকজ্যাক বা **[পোকারের মতো গেম](/blog/online-poker-guide-for-beginners-bangladesh/)** শিখুন যেখানে দক্ষতা কাজে লাগে।
+2.  **দক্ষতার গেম খেলুন:** শুধুমাত্র ভাগ্যের উপর নির্ভর না করে, ব্ল্যাকজ্যাক বা **[পোকারের মতো গেম](/blog/online-poker-guide-for-beginners-bangladesh/)** শিখুন যেখানে দক্ষতা কাজে লাগে। Boro Jeet-এ খেলার জন্য আমাদের **[Boro Jeet Poker Guide](/blog/boro-jeet-poker-games-online/)** দেখুন।
 3.  **Aviator বা Crash গেম:** এই গেমগুলোতে সঠিক সময়ে ক্যাশআউট করে দ্রুত লাভ করা সম্ভব।
 4.  **অ্যাফিলিয়েট প্রোগ্রাম:** আপনি যদি ঝুঁকি ছাড়া আয় করতে চান, তবে **[BoroJeet অ্যাফিলিয়েট প্রোগ্রাম](/blog/borojeet-affiliate-program-guide-earn-money/)**-এ যোগ দিয়ে বন্ধুদের রেফার করে কমিশন আয় করতে পারেন। বিস্তারিত জানতে আমাদের **[রেফারেল বোনাস গাইড](/blog/how-to-claim-referral-bonus-borojeet/)** দেখুন।
 
