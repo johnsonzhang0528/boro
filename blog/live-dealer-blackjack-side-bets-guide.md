@@ -50,4 +50,4 @@ faq:
 
 সাইড বেটগুলো খুব লোভনীয় কারণ এতে বড় পে-আউট পাওয়া যায়। তবে মনে রাখবেন, এগুলোর **House Edge** মূল ব্ল্যাকজ্যাক গেমের চেয়ে অনেক বেশি। তাই এগুলোকে মূল আয়ের উৎস হিসেবে না দেখে মাঝে মাঝে বিনোদনের জন্য খেলা উচিত।
 
-আজই **Borojeet**-এ লাইভ ব্ল্যাকজ্যাক টেবিলে যোগ দিন এবং আপনার ভাগ্য পরীক্ষা করুন। Register on the website first to claim your bonus, then download the app for the best experience.
+আজই **Borojeet**-এ লাইভ ব্ল্যাকজ্যাক টেবিলে যোগ দিন এবং আপনার ভাগ্য পরীক্ষা করুন। ব্ল্যাকজ্যাক খেলার মূল কৌশলগুলো ঝালিয়ে নিতে আমাদের **[Boro Jeet Blackjack গাইড](/blog/boro-jeet-blackjack-winning-tips/)** পড়ুন। Register on the website first to claim your bonus, then download the app for the best experience.
