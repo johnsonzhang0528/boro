@@ -56,6 +56,7 @@ faq:
     *   **লাইভ ব্ল্যাকজ্যাক (Live Blackjack):** ডিলারের বিরুদ্ধে কার্ডের খেলা, লক্ষ্য হলো ২১ এর কাছাকাছি পৌঁছানো।
     *   **লাইভ ব্যাকারাত (Live Baccarat):** একটি সহজ কার্ড গেম যেখানে আপনি প্লেয়ার বা ব্যাংকারের উপর বাজি ধরেন। আপনি যদি নতুন কিছু চেষ্টা করতে চান, তবে **[Bac Bo গেম গাইড](/blog/bac-bo-game-guide-strategy/)** দেখুন, যা ব্যাকারাত এবং ডাইস গেমের একটি অনন্য মিশ্রণ।
     *   **লাইভ ডাইস (Live Dice):** ডাইস গেমগুলোও খুব জনপ্রিয়। **[Lightning Dice](/blog/lightning-dice-game-guide-strategy/)** এর মতো গেমে ১০০০ গুণ পর্যন্ত জেতার সুযোগ থাকে।
+    *   **গেম শো (Game Shows):** ক্যাসিনো এবং টিভি শো-এর সংমিশ্রণ। **[Crazy Time](/blog/crazy-time-live-game-guide/)**, **[Monopoly Live](/blog/monopoly-live-game-guide-strategy/)** এবং **[Gonzo's Treasure Hunt](/blog/gonzos-treasure-hunt-guide-strategy/)** এর মতো গেমগুলো এখন খুব জনপ্রিয়।
 
 ## ৩. টেবিল গেমস (Table Games)
 
