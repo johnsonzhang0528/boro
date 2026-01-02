@@ -5,7 +5,7 @@ title: "Volleyball Betting Guide BD: Rules, Markets & Tips | ভলিবল ব
 description: "Spike your way to wins with our Volleyball Betting Guide! Learn about set betting, total points, and handicap markets. ভলিবল বেটিং গাইড।"
 date: 2026-01-26
 lastUpdated: 2026-01-26
-ogImage: volleyball-betting-guide-thumbnail.webp
+ogImage: volleyball-betting-guide-thumbnail-optimized.webp
 ogImageAlt: "Volleyball players jumping at the net during a match"
 tags: ["post", "sports-betting", "volleyball", "guide"]
 faq:
@@ -26,9 +26,9 @@ faq:
 ভলিবল ম্যাচ সাধারণত ৫ সেটের হয় (Best of 5)। প্রথম ৪টি সেট ২৫ পয়েন্টের হয় এবং ৫ম সেট (যদি প্রয়োজন হয়) ১৫ পয়েন্টের হয়। যে দল আগে ৩টি সেট জিতবে, তারা ম্যাচ বিজয়ী হবে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/volleyball-match-action.avif" type="image/avif">
-  <source srcset="/assets/blog/volleyball-match-action.webp" type="image/webp">
-  <img src="/assets/blog/volleyball-match-action.webp" alt="Action shot of a volleyball match with players spiking the ball" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/volleyball-match-action-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/volleyball-match-action-optimized.webp" type="image/webp">
+  <img src="/assets/blog/volleyball-match-action-optimized.webp" alt="Action shot of a volleyball match with players spiking the ball" loading="lazy" decoding="async">
 </picture>
 
 ## Popular Betting Markets (জনপ্রিয় বেটিং মার্কেট)
@@ -43,9 +43,9 @@ faq:
 ম্যাচে মোট কত পয়েন্ট হবে? বুকমেকার একটি সংখ্যা (যেমন ১৩৫.৫) নির্ধারণ করে, আপনাকে বলতে হবে পয়েন্ট তার বেশি হবে নাকি কম।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/volleyball-betting-odds-screen.avif" type="image/avif">
-  <source srcset="/assets/blog/volleyball-betting-odds-screen.webp" type="image/webp">
-  <img src="/assets/blog/volleyball-betting-odds-screen.webp" alt="Volleyball betting odds displayed on a mobile screen" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/volleyball-betting-odds-screen-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/volleyball-betting-odds-screen-optimized.webp" type="image/webp">
+  <img src="/assets/blog/volleyball-betting-odds-screen-optimized.webp" alt="Volleyball betting odds displayed on a mobile screen" loading="lazy" decoding="async">
 </picture>
 
 ## Winning Strategy (জেতার কৌশল)

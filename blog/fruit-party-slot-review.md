@@ -5,7 +5,7 @@ title: "Fruit Party Slot Review: Cluster Pays & Multipliers | ফ্রুট �
 description: "Enjoy the juicy wins in Fruit Party! Learn about cluster pays, random multipliers, and free spins. ফ্রুট পার্টি স্লট রিভিউ।"
 date: 2026-01-22
 lastUpdated: 2026-01-22
-ogImage: fruit-party-thumbnail.webp
+ogImage: fruit-party-thumbnail-optimized.webp
 ogImageAlt: "Fruit Party slot game logo with colorful fruits and a sunny background"
 tags: ["post", "slots", "pragmatic-play", "review", "fruit"]
 faq:
@@ -31,9 +31,9 @@ Fruit Party একটি ৭x৭ গ্রিড স্লট। এখানে
 *   **Max Win:** 5,000x
 
 <picture class="content-image">
-  <source srcset="/assets/blog/fruit-party-big-win.avif" type="image/avif">
-  <source srcset="/assets/blog/fruit-party-big-win.webp" type="image/webp">
-  <img src="/assets/blog/fruit-party-big-win.webp" alt="Big win screen on Fruit Party slot with exploding fruits" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/fruit-party-big-win-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/fruit-party-big-win-optimized.webp" type="image/webp">
+  <img src="/assets/blog/fruit-party-big-win-optimized.webp" alt="Big win screen on Fruit Party slot with exploding fruits" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
@@ -45,9 +45,9 @@ Fruit Party একটি ৭x৭ গ্রিড স্লট। এখানে
 ৩টি বা তার বেশি গোল্ডেন পিচ (Golden Peach) স্ক্যাটার সিম্বল ল্যান্ড করলে ১০টি ফ্রি স্পিন ট্রিগার হয়। ফ্রি স্পিন রাউন্ডে মাল্টিপ্লায়ার আসার সম্ভাবনা আরও বেশি থাকে (4x পর্যন্ত)।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/fruit-party-free-spins.avif" type="image/avif">
-  <source srcset="/assets/blog/fruit-party-free-spins.webp" type="image/webp">
-  <img src="/assets/blog/fruit-party-free-spins.webp" alt="Free spins round in Fruit Party showing multipliers on fruit symbols" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/fruit-party-free-spins-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/fruit-party-free-spins-optimized.webp" type="image/webp">
+  <img src="/assets/blog/fruit-party-free-spins-optimized.webp" alt="Free spins round in Fruit Party showing multipliers on fruit symbols" loading="lazy" decoding="async">
 </picture>
 
 ### 3. Tumble Feature

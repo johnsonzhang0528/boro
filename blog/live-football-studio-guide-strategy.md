@@ -5,7 +5,7 @@ title: "Live Football Studio Guide: Rules & Strategy | লাইভ ফুটব
 description: "Experience the thrill of football in a card game! Learn how to play Live Football Studio by Evolution Gaming. লাইভ ফুটবল স্টুডিও গাইড।"
 date: 2026-01-24
 lastUpdated: 2026-01-24
-ogImage: live-football-studio-thumbnail.webp
+ogImage: live-football-studio-thumbnail-optimized.webp
 ogImageAlt: "Live Football Studio table with Home and Away betting options"
 tags: ["post", "live-casino", "evolution-gaming", "football", "guide"]
 faq:
@@ -30,9 +30,9 @@ Live Football Studio একটি অত্যন্ত দ্রুত গত�
 *   **Game Type:** Live Card Game
 
 <picture class="content-image">
-  <source srcset="/assets/blog/live-football-studio-table.avif" type="image/avif">
-  <source srcset="/assets/blog/live-football-studio-table.webp" type="image/webp">
-  <img src="/assets/blog/live-football-studio-table.webp" alt="Live Football Studio game interface showing the dealer and table" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/live-football-studio-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/live-football-studio-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/live-football-studio-table-optimized.webp" alt="Live Football Studio game interface showing the dealer and table" loading="lazy" decoding="async">
 </picture>
 
 ## How to Play (কীভাবে খেলবেন)
@@ -51,9 +51,9 @@ Live Football Studio একটি অত্যন্ত দ্রুত গত�
 *   **Football Commentary:** গেম চলাকালীন হোস্টরা চলমান ফুটবল ম্যাচ নিয়ে আলোচনা করেন, যা ফুটবল ভক্তদের জন্য বাড়তি বিনোদন যোগ করে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/live-football-studio-winning-hand.avif" type="image/avif">
-  <source srcset="/assets/blog/live-football-studio-winning-hand.webp" type="image/webp">
-  <img src="/assets/blog/live-football-studio-winning-hand.webp" alt="Winning hand in Live Football Studio" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/live-football-studio-winning-hand-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/live-football-studio-winning-hand-optimized.webp" type="image/webp">
+  <img src="/assets/blog/live-football-studio-winning-hand-optimized.webp" alt="Winning hand in Live Football Studio" loading="lazy" decoding="async">
 </picture>
 
 ## Conclusion (উপসংহার)

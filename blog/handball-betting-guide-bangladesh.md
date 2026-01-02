@@ -5,7 +5,7 @@ title: "Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল
 description: "Master Handball Betting with our expert guide! Learn about match winner, handicap, and total goals markets. হ্যান্ডবল বেটিং গাইড।"
 date: 2026-01-27
 lastUpdated: 2026-01-27
-ogImage: handball-betting-guide-thumbnail.webp
+ogImage: handball-betting-guide-thumbnail-optimized.webp
 ogImageAlt: "Handball player jumping to throw the ball"
 tags: ["post", "sports-betting", "handball", "guide"]
 faq:
@@ -26,9 +26,9 @@ faq:
 হ্যান্ডবল একটি দলগত খেলা যেখানে ৭ জন করে খেলোয়াড় থাকে। খেলার মূল উদ্দেশ্য হলো হাত দিয়ে বল পাস করে প্রতিপক্ষের গোলে বল পাঠানো। ম্যাচটি ৬০ মিনিটের হয় (৩০ মিনিটের দুটি হাফ)।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/handball-match-action.avif" type="image/avif">
-  <source srcset="/assets/blog/handball-match-action.webp" type="image/webp">
-  <img src="/assets/blog/handball-match-action.webp" alt="Action shot of a handball match with a player shooting at goal" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/handball-match-action-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/handball-match-action-optimized.webp" type="image/webp">
+  <img src="/assets/blog/handball-match-action-optimized.webp" alt="Action shot of a handball match with a player shooting at goal" loading="lazy" decoding="async">
 </picture>
 
 ## Popular Betting Markets (জনপ্রিয় বেটিং মার্কেট)
@@ -43,9 +43,9 @@ faq:
 ম্যাচে মোট কত গোল হবে? হ্যান্ডবলে সাধারণত ৫০-৬০টি গোল হয়, তাই ওভার/আন্ডার লাইনটি সাধারণত ৫৪.৫ বা ৫৫.৫ এর আশেপাশে থাকে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/handball-betting-strategy-chart.avif" type="image/avif">
-  <source srcset="/assets/blog/handball-betting-strategy-chart.webp" type="image/webp">
-  <img src="/assets/blog/handball-betting-strategy-chart.webp" alt="Chart showing handball betting strategies and key statistics" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/handball-betting-strategy-chart-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/handball-betting-strategy-chart-optimized.webp" type="image/webp">
+  <img src="/assets/blog/handball-betting-strategy-chart-optimized.webp" alt="Chart showing handball betting strategies and key statistics" loading="lazy" decoding="async">
 </picture>
 
 ## Winning Strategy (জেতার কৌশল)

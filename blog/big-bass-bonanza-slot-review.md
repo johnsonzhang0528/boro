@@ -5,7 +5,7 @@ title: "Big Bass Bonanza Slot Review: RTP, Free Spins & Big Wins | বিগ ব
 description: "Dive into the Big Bass Bonanza slot! Learn about RTP, free spins, and winning strategies for Bangladeshi players. বিগ বাস বোনানজা স্লট রিভিউ।"
 date: 2026-01-21
 lastUpdated: 2026-01-21
-ogImage: big-bass-bonanza-thumbnail.webp
+ogImage: big-bass-bonanza-thumbnail-optimized.webp
 ogImageAlt: "Big Bass Bonanza slot game logo with a fisherman holding a big fish"
 tags: ["post", "slots", "pragmatic-play", "review", "fishing"]
 faq:
@@ -31,9 +31,9 @@ Big Bass Bonanza একটি ৫-রিল, ৩-রো এবং ১০-পে�
 *   **Max Win:** 2,100x
 
 <picture class="content-image">
-  <source srcset="/assets/blog/big-bass-bonanza-big-win.avif" type="image/avif">
-  <source srcset="/assets/blog/big-bass-bonanza-big-win.webp" type="image/webp">
-  <img src="/assets/blog/big-bass-bonanza-big-win.webp" alt="Big win screen on Big Bass Bonanza slot" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/big-bass-bonanza-big-win-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/big-bass-bonanza-big-win-optimized.webp" type="image/webp">
+  <img src="/assets/blog/big-bass-bonanza-big-win-optimized.webp" alt="Big win screen on Big Bass Bonanza slot" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
@@ -45,9 +45,9 @@ Big Bass Bonanza একটি ৫-রিল, ৩-রো এবং ১০-পে�
 ৩, ৪ বা ৫টি স্ক্যাটার (Scatter) সিম্বল ল্যান্ড করলে আপনি যথাক্রমে ১০, ১৫ বা ২০টি ফ্রি স্পিন পাবেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/big-bass-bonanza-free-spins.avif" type="image/avif">
-  <source srcset="/assets/blog/big-bass-bonanza-free-spins.webp" type="image/webp">
-  <img src="/assets/blog/big-bass-bonanza-free-spins.webp" alt="Free spins round in Big Bass Bonanza showing the fisherman collecting fish" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/big-bass-bonanza-free-spins-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/big-bass-bonanza-free-spins-optimized.webp" type="image/webp">
+  <img src="/assets/blog/big-bass-bonanza-free-spins-optimized.webp" alt="Free spins round in Big Bass Bonanza showing the fisherman collecting fish" loading="lazy" decoding="async">
 </picture>
 
 ফ্রি স্পিন চলাকালীন, ফিশারম্যান (Wild) সিম্বল স্ক্রিনে আসলে সে সমস্ত মানি সিম্বল (মাছ) সংগ্রহ করে। এছাড়াও, প্রতি ৪র্থ ফিশারম্যান সংগ্রহ করলে আপনি আরও ১০টি ফ্রি স্পিন এবং একটি মাল্টিপ্লায়ার (2x, 3x, 10x) পাবেন।

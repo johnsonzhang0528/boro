@@ -5,7 +5,7 @@ title: "Gonzo's Treasure Hunt Guide: VR Live Game Strategy | গঞ্জোস 
 description: "Join Gonzo on a treasure hunt! Learn how to play this unique VR live game show by Evolution Gaming. গঞ্জোস ট্রেজার হান্ট গাইড।"
 date: 2026-01-25
 lastUpdated: 2026-01-25
-ogImage: gonzos-treasure-hunt-thumbnail.webp
+ogImage: gonzos-treasure-hunt-thumbnail-optimized.webp
 ogImageAlt: "Gonzo's Treasure Hunt game show with Gonzo and the live host"
 tags: ["post", "live-casino", "evolution-gaming", "game-shows", "vr"]
 faq:
@@ -30,9 +30,9 @@ faq:
 *   **Max Win:** 20,000x
 
 <picture class="content-image">
-  <source srcset="/assets/blog/gonzos-treasure-hunt-wall.avif" type="image/avif">
-  <source srcset="/assets/blog/gonzos-treasure-hunt-wall.webp" type="image/webp">
-  <img src="/assets/blog/gonzos-treasure-hunt-wall.webp" alt="The wall of 70 stones in Gonzo's Treasure Hunt" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/gonzos-treasure-hunt-wall-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/gonzos-treasure-hunt-wall-optimized.webp" type="image/webp">
+  <img src="/assets/blog/gonzos-treasure-hunt-wall-optimized.webp" alt="The wall of 70 stones in Gonzo's Treasure Hunt" loading="lazy" decoding="async">
 </picture>
 
 ## How to Play (কীভাবে খেলবেন)
@@ -45,9 +45,9 @@ faq:
 4.  **Reveal:** পাথরগুলো উল্টে যায় এবং আপনি দেখতে পান আপনি কী জিতেছেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/gonzos-treasure-hunt-prize-drop.avif" type="image/avif">
-  <source srcset="/assets/blog/gonzos-treasure-hunt-prize-drop.webp" type="image/webp">
-  <img src="/assets/blog/gonzos-treasure-hunt-prize-drop.webp" alt="Prize drop feature adding multipliers to the wall" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/gonzos-treasure-hunt-prize-drop-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/gonzos-treasure-hunt-prize-drop-optimized.webp" type="image/webp">
+  <img src="/assets/blog/gonzos-treasure-hunt-prize-drop-optimized.webp" alt="Prize drop feature adding multipliers to the wall" loading="lazy" decoding="async">
 </picture>
 
 ## Winning Strategy (জেতার কৌশল)
