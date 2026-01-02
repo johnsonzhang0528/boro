@@ -44,7 +44,7 @@ howto:
 
 ## What is Sic Bo? (সিক বো কি?)
 
-Sic Bo, যার অর্থ "মূল্যবান ডাইস", হলো একটি ভাগ্যের খেলা যা **তিনটি স্ট্যান্ডার্ড ছয়-পার্শ্বযুক্ত ডাইস** দিয়ে খেলা হয়। **[Blackjack](/blog/live-casino-guide-blackjack-roulette-bangladesh/)** বা **[Baccarat](/blog/live-baccarat-guide-bangladesh/)**-এর মতো কার্ড গেমের বিপরীতে, Sic Bo সম্পূর্ণরূপে ডাইস রোলের ফলাফলের ভবিষ্যদ্বাণী করার উপর নির্ভর করে।
+Sic Bo, যার অর্থ "মূল্যবান ডাইস", হলো একটি ভাগ্যের খেলা যা **তিনটি স্ট্যান্ডার্ড ছয়-পার্শ্বযুক্ত ডাইস** দিয়ে খেলা হয়। **[Blackjack](/blog/live-casino-guide-blackjack-roulette-bangladesh/)** বা **[Baccarat](/blog/live-baccarat-guide-bangladesh/)**-এর মতো কার্ড গেমের বিপরীতে, Sic Bo সম্পূর্ণরূপে ডাইস রোলের ফলাফলের ভবিষ্যদ্বাণী করার উপর নির্ভর করে। Boro Jeet-এ সিক বো খেলার বিশেষ টিপস জানতে, আমাদের **[Boro Jeet Sic Bo গাইড](/blog/boro-jeet-sic-bo-winning-strategy/)** পড়ুন।
 
 গেম টেবিলটি প্রথমে জটিল মনে হতে পারে কারণ এতে অনেক বাজির বিকল্প রয়েছে, তবে গেমপ্লেটি আসলে খুব সহজ।
 
