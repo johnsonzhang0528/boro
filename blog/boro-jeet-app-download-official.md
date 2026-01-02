@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: "Boro Jeet App Download 2025: Official APK for Android | বড়জিত অ্যাপ ডাউনলোড"
+title: "Boro Jeet App Download 2026: Official APK for Android | বড়জিত অ্যাপ ডাউনলোড"
 description: "Download the official Boro Jeet app for Android and iOS. Get the latest BoroJeet APK for sports betting and casino games. Boro Jeet অ্যাপ ডাউনলোড এবং ইনস্টল গাইড।"
 date: 2026-01-13
 lastUpdated: 2026-01-13
