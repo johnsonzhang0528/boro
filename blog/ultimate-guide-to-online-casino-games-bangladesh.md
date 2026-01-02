@@ -55,6 +55,7 @@ faq:
     *   **লাইভ রুলেট (Live Roulette):** ডিলার চাকা ঘোরান এবং বল কোথায় থামবে তার উপর বাজি ধরা হয়। আমাদের নতুন **[রুলেট কৌশল গাইডে](/blog/roulette-strategies-and-betting-systems/)** এবং **[Lightning Roulette গাইড](/blog/lightning-roulette-game-guide-strategy/)**-এ আরও জানুন।
     *   **লাইভ ব্ল্যাকজ্যাক (Live Blackjack):** ডিলারের বিরুদ্ধে কার্ডের খেলা, লক্ষ্য হলো ২১ এর কাছাকাছি পৌঁছানো।
     *   **লাইভ ব্যাকারাত (Live Baccarat):** একটি সহজ কার্ড গেম যেখানে আপনি প্লেয়ার বা ব্যাংকারের উপর বাজি ধরেন। আপনি যদি নতুন কিছু চেষ্টা করতে চান, তবে **[Bac Bo গেম গাইড](/blog/bac-bo-game-guide-strategy/)** দেখুন, যা ব্যাকারাত এবং ডাইস গেমের একটি অনন্য মিশ্রণ।
+    *   **লাইভ ডাইস (Live Dice):** ডাইস গেমগুলোও খুব জনপ্রিয়। **[Lightning Dice](/blog/lightning-dice-game-guide-strategy/)** এর মতো গেমে ১০০০ গুণ পর্যন্ত জেতার সুযোগ থাকে।
 
 ## ৩. টেবিল গেমস (Table Games)
 
