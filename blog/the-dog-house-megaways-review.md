@@ -1,23 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "The Dog House Megaways Review: Sticky Wilds & Big Wins | দ্য ডগ হাউস মেগাওয়েজ"
-description: "Read our review of The Dog House Megaways slot by Pragmatic Play. Discover Sticky Wilds, Raining Wilds, and how to win big. দ্য ডগ হাউস মেগাওয়েজ স্লট রিভিউ।"
-date: 2026-01-19
 lastUpdated: 2026-01-19
-ogImage: the-dog-house-megaways-thumbnail-optimized.webp
-ogImageAlt: "The Dog House Megaways slot characters and logo - দ্য ডগ হাউস মেগাওয়েজ"
-tags: ["post", "casino", "slot", "pragmatic-play", "review"]
-review:
-  item: "The Dog House Megaways"
-  rating: 4.8
-faq:
-  - question: "What is the RTP of The Dog House Megaways?"
-    answer: "The RTP is 96.55%, which is highly competitive."
-  - question: "Does it have a Buy Bonus feature?"
-    answer: "Yes, you can buy the Free Spins round for 100x your bet."
-  - question: "What is the max win?"
-    answer: "The maximum win is 12,305x your stake."
+description: "Read our review of The Dog House Megaways slot by Pragmatic Play. Discover Sticky Wilds, Raining Wilds, and how to win big. দ্য ডগ হাউস মেগাওয়েজ স্লট রিভিউ।"
+title: "The Dog House Megaways Review: Sticky Wilds & Big Wins | দ্য ডগ হাউস মেগাওয়েজ"
+layout: post.njklang: bn-BDdate: 2026-01-19ogImage: the-dog-house-megaways-thumbnail-optimized.webpogImageAlt: "The Dog House Megaways slot characters and logo - দ্য ডগ হাউস মেগাওয়েজ"tags: ["post", "casino", "slot", "pragmatic-play", "review"]review:  item: "The Dog House Megaways"  rating: 4.8faq:  - question: "What is the RTP of The Dog House Megaways?"    answer: "The RTP is 96.55%, which is highly competitive."  - question: "Does it have a Buy Bonus feature?"    answer: "Yes, you can buy the Free Spins round for 100x your bet."  - question: "What is the max win?"    answer: "The maximum win is 12,305x your stake."
 ---
 
 <p class="lead"><strong>The Dog House Megaways</strong> হলো Pragmatic Play-এর অন্যতম জনপ্রিয় স্লট গেম, যা তাদের অরিজিনাল 'The Dog House' গেমের একটি আপগ্রেডেড ভার্সন। <strong>Megaways</strong> মেকানিক্স এবং <strong>Sticky Wilds</strong> ফিচারের কারণে এটি খেলোয়াড়দের কাছে অত্যন্ত প্রিয়।</p>

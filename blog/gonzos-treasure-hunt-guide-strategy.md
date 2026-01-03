@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Gonzo's Treasure Hunt Guide: VR Live Game Strategy | গঞ্জোস ট্রেজার হান্ট"
-description: "Join Gonzo on a treasure hunt! Learn how to play this unique VR live game show by Evolution Gaming. গঞ্জোস ট্রেজার হান্ট গাইড।"
-date: 2026-01-25
 lastUpdated: 2026-01-25
-ogImage: gonzos-treasure-hunt-thumbnail-optimized.webp
-ogImageAlt: "Gonzo's Treasure Hunt game show with Gonzo and the live host"
-tags: ["post", "live-casino", "evolution-gaming", "game-shows", "vr"]
-faq:
-  - question: "Is this a slot or a live game?"
-    answer: "It's a unique hybrid of a live game show and a slot-style RNG game, featuring VR technology."
-  - question: "What is the max win?"
-    answer: "You can win up to 20,000x your bet in a single round."
-  - question: "Can I play in VR mode?"
-    answer: "Yes, if you have a VR headset, you can experience the game in full Virtual Reality mode."
+description: "Join Gonzo on a treasure hunt! Learn how to play this unique VR live game show by Evolution Gaming. গঞ্জোস ট্রেজার হান্ট গাইড।"
+title: "Gonzo's Treasure Hunt Guide: VR Live Game Strategy | গঞ্জোস ট্রেজার হান্ট"
+layout: post.njklang: bn-BDdate: 2026-01-25ogImage: gonzos-treasure-hunt-thumbnail-optimized.webpogImageAlt: "Gonzo's Treasure Hunt game show with Gonzo and the live host"tags: ["post", "live-casino", "evolution-gaming", "game-shows", "vr"]faq:  - question: "Is this a slot or a live game?"    answer: "It's a unique hybrid of a live game show and a slot-style RNG game, featuring VR technology."  - question: "What is the max win?"    answer: "You can win up to 20,000x your bet in a single round."  - question: "Can I play in VR mode?"    answer: "Yes, if you have a VR headset, you can experience the game in full Virtual Reality mode."
 ---
 
 <p class="lead"><strong>Gonzo's Treasure Hunt</strong> হলো বিশ্বের প্রথম লাইভ ক্যাসিনো গেম যা স্লট স্টাইল গেমপ্লে এবং লাইভ হোস্টের সাথে অগমেন্টেড রিয়েলিটি (AR) প্রযুক্তিকে একত্রিত করেছে।</p>

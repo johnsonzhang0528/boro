@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল ২০২৬ বেটিং"
-description: "Get ready for IPL 2026! Expert betting tips, team analysis, and best odds for Bangladeshi players. আইপিএল ২০২৬ বেটিং গাইড।"
-date: 2026-01-20
 lastUpdated: 2026-01-20
-ogImage: ipl-2026-betting-guide-thumbnail-optimized.webp
-ogImageAlt: "IPL 2026 trophy and cricket stadium - আইপিএল ২০২৬"
-tags: ["post", "cricket", "ipl", "betting", "guide"]
-faq:
-  - question: "When does IPL 2026 start?"
-    answer: "IPL 2026 is expected to start in late March 2026."
-  - question: "Which team is the favorite to win?"
-    answer: "Chennai Super Kings and Mumbai Indians are always strong contenders."
-  - question: "Can I bet on IPL from Bangladesh?"
-    answer: "Yes, you can bet on IPL using trusted platforms like Borojeet."
+description: "Get ready for IPL 2026! Expert betting tips, team analysis, and best odds for Bangladeshi players. আইপিএল ২০২৬ বেটিং গাইড।"
+title: "IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল ২০২৬ বেটিং"
+layout: post.njklang: bn-BDdate: 2026-01-20ogImage: ipl-2026-betting-guide-thumbnail-optimized.webpogImageAlt: "IPL 2026 trophy and cricket stadium - আইপিএল ২০২৬"tags: ["post", "cricket", "ipl", "betting", "guide"]faq:  - question: "When does IPL 2026 start?"    answer: "IPL 2026 is expected to start in late March 2026."  - question: "Which team is the favorite to win?"    answer: "Chennai Super Kings and Mumbai Indians are always strong contenders."  - question: "Can I bet on IPL from Bangladesh?"    answer: "Yes, you can bet on IPL using trusted platforms like Borojeet."
 ---
 
 <p class="lead"><strong>Indian Premier League (IPL)</strong> হলো বিশ্বের সবচেয়ে জনপ্রিয় টি-টোয়েন্টি ক্রিকেট লিগ। ২০২৬ সালের আসরটি আরও বড় এবং রোমাঞ্চকর হতে চলেছে। আপনি কি <strong>IPL 2026 Betting</strong> এর জন্য প্রস্তুত?</p>

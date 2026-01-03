@@ -1,20 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Boro Jeet Dragon Tiger: Simple Winning Tricks | ড্রাগন টাইগার"
-description: "Play Dragon Tiger on Boro Jeet. Learn the rules of this fast-paced card game and winning tricks. Boro Jeet ড্রাগন টাইগার খেলে জিতুন।"
-date: 2026-01-17
 lastUpdated: 2026-01-17
-ogImage: "boro-jeet-dragon-tiger-hero-optimized.webp"
-ogImageAlt: "A dramatic Dragon vs Tiger card showdown on a Boro Jeet table"
-tags: ["post", "dragon-tiger", "live-casino", "borojeet", "strategy"]
-faq:
-  - question: "Dragon Tiger খেলায় জেতার সম্ভাবনা কত?"
-    answer: "Dragon এবং Tiger উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে ক্যাসিনোর একটি ছোট House Edge থাকে।"
-  - question: "Tie Bet-এ পে-আউট কত?"
-    answer: "সাধারণত **Tie Bet**-এ পে-আউট ১১:১ হয়, তবে Suited Tie-এ এটি ৫০:১ পর্যন্ত হতে পারে।"
-  - question: "Boro Jeet-এ কি Dragon Tiger খেলা নিরাপদ?"
-    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"
+description: "Play Dragon Tiger on Boro Jeet. Learn the rules of this fast-paced card game and winning tricks. Boro Jeet ড্রাগন টাইগার খেলে জিতুন।"
+title: "Boro Jeet Dragon Tiger: Simple Winning Tricks | ড্রাগন টাইগার"
+layout: "post.njk"lang: "bn-BD"date: 2026-01-17ogImage: "boro-jeet-dragon-tiger-hero-optimized.webp"ogImageAlt: "A dramatic Dragon vs Tiger card showdown on a Boro Jeet table"tags: ["post", "dragon-tiger", "live-casino", "borojeet", "strategy"]faq:  - question: "Dragon Tiger খেলায় জেতার সম্ভাবনা কত?"    answer: "Dragon এবং Tiger উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে ক্যাসিনোর একটি ছোট House Edge থাকে।"  - question: "Tie Bet-এ পে-আউট কত?"    answer: "সাধারণত **Tie Bet**-এ পে-আউট ১১:১ হয়, তবে Suited Tie-এ এটি ৫০:১ পর্যন্ত হতে পারে।"  - question: "Boro Jeet-এ কি Dragon Tiger খেলা নিরাপদ?"    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"
 ---
 
 আপনি কি এমন একটি ক্যাসিনো গেম খুঁজছেন যা শেখা সহজ এবং খেলা দ্রুত? তবে **Dragon Tiger** আপনার জন্য সেরা পছন্দ। এটিকে প্রায়শই "দুই কার্ডের ব্যাকারাত" বলা হয়। **Boro Jeet**-এ আপনি এই উত্তেজনাপূর্ণ গেমটি লাইভ ডিলারদের সাথে খেলতে পারেন।

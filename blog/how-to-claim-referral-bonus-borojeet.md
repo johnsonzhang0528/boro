@@ -1,18 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Referral Bonus হল BoroJeet-এ আয় করার সবচেয়ে সহজ উপায়। আপনি না খেলেও শুধুমাত্র বন্ধুদের আমন্ত্রণ জানিয়ে আজীবন কমিশন আয় করতে পারেন। এই গাইডে, আমরা দেখাব..."
 title: "How to Claim Referral Bonus on BoroJeet: রেফারেল বোনাস দাবি করার নিয়ম"
-description: "BoroJeet-এ বন্ধুদের আমন্ত্রণ জানিয়ে আনলিমিটেড ক্যাশ আয় করুন। রেফারেল বোনাস দাবি করার ধাপে ধাপে গাইড।"
-date: 2025-12-09
-lastUpdated: 2025-12-18
-ogImage: og-referral-bonus-guide-optimized.webp
-ogImageAlt: "Referral Bonus Guide BoroJeet"
-tags: [post, bonus, referral, guide, earn-money]
-faq:
-  - question: "আমি কতজন বন্ধুকে রেফার করতে পারি?"
-    answer: "কোন সীমা নেই। আপনি যত খুশি বন্ধুকে রেফার করতে পারেন এবং সবার থেকে কমিশন আয় করতে পারেন।"
-  - question: "আমি কখন আমার রেফারেল কমিশন পাব?"
-    answer: "কমিশন সাধারণত প্রতিদিন বা সাপ্তাহিক ভিত্তিতে আপনার অ্যাকাউন্টে জমা হয়।"
+layout: post.njklang: bn-BDdate: 2025-12-09ogImage: og-referral-bonus-guide-optimized.webpogImageAlt: "Referral Bonus Guide BoroJeet"tags: [post, bonus, referral, guide, earn-money]faq:  - question: "আমি কতজন বন্ধুকে রেফার করতে পারি?"    answer: "কোন সীমা নেই। আপনি যত খুশি বন্ধুকে রেফার করতে পারেন এবং সবার থেকে কমিশন আয় করতে পারেন।"  - question: "আমি কখন আমার রেফারেল কমিশন পাব?"    answer: "কমিশন সাধারণত প্রতিদিন বা সাপ্তাহিক ভিত্তিতে আপনার অ্যাকাউন্টে জমা হয়।"
 ---
 
 <p class="lead"><strong>Referral Bonus</strong> হল BoroJeet-এ আয় করার সবচেয়ে সহজ উপায়। আপনি না খেলেও শুধুমাত্র বন্ধুদের আমন্ত্রণ জানিয়ে আজীবন কমিশন আয় করতে পারেন। এই গাইডে, আমরা দেখাব কিভাবে আপনি আপনার রেফারেল বোনাস দাবি করবেন।</p>

@@ -1,18 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম"
-description: "বেটিং করার সময় Void Bet, Dead Heat বা Overtime এর নিয়মগুলো জানেন কি? Borojeet এর স্পোর্টস বেটিং রুলস সম্পর্কে বিস্তারিত জানুন এবং বিভ্রান্তি এড়ান।"
-date: 2025-12-26
 lastUpdated: 2025-12-26
-ogImage: "og-betting-rules-explained-optimized.webp"
-ogImageAlt: "একটি খোলা রুলবুক বা গাইডবুক, যার পাশে একটি রেফারির বাঁশি এবং কার্ড রয়েছে।"
-tags: ["post", "guide", "rules", "sports-betting"]
-faq:
-  - question: "What happens if a match is abandoned?"
-    answer: "যদি কোনো ম্যাচ বাতিল বা পরিত্যক্ত হয় এবং নির্দিষ্ট সময়ের মধ্যে পুনরায় শুরু না হয়, তবে সাধারণত সেই বাজিটি 'Void' বা বাতিল ঘোষণা করা হয় এবং টাকা ফেরত দেওয়া হয়।"
-  - question: "Does overtime count in football betting?"
-    answer: "সাধারণত ফুটবল বেটিং শুধুমাত্র ৯০ মিনিটের নির্ধারিত সময়ের (ইনজুরি টাইম সহ) ফলাফলের উপর ভিত্তি করে হয়। অতিরিক্ত সময় (Extra Time) বা পেনাল্টি শুটআউট আলাদা মার্কেট না হলে গণ্য হয় না।"
+description: "বেটিং করার সময় Void Bet, Dead Heat বা Overtime এর নিয়মগুলো জানেন কি? Borojeet এর স্পোর্টস বেটিং রুলস সম্পর্কে বিস্তারিত জানুন এবং বিভ্রান্তি এড়ান।"
+title: "Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-26ogImage: "og-betting-rules-explained-optimized.webp"ogImageAlt: "একটি খোলা রুলবুক বা গাইডবুক, যার পাশে একটি রেফারির বাঁশি এবং কার্ড রয়েছে।"tags: ["post", "guide", "rules", "sports-betting"]faq:  - question: "What happens if a match is abandoned?"    answer: "যদি কোনো ম্যাচ বাতিল বা পরিত্যক্ত হয় এবং নির্দিষ্ট সময়ের মধ্যে পুনরায় শুরু না হয়, তবে সাধারণত সেই বাজিটি 'Void' বা বাতিল ঘোষণা করা হয় এবং টাকা ফেরত দেওয়া হয়।"  - question: "Does overtime count in football betting?"    answer: "সাধারণত ফুটবল বেটিং শুধুমাত্র ৯০ মিনিটের নির্ধারিত সময়ের (ইনজুরি টাইম সহ) ফলাফলের উপর ভিত্তি করে হয়। অতিরিক্ত সময় (Extra Time) বা পেনাল্টি শুটআউট আলাদা মার্কেট না হলে গণ্য হয় না।"
 ---
 
 <p class="lead">আপনি কি কখনো এমন পরিস্থিতিতে পড়েছেন যেখানে আপনার মনে হয়েছে আপনি জিতেছেন, কিন্তু বাজির ফলাফলে দেখাচ্ছে আপনি হেরেছেন? বা ম্যাচ বৃষ্টির কারণে বাতিল হলে আপনার টাকার কী হবে?</p>

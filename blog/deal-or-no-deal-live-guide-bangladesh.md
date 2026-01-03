@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Learn how to play Deal or No Deal Live by Evolution Gaming. Understand the qualification round, top-up phase, and main game strategy. ডিল অর নো ডিল লাইভ গেম..."
 title: "Deal or No Deal Live Guide: How to Play & Win | ডিল অর নো ডিল লাইভ"
-description: "Learn how to play Deal or No Deal Live by Evolution Gaming. Understand the qualification round, top-up phase, and main game strategy. ডিল অর নো ডিল লাইভ গেম খেলার নিয়ম।"
-date: 2026-01-06
-lastUpdated: 2026-01-06
-ogImage: deal-or-no-deal-live-thumbnail-optimized.webp
-ogImageAlt: "Deal or No Deal Live studio with golden briefcases and host - ডিল অর নো ডিল লাইভ"
-tags: ["post", "live-casino", "game-show", "evolution-gaming", "guide"]
-faq:
-  - question: "Is Deal or No Deal Live available 24/7?"
-    answer: "Yes, the game is available 24/7 on BoroJeet."
-  - question: "What is the minimum bet?"
-    answer: "The minimum bet usually starts from 10 BDT."
-  - question: "How do I qualify for the main game?"
-    answer: "You need to spin a wheel and align three golden segments to qualify."
+layout: post.njklang: bn-BDdate: 2026-01-06ogImage: deal-or-no-deal-live-thumbnail-optimized.webpogImageAlt: "Deal or No Deal Live studio with golden briefcases and host - ডিল অর নো ডিল লাইভ"tags: ["post", "live-casino", "game-show", "evolution-gaming", "guide"]faq:  - question: "Is Deal or No Deal Live available 24/7?"    answer: "Yes, the game is available 24/7 on BoroJeet."  - question: "What is the minimum bet?"    answer: "The minimum bet usually starts from 10 BDT."  - question: "How do I qualify for the main game?"    answer: "You need to spin a wheel and align three golden segments to qualify."
 ---
 
 <p class="lead"><strong>Deal or No Deal Live</strong> হলো Evolution Gaming-এর একটি অত্যন্ত জনপ্রিয় গেম শো, যা বিখ্যাত টিভি শো-এর উপর ভিত্তি করে তৈরি। এটি টানটান উত্তেজনা এবং বড় জয়ের সুযোগ দেয়। আপনি কি ব্যাংকারের অফার নেবেন নাকি শেষ পর্যন্ত খেলবেন? আসুন জেনে নিই খেলার নিয়ম।</p>

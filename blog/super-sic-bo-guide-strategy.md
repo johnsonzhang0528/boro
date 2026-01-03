@@ -1,23 +1,9 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)
-description: Evolution Gaming-এর Super Sic Bo খেলার সম্পূর্ণ গাইড। নিয়ম, মাল্টিপ্লায়ার এবং জয়ের সেরা কৌশলগুলো সম্পর্কে বিস্তারিত জানুন। (Complete guide to Super Sic Bo rules and strategy.)
-date: 2025-12-29
-lastUpdated: 2025-12-29
-ogImage: og-super-sic-bo-guide-optimized.webp
-ogImageAlt: Super Sic Bo Live Casino Game Guide
-tags:
-  - post
-  - live-casino
-  - sic-bo
-  - strategy
-  - evolution-gaming
-faq:
-  - question: Super Sic Bo এবং সাধারণ Sic Bo-এর মধ্যে পার্থক্য কি? (Difference between Super Sic Bo and regular Sic Bo?)
-    answer: মূল পার্থক্য হলো Super Sic Bo-তে র‍্যান্ডম মাল্টিপ্লায়ার (Random Multipliers) থাকে যা আপনার জয়কে 1000x পর্যন্ত বাড়িয়ে দিতে পারে।
-  - question: Super Sic Bo খেলায় সর্বোচ্চ পেআউট কত? (What is the max payout in Super Sic Bo?)
-    answer: সঠিক মাল্টিপ্লায়ারের সাথে, আপনি আপনার বাজির 1000 গুণ পর্যন্ত জিততে পারেন।
+lastUpdated: 2026-01-03
+description: "আপনি কি ডাইস গেম পছন্দ করেন? তাহলে Evolution Gaming-এর Super Sic Bo আপনার জন্য একটি অসাধারণ অভিজ্ঞতা হতে পারে। এটি ক্লাসিক Sic Bo গেমের একটি উন্নত সংস্করণ,..."
+title: "Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)"
+layout: post.njklang: bn-BDdate: 2025-12-29ogImage: og-super-sic-bo-guide-optimized.webpogImageAlt: Super Sic Bo Live Casino Game Guidetags:  - post  - live-casino  - sic-bo  - strategy  - evolution-gamingfaq:  - question: Super Sic Bo এবং সাধারণ Sic Bo-এর মধ্যে পার্থক্য কি? (Difference between Super Sic Bo and regular Sic Bo?)    answer: মূল পার্থক্য হলো Super Sic Bo-তে র‍্যান্ডম মাল্টিপ্লায়ার (Random Multipliers) থাকে যা আপনার জয়কে 1000x পর্যন্ত বাড়িয়ে দিতে পারে।  - question: Super Sic Bo খেলায় সর্বোচ্চ পেআউট কত? (What is the max payout in Super Sic Bo?)    answer: সঠিক মাল্টিপ্লায়ারের সাথে, আপনি আপনার বাজির 1000 গুণ পর্যন্ত জিততে পারেন।
+
 ---
 
 <p class="lead">আপনি কি ডাইস গেম পছন্দ করেন? তাহলে Evolution Gaming-এর <strong>Super Sic Bo</strong> আপনার জন্য একটি অসাধারণ অভিজ্ঞতা হতে পারে। এটি ক্লাসিক Sic Bo গেমের একটি উন্নত সংস্করণ, যেখানে যুক্ত হয়েছে বিশাল মাল্টিপ্লায়ার এবং জয়ের অকল্পনীয় সুযোগ।</p>

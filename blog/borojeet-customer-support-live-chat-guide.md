@@ -1,18 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "BoroJeet Customer Support: লাইভ চ্যাট এবং যোগাযোগের উপায়"
-description: "BoroJeet কাস্টমার সাপোর্টের সাথে যোগাযোগের সব উপায়। লাইভ চ্যাট, ইমেইল এবং টেলিগ্রামের মাধ্যমে কিভাবে দ্রুত সাহায্য পাবেন তা জানুন।"
-date: 2026-01-13
 lastUpdated: 2026-01-13
-ogImage: borojeet-customer-support-guide-optimized.webp
-ogImageAlt: "BoroJeet Customer Support"
-tags: [post, borojeet, support, help, contact]
-faq:
-  - question: "BoroJeet কাস্টমার সাপোর্ট কি ২৪/৭ খোলা থাকে?"
-    answer: "হ্যাঁ, BoroJeet-এর কাস্টমার সাপোর্ট টিম ২৪ ঘন্টা এবং সপ্তাহে ৭ দিনই আপনার সেবায় নিয়োজিত।"
-  - question: "লাইভ চ্যাটে কতক্ষণ অপেক্ষা করতে হয়?"
-    answer: "সাধারণত ১-২ মিনিটের মধ্যেই একজন এজেন্ট আপনার সাথে চ্যাটে যুক্ত হন।"
+description: "BoroJeet কাস্টমার সাপোর্টের সাথে যোগাযোগের সব উপায়। লাইভ চ্যাট, ইমেইল এবং টেলিগ্রামের মাধ্যমে কিভাবে দ্রুত সাহায্য পাবেন তা জানুন।"
+title: "BoroJeet Customer Support: লাইভ চ্যাট এবং যোগাযোগের উপায়"
+layout: post.njklang: bn-BDdate: 2026-01-13ogImage: borojeet-customer-support-guide-optimized.webpogImageAlt: "BoroJeet Customer Support"tags: [post, borojeet, support, help, contact]faq:  - question: "BoroJeet কাস্টমার সাপোর্ট কি ২৪/৭ খোলা থাকে?"    answer: "হ্যাঁ, BoroJeet-এর কাস্টমার সাপোর্ট টিম ২৪ ঘন্টা এবং সপ্তাহে ৭ দিনই আপনার সেবায় নিয়োজিত।"  - question: "লাইভ চ্যাটে কতক্ষণ অপেক্ষা করতে হয়?"    answer: "সাধারণত ১-২ মিনিটের মধ্যেই একজন এজেন্ট আপনার সাথে চ্যাটে যুক্ত হন।"
 ---
 
 <p class="lead">অনলাইন গ্যাম্বলিং-এ যেকোনো সময় সমস্যা হতে পারে, তাই একটি ভালো কাস্টমার সাপোর্ট থাকা খুবই জরুরি। <strong>BoroJeet</strong> তার গ্রাহকদের জন্য ২৪/৭ সাপোর্ট নিশ্চিত করে। এই গাইডে আমরা দেখব কিভাবে আপনি তাদের সাথে যোগাযোগ করবেন।</p>

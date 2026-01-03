@@ -1,10 +1,10 @@
 ---
+lastUpdated: 2026-01-03
+description: "আপনি যদি ক্রিকেট বেটিংয়ের মূল বিষয়গুলো সম্পর্কে ইতিমধ্যে জেনে থাকেন এবং আপনার জেতার হারকে পরবর্তী স্তরে নিয়ে যেতে চান, তবে এই গাইডটি আপনার জন্য। সাধারণ..."
+title: "5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল"
 layout: post.njk
 lang: bn-BD
-title: "5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল"
-description: "সাধারণ বাজির বাইরে যান। Value Betting, Market Analysis এবং Hedging-এর মতো উন্নত কৌশলগুলো ব্যবহার করে আপনার লাভ বাড়ান।"
 date: 2025-11-18
-lastUpdated: 2025-11-18
 ogImage: advanced-cricket-strategies-banner-optimized.webp
 ogImageAlt: "ক্রিকেট বেটিং স্ট্র্যাটেজি বোর্ড"
 tags: [post, cricket, betting, strategy]

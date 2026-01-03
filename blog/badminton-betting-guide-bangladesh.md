@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্যাডমিন্টন বেটিং গাইড"
-description: "A complete guide to badminton betting in Bangladesh. Learn about major tournaments, betting markets, and winning tips. ব্যাডমিন্টন খেলায় বাজি ধরার নিয়ম।"
-date: 2026-01-06
 lastUpdated: 2026-01-06
-ogImage: badminton-betting-thumbnail-optimized.webp
-ogImageAlt: "Badminton shuttlecock and racket with betting odds in background - ব্যাডমিন্টন বেটিং"
-tags: ["post", "sports-betting", "badminton", "guide"]
-faq:
-  - question: "Can I bet on badminton in Bangladesh?"
-    answer: "Yes, BoroJeet offers betting markets for all major badminton tournaments."
-  - question: "What are the best tournaments to bet on?"
-    answer: "The Olympics, Thomas Cup, Uber Cup, and BWF World Championships are the most popular."
-  - question: "What is a handicap bet in badminton?"
-    answer: "A handicap bet gives a virtual advantage or disadvantage to a player to level the playing field."
+description: "A complete guide to badminton betting in Bangladesh. Learn about major tournaments, betting markets, and winning tips. ব্যাডমিন্টন খেলায় বাজি ধরার নিয়ম।"
+title: "Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্যাডমিন্টন বেটিং গাইড"
+layout: post.njklang: bn-BDdate: 2026-01-06ogImage: badminton-betting-thumbnail-optimized.webpogImageAlt: "Badminton shuttlecock and racket with betting odds in background - ব্যাডমিন্টন বেটিং"tags: ["post", "sports-betting", "badminton", "guide"]faq:  - question: "Can I bet on badminton in Bangladesh?"    answer: "Yes, BoroJeet offers betting markets for all major badminton tournaments."  - question: "What are the best tournaments to bet on?"    answer: "The Olympics, Thomas Cup, Uber Cup, and BWF World Championships are the most popular."  - question: "What is a handicap bet in badminton?"    answer: "A handicap bet gives a virtual advantage or disadvantage to a player to level the playing field."
 ---
 
 <p class="lead">ক্রিকেট এবং ফুটবলের পর বাংলাদেশে <strong>Badminton (ব্যাডমিন্টন)</strong> অত্যন্ত জনপ্রিয় একটি খেলা। বিশেষ করে শীতকালে এর জনপ্রিয়তা তুঙ্গে থাকে। আপনি কি জানেন যে ব্যাডমিন্টন খেলায় বাজি ধরেও আপনি আয় করতে পারেন? এই গাইডে আমরা ব্যাডমিন্টন বেটিং-এর খুঁটিনাটি আলোচনা করব।</p>

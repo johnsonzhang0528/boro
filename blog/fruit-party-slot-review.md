@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Fruit Party Slot Review: Cluster Pays & Multipliers | ফ্রুট পার্টি স্লট"
-description: "Enjoy the juicy wins in Fruit Party! Learn about cluster pays, random multipliers, and free spins. ফ্রুট পার্টি স্লট রিভিউ।"
-date: 2026-01-22
 lastUpdated: 2026-01-22
-ogImage: fruit-party-thumbnail-optimized.webp
-ogImageAlt: "Fruit Party slot game logo with colorful fruits and a sunny background"
-tags: ["post", "slots", "pragmatic-play", "review", "fruit"]
-faq:
-  - question: "What is the max win in Fruit Party?"
-    answer: "You can win up to 5,000x your bet in Fruit Party."
-  - question: "How do the multipliers work?"
-    answer: "In the base game and free spins, symbols can randomly carry a 2x multiplier, which can combine up to 256x."
-  - question: "Is there a Buy Bonus feature?"
-    answer: "Yes, you can buy the Free Spins round for 100x your bet."
+description: "Enjoy the juicy wins in Fruit Party! Learn about cluster pays, random multipliers, and free spins. ফ্রুট পার্টি স্লট রিভিউ।"
+title: "Fruit Party Slot Review: Cluster Pays & Multipliers | ফ্রুট পার্টি স্লট"
+layout: post.njklang: bn-BDdate: 2026-01-22ogImage: fruit-party-thumbnail-optimized.webpogImageAlt: "Fruit Party slot game logo with colorful fruits and a sunny background"tags: ["post", "slots", "pragmatic-play", "review", "fruit"]faq:  - question: "What is the max win in Fruit Party?"    answer: "You can win up to 5,000x your bet in Fruit Party."  - question: "How do the multipliers work?"    answer: "In the base game and free spins, symbols can randomly carry a 2x multiplier, which can combine up to 256x."  - question: "Is there a Buy Bonus feature?"    answer: "Yes, you can buy the Free Spins round for 100x your bet."
 ---
 
 <p class="lead"><strong>Fruit Party</strong> হলো Pragmatic Play-এর একটি রঙিন এবং মজাদার স্লট গেম। এর Cluster Pays মেকানিক্স এবং র‍্যান্ডম মাল্টিপ্লায়ার ফিচার একে অনন্য করে তুলেছে।</p>

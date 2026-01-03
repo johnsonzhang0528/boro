@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Big Bass Bonanza Slot Review: RTP, Free Spins & Big Wins | বিগ বাস বোনানজা"
-description: "Dive into the Big Bass Bonanza slot! Learn about RTP, free spins, and winning strategies for Bangladeshi players. বিগ বাস বোনানজা স্লট রিভিউ।"
-date: 2026-01-21
 lastUpdated: 2026-01-21
-ogImage: big-bass-bonanza-thumbnail-optimized.webp
-ogImageAlt: "Big Bass Bonanza slot game logo with a fisherman holding a big fish"
-tags: ["post", "slots", "pragmatic-play", "review", "fishing"]
-faq:
-  - question: "What is the RTP of Big Bass Bonanza?"
-    answer: "Big Bass Bonanza has a high RTP of 96.71%, offering good winning potential."
-  - question: "Does it have a Free Spins feature?"
-    answer: "Yes, landing 3 or more Scatter symbols triggers the Free Spins round with multipliers."
-  - question: "Can I play Big Bass Bonanza on mobile?"
-    answer: "Absolutely! The game is fully optimized for mobile play on Android and iOS."
+description: "Dive into the Big Bass Bonanza slot! Learn about RTP, free spins, and winning strategies for Bangladeshi players. বিগ বাস বোনানজা স্লট রিভিউ।"
+title: "Big Bass Bonanza Slot Review: RTP, Free Spins & Big Wins | বিগ বাস বোনানজা"
+layout: post.njklang: bn-BDdate: 2026-01-21ogImage: big-bass-bonanza-thumbnail-optimized.webpogImageAlt: "Big Bass Bonanza slot game logo with a fisherman holding a big fish"tags: ["post", "slots", "pragmatic-play", "review", "fishing"]faq:  - question: "What is the RTP of Big Bass Bonanza?"    answer: "Big Bass Bonanza has a high RTP of 96.71%, offering good winning potential."  - question: "Does it have a Free Spins feature?"    answer: "Yes, landing 3 or more Scatter symbols triggers the Free Spins round with multipliers."  - question: "Can I play Big Bass Bonanza on mobile?"    answer: "Absolutely! The game is fully optimized for mobile play on Android and iOS."
 ---
 
 <p class="lead"><strong>Big Bass Bonanza</strong> হলো Pragmatic Play-এর অন্যতম জনপ্রিয় স্লট গেম। মাছ ধরার থিম এবং উত্তেজনাপূর্ণ বোনাস ফিচারের কারণে এটি বাংলাদেশী খেলোয়াড়দের মধ্যে অত্যন্ত জনপ্রিয়।</p>

@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Lightning Dice Game Guide: Rules, Strategy & Big Wins | লাইটনিং ডাইস"
-description: "Learn how to play Lightning Dice by Evolution Gaming. Understand the rules, multipliers up to 1000x, and winning strategies. লাইটনিং ডাইস গেম গাইড।"
-date: 2026-01-19
 lastUpdated: 2026-01-19
-ogImage: lightning-dice-thumbnail-optimized.webp
-ogImageAlt: "Lightning Dice game studio with lightning effects - লাইটনিং ডাইস"
-tags: ["post", "live-casino", "evolution-gaming", "guide", "dice"]
-faq:
-  - question: "What is the max multiplier in Lightning Dice?"
-    answer: "The maximum multiplier is 1000x."
-  - question: "How many dice are used?"
-    answer: "Three standard dice are used in the game."
-  - question: "Is there a strategy for Lightning Dice?"
-    answer: "Betting on all numbers ensures a win, but betting on specific totals like 3 or 18 offers higher payouts."
+description: "Learn how to play Lightning Dice by Evolution Gaming. Understand the rules, multipliers up to 1000x, and winning strategies. লাইটনিং ডাইস গেম গাইড।"
+title: "Lightning Dice Game Guide: Rules, Strategy & Big Wins | লাইটনিং ডাইস"
+layout: post.njklang: bn-BDdate: 2026-01-19ogImage: lightning-dice-thumbnail-optimized.webpogImageAlt: "Lightning Dice game studio with lightning effects - লাইটনিং ডাইস"tags: ["post", "live-casino", "evolution-gaming", "guide", "dice"]faq:  - question: "What is the max multiplier in Lightning Dice?"    answer: "The maximum multiplier is 1000x."  - question: "How many dice are used?"    answer: "Three standard dice are used in the game."  - question: "Is there a strategy for Lightning Dice?"    answer: "Betting on all numbers ensures a win, but betting on specific totals like 3 or 18 offers higher payouts."
 ---
 
 <p class="lead"><strong>Lightning Dice</strong> হলো Evolution Gaming-এর একটি অনন্য এবং উত্তেজনাপূর্ণ লাইভ ক্যাসিনো গেম। এটি সাধারণ ডাইস গেমের সাথে "Lightning" মাল্টিপ্লায়ারের রোমাঞ্চ যুক্ত করে, যেখানে আপনি ১০০০ গুণ পর্যন্ত জিততে পারেন।</p>

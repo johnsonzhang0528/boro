@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও"
-description: "Experience the thrill of football in a card game! Learn how to play Live Football Studio by Evolution Gaming. লাইভ ফুটবল স্টুডিও গাইড।"
-date: 2026-01-24
 lastUpdated: 2026-01-24
-ogImage: live-football-studio-thumbnail-optimized.webp
-ogImageAlt: "Live Football Studio table with Home and Away betting options"
-tags: ["post", "live-casino", "evolution-gaming", "football", "guide"]
-faq:
-  - question: "Is Live Football Studio similar to Dragon Tiger?"
-    answer: "Yes, the gameplay is almost identical. You bet on which card will be higher: Home or Away."
-  - question: "What is the RTP of Live Football Studio?"
-    answer: "The RTP is 96.27% for Home/Away bets."
-  - question: "Can I see match statistics?"
-    answer: "Yes, the game displays recent results and streaks to help you make decisions."
+description: "Experience the thrill of football in a card game! Learn how to play Live Football Studio by Evolution Gaming. লাইভ ফুটবল স্টুডিও গাইড।"
+title: "Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও"
+layout: post.njklang: bn-BDdate: 2026-01-24ogImage: live-football-studio-thumbnail-optimized.webpogImageAlt: "Live Football Studio table with Home and Away betting options"tags: ["post", "live-casino", "evolution-gaming", "football", "guide"]faq:  - question: "Is Live Football Studio similar to Dragon Tiger?"    answer: "Yes, the gameplay is almost identical. You bet on which card will be higher: Home or Away."  - question: "What is the RTP of Live Football Studio?"    answer: "The RTP is 96.27% for Home/Away bets."  - question: "Can I see match statistics?"    answer: "Yes, the game displays recent results and streaks to help you make decisions."
 ---
 
 <p class="lead">আপনি কি ফুটবল ভালোবাসেন? আবার কার্ড গেমও পছন্দ করেন? তাহলে <strong>Live Football Studio</strong> আপনার জন্য নিখুঁত গেম। Evolution Gaming-এর এই গেমটি ফুটবলের উত্তেজনা এবং কার্ড গেমের সরলতাকে একত্রিত করেছে।</p>

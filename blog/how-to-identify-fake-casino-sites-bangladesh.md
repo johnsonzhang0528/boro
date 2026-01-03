@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Protect yourself from scams. Learn how to identify fake online casino sites in Bangladesh by checking licenses, SSL certificates, and payment methods...."
 title: "How to Identify Fake Casino Sites in Bangladesh | নকল ক্যাসিনো সাইট চেনার উপায়"
-description: "Protect yourself from scams. Learn how to identify fake online casino sites in Bangladesh by checking licenses, SSL certificates, and payment methods. নিরাপদ থাকার উপায়।"
-date: 2026-01-07
-lastUpdated: 2026-01-07
-ogImage: fake-casino-warning-thumbnail-optimized.webp
-ogImageAlt: "Warning sign with a magnifying glass inspecting a website URL - নকল ক্যাসিনো সাইট"
-tags: ["post", "safety", "guide", "scam-alert"]
-faq:
-  - question: "How do I know if a casino is licensed?"
-    answer: "Check the footer of the website for a license logo from Curacao, Malta, or UKGC."
-  - question: "Is BoroJeet a safe site?"
-    answer: "Yes, BoroJeet is a fully licensed and regulated platform ensuring player safety."
-  - question: "What should I do if I get scammed?"
-    answer: "Immediately contact the payment provider (Bkash/Nagad) and report the transaction."
+layout: post.njklang: bn-BDdate: 2026-01-07ogImage: fake-casino-warning-thumbnail-optimized.webpogImageAlt: "Warning sign with a magnifying glass inspecting a website URL - নকল ক্যাসিনো সাইট"tags: ["post", "safety", "guide", "scam-alert"]faq:  - question: "How do I know if a casino is licensed?"    answer: "Check the footer of the website for a license logo from Curacao, Malta, or UKGC."  - question: "Is BoroJeet a safe site?"    answer: "Yes, BoroJeet is a fully licensed and regulated platform ensuring player safety."  - question: "What should I do if I get scammed?"    answer: "Immediately contact the payment provider (Bkash/Nagad) and report the transaction."
 ---
 
 <p class="lead">অনলাইন বেটিং-এর জনপ্রিয়তা বাড়ার সাথে সাথে <strong>Fake Casino Sites</strong> বা নকল সাইটের সংখ্যাও বাড়ছে। এই সাইটগুলো দেখতে আসল সাইটের মতোই মনে হতে পারে, কিন্তু এদের মূল উদ্দেশ্য হলো আপনার টাকা হাতিয়ে নেওয়া। কীভাবে বুঝবেন কোনটি আসল আর কোনটি নকল? আসুন জেনে নিই।</p>

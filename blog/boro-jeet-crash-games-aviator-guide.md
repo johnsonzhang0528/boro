@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্যাশ গেম টিপস"
-description: "Play the best Crash Games on Boro Jeet. A complete guide to Aviator, JetX, and winning strategies. Boro Jeet ক্র্যাশ গেম খেলে জিতুন বড় পুরস্কার।"
-date: 2026-01-14
 lastUpdated: 2026-01-14
-ogImage: boro-jeet-crash-games-hero-optimized.webp
-ogImageAlt: "Rocket flying high in a neon sky representing Boro Jeet Crash Games like Aviator"
-tags: ["post", "crash-game", "aviator", "strategy", "borojeet"]
-faq:
-  - question: "Boro Jeet-এ সবচেয়ে জনপ্রিয় ক্র্যাশ গেম কোনটি?"
-    answer: "Aviator এবং JetX হলো Boro Jeet-এর সবচেয়ে জনপ্রিয় ক্র্যাশ গেম।"
-  - question: "ক্র্যাশ গেম খেলে কি সত্যিই টাকা জেতা যায়?"
-    answer: "হ্যাঁ, সঠিক কৌশল এবং ধৈর্য থাকলে ক্র্যাশ গেম থেকে ভালো পরিমাণ টাকা জেতা সম্ভব।"
-  - question: "Boro Jeet অ্যাপে কি ক্র্যাশ গেম খেলা যায়?"
-    answer: "হ্যাঁ, আপনি Boro Jeet অ্যাপ ডাউনলোড করে সহজেই সব ধরনের ক্র্যাশ গেম খেলতে পারবেন।"
+description: "Play the best Crash Games on Boro Jeet. A complete guide to Aviator, JetX, and winning strategies. Boro Jeet ক্র্যাশ গেম খেলে জিতুন বড় পুরস্কার।"
+title: "Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্যাশ গেম টিপস"
+layout: post.njklang: bn-BDdate: 2026-01-14ogImage: boro-jeet-crash-games-hero-optimized.webpogImageAlt: "Rocket flying high in a neon sky representing Boro Jeet Crash Games like Aviator"tags: ["post", "crash-game", "aviator", "strategy", "borojeet"]faq:  - question: "Boro Jeet-এ সবচেয়ে জনপ্রিয় ক্র্যাশ গেম কোনটি?"    answer: "Aviator এবং JetX হলো Boro Jeet-এর সবচেয়ে জনপ্রিয় ক্র্যাশ গেম।"  - question: "ক্র্যাশ গেম খেলে কি সত্যিই টাকা জেতা যায়?"    answer: "হ্যাঁ, সঠিক কৌশল এবং ধৈর্য থাকলে ক্র্যাশ গেম থেকে ভালো পরিমাণ টাকা জেতা সম্ভব।"  - question: "Boro Jeet অ্যাপে কি ক্র্যাশ গেম খেলা যায়?"    answer: "হ্যাঁ, আপনি Boro Jeet অ্যাপ ডাউনলোড করে সহজেই সব ধরনের ক্র্যাশ গেম খেলতে পারবেন।"
 ---
 
 <p class="lead">আপনি কি দ্রুত এবং উত্তেজনাপূর্ণ গেম খুঁজছেন? তাহলে **Boro Jeet Crash Games** আপনার জন্য সেরা পছন্দ। বাংলাদেশে বর্তমানে **Aviator** এবং **JetX**-এর মতো ক্র্যাশ গেমগুলো অত্যন্ত জনপ্রিয় হয়ে উঠেছে। এই গাইডে আমরা আলোচনা করব কীভাবে আপনি **Boro Jeet**-এ এই গেমগুলো খেলে জয়ের সম্ভাবনা বাড়াতে পারেন।</p>

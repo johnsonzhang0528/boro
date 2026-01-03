@@ -1,32 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়"
-description: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দিয়ে মাসে হাজার হাজার টাকা আয় করুন। ৪০% পর্যন্ত কমিশন, ফ্রি রেজিস্ট্রেশন এবং সহজ পেমেন্ট। জানুন কিভাবে শুরু করবেন।"
-date: 2026-01-12
 lastUpdated: 2026-01-12
-ogImage: og-borojeet-affiliate-program-optimized.webp
-ogImageAlt: "BoroJeet অ্যাফিলিয়েট আয়ের গ্রাফ"
-tags: [post, borojeet, guide, affiliate, earn-money]
-faq:
-  - question: "How much commission can I earn with BoroJeet Affiliate?"
-    answer: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে আপনি আপনার রেফার করা খেলোয়াড়দের নেট লস (Net Loss) এর ওপর ভিত্তি করে ৪০% পর্যন্ত কমিশন আয় করতে পারেন।"
-  - question: "Is it free to join the BoroJeet Affiliate Program?"
-    answer: "হ্যাঁ, BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দেওয়া সম্পূর্ণ বিনামূল্যে। কোনো রেজিস্ট্রেশন ফি বা লুকানো চার্জ নেই।"
-  - question: "How do I get my referral link?"
-    answer: "অ্যাফিলিয়েট অ্যাকাউন্টে লগইন করার পর, ড্যাশবোর্ডে 'Marketing Tools' বা 'Referral Link' সেকশনে আপনি আপনার ইউনিক রেফারেল লিঙ্কটি পাবেন।"
-howto:
-  name: "How to Join BoroJeet Affiliate Program"
-  description: "Step-by-step guide to becoming a BoroJeet partner."
-  steps:
-    - name: "Register"
-      text: "Visit the BoroJeet Affiliate website and fill out the registration form."
-    - name: "Get Approved"
-      text: "Wait for the team to review and approve your application (usually within 24 hours)."
-    - name: "Promote"
-      text: "Get your referral link and start sharing it on social media or your website."
-    - name: "Earn"
-      text: "Receive commissions based on the activity of your referred players."
+description: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দিয়ে মাসে হাজার হাজার টাকা আয় করুন। ৪০% পর্যন্ত কমিশন, ফ্রি রেজিস্ট্রেশন এবং সহজ পেমেন্ট। জানুন কিভাবে শুরু করবেন।"
+title: "BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়"
+layout: post.njklang: bn-BDdate: 2026-01-12ogImage: og-borojeet-affiliate-program-optimized.webpogImageAlt: "BoroJeet অ্যাফিলিয়েট আয়ের গ্রাফ"tags: [post, borojeet, guide, affiliate, earn-money]faq:  - question: "How much commission can I earn with BoroJeet Affiliate?"    answer: "BoroJeet অ্যাফিলিয়েট প্রোগ্রামে আপনি আপনার রেফার করা খেলোয়াড়দের নেট লস (Net Loss) এর ওপর ভিত্তি করে ৪০% পর্যন্ত কমিশন আয় করতে পারেন।"  - question: "Is it free to join the BoroJeet Affiliate Program?"    answer: "হ্যাঁ, BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দেওয়া সম্পূর্ণ বিনামূল্যে। কোনো রেজিস্ট্রেশন ফি বা লুকানো চার্জ নেই।"  - question: "How do I get my referral link?"    answer: "অ্যাফিলিয়েট অ্যাকাউন্টে লগইন করার পর, ড্যাশবোর্ডে 'Marketing Tools' বা 'Referral Link' সেকশনে আপনি আপনার ইউনিক রেফারেল লিঙ্কটি পাবেন।"howto:  name: "How to Join BoroJeet Affiliate Program"  description: "Step-by-step guide to becoming a BoroJeet partner."  steps:    - name: "Register"      text: "Visit the BoroJeet Affiliate website and fill out the registration form."    - name: "Get Approved"      text: "Wait for the team to review and approve your application (usually within 24 hours)."    - name: "Promote"      text: "Get your referral link and start sharing it on social media or your website."    - name: "Earn"      text: "Receive commissions based on the activity of your referred players."
 ---
 
 <p class="lead">আপনি কি ঘরে বসে অনলাইনে টাকা আয় করার (Earn Money Online) একটি নির্ভরযোগ্য উপায় খুঁজছেন? <strong>BoroJeet Affiliate Program</strong> হতে পারে আপনার জন্য সেরা সমাধান। কোনো বিনিয়োগ ছাড়াই, শুধুমাত্র বন্ধুদের রেফার করে আপনি মাসে হাজার হাজার টাকা আয় করতে পারেন।</p>

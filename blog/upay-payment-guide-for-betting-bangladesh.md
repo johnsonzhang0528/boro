@@ -1,28 +1,9 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: Upay Payment Guide for Betting in Bangladesh (উপায় পেমেন্ট গাইড)
-description: Learn how to deposit and withdraw money on Borojeet using Upay. Fast, secure, and low-fee transactions for Bangladeshi players. Upay এর মাধ্যমে টাকা জমা এবং উত্তোলনের নিয়ম।
-date: 2025-12-17
-lastUpdated: 2025-12-17
-ogImage: upay-payment-guide-og-optimized.webp
-ogImageAlt: Upay Mobile App Interface. উপায় মোবাইল অ্যাপ ইন্টারফেস।
-tags: [post, payment, upay, guide, deposit, withdrawal]
-faq:
-  - question: Is Upay safe for casino deposits? (Upay কি ক্যাসিনো ডিপোজিটের জন্য নিরাপদ?)
-    answer: Yes, Upay uses advanced encryption and two-factor authentication to ensure secure transactions. (হ্যাঁ, Upay নিরাপদ লেনদেন নিশ্চিত করতে উন্নত এনক্রিপশন এবং টু-ফ্যাক্টর অথেনটিকেশন ব্যবহার করে।)
-  - question: Are there any fees for Upay deposits? (Upay ডিপোজিটে কি কোনো চার্জ আছে?)
-    answer: Borojeet does not charge any fees for Upay deposits, but standard Upay transaction limits apply. (Borojeet Upay ডিপোজিটের জন্য কোনো চার্জ নেয় না, তবে সাধারণ Upay লেনদেনের সীমা প্রযোজ্য।)
-howto:
-  name: How to Deposit with Upay (Upay দিয়ে কিভাবে ডিপোজিট করবেন)
-  description: Step-by-step guide to depositing funds using Upay. (Upay ব্যবহার করে টাকা জমা দেওয়ার ধাপে ধাপে নির্দেশিকা।)
-  steps:
-    - name: Select Upay (Upay নির্বাচন করুন)
-      text: Go to the Deposit section and choose Upay.
-    - name: Enter Amount (টাকার পরিমাণ লিখুন)
-      text: Input the amount you wish to deposit (min 200 BDT).
-    - name: Confirm Transaction (লেনদেন নিশ্চিত করুন)
-      text: Follow the instructions in your Upay app to complete the payment.
+lastUpdated: 2026-01-03
+description: "Upay (উপায়) বাংলাদেশের একটি দ্রুত বর্ধনশীল Mobile Financial Service। Borojeet-এ টাকা জমা এবং উত্তোলনের জন্য এটি একটি নিরাপদ এবং সুবিধাজনক মাধ্যম। Low Fees..."
+title: "Upay Payment Guide for Betting in Bangladesh (উপায় পেমেন্ট গাইড)"
+layout: post.njklang: bn-BDdate: 2025-12-17ogImage: upay-payment-guide-og-optimized.webpogImageAlt: Upay Mobile App Interface. উপায় মোবাইল অ্যাপ ইন্টারফেস।tags: [post, payment, upay, guide, deposit, withdrawal]faq:  - question: Is Upay safe for casino deposits? (Upay কি ক্যাসিনো ডিপোজিটের জন্য নিরাপদ?)    answer: Yes, Upay uses advanced encryption and two-factor authentication to ensure secure transactions. (হ্যাঁ, Upay নিরাপদ লেনদেন নিশ্চিত করতে উন্নত এনক্রিপশন এবং টু-ফ্যাক্টর অথেনটিকেশন ব্যবহার করে।)  - question: Are there any fees for Upay deposits? (Upay ডিপোজিটে কি কোনো চার্জ আছে?)    answer: Borojeet does not charge any fees for Upay deposits, but standard Upay transaction limits apply. (Borojeet Upay ডিপোজিটের জন্য কোনো চার্জ নেয় না, তবে সাধারণ Upay লেনদেনের সীমা প্রযোজ্য।)howto:  name: How to Deposit with Upay (Upay দিয়ে কিভাবে ডিপোজিট করবেন)  description: Step-by-step guide to depositing funds using Upay. (Upay ব্যবহার করে টাকা জমা দেওয়ার ধাপে ধাপে নির্দেশিকা।)  steps:    - name: Select Upay (Upay নির্বাচন করুন)      text: Go to the Deposit section and choose Upay.    - name: Enter Amount (টাকার পরিমাণ লিখুন)      text: Input the amount you wish to deposit (min 200 BDT).    - name: Confirm Transaction (লেনদেন নিশ্চিত করুন)      text: Follow the instructions in your Upay app to complete the payment.
+
 ---
 
 <p class="lead"><strong>Upay</strong> (উপায়) বাংলাদেশের একটি দ্রুত বর্ধনশীল <strong>Mobile Financial Service</strong>। Borojeet-এ <a href="/blog/ultimate-guide-to-online-casino-payments-bangladesh/">টাকা জমা এবং উত্তোলনের</a> জন্য এটি একটি নিরাপদ এবং সুবিধাজনক মাধ্যম।</p>

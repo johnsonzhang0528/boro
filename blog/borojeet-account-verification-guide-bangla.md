@@ -1,24 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "BoroJeet Account Verification: সহজ বাংলা গাইড (2025)"
-description: "BoroJeet অ্যাকাউন্ট ভেরিফিকেশন বা KYC কিভাবে করবেন? NID এবং Address Proof আপলোড করার সঠিক নিয়ম। দ্রুত ভেরিফিকেশন এবং ফাস্ট উইথড্রয়াল নিশ্চিত করুন।"
-date: 2025-10-31
 lastUpdated: 2025-11-17
-ogImage: borojeet-account-verification-guide-bangla-og-optimized.webp
-ogImageAlt: "BoroJeet অ্যাকাউন্ট ভেরিফিকেশন গাইড"
-tags: [post, borojeet, guide, kyc]
-faq:
-  - question: "Why do I need to verify my BoroJeet account?"
-    answer: "অ্যাকাউন্ট ভেরিফিকেশন বা KYC (Know Your Customer) আপনার ফান্ডের নিরাপত্তা এবং দ্রুত উইথড্রয়ালের জন্য জরুরি। এটি নিশ্চিত করে যে আপনিই অ্যাকাউন্টের আসল মালিক এবং প্ল্যাটফর্মকে স্থানীয় আইন মেনে চলতে সাহায্য করে।"
-  - question: "What documents are required for BoroJeet account verification?"
-    answer: "ভেরিফিকেশনের জন্য আপনার দুটি প্রধান ডকুমেন্ট প্রয়োজন: ১) পরিচয় প্রমাণ (NID, Passport বা Driving License) এবং ২) ঠিকানার প্রমাণ (সাম্প্রতিক Utility Bill বা Bank Statement)।"
-  - question: "How long does the verification process take?"
-    answer: "সাধারণত, BoroJeet ২৪ থেকে ৭২ ঘন্টার মধ্যে নথি পর্যালোচনা করে। যদি আপনার জমা দেওয়া ছবি পরিষ্কার এবং সঠিক থাকে, তবে প্রক্রিয়াটি আরও দ্রুত সম্পন্ন হতে পারে।"
-  - question: "Is my personal information safe during verification?"
-    answer: "হ্যাঁ, BoroJeet আপনার ব্যক্তিগত তথ্য সুরক্ষিত রাখতে উন্নত এনক্রিপশন প্রযুক্তি ব্যবহার করে। আপনার ডেটা সম্পূর্ণ নিরাপদ এবং গোপনীয় থাকে।"
-  - question: "What happens if my verification fails?"
-    answer: "ভেরিফিকেশন ফেইল হলে ইমেইলে কারণ জানানো হয়। সাধারণত অস্পষ্ট ছবি, মেয়াদোত্তীর্ণ নথি বা তথ্যের অমিল এর কারণ। আপনি সমস্যা সমাধান করে পুনরায় সঠিক ডকুমেন্ট আপলোড করতে পারবেন।"
+description: "BoroJeet অ্যাকাউন্ট ভেরিফিকেশন বা KYC কিভাবে করবেন? NID এবং Address Proof আপলোড করার সঠিক নিয়ম। দ্রুত ভেরিফিকেশন এবং ফাস্ট উইথড্রয়াল নিশ্চিত করুন।"
+title: "BoroJeet Account Verification: সহজ বাংলা গাইড (2025)"
+layout: post.njklang: bn-BDdate: 2025-10-31ogImage: borojeet-account-verification-guide-bangla-og-optimized.webpogImageAlt: "BoroJeet অ্যাকাউন্ট ভেরিফিকেশন গাইড"tags: [post, borojeet, guide, kyc]faq:  - question: "Why do I need to verify my BoroJeet account?"    answer: "অ্যাকাউন্ট ভেরিফিকেশন বা KYC (Know Your Customer) আপনার ফান্ডের নিরাপত্তা এবং দ্রুত উইথড্রয়ালের জন্য জরুরি। এটি নিশ্চিত করে যে আপনিই অ্যাকাউন্টের আসল মালিক এবং প্ল্যাটফর্মকে স্থানীয় আইন মেনে চলতে সাহায্য করে।"  - question: "What documents are required for BoroJeet account verification?"    answer: "ভেরিফিকেশনের জন্য আপনার দুটি প্রধান ডকুমেন্ট প্রয়োজন: ১) পরিচয় প্রমাণ (NID, Passport বা Driving License) এবং ২) ঠিকানার প্রমাণ (সাম্প্রতিক Utility Bill বা Bank Statement)।"  - question: "How long does the verification process take?"    answer: "সাধারণত, BoroJeet ২৪ থেকে ৭২ ঘন্টার মধ্যে নথি পর্যালোচনা করে। যদি আপনার জমা দেওয়া ছবি পরিষ্কার এবং সঠিক থাকে, তবে প্রক্রিয়াটি আরও দ্রুত সম্পন্ন হতে পারে।"  - question: "Is my personal information safe during verification?"    answer: "হ্যাঁ, BoroJeet আপনার ব্যক্তিগত তথ্য সুরক্ষিত রাখতে উন্নত এনক্রিপশন প্রযুক্তি ব্যবহার করে। আপনার ডেটা সম্পূর্ণ নিরাপদ এবং গোপনীয় থাকে।"  - question: "What happens if my verification fails?"    answer: "ভেরিফিকেশন ফেইল হলে ইমেইলে কারণ জানানো হয়। সাধারণত অস্পষ্ট ছবি, মেয়াদোত্তীর্ণ নথি বা তথ্যের অমিল এর কারণ। আপনি সমস্যা সমাধান করে পুনরায় সঠিক ডকুমেন্ট আপলোড করতে পারবেন।"
 ---
 
 **আপনার BoroJeet অ্যাকাউন্ট ভেরিফাই করা এখন আরও সহজ। এই ধাপে ধাপে নির্দেশিকা অনুসরণ করে, আপনি আপনার অ্যাকাউন্ট সুরক্ষিত করতে এবং দ্রুত উইথড্রয়াল আনলক করতে পারবেন। এটি [নিরাপদ পেমেন্ট প্রক্রিয়ার](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) একটি অপরিহার্য অংশ।**

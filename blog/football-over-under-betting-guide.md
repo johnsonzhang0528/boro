@@ -1,23 +1,9 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "ফুটবল বেটিং-এ কে জিতবে তা বলা কঠিন হতে পারে, কিন্তু ম্যাচে কয়টি গোল হবে তা অনুমান করা অনেক সময় সহজ হয়। এখানেই Over/Under Betting বা টোটাল গোলস মার্কেট এত..."
 title: "Football Over/Under Betting: গোল বেটিং গাইড (Over/Under Betting Guide)"
-description: ফুটবলে Over/Under বাজি কি? 2.5 গোলের অর্থ কি? এই গাইডে জানুন কীভাবে গোল সংখ্যার উপর বাজি ধরে জিতবেন এবং সঠিক ভবিষ্যদ্বাণী করবেন। (Football Over/Under Betting Guide.)
-date: 2026-01-01
-lastUpdated: 2026-01-01
-ogImage: og-football-over-under-optimized.webp
-ogImageAlt: Football Over Under Betting Strategy Guide
-tags:
-  - post
-  - sports-betting
-  - football
-  - strategy
-  - guide
-faq:
-  - question: Over 2.5 Goals মানে কি? (What does Over 2.5 Goals mean?)
-    answer: "এর মানে হলো ম্যাচে মোট ৩টি বা তার বেশি গোল হতে হবে। (যেমন: 2-1, 3-0, 2-2)।"
-  - question: Under 2.5 Goals মানে কি? (What does Under 2.5 Goals mean?)
-    answer: "এর মানে হলো ম্যাচে মোট ২ বা তার কম গোল হতে হবে। (যেমন: 0-0, 1-0, 1-1, 2-0)।"
+layout: post.njklang: bn-BDdate: 2026-01-01ogImage: og-football-over-under-optimized.webpogImageAlt: Football Over Under Betting Strategy Guidetags:  - post  - sports-betting  - football  - strategy  - guidefaq:  - question: Over 2.5 Goals মানে কি? (What does Over 2.5 Goals mean?)    answer: "এর মানে হলো ম্যাচে মোট ৩টি বা তার বেশি গোল হতে হবে। (যেমন: 2-1, 3-0, 2-2)।"  - question: Under 2.5 Goals মানে কি? (What does Under 2.5 Goals mean?)    answer: "এর মানে হলো ম্যাচে মোট ২ বা তার কম গোল হতে হবে। (যেমন: 0-0, 1-0, 1-1, 2-0)।"
+
 ---
 
 <p class="lead">ফুটবল বেটিং-এ কে জিতবে তা বলা কঠিন হতে পারে, কিন্তু ম্যাচে কয়টি গোল হবে তা অনুমান করা অনেক সময় সহজ হয়। এখানেই <strong>Over/Under Betting</strong> বা টোটাল গোলস মার্কেট এত জনপ্রিয়।</p>

@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Starlight Princess Slot Review: RTP, Volatility & Max Win | স্টারলাইট প্রিন্সেস স্লট রিভিউ"
-description: "Read our comprehensive review of the Starlight Princess slot by Pragmatic Play. Discover RTP, volatility, and winning strategies. স্টারলাইট প্রিন্সেস স্লট খেলার নিয়ম এবং জয়ের কৌশল জানুন।"
-date: 2026-01-03
 lastUpdated: 2026-01-03
-ogImage: starlight-princess-slot-review-optimized.webp
-ogImageAlt: "Starlight Princess slot game character floating with magic wand - স্টারলাইট প্রিন্সেস স্লট গেম"
-tags: ["post", "casino", "slot", "pragmatic-play", "review"]
-faq:
-  - question: "What is the RTP of Starlight Princess?"
-    answer: "The RTP (Return to Player) of Starlight Princess is 96.50%, which is above the industry average."
-  - question: "Is Starlight Princess a high volatility slot?"
-    answer: "Yes, it is a high volatility slot (5/5), meaning wins are less frequent but can be huge."
-  - question: "What is the max win in Starlight Princess?"
-    answer: "The maximum win potential is 5,000x your bet amount."
+description: "Read our comprehensive review of the Starlight Princess slot by Pragmatic Play. Discover RTP, volatility, and winning strategies. স্টারলাইট প্রিন্সেস স্লট..."
+title: "Starlight Princess Slot Review: RTP, Volatility & Max Win | স্টারলাইট প্রিন্সেস স্লট রিভিউ"
+layout: post.njklang: bn-BDdate: 2026-01-03ogImage: starlight-princess-slot-review-optimized.webpogImageAlt: "Starlight Princess slot game character floating with magic wand - স্টারলাইট প্রিন্সেস স্লট গেম"tags: ["post", "casino", "slot", "pragmatic-play", "review"]faq:  - question: "What is the RTP of Starlight Princess?"    answer: "The RTP (Return to Player) of Starlight Princess is 96.50%, which is above the industry average."  - question: "Is Starlight Princess a high volatility slot?"    answer: "Yes, it is a high volatility slot (5/5), meaning wins are less frequent but can be huge."  - question: "What is the max win in Starlight Princess?"    answer: "The maximum win potential is 5,000x your bet amount."
 ---
 
 <p class="lead"><strong>Starlight Princess (স্টারলাইট প্রিন্সেস)</strong> হলো Pragmatic Play-এর একটি অত্যন্ত জনপ্রিয় অনলাইন স্লট গেম। এর অ্যানিমে-স্টাইল গ্রাফিক্স এবং <strong>Pay Anywhere</strong> মেকানিক্স এটিকে খেলোয়াড়দের মধ্যে একটি প্রিয় গেম করে তুলেছে। এই রিভিউতে, আমরা গেমের বৈশিষ্ট্য, বোনাস রাউন্ড এবং জয়ের কৌশল নিয়ে আলোচনা করব।</p>

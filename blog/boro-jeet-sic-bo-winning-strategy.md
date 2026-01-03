@@ -1,20 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Boro Jeet Sic Bo: Dice Game Strategy & Tips | সিক বো"
-description: "Roll the dice on Boro Jeet Sic Bo. Learn the rules, Big/Small bets, and winning strategies for this exciting dice game. Boro Jeet সিক বো খেলে জিতুন।"
-date: 2026-01-18
 lastUpdated: 2026-01-18
-ogImage: "boro-jeet-sic-bo-hero-optimized.webp"
-ogImageAlt: "Three dice showing winning numbers on a Boro Jeet Sic Bo table"
-tags: ["post", "sic-bo", "live-casino", "borojeet", "strategy"]
-faq:
-  - question: "Sic Bo খেলায় সবচেয়ে নিরাপদ বাজি কোনটি?"
-    answer: "সবচেয়ে নিরাপদ বাজি হলো **Big** (১১-১৭) এবং **Small** (৪-১০)। এগুলোর জেতার সম্ভাবনা প্রায় ৪৮.৬% এবং পে-আউট ১:১।"
-  - question: "Boro Jeet-এ কি Super Sic Bo খেলা যায়?"
-    answer: "হ্যাঁ, **Boro Jeet**-এ আপনি Evolution Gaming-এর **Super Sic Bo** খেলতে পারেন, যেখানে ১০০০ গুণ পর্যন্ত মাল্টিপ্লায়ার জেতার সুযোগ থাকে।"
-  - question: "Triple Bet-এ পে-আউট কত?"
-    answer: "নির্দিষ্ট **Triple Bet** (যেমন তিনটি ৩) এর পে-আউট সাধারণত ১৫০:১ বা ১৮০:১ হয়, যা অনেক বেশি কিন্তু জেতার সম্ভাবনা কম।"
+description: "Roll the dice on Boro Jeet Sic Bo. Learn the rules, Big/Small bets, and winning strategies for this exciting dice game. Boro Jeet সিক বো খেলে জিতুন।"
+title: "Boro Jeet Sic Bo: Dice Game Strategy & Tips | সিক বো"
+layout: "post.njk"lang: "bn-BD"date: 2026-01-18ogImage: "boro-jeet-sic-bo-hero-optimized.webp"ogImageAlt: "Three dice showing winning numbers on a Boro Jeet Sic Bo table"tags: ["post", "sic-bo", "live-casino", "borojeet", "strategy"]faq:  - question: "Sic Bo খেলায় সবচেয়ে নিরাপদ বাজি কোনটি?"    answer: "সবচেয়ে নিরাপদ বাজি হলো **Big** (১১-১৭) এবং **Small** (৪-১০)। এগুলোর জেতার সম্ভাবনা প্রায় ৪৮.৬% এবং পে-আউট ১:১।"  - question: "Boro Jeet-এ কি Super Sic Bo খেলা যায়?"    answer: "হ্যাঁ, **Boro Jeet**-এ আপনি Evolution Gaming-এর **Super Sic Bo** খেলতে পারেন, যেখানে ১০০০ গুণ পর্যন্ত মাল্টিপ্লায়ার জেতার সুযোগ থাকে।"  - question: "Triple Bet-এ পে-আউট কত?"    answer: "নির্দিষ্ট **Triple Bet** (যেমন তিনটি ৩) এর পে-আউট সাধারণত ১৫০:১ বা ১৮০:১ হয়, যা অনেক বেশি কিন্তু জেতার সম্ভাবনা কম।"
 ---
 
 আপনি কি ভাগ্যের খেলায় বিশ্বাসী? তবে **Sic Bo** (সিক বো) আপনার জন্য একটি দুর্দান্ত পছন্দ হতে পারে। এটি একটি প্রাচীন চাইনিজ ডাইস গেম যা এখন **Boro Jeet**-এর মাধ্যমে বাংলাদেশে অত্যন্ত জনপ্রিয় হয়ে উঠেছে। তিনটি ডাইস বা ছক্কার ফলাফলের উপর ভিত্তি করে খেলা এই গেমটি উত্তেজনা এবং বড় জয়ের সুযোগে ভরপুর।

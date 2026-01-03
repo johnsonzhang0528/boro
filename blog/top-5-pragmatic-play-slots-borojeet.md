@@ -1,21 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "সেরা ৫টি Pragmatic Play স্লট: Borojeet-এ সবচেয়ে জনপ্রিয় গেম"
-description: "Pragmatic Play এর সেরা ৫টি স্লট গেম সম্পর্কে জানুন। Gates of Olympus, Sweet Bonanza, Sugar Rush এবং আরও অনেক কিছু। RTP, ভোলাটিলিটি এবং ম্যাক্স উইন বিস্তারিত।"
-date: 2025-12-27
 lastUpdated: 2025-12-27
-ogImage: "og-top-pragmatic-slots-optimized.webp"
-ogImageAlt: "Pragmatic Play এর জনপ্রিয় স্লট গেমের চরিত্রগুলির একটি কোলাজ।"
-tags: ["post", "list", "slots", "pragmatic-play"]
-review:
-  item: "Pragmatic Play Slots"
-  rating: 4.9
-faq:
-  - question: "Which Pragmatic Play slot has the highest RTP?"
-    answer: "The Dog House এবং Sweet Bonanza এর মতো গেমগুলোর RTP সাধারণত ৯৬.৫% এর উপরে থাকে।"
-  - question: "Can I buy bonuses in these games?"
-    answer: "হ্যাঁ, Pragmatic Play এর বেশিরভাগ জনপ্রিয় গেমে 'Buy Feature' বা বোনাস কেনার সুবিধা থাকে।"
+description: "Pragmatic Play এর সেরা ৫টি স্লট গেম সম্পর্কে জানুন। Gates of Olympus, Sweet Bonanza, Sugar Rush এবং আরও অনেক কিছু। RTP, ভোলাটিলিটি এবং ম্যাক্স উইন বিস্তারিত।"
+title: "সেরা ৫টি Pragmatic Play স্লট: Borojeet-এ সবচেয়ে জনপ্রিয় গেম"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-27ogImage: "og-top-pragmatic-slots-optimized.webp"ogImageAlt: "Pragmatic Play এর জনপ্রিয় স্লট গেমের চরিত্রগুলির একটি কোলাজ।"tags: ["post", "list", "slots", "pragmatic-play"]review:  item: "Pragmatic Play Slots"  rating: 4.9faq:  - question: "Which Pragmatic Play slot has the highest RTP?"    answer: "The Dog House এবং Sweet Bonanza এর মতো গেমগুলোর RTP সাধারণত ৯৬.৫% এর উপরে থাকে।"  - question: "Can I buy bonuses in these games?"    answer: "হ্যাঁ, Pragmatic Play এর বেশিরভাগ জনপ্রিয় গেমে 'Buy Feature' বা বোনাস কেনার সুবিধা থাকে।"
 ---
 
 <p class="lead">অনলাইন স্লট গেমের জগতে <strong>Pragmatic Play</strong> বর্তমানে সবচেয়ে জনপ্রিয় নাম। তাদের গেমগুলো চমৎকার গ্রাফিক্স, উচ্চ RTP এবং বিশাল জয়ের সম্ভাবনার জন্য পরিচিত।</p>

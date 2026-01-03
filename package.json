@@ -20,6 +20,9 @@
     "test:performance": "lighthouse http://localhost:8080 --output=html --output-path=lighthouse-report.html",
     "audit:cls": "node -e \"console.log('Run: npm run test:performance to check CLS improvements')\"",
     "publish:new-post": "node scripts/automate-publish.js",
+    "validate:seo": "node scripts/validate-seo.js",
+    "fix:seo": "node scripts/fix-seo.js",
+    "standardize:seo": "node scripts/standardize-seo.js",
     "generate-images": "node scripts/generate-images.js",
     "magic": "node scripts/magic.js"
   },

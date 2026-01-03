@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Crazy Time Live Game Bangladesh: Rules, Bonus Rounds & Strategy"
-description: "Evolution Gaming-এর Crazy Time লাইভ গেম কীভাবে খেলতে হয় তা শিখুন। এই গাইডটি নিয়ম, ৪টি বোনাস রাউন্ড এবং বাংলাদেশী খেলোয়াড়দের জন্য জেতার কৌশল কভার করে।"
-date: 2026-01-09
 lastUpdated: 2026-01-09
-ogImage: crazy-time-live-game-guide-optimized.webp
-ogImageAlt: "Crazy Time Live Game Wheel"
-tags: [post, guide, live-casino, game-shows, crazy-time]
-faq:
-  - question: "Crazy Time গেমের RTP কত?"
-    answer: "Crazy Time-এর RTP (Return to Player) সাধারণত ৯৬.০৮% এর কাছাকাছি থাকে, তবে এটি আপনার বাজির উপর নির্ভর করে পরিবর্তিত হতে পারে।"
-  - question: "সবচেয়ে লাভজনক বোনাস রাউন্ড কোনটি?"
-    answer: "Crazy Time বোনাস রাউন্ডটি সবচেয়ে লাভজনক হতে পারে, যেখানে মাল্টিপ্লায়ার ২০,০০০ গুণ পর্যন্ত পৌঁছাতে পারে।"
-  - question: "আমি কি মোবাইলে Crazy Time খেলতে পারি?"
-    answer: "হ্যাঁ, Crazy Time গেমটি মোবাইল, ট্যাবলেট এবং ডেস্কটপ সব ডিভাইসের জন্যই সম্পূর্ণ অপ্টিমাইজ করা। আপনি BoroJeet অ্যাপ বা ওয়েবসাইটের মাধ্যমে সহজেই এটি খেলতে পারেন।"
+description: "Evolution Gaming-এর Crazy Time লাইভ গেম কীভাবে খেলতে হয় তা শিখুন। এই গাইডটি নিয়ম, ৪টি বোনাস রাউন্ড এবং বাংলাদেশী খেলোয়াড়দের জন্য জেতার কৌশল কভার করে।"
+title: "Crazy Time Live Game Bangladesh: Rules, Bonus Rounds & Strategy"
+layout: post.njklang: bn-BDdate: 2026-01-09ogImage: crazy-time-live-game-guide-optimized.webpogImageAlt: "Crazy Time Live Game Wheel"tags: [post, guide, live-casino, game-shows, crazy-time]faq:  - question: "Crazy Time গেমের RTP কত?"    answer: "Crazy Time-এর RTP (Return to Player) সাধারণত ৯৬.০৮% এর কাছাকাছি থাকে, তবে এটি আপনার বাজির উপর নির্ভর করে পরিবর্তিত হতে পারে।"  - question: "সবচেয়ে লাভজনক বোনাস রাউন্ড কোনটি?"    answer: "Crazy Time বোনাস রাউন্ডটি সবচেয়ে লাভজনক হতে পারে, যেখানে মাল্টিপ্লায়ার ২০,০০০ গুণ পর্যন্ত পৌঁছাতে পারে।"  - question: "আমি কি মোবাইলে Crazy Time খেলতে পারি?"    answer: "হ্যাঁ, Crazy Time গেমটি মোবাইল, ট্যাবলেট এবং ডেস্কটপ সব ডিভাইসের জন্যই সম্পূর্ণ অপ্টিমাইজ করা। আপনি BoroJeet অ্যাপ বা ওয়েবসাইটের মাধ্যমে সহজেই এটি খেলতে পারেন।"
 ---
 
 <p class="lead"><strong>Crazy Time</strong> হলো Evolution Gaming-এর তৈরি একটি অত্যন্ত জনপ্রিয় লাইভ গেম শো। এর রঙিন চাকা, উত্তেজনাপূর্ণ বোনাস রাউন্ড এবং বিশাল জয়ের সম্ভাবনার কারণে এটি বাংলাদেশী খেলোয়াড়দের মধ্যে দ্রুত জনপ্রিয় হয়ে উঠেছে।</p>

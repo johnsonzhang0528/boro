@@ -1,18 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম"
-description: "Bet Builder কী এবং কীভাবে এটি ব্যবহার করে ক্রিকেটে কাস্টম বাজি তৈরি করবেন? একই ম্যাচে একাধিক মার্কেট কম্বাইন করে উচ্চ অডস জেতার কৌশল জানুন।"
-date: 2025-12-25
 lastUpdated: 2025-12-25
-ogImage: "og-bet-builder-guide-optimized.webp"
-ogImageAlt: "একটি স্মার্টফোন স্ক্রিনে ক্রিকেট বেট বিল্ডার ইন্টারফেস, যেখানে একাধিক সিলেকশন যোগ করা হচ্ছে।"
-tags: ["post", "guide", "cricket", "betting-features"]
-faq:
-  - question: "What is a Bet Builder?"
-    answer: "Bet Builder হলো এমন একটি ফিচার যা আপনাকে একই ম্যাচের বিভিন্ন মার্কেট (যেমন ম্যাচ উইনার, টপ ব্যাটসম্যান, টোটাল সিক্স) একত্রিত করে একটি কাস্টম বাজি তৈরি করতে দেয়।"
-  - question: "Can I cash out a Bet Builder bet?"
-    answer: "বেশিরভাগ ক্ষেত্রে Bet Builder বাজিতে ক্যাশ আউট (Cash Out) সুবিধা পাওয়া যায় না, তবে এটি বুকমেকারের উপর নির্ভর করে।"
+description: "Bet Builder কী এবং কীভাবে এটি ব্যবহার করে ক্রিকেটে কাস্টম বাজি তৈরি করবেন? একই ম্যাচে একাধিক মার্কেট কম্বাইন করে উচ্চ অডস জেতার কৌশল জানুন।"
+title: "Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-25ogImage: "og-bet-builder-guide-optimized.webp"ogImageAlt: "একটি স্মার্টফোন স্ক্রিনে ক্রিকেট বেট বিল্ডার ইন্টারফেস, যেখানে একাধিক সিলেকশন যোগ করা হচ্ছে।"tags: ["post", "guide", "cricket", "betting-features"]faq:  - question: "What is a Bet Builder?"    answer: "Bet Builder হলো এমন একটি ফিচার যা আপনাকে একই ম্যাচের বিভিন্ন মার্কেট (যেমন ম্যাচ উইনার, টপ ব্যাটসম্যান, টোটাল সিক্স) একত্রিত করে একটি কাস্টম বাজি তৈরি করতে দেয়।"  - question: "Can I cash out a Bet Builder bet?"    answer: "বেশিরভাগ ক্ষেত্রে Bet Builder বাজিতে ক্যাশ আউট (Cash Out) সুবিধা পাওয়া যায় না, তবে এটি বুকমেকারের উপর নির্ভর করে।"
 ---
 
 <p class="lead">আপনি কি কখনো ভেবেছেন, "ইশ! আমি যদি একই ম্যাচে ভারতের জয় এবং কোহলির সেঞ্চুরির উপর একসাথে বাজি ধরতে পারতাম?" <strong>Bet Builder</strong> ফিচারটি ঠিক এই কাজটিই সম্ভব করে তোলে।</p>

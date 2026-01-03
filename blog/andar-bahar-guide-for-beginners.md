@@ -1,22 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Andar Bahar Game Rules: অন্দর বাহার খেলার নিয়ম ও কৌশল"
-description: "Andar Bahar খেলা শিখুন। আমাদের এই গাইডে Rules, Side Bets এবং Winning Strategies সম্পর্কে বিস্তারিত জানুন। Borojeet-এ খেলা শুরু করুন।"
-date: 2025-11-23
 lastUpdated: 2025-11-23
-ogImage: og-andar-bahar-guide-bangladesh-optimized.webp
-ogImageAlt: "অন্দর বাহার গেম টেবিল"
-tags: [post, guide, live-casino, andar-bahar]
-faq:
-  - question: "অন্দর বাহার খেলা কি?"
-    answer: "Andar Bahar একটি সহজ কার্ড গেম যেখানে ডিলারের 'Joker' কার্ডের সাথে মিল রেখে 'Andar' বা 'Bahar' সাইডে বাজি ধরতে হয়।"
-  - question: "অন্দর বাহার কি ভাগ্যের খেলা নাকি কৌশলের?"
-    answer: "এটি মূলত ভাগ্যের খেলা, তবে Bankroll Management এবং Martingale-এর মতো কৌশল ব্যবহার করে ঝুঁকি কমানো যায়।"
-  - question: "অন্দর এবং বাহার বাজিতে পে-আউট কেমন?"
-    answer: "সাধারণত Payout ১:১ হয়। তবে প্রথম কার্ড যে সাইডে ডিল করা হয় (সাধারণত Andar), সেখানে Payout কিছুটা কম হতে পারে (যেমন ০.৯:১)।"
-  - question: "অন্দর বাহার খেলার জন্য সেরা কৌশল কোনটি?"
-    answer: "নতুনদের জন্য সেরা কৌশল হলো ছোট বাজি দিয়ে শুরু করা এবং একটি নির্দিষ্ট Budget মেনে চলা।"
+description: "Andar Bahar খেলা শিখুন। আমাদের এই গাইডে Rules, Side Bets এবং Winning Strategies সম্পর্কে বিস্তারিত জানুন। Borojeet-এ খেলা শুরু করুন।"
+title: "Andar Bahar Game Rules: অন্দর বাহার খেলার নিয়ম ও কৌশল"
+layout: post.njklang: bn-BDdate: 2025-11-23ogImage: og-andar-bahar-guide-bangladesh-optimized.webpogImageAlt: "অন্দর বাহার গেম টেবিল"tags: [post, guide, live-casino, andar-bahar]faq:  - question: "অন্দর বাহার খেলা কি?"    answer: "Andar Bahar একটি সহজ কার্ড গেম যেখানে ডিলারের 'Joker' কার্ডের সাথে মিল রেখে 'Andar' বা 'Bahar' সাইডে বাজি ধরতে হয়।"  - question: "অন্দর বাহার কি ভাগ্যের খেলা নাকি কৌশলের?"    answer: "এটি মূলত ভাগ্যের খেলা, তবে Bankroll Management এবং Martingale-এর মতো কৌশল ব্যবহার করে ঝুঁকি কমানো যায়।"  - question: "অন্দর এবং বাহার বাজিতে পে-আউট কেমন?"    answer: "সাধারণত Payout ১:১ হয়। তবে প্রথম কার্ড যে সাইডে ডিল করা হয় (সাধারণত Andar), সেখানে Payout কিছুটা কম হতে পারে (যেমন ০.৯:১)।"  - question: "অন্দর বাহার খেলার জন্য সেরা কৌশল কোনটি?"    answer: "নতুনদের জন্য সেরা কৌশল হলো ছোট বাজি দিয়ে শুরু করা এবং একটি নির্দিষ্ট Budget মেনে চলা।"
 ---
 
 Andar Bahar একটি ঐতিহ্যবাহী ভারতীয় কার্ড গেম যা তার সহজ নিয়ম এবং দ্রুত গতির জন্য বাংলাদেশ সহ পুরো দক্ষিণ এশিয়ায় ব্যাপক জনপ্রিয়তা লাভ করেছে। আপনি যদি ক্যাসিনো জগতে নতুন হন বা একটি সহজ কিন্তু উত্তেজনাপূর্ণ গেম খুঁজছেন, তবে Andar Bahar আপনার জন্য উপযুক্ত হতে পারে।

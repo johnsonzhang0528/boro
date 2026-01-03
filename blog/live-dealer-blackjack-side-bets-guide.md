@@ -1,18 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম"
-description: "Blackjack খেলায় Side Bets কী? Perfect Pairs এবং 21+3 এর নিয়ম, পে-আউট এবং জেতার সম্ভাবনা সম্পর্কে বিস্তারিত জানুন। কখন সাইড বেট ধরা উচিত?"
-date: 2025-12-28
 lastUpdated: 2025-12-28
-ogImage: "og-blackjack-side-bets-optimized.webp"
-ogImageAlt: "ব্ল্যাকজ্যাক টেবিলের সাইড বেট অপশনগুলো হাইলাইট করা হয়েছে।"
-tags: ["post", "guide", "blackjack", "live-casino"]
-faq:
-  - question: "What is the payout for Perfect Pairs?"
-    answer: "Perfect Pairs এর পে-আউট সাধারণত ২৫:১ পর্যন্ত হতে পারে, যদি আপনি একই সুট এবং একই মানের দুটি কার্ড পান।"
-  - question: "Is 21+3 a good bet?"
-    answer: "21+3 সাইড বেটটি পোকার হ্যান্ডের উপর ভিত্তি করে এবং এটি ১০০:১ পর্যন্ত পে-আউট দিতে পারে (Suited Trips এর জন্য)।"
+description: "Blackjack খেলায় Side Bets কী? Perfect Pairs এবং 21+3 এর নিয়ম, পে-আউট এবং জেতার সম্ভাবনা সম্পর্কে বিস্তারিত জানুন। কখন সাইড বেট ধরা উচিত?"
+title: "Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-blackjack-side-bets-optimized.webp"ogImageAlt: "ব্ল্যাকজ্যাক টেবিলের সাইড বেট অপশনগুলো হাইলাইট করা হয়েছে।"tags: ["post", "guide", "blackjack", "live-casino"]faq:  - question: "What is the payout for Perfect Pairs?"    answer: "Perfect Pairs এর পে-আউট সাধারণত ২৫:১ পর্যন্ত হতে পারে, যদি আপনি একই সুট এবং একই মানের দুটি কার্ড পান।"  - question: "Is 21+3 a good bet?"    answer: "21+3 সাইড বেটটি পোকার হ্যান্ডের উপর ভিত্তি করে এবং এটি ১০০:১ পর্যন্ত পে-আউট দিতে পারে (Suited Trips এর জন্য)।"
 ---
 
 <p class="lead">লাইভ ব্ল্যাকজ্যাক খেলার সময় আপনি কি কখনো টেবিলের পাশে ছোট ছোট গোল ঘরগুলো লক্ষ্য করেছেন? এগুলোই হলো <strong>Side Bets</strong>। এগুলো আপনার সাধারণ ব্ল্যাকজ্যাক খেলাকে আরও রোমাঞ্চকর এবং লাভজনক করে তুলতে পারে।</p>

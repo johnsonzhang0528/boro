@@ -1,30 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
+lastUpdated: 2026-01-03
+description: "বাংলাদেশে Ludo betting করে টাকা আয় করতে চান? এই গাইডে জানুন অনলাইনে লুডু খেলার নিয়ম, সেরা অ্যাপ এবং জেতার কৌশল। Ludo King এবং অন্যান্য রিয়েল মানি লুডু..."
 title: "লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)"
-description: "বাংলাদেশে Ludo betting করে টাকা আয় করতে চান? এই গাইডে জানুন অনলাইনে লুডু খেলার নিয়ম, সেরা অ্যাপ এবং জেতার কৌশল। Ludo King এবং অন্যান্য রিয়েল মানি লুডু গেম সম্পর্কে বিস্তারিত।"
-date: 2025-12-24
-lastUpdated: 2025-12-24
-ogImage: "og-how-to-play-ludo-betting-optimized.webp"
-ogImageAlt: "লুডু বোর্ডের উপর টাকার কয়েন এবং একটি স্মার্টফোন, যা লুডু বেটিং এর প্রতীক।"
-tags: ["post", "guide", "ludo", "betting"]
-faq:
-  - question: "Is Ludo betting legal in Bangladesh?"
-    answer: "বাংলাদেশে অনলাইন বেটিং একটি ধূসর এলাকায় রয়েছে। তবে, অনেক আন্তর্জাতিক এবং স্থানীয় অ্যাপের মাধ্যমে লুডু খেলে টাকা আয় করা জনপ্রিয়।"
-  - question: "Which is the best app for Ludo betting?"
-    answer: "Borojeet সহ বিভিন্ন প্ল্যাটফর্মে লুডু এবং এর মতো বোর্ড গেম খেলার সুযোগ থাকে। অ্যাপ ডাউনলোড করার আগে রিভিউ দেখে নেওয়া ভালো।"
-howto:
-  name: "How to start Ludo Betting"
-  description: "অনলাইনে লুডু বেটিং শুরু করার সহজ ধাপ।"
-  steps:
-    - name: "Register"
-      text: "প্রথমে একটি বিশ্বস্ত বেটিং সাইটে বা অ্যাপে নিবন্ধন করুন।"
-    - name: "Deposit"
-      text: "আপনার অ্যাকাউন্টে টাকা জমা দিন (bKash, Nagad ইত্যাদি ব্যবহার করে)।"
-    - name: "Select Game"
-      text: "গেম লবি থেকে লুডু বা বোর্ড গেম সেকশনটি বেছে নিন।"
-    - name: "Place Bet"
-      text: "আপনার বাজির পরিমাণ নির্ধারণ করুন এবং খেলা শুরু করুন।"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-24ogImage: "og-how-to-play-ludo-betting-optimized.webp"ogImageAlt: "লুডু বোর্ডের উপর টাকার কয়েন এবং একটি স্মার্টফোন, যা লুডু বেটিং এর প্রতীক।"tags: ["post", "guide", "ludo", "betting"]faq:  - question: "Is Ludo betting legal in Bangladesh?"    answer: "বাংলাদেশে অনলাইন বেটিং একটি ধূসর এলাকায় রয়েছে। তবে, অনেক আন্তর্জাতিক এবং স্থানীয় অ্যাপের মাধ্যমে লুডু খেলে টাকা আয় করা জনপ্রিয়।"  - question: "Which is the best app for Ludo betting?"    answer: "Borojeet সহ বিভিন্ন প্ল্যাটফর্মে লুডু এবং এর মতো বোর্ড গেম খেলার সুযোগ থাকে। অ্যাপ ডাউনলোড করার আগে রিভিউ দেখে নেওয়া ভালো।"howto:  name: "How to start Ludo Betting"  description: "অনলাইনে লুডু বেটিং শুরু করার সহজ ধাপ।"  steps:    - name: "Register"      text: "প্রথমে একটি বিশ্বস্ত বেটিং সাইটে বা অ্যাপে নিবন্ধন করুন।"    - name: "Deposit"      text: "আপনার অ্যাকাউন্টে টাকা জমা দিন (bKash, Nagad ইত্যাদি ব্যবহার করে)।"    - name: "Select Game"      text: "গেম লবি থেকে লুডু বা বোর্ড গেম সেকশনটি বেছে নিন।"    - name: "Place Bet"      text: "আপনার বাজির পরিমাণ নির্ধারণ করুন এবং খেলা শুরু করুন।"
 ---
 
 <p class="lead">লুডু (Ludo) কেবল ছোটবেলার স্মৃতি নয়, এটি এখন বাংলাদেশে অনলাইন আয়ের একটি জনপ্রিয় মাধ্যম হয়ে উঠেছে। Ludo betting এর মাধ্যমে আপনি আপনার দক্ষতা কাজে লাগিয়ে ঘরে বসেই টাকা আয় করতে পারেন।</p>

@@ -1,20 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Monopoly Live গেম গাইড: নিয়ম, কৌশল এবং 3D বোনাস রাউন্ড"
-description: "Evolution Gaming-এর Monopoly Live গেমটি কীভাবে খেলতে হয় তা জানুন। এই গাইডে নিয়ম, 3D বোনাস রাউন্ড এবং বাংলাদেশী খেলোয়াড়দের জন্য জেতার কৌশল আলোচনা করা হয়েছে।"
-date: 2025-12-03
 lastUpdated: 2025-12-03
-ogImage: "og-monopoly-live-game-guide-optimized.webp"
-ogImageAlt: "Monopoly Live গেমের মানি হুইল এবং মিস্টার মনোপলি, যা একটি উত্তেজনাপূর্ণ 3D বোনাস রাউন্ডের ইঙ্গিত দিচ্ছে।"
-tags: ["post", "guide", "live-casino", "game-shows", "monopoly-live"]
-faq:
-  - question: "Monopoly Live গেমটি কী?"
-    answer: "Monopoly Live হলো Evolution Gaming-এর একটি জনপ্রিয় লাইভ গেম শো, যা ক্লাসিক বোর্ড গেম মনোপলির উপর ভিত্তি করে তৈরি। এতে একটি মানি হুইল এবং একটি অগমেন্টেড রিয়েলিটি (AR) 3D বোনাস রাউন্ড রয়েছে।"
-  - question: "Monopoly Live-এ বোনাস রাউন্ড কীভাবে কাজ করে?"
-    answer: "যখন চাকাটি '2 Rolls' বা '4 Rolls' সেগমেন্টে থামে, তখন 3D বোনাস রাউন্ড শুরু হয়। মিস্টার মনোপলি তার 3D বোর্ডে হাঁটেন এবং আপনি ডাইস রোলের ফলাফলের উপর ভিত্তি করে মাল্টিপ্লায়ার এবং পুরস্কার জিতেন।"
-  - question: "Monopoly Live খেলার সেরা কৌশল কী?"
-    answer: "একটি সাধারণ কৌশল হলো সর্বদা '2 Rolls' এবং '4 Rolls' সেগমেন্টে বাজি ধরা, কারণ এখানেই সবচেয়ে বড় জয়ের সুযোগ থাকে। তবে, এটি একটি ভাগ্যের খেলা, তাই দায়িত্বের সাথে খেলুন।"
+description: "Evolution Gaming-এর Monopoly Live গেমটি কীভাবে খেলতে হয় তা জানুন। এই গাইডে নিয়ম, 3D বোনাস রাউন্ড এবং বাংলাদেশী খেলোয়াড়দের জন্য জেতার কৌশল আলোচনা করা হয়েছে।"
+title: "Monopoly Live গেম গাইড: নিয়ম, কৌশল এবং 3D বোনাস রাউন্ড"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-03ogImage: "og-monopoly-live-game-guide-optimized.webp"ogImageAlt: "Monopoly Live গেমের মানি হুইল এবং মিস্টার মনোপলি, যা একটি উত্তেজনাপূর্ণ 3D বোনাস রাউন্ডের ইঙ্গিত দিচ্ছে।"tags: ["post", "guide", "live-casino", "game-shows", "monopoly-live"]faq:  - question: "Monopoly Live গেমটি কী?"    answer: "Monopoly Live হলো Evolution Gaming-এর একটি জনপ্রিয় লাইভ গেম শো, যা ক্লাসিক বোর্ড গেম মনোপলির উপর ভিত্তি করে তৈরি। এতে একটি মানি হুইল এবং একটি অগমেন্টেড রিয়েলিটি (AR) 3D বোনাস রাউন্ড রয়েছে।"  - question: "Monopoly Live-এ বোনাস রাউন্ড কীভাবে কাজ করে?"    answer: "যখন চাকাটি '2 Rolls' বা '4 Rolls' সেগমেন্টে থামে, তখন 3D বোনাস রাউন্ড শুরু হয়। মিস্টার মনোপলি তার 3D বোর্ডে হাঁটেন এবং আপনি ডাইস রোলের ফলাফলের উপর ভিত্তি করে মাল্টিপ্লায়ার এবং পুরস্কার জিতেন।"  - question: "Monopoly Live খেলার সেরা কৌশল কী?"    answer: "একটি সাধারণ কৌশল হলো সর্বদা '2 Rolls' এবং '4 Rolls' সেগমেন্টে বাজি ধরা, কারণ এখানেই সবচেয়ে বড় জয়ের সুযোগ থাকে। তবে, এটি একটি ভাগ্যের খেলা, তাই দায়িত্বের সাথে খেলুন।"
 ---
 
 <p class="lead">আপনি কি বিশ্বের সবচেয়ে জনপ্রিয় বোর্ড গেমটি একটি Live Casino ফরম্যাটে উপভোগ করতে চান? <strong>Monopoly Live</strong> আপনাকে সেই সুযোগ করে দেয়। Evolution Gaming এবং Hasbro-এর যৌথ উদ্যোগে তৈরি এই গেমটি একটি সাধারণ Money Wheel গেমের সাথে অত্যাধুনিক 3D Augmented Reality প্রযুক্তির সংমিশ্রণ।</p>

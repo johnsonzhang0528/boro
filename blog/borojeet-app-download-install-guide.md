@@ -1,18 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড"
-description: "BoroJeet অফিসিয়াল অ্যাপ ডাউনলোড এবং ইনস্টল করার সম্পূর্ণ গাইড। Android APK এবং iOS ডিভাইসে কিভাবে অ্যাপটি সেটআপ করবেন তা জানুন।"
-date: 2026-01-11
 lastUpdated: 2026-01-11
-ogImage: borojeet-app-download-guide-optimized.webp
-ogImageAlt: "BoroJeet App Download"
-tags: [post, borojeet, app-download, android, ios]
-faq:
-  - question: "BoroJeet অ্যাপ কি Google Play Store-এ পাওয়া যায়?"
-    answer: "না, Google-এর গ্যাম্বলিং পলিসির কারণে এটি Play Store-এ নেই। আপনাকে অফিসিয়াল ওয়েবসাইট থেকে APK ফাইল ডাউনলোড করতে হবে।"
-  - question: "BoroJeet অ্যাপ কি নিরাপদ?"
-    answer: "হ্যাঁ, BoroJeet অ্যাপটি সম্পূর্ণ নিরাপদ এবং ভাইরাস-মুক্ত। এটি ব্যবহারকারীদের তথ্যের সুরক্ষা নিশ্চিত করতে এনক্রিপশন ব্যবহার করে।"
+description: "BoroJeet অফিসিয়াল অ্যাপ ডাউনলোড এবং ইনস্টল করার সম্পূর্ণ গাইড। Android APK এবং iOS ডিভাইসে কিভাবে অ্যাপটি সেটআপ করবেন তা জানুন।"
+title: "BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড"
+layout: post.njklang: bn-BDdate: 2026-01-11ogImage: borojeet-app-download-guide-optimized.webpogImageAlt: "BoroJeet App Download"tags: [post, borojeet, app-download, android, ios]faq:  - question: "BoroJeet অ্যাপ কি Google Play Store-এ পাওয়া যায়?"    answer: "না, Google-এর গ্যাম্বলিং পলিসির কারণে এটি Play Store-এ নেই। আপনাকে অফিসিয়াল ওয়েবসাইট থেকে APK ফাইল ডাউনলোড করতে হবে।"  - question: "BoroJeet অ্যাপ কি নিরাপদ?"    answer: "হ্যাঁ, BoroJeet অ্যাপটি সম্পূর্ণ নিরাপদ এবং ভাইরাস-মুক্ত। এটি ব্যবহারকারীদের তথ্যের সুরক্ষা নিশ্চিত করতে এনক্রিপশন ব্যবহার করে।"
 ---
 
 <p class="lead">মোবাইলে বেটিং এবং ক্যাসিনো গেম খেলার সেরা অভিজ্ঞতা পেতে <strong>BoroJeet App</strong> ডাউনলোড করুন। এটি দ্রুত, নিরাপদ এবং ব্যবহার করা খুব সহজ। এই গাইডে আমরা দেখাব কিভাবে আপনি আপনার Android বা iOS ডিভাইসে অ্যাপটি ইনস্টল করবেন।</p>

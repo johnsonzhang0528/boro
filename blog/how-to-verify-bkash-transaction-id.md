@@ -1,10 +1,10 @@
 ---
+lastUpdated: 2026-01-03
+description: "বিকাশ TrxID বের করার নিয়ম: অ্যাপ বা *247# ডায়াল করে সঠিক Transaction ID খুঁজে বের করুন। ক্যাসিনো ডিপোজিট সমস্যা সমাধানে সঠিক TrxID ব্যবহার করুন।"
+title: "bKash Transaction ID (TrxID) যাচাই করার নিয়ম: ডিপোজিট সমস্যা সমাধান"
 layout: "post.njk"
 lang: "bn-BD"
-title: "bKash Transaction ID (TrxID) যাচাই করার নিয়ম: ডিপোজিট সমস্যা সমাধান"
-description: "bKash TrxID কী এবং কীভাবে এটি খুঁজে পাবেন? ডিপোজিট সমস্যার দ্রুত সমাধানের জন্য সঠিক TrxID যাচাই করার পদ্ধতি জানুন।"
 date: 2025-12-27
-lastUpdated: 2025-12-27
 ogImage: "og-bkash-trxid-guide-optimized.webp"
 ogImageAlt: "বিকাশ অ্যাপের লেনদেন বিবরণী স্ক্রিন, যেখানে TrxID হাইলাইট করা হয়েছে।"
 tags: ["post", "guide", "bkash", "troubleshooting"]

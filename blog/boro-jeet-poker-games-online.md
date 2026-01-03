@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "বিশ্বজুড়ে Poker হলো সবচেয়ে জনপ্রিয় কার্ড গেম। এখন আপনি বাংলাদেশে বসেই Boro Jeet Poker-এর মাধ্যমে এই উত্তেজনাপূর্ণ গেমটি উপভোগ করতে পারেন। আপনি যদি Texas..."
 title: "Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গেম"
-description: "Join the best online poker tables on Boro Jeet. Texas Hold'em, Omaha, and more. Boro Jeet পোকার খেলে জিতুন।"
-date: 2026-01-15
-lastUpdated: 2026-01-15
-ogImage: boro-jeet-poker-hero-optimized.webp
-ogImageAlt: "A professional poker table with chips and cards, featuring the Boro Jeet logo"
-tags: ["post", "poker", "card-game", "borojeet", "strategy"]
-faq:
-  - question: "Boro Jeet-এ কি লাইভ পোকার খেলা যায়?"
-    answer: "হ্যাঁ, আমাদের লাইভ ক্যাসিনো সেকশনে আপনি রিয়েল ডিলারদের সাথে পোকার খেলতে পারবেন।"
-  - question: "পোকার খেলার জন্য কি কোনো বিশেষ দক্ষতা লাগে?"
-    answer: "পোকার একটি দক্ষতার খেলা। নিয়ম এবং কৌশল জানা থাকলে জেতার সম্ভাবনা অনেক বেড়ে যায়।"
-  - question: "আমি কি মোবাইল থেকে পোকার খেলতে পারব?"
-    answer: "অবশ্যই! Boro Jeet অ্যাপ ব্যবহার করে আপনি যেকোনো সময় যেকোনো জায়গা থেকে পোকার খেলতে পারেন।"
+layout: post.njklang: bn-BDdate: 2026-01-15ogImage: boro-jeet-poker-hero-optimized.webpogImageAlt: "A professional poker table with chips and cards, featuring the Boro Jeet logo"tags: ["post", "poker", "card-game", "borojeet", "strategy"]faq:  - question: "Boro Jeet-এ কি লাইভ পোকার খেলা যায়?"    answer: "হ্যাঁ, আমাদের লাইভ ক্যাসিনো সেকশনে আপনি রিয়েল ডিলারদের সাথে পোকার খেলতে পারবেন।"  - question: "পোকার খেলার জন্য কি কোনো বিশেষ দক্ষতা লাগে?"    answer: "পোকার একটি দক্ষতার খেলা। নিয়ম এবং কৌশল জানা থাকলে জেতার সম্ভাবনা অনেক বেড়ে যায়।"  - question: "আমি কি মোবাইল থেকে পোকার খেলতে পারব?"    answer: "অবশ্যই! Boro Jeet অ্যাপ ব্যবহার করে আপনি যেকোনো সময় যেকোনো জায়গা থেকে পোকার খেলতে পারেন।"
 ---
 
 <p class="lead">বিশ্বজুড়ে **Poker** হলো সবচেয়ে জনপ্রিয় কার্ড গেম। এখন আপনি বাংলাদেশে বসেই **Boro Jeet Poker**-এর মাধ্যমে এই উত্তেজনাপূর্ণ গেমটি উপভোগ করতে পারেন। আপনি যদি **Texas Hold'em** বা **Omaha** পছন্দ করেন, তবে আমাদের প্ল্যাটফর্মটি আপনার জন্য সেরা।</p>

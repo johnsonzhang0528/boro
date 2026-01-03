@@ -1,18 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Crazy Time বোনাস রাউন্ড বিস্তারিত: Pachinko, Cash Hunt, Coin Flip ও Crazy Time"
-description: "Crazy Time এর ৪টি বোনাস রাউন্ড কীভাবে কাজ করে? Pachinko, Cash Hunt, Coin Flip এবং Crazy Time বোনাস গেমের নিয়ম ও কৌশল জানুন। সর্বোচ্চ মাল্টিপ্লায়ার জেতার উপায়।"
-date: 2025-12-24
 lastUpdated: 2025-12-24
-ogImage: "og-crazy-time-bonus-rounds-optimized.webp"
-ogImageAlt: "Crazy Time এর চারটি বোনাস রাউন্ডের লোগো এবং গেমপ্লে দৃশ্যের একটি কোলাজ।"
-tags: ["post", "guide", "crazy-time", "bonus"]
-faq:
-  - question: "Which Crazy Time bonus round pays the most?"
-    answer: "তাত্ত্বিকভাবে 'Crazy Time' বোনাস রাউন্ডটি সর্বোচ্চ ২০,০০০ গুণ পর্যন্ত পে-আউট দিতে পারে, যা এটিকে সবচেয়ে লাভজনক করে তোলে।"
-  - question: "How often do bonus rounds occur?"
-    answer: "গড় হিসেবে, প্রতি ৬টি স্পিনে একবার বোনাস রাউন্ড আসার সম্ভাবনা থাকে, তবে এটি সম্পূর্ণ ভাগ্যের উপর নির্ভরশীল।"
+description: "Crazy Time এর ৪টি বোনাস রাউন্ড কীভাবে কাজ করে? Pachinko, Cash Hunt, Coin Flip এবং Crazy Time বোনাস গেমের নিয়ম ও কৌশল জানুন। সর্বোচ্চ মাল্টিপ্লায়ার জেতার উপায়।"
+title: "Crazy Time বোনাস রাউন্ড বিস্তারিত: Pachinko, Cash Hunt, Coin Flip ও Crazy Time"
+layout: "post.njk"lang: "bn-BD"date: 2025-12-24ogImage: "og-crazy-time-bonus-rounds-optimized.webp"ogImageAlt: "Crazy Time এর চারটি বোনাস রাউন্ডের লোগো এবং গেমপ্লে দৃশ্যের একটি কোলাজ।"tags: ["post", "guide", "crazy-time", "bonus"]faq:  - question: "Which Crazy Time bonus round pays the most?"    answer: "তাত্ত্বিকভাবে 'Crazy Time' বোনাস রাউন্ডটি সর্বোচ্চ ২০,০০০ গুণ পর্যন্ত পে-আউট দিতে পারে, যা এটিকে সবচেয়ে লাভজনক করে তোলে।"  - question: "How often do bonus rounds occur?"    answer: "গড় হিসেবে, প্রতি ৬টি স্পিনে একবার বোনাস রাউন্ড আসার সম্ভাবনা থাকে, তবে এটি সম্পূর্ণ ভাগ্যের উপর নির্ভরশীল।"
 ---
 
 <p class="lead">Evolution Gaming-এর <strong>Crazy Time</strong> গেমের মূল আকর্ষণ হলো এর চারটি রোমাঞ্চকর বোনাস রাউন্ড। এই বোনাস গেমগুলোতেই লুকিয়ে আছে বিশাল মাল্টিপ্লায়ার এবং জীবন বদলে দেওয়ার মতো জয়ের সুযোগ।</p>

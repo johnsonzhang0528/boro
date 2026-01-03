@@ -1,23 +1,9 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Table Tennis (বা পিং পং) বেটিং জগতের একটি গোপন রত্ন। এটি অত্যন্ত দ্রুত গতির এবং সারা বছর ধরে টুর্নামেন্ট চলতে থাকে, যা বেটরদের জন্য অফুরন্ত সুযোগ তৈরি করে।..."
 title: "Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)"
-description: টেবিল টেনিস বা পিং পং বেটিং গাইড। দ্রুত গতির এই খেলায় কীভাবে বাজি ধরবেন এবং জিতবেন তা জানুন। লাইভ বেটিং-এর জন্য সেরা খেলা। (Table Tennis Betting Guide.)
-date: 2026-01-02
-lastUpdated: 2026-01-02
-ogImage: og-table-tennis-betting-optimized.webp
-ogImageAlt: Table Tennis Betting Guide and Strategy
-tags:
-  - post
-  - sports-betting
-  - table-tennis
-  - strategy
-  - guide
-faq:
-  - question: টেবিল টেনিস বেটিং কেন জনপ্রিয়? (Why is Table Tennis betting popular?)
-    answer: কারণ এটি অত্যন্ত দ্রুত গতির খেলা এবং সারা দিন ধরে ম্যাচ চলতে থাকে, যা লাইভ বেটিং-এর জন্য আদর্শ।
-  - question: Set Betting কি? (What is Set Betting?)
-    answer: আপনি বাজি ধরেন যে ম্যাচটি কত সেটে শেষ হবে বা নির্দিষ্ট সেটটি কে জিতবে।
+layout: post.njklang: bn-BDdate: 2026-01-02ogImage: og-table-tennis-betting-optimized.webpogImageAlt: Table Tennis Betting Guide and Strategytags:  - post  - sports-betting  - table-tennis  - strategy  - guidefaq:  - question: টেবিল টেনিস বেটিং কেন জনপ্রিয়? (Why is Table Tennis betting popular?)    answer: কারণ এটি অত্যন্ত দ্রুত গতির খেলা এবং সারা দিন ধরে ম্যাচ চলতে থাকে, যা লাইভ বেটিং-এর জন্য আদর্শ।  - question: Set Betting কি? (What is Set Betting?)    answer: আপনি বাজি ধরেন যে ম্যাচটি কত সেটে শেষ হবে বা নির্দিষ্ট সেটটি কে জিতবে।
+
 ---
 
 <p class="lead"><strong>Table Tennis</strong> (বা পিং পং) বেটিং জগতের একটি গোপন রত্ন। এটি অত্যন্ত দ্রুত গতির এবং সারা বছর ধরে টুর্নামেন্ট চলতে থাকে, যা বেটরদের জন্য অফুরন্ত সুযোগ তৈরি করে।</p>

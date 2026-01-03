@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Learn how to deposit and withdraw money using Agent Banking methods like Bkash, Nagad, and Rocket in Bangladesh. এজেন্ট ব্যাংকিং এর মাধ্যমে টাকা জমা ও..."
 title: "Agent Banking Deposit Guide: Bkash, Nagad & Rocket | এজেন্ট ব্যাংকিং ডিপোজিট গাইড"
-description: "Learn how to deposit and withdraw money using Agent Banking methods like Bkash, Nagad, and Rocket in Bangladesh. এজেন্ট ব্যাংকিং এর মাধ্যমে টাকা জমা ও উত্তোলনের নিয়ম।"
-date: 2026-01-05
-lastUpdated: 2026-01-05
-ogImage: agent-banking-deposit-thumbnail-optimized.webp
-ogImageAlt: "Mobile phone showing Bkash, Nagad, and Rocket logos with money transfer icon - এজেন্ট ব্যাংকিং"
-tags: ["post", "payments", "guide", "bkash", "nagad"]
-faq:
-  - question: "Is Agent Banking safe for deposits?"
-    answer: "Yes, using authorized agents for Bkash, Nagad, or Rocket is a safe and common method in Bangladesh."
-  - question: "What is the minimum deposit amount?"
-    answer: "The minimum deposit usually starts from 500 BDT, but it varies by platform."
-  - question: "How long does it take to deposit?"
-    answer: "Deposits through agents are usually instant or take 5-10 minutes."
+layout: post.njklang: bn-BDdate: 2026-01-05ogImage: agent-banking-deposit-thumbnail-optimized.webpogImageAlt: "Mobile phone showing Bkash, Nagad, and Rocket logos with money transfer icon - এজেন্ট ব্যাংকিং"tags: ["post", "payments", "guide", "bkash", "nagad"]faq:  - question: "Is Agent Banking safe for deposits?"    answer: "Yes, using authorized agents for Bkash, Nagad, or Rocket is a safe and common method in Bangladesh."  - question: "What is the minimum deposit amount?"    answer: "The minimum deposit usually starts from 500 BDT, but it varies by platform."  - question: "How long does it take to deposit?"    answer: "Deposits through agents are usually instant or take 5-10 minutes."
 ---
 
 <p class="lead">বাংলাদেশে অনলাইন বেটিং বা ক্যাসিনো সাইটে টাকা জমা (Deposit) এবং উত্তোলন (Withdrawal) করার সবচেয়ে সহজ এবং জনপ্রিয় মাধ্যম হলো <strong>Agent Banking</strong>। <strong>Bkash</strong>, <strong>Nagad</strong>, এবং <strong>Rocket</strong>-এর মতো মোবাইল ফিনান্সিয়াল সার্ভিস ব্যবহার করে আপনি খুব সহজেই লেনদেন করতে পারেন।</p>

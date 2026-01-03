@@ -1,32 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Poker বিশ্বের অন্যতম জনপ্রিয় এবং কৌশলনির্ভর Card Game। এটি কেবল ভাগ্যের খেলা নয়, বরং দক্ষতা এবং মনস্তাত্ত্বিক লড়াইয়ের একটি ক্ষেত্র। আপনি যদি বাংলাদেশে..."
 title: "Online Poker Guide for Beginners: বাংলাদেশে অনলাইন পোকার খেলার গাইড"
-description: "বাংলাদেশে Online Poker খেলার নিয়ম এবং কৌশল। Rules, Hand Rankings এবং Real Money জেতার উপায় সম্পর্কে জানুন।"
-date: 2025-12-23
-lastUpdated: 2025-12-23
-ogImage: og-online-poker-guide-bangladesh-optimized.webp
-ogImageAlt: "Online Poker টেবিল এবং চিপস"
-tags: [post, guide, poker, strategy, casino]
-faq:
-  - question: "বাংলাদেশে Online Poker কি বৈধ?"
-    answer: "Online Poker একটি ধূসর এলাকায় পড়ে, তবে BoroJeet-এর মতো অনেক আন্তর্জাতিক প্ল্যাটফর্ম বাংলাদেশী খেলোয়াড়দের নিরাপদে গ্রহণ করে।"
-  - question: "সেরা Poker Hand কোনটি?"
-    answer: "Royal Flush হলো পোকারের সর্বোচ্চ র‍্যাঙ্কিং হ্যান্ড।"
-  - question: "আমি কি মোবাইলে Poker খেলতে পারি?"
-    answer: "হ্যাঁ, BoroJeet যেকোনো সময় Poker খেলার জন্য একটি মোবাইল-বান্ধব প্ল্যাটফর্ম অফার করে।"
-howto:
-  name: "কিভাবে Poker খেলবেন"
-  description: "Texas Hold'em খেলার প্রাথমিক ধাপ।"
-  steps:
-    - name: "The Blinds"
-      text: "কার্ড ডিল করার আগে দুইজন খেলোয়াড় বাধ্যতামূলক বাজি রাখে।"
-    - name: "The Deal"
-      text: "প্রতিটি খেলোয়াড় দুটি ব্যক্তিগত কার্ড (hole cards) পায়।"
-    - name: "Betting Rounds"
-      text: "খেলোয়াড়রা তাদের হাতের শক্তির উপর ভিত্তি করে bet, call, raise বা fold করে।"
-    - name: "Showdown"
-      text: "সেরা হ্যান্ড পট জিতে নেয়।"
+layout: post.njklang: bn-BDdate: 2025-12-23ogImage: og-online-poker-guide-bangladesh-optimized.webpogImageAlt: "Online Poker টেবিল এবং চিপস"tags: [post, guide, poker, strategy, casino]faq:  - question: "বাংলাদেশে Online Poker কি বৈধ?"    answer: "Online Poker একটি ধূসর এলাকায় পড়ে, তবে BoroJeet-এর মতো অনেক আন্তর্জাতিক প্ল্যাটফর্ম বাংলাদেশী খেলোয়াড়দের নিরাপদে গ্রহণ করে।"  - question: "সেরা Poker Hand কোনটি?"    answer: "Royal Flush হলো পোকারের সর্বোচ্চ র‍্যাঙ্কিং হ্যান্ড।"  - question: "আমি কি মোবাইলে Poker খেলতে পারি?"    answer: "হ্যাঁ, BoroJeet যেকোনো সময় Poker খেলার জন্য একটি মোবাইল-বান্ধব প্ল্যাটফর্ম অফার করে।"howto:  name: "কিভাবে Poker খেলবেন"  description: "Texas Hold'em খেলার প্রাথমিক ধাপ।"  steps:    - name: "The Blinds"      text: "কার্ড ডিল করার আগে দুইজন খেলোয়াড় বাধ্যতামূলক বাজি রাখে।"    - name: "The Deal"      text: "প্রতিটি খেলোয়াড় দুটি ব্যক্তিগত কার্ড (hole cards) পায়।"    - name: "Betting Rounds"      text: "খেলোয়াড়রা তাদের হাতের শক্তির উপর ভিত্তি করে bet, call, raise বা fold করে।"    - name: "Showdown"      text: "সেরা হ্যান্ড পট জিতে নেয়।"
 ---
 
 <p class="lead"><strong>Poker</strong> বিশ্বের অন্যতম জনপ্রিয় এবং কৌশলনির্ভর Card Game। এটি কেবল ভাগ্যের খেলা নয়, বরং দক্ষতা এবং মনস্তাত্ত্বিক লড়াইয়ের একটি ক্ষেত্র। আপনি যদি বাংলাদেশে বসে Online Poker শুরু করতে চান, তবে এই গাইডটি আপনার জন্য।</p>

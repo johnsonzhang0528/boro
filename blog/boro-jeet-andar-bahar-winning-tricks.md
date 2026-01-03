@@ -1,20 +1,8 @@
 ---
-layout: "post.njk"
-lang: "bn-BD"
-title: "Boro Jeet Andar Bahar: Winning Tricks & Strategy | অন্দর বাহার"
-description: "Master the game of Andar Bahar on Boro Jeet. Learn the rules, winning tricks, and strategies for this popular Indian card game. Boro Jeet অন্দর বাহার খেলে জিতুন।"
-date: 2026-01-18
 lastUpdated: 2026-01-18
-ogImage: "boro-jeet-andar-bahar-hero-optimized.webp"
-ogImageAlt: "Traditional Andar Bahar card game setup on a Boro Jeet table"
-tags: ["post", "andar-bahar", "live-casino", "borojeet", "strategy"]
-faq:
-  - question: "Andar Bahar খেলায় জেতার সম্ভাবনা কত?"
-    answer: "Andar এবং Bahar উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে পরিসংখ্যানগতভাবে, **Andar**-এর জেতার সম্ভাবনা সামান্য বেশি (৫১.৫%)।"
-  - question: "Boro Jeet-এ কি Andar Bahar খেলা নিরাপদ?"
-    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Ezugi এবং Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"
-  - question: "Side Bets কি লাভজনক?"
-    answer: "Side Bets (যেমন Joker Card-এর সুট বা মান) অনেক বেশি পে-আউট দেয়, কিন্তু এগুলোর জেতার সম্ভাবনা কম। তাই এগুলো সাবধানে খেলা উচিত।"
+description: "Master the game of Andar Bahar on Boro Jeet. Learn the rules, winning tricks, and strategies for this popular Indian card game. Boro Jeet অন্দর বাহার খেলে জিতুন।"
+title: "Boro Jeet Andar Bahar: Winning Tricks & Strategy | অন্দর বাহার"
+layout: "post.njk"lang: "bn-BD"date: 2026-01-18ogImage: "boro-jeet-andar-bahar-hero-optimized.webp"ogImageAlt: "Traditional Andar Bahar card game setup on a Boro Jeet table"tags: ["post", "andar-bahar", "live-casino", "borojeet", "strategy"]faq:  - question: "Andar Bahar খেলায় জেতার সম্ভাবনা কত?"    answer: "Andar এবং Bahar উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে পরিসংখ্যানগতভাবে, **Andar**-এর জেতার সম্ভাবনা সামান্য বেশি (৫১.৫%)।"  - question: "Boro Jeet-এ কি Andar Bahar খেলা নিরাপদ?"    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Ezugi এবং Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"  - question: "Side Bets কি লাভজনক?"    answer: "Side Bets (যেমন Joker Card-এর সুট বা মান) অনেক বেশি পে-আউট দেয়, কিন্তু এগুলোর জেতার সম্ভাবনা কম। তাই এগুলো সাবধানে খেলা উচিত।"
 ---
 
 দক্ষিণ এশিয়ার সবচেয়ে জনপ্রিয় কার্ড গেমগুলোর মধ্যে **Andar Bahar** (অন্দর বাহার) অন্যতম। এর সহজ নিয়ম এবং দ্রুত গতির কারণে এটি বাংলাদেশী খেলোয়াড়দের কাছে অত্যন্ত প্রিয়। **Boro Jeet**-এ আপনি এখন লাইভ ডিলারদের সাথে এই ঐতিহ্যবাহী গেমটি খেলতে পারেন।

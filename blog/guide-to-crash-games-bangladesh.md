@@ -1,18 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)"
-description: "বাংলাদেশে জনপ্রিয় ক্র্যাশ গেম (Crash Games) যেমন Aviator এবং Crazy Time খেলার নিয়ম ও জেতার কৌশল। জানুন কিভাবে নিরাপদে খেলবেন এবং জিতবেন।"
-date: 2025-12-09
 lastUpdated: 2025-12-18
-ogImage: og-guide-to-crash-games-bangladesh-optimized.webp
-ogImageAlt: "Crash Games Guide Bangladesh"
-tags: [post, crash-games, aviator, crazy-time, guide]
-faq:
-  - question: "ক্র্যাশ গেম কি?"
-    answer: "ক্র্যাশ গেম হল এক ধরণের ক্যাসিনো গেম যেখানে একটি মাল্টিপ্লায়ার বাড়তে থাকে এবং যে কোনও সময় 'ক্র্যাশ' করতে পারে। ক্র্যাশ করার আগে ক্যাশ আউট করাই মূল লক্ষ্য।"
-  - question: "সবচেয়ে জনপ্রিয় ক্র্যাশ গেম কোনটি?"
-    answer: "Aviator বর্তমানে বাংলাদেশের সবচেয়ে জনপ্রিয় ক্র্যাশ গেম।"
+description: "বাংলাদেশে জনপ্রিয় ক্র্যাশ গেম (Crash Games) যেমন Aviator এবং Crazy Time খেলার নিয়ম ও জেতার কৌশল। জানুন কিভাবে নিরাপদে খেলবেন এবং জিতবেন।"
+title: "Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)"
+layout: post.njklang: bn-BDdate: 2025-12-09ogImage: og-guide-to-crash-games-bangladesh-optimized.webpogImageAlt: "Crash Games Guide Bangladesh"tags: [post, crash-games, aviator, crazy-time, guide]faq:  - question: "ক্র্যাশ গেম কি?"    answer: "ক্র্যাশ গেম হল এক ধরণের ক্যাসিনো গেম যেখানে একটি মাল্টিপ্লায়ার বাড়তে থাকে এবং যে কোনও সময় 'ক্র্যাশ' করতে পারে। ক্র্যাশ করার আগে ক্যাশ আউট করাই মূল লক্ষ্য।"  - question: "সবচেয়ে জনপ্রিয় ক্র্যাশ গেম কোনটি?"    answer: "Aviator বর্তমানে বাংলাদেশের সবচেয়ে জনপ্রিয় ক্র্যাশ গেম।"
 ---
 
 <p class="lead"><strong>Crash Games</strong> অনলাইন ক্যাসিনো জগতে দ্রুত জনপ্রিয়তা অর্জন করেছে। এর সহজ নিয়ম এবং দ্রুত ফলাফলের কারণে বাংলাদেশী খেলোয়াড়দের মধ্যে এটি অত্যন্ত জনপ্রিয়। এই গাইডে, আমরা ক্র্যাশ গেম কি, কিভাবে খেলতে হয় এবং জেতার কৌশল নিয়ে আলোচনা করব।</p>

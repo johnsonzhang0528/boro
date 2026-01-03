@@ -1,31 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু"
-description: "BoroJeet-এ Esports Betting জগতে ডুব দিন। Dota 2, League of Legends এবং CS:GO-এর মতো জনপ্রিয় গেমগুলিতে কীভাবে বাজি ধরতে হয় তা শিখুন।"
-date: 2025-12-22
 lastUpdated: 2025-12-22
-ogImage: og-esports-betting-guide-optimized.webp
-ogImageAlt: "বাংলাদেশী খেলোয়াড়দের জন্য Esports Betting Guide"
-tags: [post, esports, betting, guide, dota2, csgo]
-review:
-  item: Esports Betting
-  rating: 4.8
-faq:
-  - question: "বাংলাদেশে কি Esports Betting বৈধ?"
-    answer: "অনলাইন বেটিং আইন জটিল, তবে BoroJeet-এর মতো অনেক আন্তর্জাতিক প্ল্যাটফর্ম বাংলাদেশী খেলোয়াড়দের গ্রহণ করে।"
-  - question: "'First Blood' বেটিং কি?"
-    answer: "এটি একটি বাজি যে কোন দল ম্যাচে প্রথম কিল স্কোর করবে।"
-howto:
-  name: "কিভাবে Esports-এ বাজি ধরবেন"
-  description: "আপনার প্রথম Esports বাজি রাখার ধাপ।"
-  steps:
-    - name: "খেলা নির্বাচন করুন"
-      text: "Sports মেনু থেকে 'Esports' বেছে নিন।"
-    - name: "গেম বেছে নিন"
-      text: "Dota 2 বা CS:GO-এর মতো একটি গেম নির্বাচন করুন।"
-    - name: "বাজি ধরুন"
-      text: "আপনি যে দলটি জিতবে বলে মনে করেন তার Odds-এ ক্লিক করুন।"
+description: "BoroJeet-এ Esports Betting জগতে ডুব দিন। Dota 2, League of Legends এবং CS:GO-এর মতো জনপ্রিয় গেমগুলিতে কীভাবে বাজি ধরতে হয় তা শিখুন।"
+title: "Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু"
+layout: post.njklang: bn-BDdate: 2025-12-22ogImage: og-esports-betting-guide-optimized.webpogImageAlt: "বাংলাদেশী খেলোয়াড়দের জন্য Esports Betting Guide"tags: [post, esports, betting, guide, dota2, csgo]review:  item: Esports Betting  rating: 4.8faq:  - question: "বাংলাদেশে কি Esports Betting বৈধ?"    answer: "অনলাইন বেটিং আইন জটিল, তবে BoroJeet-এর মতো অনেক আন্তর্জাতিক প্ল্যাটফর্ম বাংলাদেশী খেলোয়াড়দের গ্রহণ করে।"  - question: "'First Blood' বেটিং কি?"    answer: "এটি একটি বাজি যে কোন দল ম্যাচে প্রথম কিল স্কোর করবে।"howto:  name: "কিভাবে Esports-এ বাজি ধরবেন"  description: "আপনার প্রথম Esports বাজি রাখার ধাপ।"  steps:    - name: "খেলা নির্বাচন করুন"      text: "Sports মেনু থেকে 'Esports' বেছে নিন।"    - name: "গেম বেছে নিন"      text: "Dota 2 বা CS:GO-এর মতো একটি গেম নির্বাচন করুন।"    - name: "বাজি ধরুন"      text: "আপনি যে দলটি জিতবে বলে মনে করেন তার Odds-এ ক্লিক করুন।"
 ---
 
 <p class="lead">Esports এখন আর শুধু ভিডিও গেম নয়; এটি বিশাল টুর্নামেন্ট এবং রোমাঞ্চকর বেটিং সুযোগ সহ একটি বিশ্বব্যাপী ঘটনা। <strong>Dota 2</strong>-এর কৌশলগত গভীরতা থেকে <strong>CS:GO</strong>-এর দ্রুত রিফ্লেক্স পর্যন্ত, <strong>Esports Betting</strong> সবার জন্য কিছু না কিছু অফার করে।</p>

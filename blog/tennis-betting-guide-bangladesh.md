@@ -1,28 +1,9 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Tennis বিশ্বের অন্যতম জনপ্রিয় খেলা এবং Betting-এর জন্য এটি অত্যন্ত রোমাঞ্চকর। Grand Slam থেকে শুরু করে ছোট টুর্নামেন্ট, সারা বছরই Tennis Betting-এর সুযোগ..."
 title: "Tennis Betting Guide Bangladesh: Markets & Tips (টেনিস বেটিং গাইড)"
-description: বাংলাদেশে Tennis Betting-এর একটি সম্পূর্ণ গাইড। Match Winner, Set Betting, Handicaps এবং Live Betting Strategies সম্পর্কে জানুন।
-date: 2025-12-16
-lastUpdated: 2025-12-16
-ogImage: tennis-betting-guide-og-optimized.webp
-ogImageAlt: Tennis Racket and Ball on Clay Court. টেনিস র‍্যাকেট এবং বল।
-tags: [post, sports-betting, tennis, guide, strategy]
-faq:
-  - question: Can I bet on tennis live? (আমি কি টেনিসে লাইভ বাজি ধরতে পারি?)
-    answer: Yes, Borojeet offers extensive live betting markets for tennis matches worldwide. (হ্যাঁ, Borojeet বিশ্বব্যাপী টেনিস ম্যাচের জন্য ব্যাপক লাইভ বেটিং মার্কেট অফার করে।)
-  - question: What does 'Over/Under' mean in tennis? (টেনিসে 'ওভার/আন্ডার' মানে কী?)
-    answer: It refers to betting on whether the total number of games or sets played will be over or under a specific number. (এটি মোট গেম বা সেট সংখ্যা নির্দিষ্ট সংখ্যার বেশি বা কম হবে কিনা তার উপর বাজি ধরা বোঝায়।)
-howto:
-  name: How to Bet on Tennis (কিভাবে টেনিসে বাজি ধরবেন)
-  description: Step-by-step guide to placing tennis bets on Borojeet. (Borojeet-এ টেনিস বাজি ধরার ধাপে ধাপে নির্দেশিকা।)
-  steps:
-    - name: Select Sport (খেলা নির্বাচন করুন)
-      text: Go to the Sports section and choose Tennis.
-    - name: Choose Match (ম্যাচ নির্বাচন করুন)
-      text: Select the tournament and match you want to bet on.
-    - name: Place Bet (বাজি ধরুন)
-      text: Click on the odds and enter your stake in the bet slip.
+layout: post.njklang: bn-BDdate: 2025-12-16ogImage: tennis-betting-guide-og-optimized.webpogImageAlt: Tennis Racket and Ball on Clay Court. টেনিস র‍্যাকেট এবং বল।tags: [post, sports-betting, tennis, guide, strategy]faq:  - question: Can I bet on tennis live? (আমি কি টেনিসে লাইভ বাজি ধরতে পারি?)    answer: Yes, Borojeet offers extensive live betting markets for tennis matches worldwide. (হ্যাঁ, Borojeet বিশ্বব্যাপী টেনিস ম্যাচের জন্য ব্যাপক লাইভ বেটিং মার্কেট অফার করে।)  - question: What does 'Over/Under' mean in tennis? (টেনিসে 'ওভার/আন্ডার' মানে কী?)    answer: It refers to betting on whether the total number of games or sets played will be over or under a specific number. (এটি মোট গেম বা সেট সংখ্যা নির্দিষ্ট সংখ্যার বেশি বা কম হবে কিনা তার উপর বাজি ধরা বোঝায়।)howto:  name: How to Bet on Tennis (কিভাবে টেনিসে বাজি ধরবেন)  description: Step-by-step guide to placing tennis bets on Borojeet. (Borojeet-এ টেনিস বাজি ধরার ধাপে ধাপে নির্দেশিকা।)  steps:    - name: Select Sport (খেলা নির্বাচন করুন)      text: Go to the Sports section and choose Tennis.    - name: Choose Match (ম্যাচ নির্বাচন করুন)      text: Select the tournament and match you want to bet on.    - name: Place Bet (বাজি ধরুন)      text: Click on the odds and enter your stake in the bet slip.
+
 ---
 
 <p class="lead"><strong>Tennis</strong> বিশ্বের অন্যতম জনপ্রিয় খেলা এবং <a href="/blog/ultimate-guide-to-cricket-betting-in-bangladesh/">Betting-এর জন্য</a> এটি অত্যন্ত রোমাঞ্চকর। Grand Slam থেকে শুরু করে ছোট টুর্নামেন্ট, সারা বছরই Tennis Betting-এর সুযোগ থাকে।</p>

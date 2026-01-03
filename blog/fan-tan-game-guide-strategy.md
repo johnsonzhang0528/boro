@@ -1,23 +1,9 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: Fan Tan খেলার নিয়ম এবং জয়ের কৌশল (Fan Tan Game Guide & Strategy)
-description: Borojeet-এ Fan Tan লাইভ ক্যাসিনো গেম খেলার সম্পূর্ণ নির্দেশিকা। নিয়ম, বেটিং অপশন এবং জয়ের সেরা কৌশলগুলো জানুন। (Learn Fan Tan rules and strategies.)
-date: 2025-12-29
-lastUpdated: 2025-12-29
-ogImage: og-fan-tan-game-guide-optimized.webp
-ogImageAlt: Fan Tan Live Casino Game Guide and Strategy
-tags:
-  - post
-  - live-casino
-  - fan-tan
-  - strategy
-  - evolution-gaming
-faq:
-  - question: Fan Tan খেলায় RTP কত? (What is the RTP of Fan Tan?)
-    answer: Fan Tan গেমের RTP সাধারণত 98.75% পর্যন্ত হতে পারে, যা নির্ভর করে আপনার বেটিং অপশনের উপর।
-  - question: আমি কি মোবাইলে Fan Tan খেলতে পারি? (Can I play Fan Tan on mobile?)
-    answer: হ্যাঁ, Borojeet অ্যাপের মাধ্যমে আপনি সহজেই আপনার স্মার্টফোনে Fan Tan খেলতে পারেন।
+lastUpdated: 2026-01-03
+description: "Fan Tan একটি প্রাচীন এবং অত্যন্ত জনপ্রিয় চাইনিজ গেম, যা এখন Borojeet-এর লাইভ ক্যাসিনো সেকশনে আধুনিক রূপে উপভোগ করা যায়। এর সহজ নিয়ম এবং দ্রুত গেমপ্লে একে..."
+title: "Fan Tan খেলার নিয়ম এবং জয়ের কৌশল (Fan Tan Game Guide & Strategy)"
+layout: post.njklang: bn-BDdate: 2025-12-29ogImage: og-fan-tan-game-guide-optimized.webpogImageAlt: Fan Tan Live Casino Game Guide and Strategytags:  - post  - live-casino  - fan-tan  - strategy  - evolution-gamingfaq:  - question: Fan Tan খেলায় RTP কত? (What is the RTP of Fan Tan?)    answer: Fan Tan গেমের RTP সাধারণত 98.75% পর্যন্ত হতে পারে, যা নির্ভর করে আপনার বেটিং অপশনের উপর।  - question: আমি কি মোবাইলে Fan Tan খেলতে পারি? (Can I play Fan Tan on mobile?)    answer: হ্যাঁ, Borojeet অ্যাপের মাধ্যমে আপনি সহজেই আপনার স্মার্টফোনে Fan Tan খেলতে পারেন।
+
 ---
 
 <p class="lead">Fan Tan একটি প্রাচীন এবং অত্যন্ত জনপ্রিয় চাইনিজ গেম, যা এখন Borojeet-এর লাইভ ক্যাসিনো সেকশনে আধুনিক রূপে উপভোগ করা যায়। এর সহজ নিয়ম এবং দ্রুত গেমপ্লে একে বাংলাদেশী খেলোয়াড়দের মধ্যে জনপ্রিয় করে তুলেছে।</p>

@@ -1,18 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
+lastUpdated: 2026-01-03
+description: "Online Casino Legal Status বাংলাদেশে একটি জটিল বিষয়। ১৮৬৭ সালের পাবলিক গ্যাম্বলিং অ্যাক্ট অনুযায়ী শারীরিক জুয়া নিষিদ্ধ হলেও, অনলাইন জুয়া সম্পর্কে আইনে..."
 title: "Is Online Casino Legal in Bangladesh? বাংলাদেশে অনলাইন ক্যাসিনোর আইনি অবস্থা"
-description: "বাংলাদেশে অনলাইন ক্যাসিনো কি বৈধ? ১৮৬৭ সালের জুয়া আইন এবং বর্তমান পরিস্থিতি সম্পর্কে বিস্তারিত জানুন।"
-date: 2025-12-09
-lastUpdated: 2025-12-18
-ogImage: is-online-casino-legal-in-bangladesh-optimized.webp
-ogImageAlt: "Legal Status of Online Casino in Bangladesh"
-tags: [post, legal, guide, bangladesh]
-faq:
-  - question: "বাংলাদেশে কি অনলাইন ক্যাসিনো বৈধ?"
-    answer: "বাংলাদেশে অনলাইন ক্যাসিনো সম্পর্কে কোনো নির্দিষ্ট আইন নেই, যা এটিকে একটি 'গ্রে এরিয়া' বা অস্পষ্ট আইনি অবস্থানে রাখে।"
-  - question: "আমি কি নিরাপদে খেলতে পারি?"
-    answer: "হ্যাঁ, বিদেশী লাইসেন্সপ্রাপ্ত সাইটগুলোতে খেলা সাধারণত নিরাপদ, তবে সর্বদা সতর্ক থাকা উচিত।"
+layout: post.njklang: bn-BDdate: 2025-12-09ogImage: is-online-casino-legal-in-bangladesh-optimized.webpogImageAlt: "Legal Status of Online Casino in Bangladesh"tags: [post, legal, guide, bangladesh]faq:  - question: "বাংলাদেশে কি অনলাইন ক্যাসিনো বৈধ?"    answer: "বাংলাদেশে অনলাইন ক্যাসিনো সম্পর্কে কোনো নির্দিষ্ট আইন নেই, যা এটিকে একটি 'গ্রে এরিয়া' বা অস্পষ্ট আইনি অবস্থানে রাখে।"  - question: "আমি কি নিরাপদে খেলতে পারি?"    answer: "হ্যাঁ, বিদেশী লাইসেন্সপ্রাপ্ত সাইটগুলোতে খেলা সাধারণত নিরাপদ, তবে সর্বদা সতর্ক থাকা উচিত।"
 ---
 
 <p class="lead"><strong>Online Casino Legal Status</strong> বাংলাদেশে একটি জটিল বিষয়। ১৮৬৭ সালের পাবলিক গ্যাম্বলিং অ্যাক্ট অনুযায়ী শারীরিক জুয়া নিষিদ্ধ হলেও, অনলাইন জুয়া সম্পর্কে আইনে স্পষ্ট কিছু বলা নেই। এই আর্টিকেলে, আমরা বাংলাদেশের অনলাইন ক্যাসিনোর আইনি অবস্থা এবং নিরাপদে খেলার উপায় নিয়ে আলোচনা করব।</p>

@@ -1,18 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Teen Patti Real Money Guide: তিন পাত্তি খেলার নিয়ম ও কৌশল"
-description: "বাংলাদেশে Teen Patti Real Money গেম খেলার সেরা গাইড। তিন পাত্তি খেলার নিয়ম, হ্যান্ড র‍্যাঙ্কিং এবং জেতার গোপন কৌশল সম্পর্কে জানুন।"
-date: 2026-01-10
 lastUpdated: 2026-01-10
-ogImage: teen-patti-real-money-guide-optimized.webp
-ogImageAlt: "Teen Patti Real Money Game"
-tags: [post, teen-patti, card-games, guide, real-money]
-faq:
-  - question: "Teen Patti খেলায় সবচেয়ে বড় হ্যান্ড কোনটি?"
-    answer: "Teen Patti-তে সবচেয়ে বড় হ্যান্ড হলো 'Trail' বা 'Set' (তিনটি একই মানের কার্ড), বিশেষ করে তিনটি টেক্কা (AAA)।"
-  - question: "আমি কি অনলাইনে আসল টাকা দিয়ে তিন পাত্তি খেলতে পারি?"
-    answer: "হ্যাঁ, BoroJeet-এর মতো প্ল্যাটফর্মে আপনি নিরাপদে Real Money Teen Patti খেলতে পারেন।"
+description: "বাংলাদেশে Teen Patti Real Money গেম খেলার সেরা গাইড। তিন পাত্তি খেলার নিয়ম, হ্যান্ড র‍্যাঙ্কিং এবং জেতার গোপন কৌশল সম্পর্কে জানুন।"
+title: "Teen Patti Real Money Guide: তিন পাত্তি খেলার নিয়ম ও কৌশল"
+layout: post.njklang: bn-BDdate: 2026-01-10ogImage: teen-patti-real-money-guide-optimized.webpogImageAlt: "Teen Patti Real Money Game"tags: [post, teen-patti, card-games, guide, real-money]faq:  - question: "Teen Patti খেলায় সবচেয়ে বড় হ্যান্ড কোনটি?"    answer: "Teen Patti-তে সবচেয়ে বড় হ্যান্ড হলো 'Trail' বা 'Set' (তিনটি একই মানের কার্ড), বিশেষ করে তিনটি টেক্কা (AAA)।"  - question: "আমি কি অনলাইনে আসল টাকা দিয়ে তিন পাত্তি খেলতে পারি?"    answer: "হ্যাঁ, BoroJeet-এর মতো প্ল্যাটফর্মে আপনি নিরাপদে Real Money Teen Patti খেলতে পারেন।"
 ---
 
 <p class="lead"><strong>Teen Patti</strong>, যা 'ইন্ডিয়ান পোকার' নামেও পরিচিত, বাংলাদেশের অন্যতম জনপ্রিয় কার্ড গেম। আপনি কি জানেন যে এখন আপনি অনলাইনে <strong>Teen Patti Real Money</strong> গেম খেলে টাকা আয় করতে পারেন? এই গাইডে আমরা তিন পাত্তি খেলার নিয়ম এবং জেতার কৌশল নিয়ে আলোচনা করব।</p>

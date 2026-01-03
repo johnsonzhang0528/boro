@@ -1,20 +1,8 @@
 ---
-layout: post.njk
-lang: bn-BD
-title: "Wild West Gold Slot Review: Sticky Wilds & Big Wins | ওয়াইল্ড ওয়েস্ট গোল্ড স্লট"
-description: "Read our review of Wild West Gold slot by Pragmatic Play. Discover the Sticky Wilds feature and how to win up to 10,000x. ওয়াইল্ড ওয়েস্ট গোল্ড স্লট রিভিউ।"
-date: 2026-01-07
 lastUpdated: 2026-01-07
-ogImage: wild-west-gold-thumbnail-optimized.webp
-ogImageAlt: "Wild West Gold slot characters (cowboy and cowgirl) with guns - ওয়াইল্ড ওয়েস্ট গোল্ড"
-tags: ["post", "casino", "slot", "pragmatic-play", "review"]
-faq:
-  - question: "What is the RTP of Wild West Gold?"
-    answer: "The RTP is 96.51%, which is very good for a high volatility slot."
-  - question: "Does it have a bonus buy feature?"
-    answer: "Yes, you can buy the free spins round for 100x your bet."
-  - question: "What are Sticky Wilds?"
-    answer: "In the bonus round, Wild symbols stay in place for the duration of the free spins, increasing win potential."
+description: "Read our review of Wild West Gold slot by Pragmatic Play. Discover the Sticky Wilds feature and how to win up to 10,000x. ওয়াইল্ড ওয়েস্ট গোল্ড স্লট রিভিউ।"
+title: "Wild West Gold Slot Review: Sticky Wilds & Big Wins | ওয়াইল্ড ওয়েস্ট গোল্ড স্লট"
+layout: post.njklang: bn-BDdate: 2026-01-07ogImage: wild-west-gold-thumbnail-optimized.webpogImageAlt: "Wild West Gold slot characters (cowboy and cowgirl) with guns - ওয়াইল্ড ওয়েস্ট গোল্ড"tags: ["post", "casino", "slot", "pragmatic-play", "review"]faq:  - question: "What is the RTP of Wild West Gold?"    answer: "The RTP is 96.51%, which is very good for a high volatility slot."  - question: "Does it have a bonus buy feature?"    answer: "Yes, you can buy the free spins round for 100x your bet."  - question: "What are Sticky Wilds?"    answer: "In the bonus round, Wild symbols stay in place for the duration of the free spins, increasing win potential."
 ---
 
 <p class="lead"><strong>Wild West Gold</strong> হলো Pragmatic Play-এর একটি ক্লাসিক ওয়েস্টার্ন থিমযুক্ত স্লট গেম। এর <strong>Sticky Wilds</strong> ফিচার এবং উচ্চ ভolatility এটিকে খেলোয়াড়দের কাছে অত্যন্ত জনপ্রিয় করে তুলেছে। আপনি কি কাউবয়দের সাথে স্বর্ণ শিকারে প্রস্তুত?</p>
