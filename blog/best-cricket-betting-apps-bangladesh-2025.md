@@ -1,8 +1,8 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: "Best Cricket Betting App Download BD 2025: Top 5 List (Bkash/Nagad)"
-description: "২০২৫ সালের সেরা Cricket Betting App Download করতে চান? Bkash ও Nagad পেমেন্ট সহ ৫টি Trusted Apps এর তালিকা। BoroJeet, Bet365 ও 1xBet এর বিস্তারিত রিভিউ।"
+title: "Best Cricket Betting App Download (APK) BD 2025: Top 5 Android Apps"
+description: "২০২৫ সালের সেরা Cricket Betting App Download (APK) করতে চান? Android এর জন্য Bkash ও Nagad পেমেন্ট সহ ৫টি Trusted Apps এর তালিকা। BoroJeet, Bet365 ও 1xBet এর বিস্তারিত রিভিউ।"
 date: 2025-11-08
 lastUpdated: 2025-12-03
 ogImage: best-cricket-betting-apps-2025-optimized.webp

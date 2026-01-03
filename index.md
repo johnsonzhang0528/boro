@@ -125,7 +125,7 @@ faq:
     <h2 id="latest-guides">Latest Guides & News</h2>
     <div class="grid grid-2" style="gap: 1.5rem;">
       {%- set posts = collections.post | reverse -%}
-      {%- for post in posts.slice(0, 2) -%}
+      {%- for post in posts.slice(0, 4) -%}
       <div class="card">
         <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
         <p>{{ post.data.description }}</p>
@@ -136,6 +136,37 @@ faq:
     <div style="margin-top: 1rem; text-align: center;">
       <a href="/blog/">Browse All Articles &rarr;</a>
     </div>
+  </section>
+
+  <!-- Popular Guides (SEO Boost) -->
+  <section class="card" aria-labelledby="popular-guides">
+    <h2 id="popular-guides">Most Popular Guides</h2>
+    <ul style="list-style: none; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+      <li>
+        <a href="/blog/best-cricket-betting-apps-bangladesh-2025/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">🏆 Best Cricket Betting Apps (APK)</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Top 5 Android apps with bKash/Nagad support.</span>
+      </li>
+      <li>
+        <a href="/blog/guide-to-crash-games-bangladesh/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">🚀 Crash Games Strategy Guide</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Master Aviator & Crazy Time with our tips.</span>
+      </li>
+      <li>
+        <a href="/blog/borojeet-app-download-install-guide/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">📱 BoroJeet App Install Guide</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Step-by-step APK installation tutorial.</span>
+      </li>
+      <li>
+        <a href="/blog/bkash-limit-casino-deposit-guide/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">💸 bKash Deposit Limits</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">How to manage your transaction limits.</span>
+      </li>
+      <li>
+        <a href="/blog/ultimate-guide-to-cricket-betting-in-bangladesh/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">🏏 Ultimate Cricket Betting Guide</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Everything you need to know to start betting.</span>
+      </li>
+      <li>
+        <a href="/blog/is-online-casino-legal-in-bangladesh/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">⚖️ Is Online Casino Legal?</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Understanding the legal landscape in BD.</span>
+      </li>
+    </ul>
   </section>
 
   <!-- HOWTO DEPOSIT -->

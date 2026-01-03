@@ -1,8 +1,8 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: "Guide to Crash Games in Bangladesh: ক্র্যাশ গেম খেলার সম্পূর্ণ গাইড"
-description: "বাংলাদেশে জনপ্রিয় ক্র্যাশ গেম যেমন Aviator এবং Crazy Time খেলার নিয়ম ও কৌশল। জানুন কিভাবে নিরাপদে খেলবেন এবং জিতবেন।"
+title: "Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)"
+description: "বাংলাদেশে জনপ্রিয় ক্র্যাশ গেম (Crash Games) যেমন Aviator এবং Crazy Time খেলার নিয়ম ও জেতার কৌশল। জানুন কিভাবে নিরাপদে খেলবেন এবং জিতবেন।"
 date: 2025-12-09
 lastUpdated: 2025-12-18
 ogImage: og-guide-to-crash-games-bangladesh-optimized.webp
