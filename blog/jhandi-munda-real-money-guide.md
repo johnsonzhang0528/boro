@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Jhandi Munda Online: How to Play & Win Real Money (ঝান্ডি মুন্ডা খেলার নিয়ম)"
 description: "Learn how to play Jhandi Munda online for real money. Complete guide to rules, symbols, payouts, and winning strategies for Bangladeshi players."
-date: 2026-02-05
-lastUpdated: 2026-02-05
-ogImage: jhandi-munda-game-board-dice.webp
+date: 2026-02-10
+lastUpdated: 2026-02-10
+ogImage: jhandi-munda-game-board-dice-optimized.webp
 ogImageAlt: "Traditional Jhandi Munda game board with six dice showing different symbols like Heart, Spade, and Flag."
 tags: [post, casino-games, jhandi-munda, guide]
 faq:
@@ -46,9 +46,9 @@ Understanding the symbols is the first step to playing.
 *   **Flag (পতাকা)**
 
 <picture class="content-image">
-  <source srcset="/assets/blog/jhandi-munda-symbols-payout-chart.avif" type="image/avif">
-  <source srcset="/assets/blog/jhandi-munda-symbols-payout-chart.webp" type="image/webp">
-  <img src="/assets/blog/jhandi-munda-symbols-payout-chart.webp" alt="Chart showing the 6 symbols of Jhandi Munda and their payout multipliers" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/jhandi-munda-symbols-payout-chart-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/jhandi-munda-symbols-payout-chart-optimized.webp" type="image/webp">
+  <img src="/assets/blog/jhandi-munda-symbols-payout-chart-optimized.webp" alt="Chart showing the 6 symbols of Jhandi Munda and their payout multipliers" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## How to Play Online (অনলাইনে খেলার নিয়ম)
