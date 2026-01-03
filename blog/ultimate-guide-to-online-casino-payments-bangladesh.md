@@ -99,3 +99,4 @@ faq:
 *   **[bKash ডিপোজিট লিমিট গাইড](/blog/bkash-limit-casino-deposit-guide/)** - লেনদেনের সীমা সংক্রান্ত সমস্যা কীভাবে মোকাবেলা করবেন।
 *   **[কীভাবে টাকা তুলবেন (Withdrawal Guide)](/blog/how-to-withdraw-winnings-from-borojeet/)** - আপনার জেতা টাকা নিরাপদে তোলার জন্য ধাপে ধাপে নির্দেশিকা।
 *   **[সাধারণ ডিপোজিট সমস্যা এবং সমাধান](/blog/common-deposit-issues-solutions-bangladesh/)** - ডিপোজিট ব্যর্থ হলে বা দেরি হলে কী করবেন।
+*   **[ভুল নম্বরে টাকা পাঠিয়েছেন?](/blog/wrong-agent-number-fix/)** - টাকা ফেরত পাওয়ার উপায় এবং প্রতিরোধের কৌশল।
