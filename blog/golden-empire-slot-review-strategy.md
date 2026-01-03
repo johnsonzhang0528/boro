@@ -78,4 +78,4 @@ Golden Empire খেলা খুবই সহজ। প্রথমে আপ�
 
 Golden Empire একটি অত্যন্ত বিনোদনমূলক এবং লাভজনক স্লট গেম। এর গ্রাফিক্স এবং সাউন্ড ইফেক্ট আপনাকে মুগ্ধ করবে। আজই <a href="/go/borojeet" rel="sponsored nofollow" target="_blank">Borojeet</a>-এ যোগ দিন এবং আপনার ভাগ্য পরীক্ষা করুন।
 
-আরও জানতে আমাদের <a href="/blog/top-5-jili-slots-games-on-borojeet">Top 5 Jili Slots</a> আর্টিকেলটি পড়ুন।
+আরও জানতে আমাদের <a href="/blog/jili-slot-games-guide-bangladesh/">Top 5 Jili Slots</a> আর্টিকেলটি পড়ুন।

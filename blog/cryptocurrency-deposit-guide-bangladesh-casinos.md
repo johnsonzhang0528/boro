@@ -85,4 +85,4 @@ faq:
 
 ক্রিপ্টোকারেন্সি, বিশেষ করে USDT, বাংলাদেশের অনলাইন ক্যাসিনো খেলোয়াড়দের জন্য একটি চমৎকার বিকল্প। এটি আপনাকে স্বাধীনতা, নিরাপত্তা এবং দ্রুত লেনদেনের সুবিধা দেয়। আপনি যদি এখনও প্রচলিত পদ্ধতিতে সীমাবদ্ধ থাকেন, তবে আজই ক্রিপ্টো ব্যবহারের কথা বিবেচনা করতে পারেন।
 
-আরও জানতে আমাদের [পেমেন্ট গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) দেখুন অথবা [সাপোর্টে যোগাযোগ করুন](/blog/how-to-contact-borojeet-support/)।
+আরও জানতে আমাদের [পেমেন্ট গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) দেখুন অথবা [সাপোর্টে যোগাযোগ করুন](/blog/borojeet-customer-support-live-chat-guide/)।

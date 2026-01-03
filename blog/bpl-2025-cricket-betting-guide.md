@@ -47,7 +47,7 @@ faq:
 
 1.  **Check Pitch Reports**: Mirpur is known for spin, while Chittagong is a batting paradise. (মিরপুর স্পিনের জন্য পরিচিত, যেখানে চট্টগ্রাম ব্যাটিং স্বর্গ।)
 2.  **Follow Team News**: Injuries can change the game. Stay updated. (ইনজুরি খেলা বদলে দিতে পারে।)
-3.  **Use the App**: Download the [Borojeet App](/blog/how-to-download-borojeet-app-android-apk/) for fast live betting.
+3.  **Use the App**: Download the [Borojeet App](/blog/borojeet-app-download-install-guide/) for fast live betting.
 
 ## Conclusion (উপসংহার)
 

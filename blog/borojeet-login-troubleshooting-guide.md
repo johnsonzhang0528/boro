@@ -107,6 +107,6 @@ faq:
 ---
 
 **এখনও সমস্যা হচ্ছে?**
-যদি উপরের কোনো পদ্ধতিতেই কাজ না হয়, তবে আমাদের **[কাস্টমার সাপোর্ট](/blog/how-to-contact-borojeet-support/)** টিমের সাথে যোগাযোগ করুন। তারা ২৪/৭ আপনাকে সাহায্য করার জন্য প্রস্তুত।
+যদি উপরের কোনো পদ্ধতিতেই কাজ না হয়, তবে আমাদের **[কাস্টমার সাপোর্ট](/blog/borojeet-customer-support-live-chat-guide/)** টিমের সাথে যোগাযোগ করুন। তারা ২৪/৭ আপনাকে সাহায্য করার জন্য প্রস্তুত।
 
 <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="login_guide_bottom_cta">BoroJeet-এ লগইন করুন</a>

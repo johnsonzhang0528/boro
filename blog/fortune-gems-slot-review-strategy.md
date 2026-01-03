@@ -66,7 +66,7 @@ Fortune Gems খেলা খুবই সহজ। আপনাকে শুধ
 *   **Target Multipliers**: আসল জয় আসে মাল্টিপ্লায়ার রিল থেকে। ধৈর্যই মূল চাবিকাঠি।
 *   **Use Bonuses**: Jili স্লটে ব্যবহার করা যেতে পারে এমন ওয়েলকাম বোনাসের জন্য আমাদের [Promotions](/promotions/) পেজ দেখুন।
 
-আরও Jili গেম বিকল্পের জন্য, আমাদের [Borojeet-এ সেরা ৫টি Jili স্লট গেম](/blog/top-5-jili-slots-games-on-borojeet/) এর রিভিউ পড়ুন।
+আরও Jili গেম বিকল্পের জন্য, আমাদের [Borojeet-এ সেরা ৫টি Jili স্লট গেম](/blog/jili-slot-games-guide-bangladesh/) এর রিভিউ পড়ুন।
 
 ## Conclusion (উপসংহার)
 

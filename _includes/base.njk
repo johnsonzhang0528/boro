@@ -473,8 +473,8 @@
     {% include "css/promo-filter.css" %}
   </style>
   
-  <title>{{ title }} | {{ site.name }}</title>
-  <meta name="description" content="{{ description or site.description }}">
+  <title>{% if title | length > 45 %}{{ title }}{% else %}{{ title }} | {{ site.name }}{% endif %}</title>
+  <meta name="description" content="{{ (description or site.description) | truncate(160) }}">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="{% if page.url.startsWith('/blog/') %}article{% else %}website{% endif %}">
@@ -566,7 +566,7 @@
   {% endif %}
   {% endif %}
 
-  {% if review %}
+  {% if review and review.item and review.rating %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -596,24 +596,26 @@
 
   {# --- SoftwareApplication Schema (For App Download Pages) --- #}
   {% set appData = softwareApp or app_schema %}
-  {% if appData %}
+  {% if appData and appData.name and appData.os %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
     "name": "{{ appData.name }}",
     "operatingSystem": "{{ appData.os }}",
-    "applicationCategory": "{{ appData.category }}",
+    "applicationCategory": "{{ appData.category or 'GameApplication' }}",
     "offers": {
       "@type": "Offer",
-      "price": "{{ appData.price }}",
-      "priceCurrency": "{{ appData.currency }}"
-    },
-    "aggregateRating": {
+      "price": "{{ appData.price or '0' }}",
+      "priceCurrency": "{{ appData.currency or 'BDT' }}"
+    }
+    {% if appData.ratingValue and appData.ratingCount %}
+    ,"aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "{{ appData.ratingValue }}",
       "ratingCount": "{{ appData.ratingCount }}"
     }
+    {% endif %}
   }
   </script>
   {% endif %}
