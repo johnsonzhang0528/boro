@@ -18,9 +18,9 @@ faq:
 <p class="lead"><strong>Responsible Gaming</strong> বা দায়িত্বশীল গেমিং অনলাইন ক্যাসিনো অভিজ্ঞতার সবচেয়ে গুরুত্বপূর্ণ অংশ। জুয়া খেলা বিনোদনের একটি মাধ্যম হওয়া উচিত, আয়ের উৎস নয়। এই গাইডে, আমরা আপনাকে নিরাপদ এবং দায়িত্বশীলভাবে খেলার উপায় সম্পর্কে জানাব।</p>
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/responsible-gaming-tips-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/responsible-gaming-tips-optimized.webp" type="image/webp">
-  <img src="/assets/blog/responsible-gaming-tips-optimized.webp" alt="Responsible Gaming Tips">
+  <source srcset="/assets/blog/responsible-gaming-self-control-tools-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/responsible-gaming-self-control-tools-optimized.webp" type="image/webp">
+  <img src="/assets/blog/responsible-gaming-self-control-tools-optimized.webp" alt="Responsible Gaming Tips">
 </picture>
 
 ## What is Responsible Gaming? (দায়িত্বশীল গেমিং কি?)

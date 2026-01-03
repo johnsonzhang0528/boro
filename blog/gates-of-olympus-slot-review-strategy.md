@@ -21,9 +21,9 @@ faq:
 <p class="lead"><strong>Gates of Olympus</strong> Pragmatic Play-এর একটি অত্যন্ত জনপ্রিয় স্লট গেম, যা গ্রীক মিথলজির উপর ভিত্তি করে তৈরি। জিউসের রাজ্যে প্রবেশ করুন এবং বড় জয়ের সুযোগ নিন। এই গাইডে, আমরা গেমের বৈশিষ্ট্য এবং কৌশলগুলি আলোচনা করব।</p>
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/gates-of-olympus-slot-big-win-reels-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/gates-of-olympus-slot-big-win-reels-optimized.webp" type="image/webp">
-  <img src="/assets/blog/gates-of-olympus-slot-big-win-reels-optimized.webp" alt="Gates of Olympus Slot Reels">
+  <source srcset="/assets/blog/gates-of-olympus-gameplay-multipliers-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/gates-of-olympus-gameplay-multipliers-optimized.webp" type="image/webp">
+  <img src="/assets/blog/gates-of-olympus-gameplay-multipliers-optimized.webp" alt="Gates of Olympus Slot Reels">
 </picture>
 
 ## Game Overview (গেমের বিবরণ)

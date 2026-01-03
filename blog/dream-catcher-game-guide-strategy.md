@@ -28,9 +28,9 @@ faq:
 Dream Catcher হলো একটি লাইভ মানি হুইল গেম, যা একটি স্টুডিও থেকে সরাসরি সম্প্রচার করা হয়। গেমটিতে ৫৪টি সেগমেন্টের একটি বিশাল চাকা থাকে, যা একজন লাইভ হোস্ট ঘোরান। খেলোয়াড়দের কাজ হলো বাজি ধরা যে চাকাটি কোন নম্বরে থামবে।
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/dream-catcher-wheel-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/dream-catcher-wheel-optimized.webp" type="image/webp">
-  <img src="/assets/blog/dream-catcher-wheel-optimized.webp" alt="Dream Catcher গেমের চাকা এবং স্টুডিও।" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/dream-catcher-wheel-spin-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/dream-catcher-wheel-spin-optimized.webp" type="image/webp">
+  <img src="/assets/blog/dream-catcher-wheel-spin-optimized.webp" alt="Dream Catcher গেমের চাকা এবং স্টুডিও।" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## কীভাবে খেলবেন: গেমের নিয়ম

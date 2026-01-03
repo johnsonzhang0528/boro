@@ -31,18 +31,18 @@ faq:
 Crazy Time একটি অত্যন্ত রঙিন এবং জাঁকজমকপূর্ণ স্টুডিওতে অনুষ্ঠিত হয়। এটি একটি কার্নিভাল বা সার্কাস থিমের উপর ভিত্তি করে তৈরি। গেমটিতে ৫৪টি সেগমেন্টের একটি চাকা এবং ৪টি ভিন্ন বোনাস রাউন্ড রয়েছে। এটি খুব দ্রুত গতির এবং প্রতি রাউন্ডে প্রচুর অ্যাকশন থাকে।
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/crazy-time-studio-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/crazy-time-studio-optimized.webp" type="image/webp">
-  <img src="/assets/blog/crazy-time-studio-optimized.webp" alt="Crazy Time গেমের রঙিন স্টুডিও এবং চাকা।" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/crazy-time-wheel-studio-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/crazy-time-wheel-studio-optimized.webp" type="image/webp">
+  <img src="/assets/blog/crazy-time-wheel-studio-optimized.webp" alt="Crazy Time গেমের রঙিন স্টুডিও এবং চাকা।" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ### Monopoly Live
 Monopoly Live ক্লাসিক মনোপলি বোর্ড গেমের থিমের উপর ভিত্তি করে তৈরি। এখানেও ৫৪টি সেগমেন্টের একটি চাকা আছে, কিন্তু এর প্রধান আকর্ষণ হলো মিস্টার মনোপলি (Mr. Monopoly) চরিত্রটি, যিনি স্টুডিওতে বসে থাকেন এবং বোনাস রাউন্ডে জীবন্ত হয়ে ওঠেন। এর পরিবেশ কিছুটা শান্ত এবং নস্টালজিক।
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/monopoly-live-studio-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/monopoly-live-studio-optimized.webp" type="image/webp">
-  <img src="/assets/blog/monopoly-live-studio-optimized.webp" alt="Monopoly Live গেমের স্টুডিও এবং মিস্টার মনোপলি।" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/monopoly-live-mr-monopoly-3d-world-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/monopoly-live-mr-monopoly-3d-world-optimized.webp" type="image/webp">
+  <img src="/assets/blog/monopoly-live-mr-monopoly-3d-world-optimized.webp" alt="Monopoly Live গেমের স্টুডিও এবং মিস্টার মনোপলি।" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## বোনাস রাউন্ডের তুলনা

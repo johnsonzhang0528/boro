@@ -33,9 +33,9 @@ faq:
 4.  **উচ্চ সীমা (High Limits):** ক্রিপ্টোকারেন্সিতে সাধারণত ডিপোজিট এবং উইথড্রয়ালের সীমা অনেক বেশি থাকে, যা হাই রোলারদের জন্য সুবিধাজনক।
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/crypto-casino-benefits-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/crypto-casino-benefits-optimized.webp" type="image/webp">
-  <img src="/assets/blog/crypto-casino-benefits-optimized.webp" alt="ক্রিপ্টোকারেন্সি ব্যবহারের সুবিধা: গোপনীয়তা, গতি এবং নিরাপত্তা।" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/crypto-wallet-deposit-process-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/crypto-wallet-deposit-process-optimized.webp" type="image/webp">
+  <img src="/assets/blog/crypto-wallet-deposit-process-optimized.webp" alt="ক্রিপ্টোকারেন্সি ব্যবহারের সুবিধা: গোপনীয়তা, গতি এবং নিরাপত্তা।" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## জনপ্রিয় ক্রিপ্টোকারেন্সি

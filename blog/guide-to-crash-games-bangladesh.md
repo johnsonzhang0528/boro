@@ -18,9 +18,9 @@ faq:
 <p class="lead"><strong>Crash Games</strong> অনলাইন ক্যাসিনো জগতে দ্রুত জনপ্রিয়তা অর্জন করেছে। এর সহজ নিয়ম এবং দ্রুত ফলাফলের কারণে বাংলাদেশী খেলোয়াড়দের মধ্যে এটি অত্যন্ত জনপ্রিয়। এই গাইডে, আমরা ক্র্যাশ গেম কি, কিভাবে খেলতে হয় এবং জেতার কৌশল নিয়ে আলোচনা করব।</p>
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/crash-games-guide-gameplay-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/crash-games-guide-gameplay-optimized.webp" type="image/webp">
-  <img src="/assets/blog/crash-games-guide-gameplay-optimized.webp" alt="Crash Games Gameplay">
+  <source srcset="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.webp" type="image/webp">
+  <img src="/assets/blog/aviator-crash-game-interface-bangladesh-optimized.webp" alt="Crash Games Gameplay">
 </picture>
 
 ## What are Crash Games? (ক্র্যাশ গেম কি?)

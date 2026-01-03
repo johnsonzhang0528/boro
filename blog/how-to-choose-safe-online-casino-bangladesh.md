@@ -18,9 +18,9 @@ faq:
 <p class="lead"><strong>Safe Online Casino</strong> বেছে নেওয়া আপনার গেমিং অভিজ্ঞতার জন্য অত্যন্ত গুরুত্বপূর্ণ। ইন্টারনেটে অনেক ক্যাসিনো আছে, কিন্তু সবগুলি নিরাপদ নয়। এই গাইডে, আমরা আপনাকে দেখাব কিভাবে একটি বিশ্বস্ত এবং নিরাপদ অনলাইন ক্যাসিনো চিনবেন।</p>
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/safe-casino-checklist-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/safe-casino-checklist-optimized.webp" type="image/webp">
-  <img src="/assets/blog/safe-casino-checklist-optimized.webp" alt="Safe Casino Checklist">
+  <source srcset="/assets/og/safe-casino-guide-og-optimized.avif" type="image/avif">
+  <source srcset="/assets/og/safe-casino-guide-og-optimized.webp" type="image/webp">
+  <img src="/assets/og/safe-casino-guide-og-optimized.webp" alt="Safe Casino Checklist">
 </picture>
 
 ## Key Factors for Choosing a Safe Casino (নিরাপদ ক্যাসিনো বেছে নেওয়ার মূল বিষয়গুলো)

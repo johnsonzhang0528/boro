@@ -21,9 +21,9 @@ faq:
 <p class="lead"><strong>Golden Empire</strong> Jili-র একটি জনপ্রিয় স্লট গেম যা ইনকা সভ্যতার থিমের উপর ভিত্তি করে তৈরি। এর অনন্য গোল্ডেন ফ্রেম মেকানিক্স এবং ফ্রি স্পিন ফিচার এটিকে অত্যন্ত লাভজনক করে তোলে। এই গাইডে, আমরা গেমের বিস্তারিত আলোচনা করব।</p>
 
 <picture class="content-image" data-critical="true">
-  <source srcset="/assets/blog/golden-empire-slot-big-win-reels-optimized.avif" type="image/avif">
-  <source srcset="/assets/blog/golden-empire-slot-big-win-reels-optimized.webp" type="image/webp">
-  <img src="/assets/blog/golden-empire-slot-big-win-reels-optimized.webp" alt="Golden Empire Slot Reels">
+  <source srcset="/assets/blog/jili-golden-empire-big-win-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/jili-golden-empire-big-win-optimized.webp" type="image/webp">
+  <img src="/assets/blog/jili-golden-empire-big-win-optimized.webp" alt="Golden Empire Slot Reels">
 </picture>
 
 ## Game Overview (গেমের বিবরণ)
