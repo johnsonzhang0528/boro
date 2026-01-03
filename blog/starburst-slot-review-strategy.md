@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Starburst Slot Review: Low Volatility & Frequent Wins (স্টারবার্স্ট স্লট)"
 description: "Starburst by NetEnt is the perfect slot for beginners. Learn about its low volatility, expanding wilds, and why it's the most popular game for wagering bonuses."
-date: 2026-02-07
-lastUpdated: 2026-02-07
-ogImage: starburst-slot-cosmic-gems.webp
+date: 2026-02-12
+lastUpdated: 2026-02-12
+ogImage: starburst-slot-cosmic-gems-optimized.webp
 ogImageAlt: "Vibrant cosmic background with floating colorful gems and the Starburst logo."
 tags: [post, slot-review, netent, low-volatility]
 review:
@@ -40,9 +40,9 @@ If you are new to online casinos, Starburst is the best game to start with.
 The game has a cosmic theme with dazzling jewels (gems) as symbols. The soundtrack is ethereal and relaxing, building up excitement when you hit a win. It looks beautiful on both mobile and desktop.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/starburst-wilds-expanding-feature.avif" type="image/avif">
-  <source srcset="/assets/blog/starburst-wilds-expanding-feature.webp" type="image/webp">
-  <img src="/assets/blog/starburst-wilds-expanding-feature.webp" alt="The Starburst Wild symbol expanding to cover an entire reel, triggering a re-spin" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/starburst-wilds-expanding-feature-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/starburst-wilds-expanding-feature-optimized.webp" type="image/webp">
+  <img src="/assets/blog/starburst-wilds-expanding-feature-optimized.webp" alt="The Starburst Wild symbol expanding to cover an entire reel, triggering a re-spin" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
