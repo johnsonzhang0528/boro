@@ -5,7 +5,7 @@ title: "Boro Jeet Andar Bahar: Winning Tricks & Strategy | অন্দর ব�
 description: "Master the game of Andar Bahar on Boro Jeet. Learn the rules, winning tricks, and strategies for this popular Indian card game. Boro Jeet অন্দর বাহার খেলে জিতুন।"
 date: 2026-01-18
 lastUpdated: 2026-01-18
-ogImage: "boro-jeet-andar-bahar-hero.webp"
+ogImage: "boro-jeet-andar-bahar-hero-optimized.webp"
 ogImageAlt: "Traditional Andar Bahar card game setup on a Boro Jeet table"
 tags: ["post", "andar-bahar", "live-casino", "borojeet", "strategy"]
 faq:
@@ -30,9 +30,9 @@ faq:
 3.  **Side Bets:** মূল বাজির পাশাপাশি বিভিন্ন সাইড বেট ধরার সুযোগ।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-andar-bahar-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-andar-bahar-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-andar-bahar-table.webp" alt="Live Andar Bahar table interface on Boro Jeet showing betting options" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-andar-bahar-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-andar-bahar-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-andar-bahar-table-optimized.webp" alt="Live Andar Bahar table interface on Boro Jeet showing betting options" loading="lazy" decoding="async">
 </picture>
 
 ## Andar Bahar খেলার নিয়ম (How to Play)

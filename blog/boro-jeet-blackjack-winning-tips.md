@@ -5,7 +5,7 @@ title: "Boro Jeet Blackjack: Winning Tips & Strategy Guide | ব্ল্যা�
 description: "Beat the dealer at Boro Jeet Blackjack. Learn the rules, basic strategy, and when to Hit or Stand. Boro Jeet ব্ল্যাকজ্যাক খেলে জিতুন।"
 date: 2026-01-17
 lastUpdated: 2026-01-17
-ogImage: "boro-jeet-blackjack-hero.webp"
+ogImage: "boro-jeet-blackjack-hero-optimized.webp"
 ogImageAlt: "Close-up of a Blackjack hand with an Ace and King (Blackjack) on a Boro Jeet table"
 tags: ["post", "blackjack", "live-casino", "borojeet", "strategy"]
 faq:
@@ -30,9 +30,9 @@ faq:
 3.  **Side Bets:** Perfect Pairs এবং 21+3 এর মতো সাইড বেট দিয়ে আপনি বড় জয়ের সুযোগ পেতে পারেন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-blackjack-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-blackjack-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-blackjack-table.webp" alt="Live Blackjack table interface on Boro Jeet showing betting options and dealer" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-blackjack-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-blackjack-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-blackjack-table-optimized.webp" alt="Live Blackjack table interface on Boro Jeet showing betting options and dealer" loading="lazy" decoding="async">
 </picture>
 
 ## Blackjack খেলার নিয়ম (Rules of the Game)

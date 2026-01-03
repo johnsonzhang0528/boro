@@ -5,7 +5,7 @@ title: "Wild West Gold Slot Review: Sticky Wilds & Big Wins | ওয়াইল
 description: "Read our review of Wild West Gold slot by Pragmatic Play. Discover the Sticky Wilds feature and how to win up to 10,000x. ওয়াইল্ড ওয়েস্ট গোল্ড স্লট রিভিউ।"
 date: 2026-01-07
 lastUpdated: 2026-01-07
-ogImage: wild-west-gold-thumbnail.webp
+ogImage: wild-west-gold-thumbnail-optimized.webp
 ogImageAlt: "Wild West Gold slot characters (cowboy and cowgirl) with guns - ওয়াইল্ড ওয়েস্ট গোল্ড"
 tags: ["post", "casino", "slot", "pragmatic-play", "review"]
 faq:
@@ -29,9 +29,9 @@ faq:
 *   **RTP:** 96.51%
 
 <picture class="content-image">
-  <source srcset="/assets/blog/wild-west-gold-gameplay.avif" type="image/avif">
-  <source srcset="/assets/blog/wild-west-gold-gameplay.webp" type="image/webp">
-  <img src="/assets/blog/wild-west-gold-gameplay.webp" alt="Wild West Gold slot gameplay screen showing reels and symbols" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/wild-west-gold-gameplay-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/wild-west-gold-gameplay-optimized.webp" type="image/webp">
+  <img src="/assets/blog/wild-west-gold-gameplay-optimized.webp" alt="Wild West Gold slot gameplay screen showing reels and symbols" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
@@ -45,9 +45,9 @@ faq:
 *   আপনার যদি একাধিক ওয়াইল্ড থাকে, তবে তাদের মাল্টিপ্লায়ারগুলো যোগ হয় না, বরং গুণ হয়! এটি বিশাল জয়ের সম্ভাবনা তৈরি করে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/wild-west-gold-big-win.avif" type="image/avif">
-  <source srcset="/assets/blog/wild-west-gold-big-win.webp" type="image/webp">
-  <img src="/assets/blog/wild-west-gold-big-win.webp" alt="Big Win screen on Wild West Gold slot with gold coins flying" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/wild-west-gold-big-win-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/wild-west-gold-big-win-optimized.webp" type="image/webp">
+  <img src="/assets/blog/wild-west-gold-big-win-optimized.webp" alt="Big Win screen on Wild West Gold slot with gold coins flying" loading="lazy" decoding="async">
 </picture>
 
 ## Winning Strategy (জয়ের কৌশল)

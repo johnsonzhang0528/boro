@@ -5,7 +5,7 @@ title: "IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল �
 description: "Get ready for IPL 2026! Expert betting tips, team analysis, and best odds for Bangladeshi players. আইপিএল ২০২৬ বেটিং গাইড।"
 date: 2026-01-20
 lastUpdated: 2026-01-20
-ogImage: ipl-2026-betting-guide-thumbnail.webp
+ogImage: ipl-2026-betting-guide-thumbnail-optimized.webp
 ogImageAlt: "IPL 2026 trophy and cricket stadium - আইপিএল ২০২৬"
 tags: ["post", "cricket", "ipl", "betting", "guide"]
 faq:
@@ -30,9 +30,9 @@ faq:
 *   **Defending Champion:** (To be decided in 2025)
 
 <picture class="content-image">
-  <source srcset="/assets/blog/ipl-2026-teams-trophy.avif" type="image/avif">
-  <source srcset="/assets/blog/ipl-2026-teams-trophy.webp" type="image/webp">
-  <img src="/assets/blog/ipl-2026-teams-trophy.webp" alt="IPL 2026 trophy with team logos in background" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/ipl-2026-teams-trophy-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/ipl-2026-teams-trophy-optimized.webp" type="image/webp">
+  <img src="/assets/blog/ipl-2026-teams-trophy-optimized.webp" alt="IPL 2026 trophy with team logos in background" loading="lazy" decoding="async">
 </picture>
 
 ## Key Teams to Watch (নজর রাখার মতো দল)
@@ -51,9 +51,9 @@ faq:
 *   **Total Sixes:** ম্যাচে মোট কতটি ছক্কা হবে?
 
 <picture class="content-image">
-  <source srcset="/assets/blog/ipl-2026-betting-odds-screen.avif" type="image/avif">
-  <source srcset="/assets/blog/ipl-2026-betting-odds-screen.webp" type="image/webp">
-  <img src="/assets/blog/ipl-2026-betting-odds-screen.webp" alt="IPL 2026 betting odds interface on mobile app" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/ipl-2026-betting-odds-screen-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/ipl-2026-betting-odds-screen-optimized.webp" type="image/webp">
+  <img src="/assets/blog/ipl-2026-betting-odds-screen-optimized.webp" alt="IPL 2026 betting odds interface on mobile app" loading="lazy" decoding="async">
 </picture>
 
 ## Winning Tips (জয়ের টিপস)

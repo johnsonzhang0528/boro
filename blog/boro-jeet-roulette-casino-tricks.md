@@ -5,7 +5,7 @@ title: "Boro Jeet Roulette: Strategies & Tricks to Win | রুলেট গে�
 description: "Spin the wheel on Boro Jeet Roulette. Learn European vs American Roulette and winning strategies. Boro Jeet রুলেট খেলে জিতুন।"
 date: 2026-01-16
 lastUpdated: 2026-01-16
-ogImage: boro-jeet-roulette-hero.webp
+ogImage: boro-jeet-roulette-hero-optimized.webp
 ogImageAlt: "A spinning roulette wheel with a ball landing on a winning number, Boro Jeet theme"
 tags: ["post", "roulette", "casino", "borojeet", "strategy"]
 faq:
@@ -27,9 +27,9 @@ faq:
 3.  **Lightning Roulette:** এটি একটি বিশেষ সংস্করণ যেখানে লাকি নাম্বারে ৫০০ গুণ পর্যন্ত মাল্টিপ্লায়ার পাওয়া যায়।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-roulette-wheel.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-roulette-wheel.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-roulette-wheel.webp" alt="Close up of a roulette wheel spinning with the ball about to land" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-roulette-wheel-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-roulette-wheel-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-roulette-wheel-optimized.webp" alt="Close up of a roulette wheel spinning with the ball about to land" loading="lazy" decoding="async">
 </picture>
 
 ## Winning Strategies (জেতার কৌশল)
@@ -41,9 +41,9 @@ faq:
 *   **Bankroll Management:** খেলার আগে একটি বাজেট ঠিক করুন এবং কখনোই আবেগের বশবর্তী হয়ে বেশি বাজি ধরবেন না।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-roulette-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-roulette-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-roulette-table.webp" alt="A roulette betting table layout with chips placed on red and black" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-roulette-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-roulette-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-roulette-table-optimized.webp" alt="A roulette betting table layout with chips placed on red and black" loading="lazy" decoding="async">
 </picture>
 
 ## Conclusion (উপসংহার)

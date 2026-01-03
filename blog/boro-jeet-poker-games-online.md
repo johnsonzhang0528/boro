@@ -5,7 +5,7 @@ title: "Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গ�
 description: "Join the best online poker tables on Boro Jeet. Texas Hold'em, Omaha, and more. Boro Jeet পোকার খেলে জিতুন।"
 date: 2026-01-15
 lastUpdated: 2026-01-15
-ogImage: boro-jeet-poker-hero.webp
+ogImage: boro-jeet-poker-hero-optimized.webp
 ogImageAlt: "A professional poker table with chips and cards, featuring the Boro Jeet logo"
 tags: ["post", "poker", "card-game", "borojeet", "strategy"]
 faq:
@@ -27,9 +27,9 @@ faq:
 3.  **Secure Environment:** আমাদের প্ল্যাটফর্ম সম্পূর্ণ সুরক্ষিত এবং ফেয়ার প্লে নিশ্চিত করে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-poker-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-poker-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-poker-table.webp" alt="A digital poker table interface on Boro Jeet showing player hands and pot" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-poker-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-poker-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-poker-table-optimized.webp" alt="A digital poker table interface on Boro Jeet showing player hands and pot" loading="lazy" decoding="async">
 </picture>
 
 ## Popular Poker Variants (জনপ্রিয় পোকার গেম)
@@ -48,9 +48,9 @@ Omaha-তে প্রতিটি খেলোয়াড়কে চার�
 *   **Observe Opponents:** আপনার প্রতিপক্ষের খেলার ধরন লক্ষ্য করুন। তারা কখন বাজি বাড়ায় বা ফোল্ড করে তা বোঝার চেষ্টা করুন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-poker-royal-flush.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-poker-royal-flush.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-poker-royal-flush.webp" alt="A winning Royal Flush hand in a poker game with chips piling up" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-poker-royal-flush-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-poker-royal-flush-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-poker-royal-flush-optimized.webp" alt="A winning Royal Flush hand in a poker game with chips piling up" loading="lazy" decoding="async">
 </picture>
 
 ## Conclusion (উপসংহার)

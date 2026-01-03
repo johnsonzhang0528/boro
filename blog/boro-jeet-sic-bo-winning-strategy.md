@@ -5,7 +5,7 @@ title: "Boro Jeet Sic Bo: Dice Game Strategy & Tips | সিক বো"
 description: "Roll the dice on Boro Jeet Sic Bo. Learn the rules, Big/Small bets, and winning strategies for this exciting dice game. Boro Jeet সিক বো খেলে জিতুন।"
 date: 2026-01-18
 lastUpdated: 2026-01-18
-ogImage: "boro-jeet-sic-bo-hero.webp"
+ogImage: "boro-jeet-sic-bo-hero-optimized.webp"
 ogImageAlt: "Three dice showing winning numbers on a Boro Jeet Sic Bo table"
 tags: ["post", "sic-bo", "live-casino", "borojeet", "strategy"]
 faq:
@@ -30,9 +30,9 @@ faq:
 3.  **User-Friendly Interface:** নতুনদের জন্য গেমটি বোঝা এবং খেলা খুবই সহজ।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-sic-bo-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-sic-bo-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-sic-bo-table.webp" alt="Live Sic Bo betting board on Boro Jeet showing Big, Small, and Triple options" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-sic-bo-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-sic-bo-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-sic-bo-table-optimized.webp" alt="Live Sic Bo betting board on Boro Jeet showing Big, Small, and Triple options" loading="lazy" decoding="async">
 </picture>
 
 ## Sic Bo খেলার নিয়ম (How to Play)

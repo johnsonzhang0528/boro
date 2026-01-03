@@ -5,7 +5,7 @@ title: "Boro Jeet Dragon Tiger: Simple Winning Tricks | ড্রাগন ট�
 description: "Play Dragon Tiger on Boro Jeet. Learn the rules of this fast-paced card game and winning tricks. Boro Jeet ড্রাগন টাইগার খেলে জিতুন।"
 date: 2026-01-17
 lastUpdated: 2026-01-17
-ogImage: "boro-jeet-dragon-tiger-hero.webp"
+ogImage: "boro-jeet-dragon-tiger-hero-optimized.webp"
 ogImageAlt: "A dramatic Dragon vs Tiger card showdown on a Boro Jeet table"
 tags: ["post", "dragon-tiger", "live-casino", "borojeet", "strategy"]
 faq:
@@ -30,9 +30,9 @@ faq:
 3.  **Live Streaming:** HD কোয়ালিটিতে লাইভ স্ট্রিমিং উপভোগ করুন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-dragon-tiger-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-dragon-tiger-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-dragon-tiger-table.webp" alt="Live Dragon Tiger table interface on Boro Jeet showing betting options" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-dragon-tiger-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-dragon-tiger-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-dragon-tiger-table-optimized.webp" alt="Live Dragon Tiger table interface on Boro Jeet showing betting options" loading="lazy" decoding="async">
 </picture>
 
 ## Dragon Tiger খেলার নিয়ম (How to Play)

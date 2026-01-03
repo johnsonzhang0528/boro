@@ -5,7 +5,7 @@ title: "Boro Jeet Baccarat: Winning Strategies & Live Dealer Guide | ব্য�
 description: "Master Boro Jeet Baccarat with our expert guide. Learn the rules, Banker vs Player odds, and winning strategies for Bangladeshi players. Boro Jeet ব্যাকারাত খেলে জিতুন।"
 date: 2026-01-16
 lastUpdated: 2026-01-16
-ogImage: "boro-jeet-baccarat-hero.webp"
+ogImage: "boro-jeet-baccarat-hero-optimized.webp"
 ogImageAlt: "Elegant Baccarat table setup with cards dealt on Player and Banker, Boro Jeet branding"
 tags: ["post", "baccarat", "live-casino", "borojeet", "strategy"]
 faq:
@@ -30,9 +30,9 @@ faq:
 3.  **Easy Transactions:** bKash এবং Nagad-এর মাধ্যমে সহজেই টাকা জমা এবং উত্তোলন করা যায়।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-baccarat-table.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-baccarat-table.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-baccarat-table.webp" alt="Live Baccarat table interface on Boro Jeet showing Player and Banker betting options" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-baccarat-table-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-baccarat-table-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-baccarat-table-optimized.webp" alt="Live Baccarat table interface on Boro Jeet showing Player and Banker betting options" loading="lazy" decoding="async">
 </picture>
 
 ## Baccarat খেলার নিয়ম (How to Play)

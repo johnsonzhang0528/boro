@@ -5,7 +5,7 @@ title: "Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্য
 description: "Play the best Crash Games on Boro Jeet. A complete guide to Aviator, JetX, and winning strategies. Boro Jeet ক্র্যাশ গেম খেলে জিতুন বড় পুরস্কার।"
 date: 2026-01-14
 lastUpdated: 2026-01-14
-ogImage: boro-jeet-crash-games-hero.webp
+ogImage: boro-jeet-crash-games-hero-optimized.webp
 ogImageAlt: "Rocket flying high in a neon sky representing Boro Jeet Crash Games like Aviator"
 tags: ["post", "crash-game", "aviator", "strategy", "borojeet"]
 faq:
@@ -24,9 +24,9 @@ faq:
 **Crash Games** হলো এক ধরনের অনলাইন ক্যাসিনো গেম যেখানে একটি মাল্টিপ্লায়ার (Multiplier) ক্রমশ বাড়তে থাকে এবং যেকোনো মুহূর্তে তা "ক্র্যাশ" বা বন্ধ হয়ে যেতে পারে। আপনার লক্ষ্য হলো গেমটি ক্র্যাশ হওয়ার আগেই **Cash Out** করা।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-aviator-gameplay.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-aviator-gameplay.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-aviator-gameplay.webp" alt="Gameplay interface of Aviator on Boro Jeet showing multiplier increasing" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-aviator-gameplay-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-aviator-gameplay-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-aviator-gameplay-optimized.webp" alt="Gameplay interface of Aviator on Boro Jeet showing multiplier increasing" loading="lazy" decoding="async">
 </picture>
 
 ### Why Play on Boro Jeet? (কেন Boro Jeet-এ খেলবেন?)
@@ -51,9 +51,9 @@ faq:
 *   **Small Bets:** শুরুতে ছোট বাজি দিয়ে খেলা শুরু করুন এবং গেমের প্যাটার্ন বোঝার চেষ্টা করুন।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-crash-win.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-crash-win.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-crash-win.webp" alt="Big win screen showing huge multiplier on Boro Jeet crash game" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-crash-win-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-crash-win-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-crash-win-optimized.webp" alt="Big win screen showing huge multiplier on Boro Jeet crash game" loading="lazy" decoding="async">
 </picture>
 
 ## How to Start Playing? (কীভাবে খেলা শুরু করবেন?)

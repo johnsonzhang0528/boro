@@ -5,7 +5,7 @@ title: "Agent Banking Deposit Guide: Bkash, Nagad & Rocket | এজেন্ট 
 description: "Learn how to deposit and withdraw money using Agent Banking methods like Bkash, Nagad, and Rocket in Bangladesh. এজেন্ট ব্যাংকিং এর মাধ্যমে টাকা জমা ও উত্তোলনের নিয়ম।"
 date: 2026-01-05
 lastUpdated: 2026-01-05
-ogImage: agent-banking-deposit-thumbnail.webp
+ogImage: agent-banking-deposit-thumbnail-optimized.webp
 ogImageAlt: "Mobile phone showing Bkash, Nagad, and Rocket logos with money transfer icon - এজেন্ট ব্যাংকিং"
 tags: ["post", "payments", "guide", "bkash", "nagad"]
 faq:
@@ -24,9 +24,9 @@ faq:
 এজেন্ট ব্যাংকিং হলো এমন একটি ব্যবস্থা যেখানে আপনি সরাসরি ব্যাংকে না গিয়ে স্থানীয় এজেন্টের মাধ্যমে টাকা লেনদেন করেন। অনলাইন ক্যাসিনো সাইটগুলোতে সাধারণত "Cash Out" অপশন ব্যবহার করে এজেন্টের নম্বরে টাকা পাঠাতে হয়।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/mobile-money-logos-bd.avif" type="image/avif">
-  <source srcset="/assets/blog/mobile-money-logos-bd.webp" type="image/webp">
-  <img src="/assets/blog/mobile-money-logos-bd.webp" alt="Logos of Bkash, Nagad, Rocket, and Upay on a digital screen" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/mobile-money-logos-bd-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/mobile-money-logos-bd-optimized.webp" type="image/webp">
+  <img src="/assets/blog/mobile-money-logos-bd-optimized.webp" alt="Logos of Bkash, Nagad, Rocket, and Upay on a digital screen" loading="lazy" decoding="async">
 </picture>
 
 ## How to Deposit Money (টাকা জমা দেওয়ার নিয়ম)
@@ -49,9 +49,9 @@ faq:
 4.  **Confirm:** রিকোয়েস্ট সাবমিট করুন। সাধারণত ১৫-৩০ মিনিটের মধ্যে টাকা আপনার ওয়ালেটে চলে আসে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/agent-banking-process.avif" type="image/avif">
-  <source srcset="/assets/blog/agent-banking-process.webp" type="image/webp">
-  <img src="/assets/blog/agent-banking-process.webp" alt="Illustration showing the flow of money from user to agent to casino account" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/agent-banking-process-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/agent-banking-process-optimized.webp" type="image/webp">
+  <img src="/assets/blog/agent-banking-process-optimized.webp" alt="Illustration showing the flow of money from user to agent to casino account" loading="lazy" decoding="async">
 </picture>
 
 ## Important Tips (জরুরি টিপস)

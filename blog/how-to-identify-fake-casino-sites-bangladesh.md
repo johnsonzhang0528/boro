@@ -5,7 +5,7 @@ title: "How to Identify Fake Casino Sites in Bangladesh | নকল ক্যা
 description: "Protect yourself from scams. Learn how to identify fake online casino sites in Bangladesh by checking licenses, SSL certificates, and payment methods. নিরাপদ থাকার উপায়।"
 date: 2026-01-07
 lastUpdated: 2026-01-07
-ogImage: fake-casino-warning-thumbnail.webp
+ogImage: fake-casino-warning-thumbnail-optimized.webp
 ogImageAlt: "Warning sign with a magnifying glass inspecting a website URL - নকল ক্যাসিনো সাইট"
 tags: ["post", "safety", "guide", "scam-alert"]
 faq:
@@ -33,9 +33,9 @@ faq:
 যদি না থাকে, তবে সেই সাইটে কোনো ব্যক্তিগত তথ্য বা টাকা দেবেন না।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/secure-connection-ssl.avif" type="image/avif">
-  <source srcset="/assets/blog/secure-connection-ssl.webp" type="image/webp">
-  <img src="/assets/blog/secure-connection-ssl.webp" alt="Browser address bar showing HTTPS and padlock icon for security" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/secure-connection-ssl-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/secure-connection-ssl-optimized.webp" type="image/webp">
+  <img src="/assets/blog/secure-connection-ssl-optimized.webp" alt="Browser address bar showing HTTPS and padlock icon for security" loading="lazy" decoding="async">
 </picture>
 
 ## 3. Payment Methods (পেমেন্ট মেথড)
@@ -52,9 +52,9 @@ faq:
 নকল সাইটের সাপোর্ট সাধারণত খুব ধীরগতির হয় অথবা তারা রোবট ব্যবহার করে।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/fake-vs-real-casino-checklist.avif" type="image/avif">
-  <source srcset="/assets/blog/fake-vs-real-casino-checklist.webp" type="image/webp">
-  <img src="/assets/blog/fake-vs-real-casino-checklist.webp" alt="Checklist comparing features of a Real Casino vs Fake Casino" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/fake-vs-real-casino-checklist-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/fake-vs-real-casino-checklist-optimized.webp" type="image/webp">
+  <img src="/assets/blog/fake-vs-real-casino-checklist-optimized.webp" alt="Checklist comparing features of a Real Casino vs Fake Casino" loading="lazy" decoding="async">
 </picture>
 
 ## Conclusion (উপসংহার)
