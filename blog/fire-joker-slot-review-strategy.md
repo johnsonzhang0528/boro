@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Fire Joker Slot Review: Wheel of Multipliers (ফায়ার জোকার স্লট)"
 description: "Fire Joker by Play'n GO is a fiery 3-reel classic slot. Learn how to trigger the Respin of Fire and spin the Wheel of Multipliers for up to 800x wins."
-date: 2026-02-09
-lastUpdated: 2026-02-09
-ogImage: fire-joker-slot-burning-reels.webp
+date: 2026-02-14
+lastUpdated: 2026-02-14
+ogImage: fire-joker-slot-burning-reels-optimized.webp
 ogImageAlt: "The Fire Joker character smiling mischievously with burning 3x3 reels in the background."
 tags: [post, slot-review, playn-go, classic-slot]
 review:
@@ -40,9 +40,9 @@ If you like fast-paced action without complicated rules, Fire Joker is the game 
 The theme is a mix of a classic fruit slot and a jester theme. The background is a fiery red diamond pattern. Symbols include X's, Cherries, Lemons, Grapes, Plums, BARs, Stars, and Lucky 7s. The **Fire Joker** is the Wild.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/fire-joker-wheel-of-multipliers.avif" type="image/avif">
-  <source srcset="/assets/blog/fire-joker-wheel-of-multipliers.webp" type="image/webp">
-  <img src="/assets/blog/fire-joker-wheel-of-multipliers.webp" alt="The Wheel of Multipliers feature in Fire Joker showing multipliers up to x10" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/fire-joker-wheel-of-multipliers-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/fire-joker-wheel-of-multipliers-optimized.webp" type="image/webp">
+  <img src="/assets/blog/fire-joker-wheel-of-multipliers-optimized.webp" alt="The Wheel of Multipliers feature in Fire Joker showing multipliers up to x10" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
