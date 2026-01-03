@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Gonzo's Quest Slot Review: Avalanche Feature & Free Falls (গনজোস কোয়েস্ট)"
 description: "Join Gonzo in his search for El Dorado. Learn about the revolutionary Avalanche feature, increasing multipliers, and how to trigger Free Falls in this NetEnt classic."
-date: 2026-02-07
-lastUpdated: 2026-02-07
-ogImage: gonzos-quest-avalanche-multipliers.webp
+date: 2026-02-12
+lastUpdated: 2026-02-12
+ogImage: gonzos-quest-avalanche-multipliers-optimized.webp
 ogImageAlt: "Gonzo character watching stone blocks fall with multiplier values x1, x2, x3, x5 visible."
 tags: [post, slot-review, netent, avalanche-feature]
 review:
@@ -40,9 +40,9 @@ The game follows the Spanish conquistador **Gonzo** as he searches for the lost 
 The game is set in a lush South American jungle. The symbols are carved into stone blocks. Gonzo stands on the side of the reels, reacting to your wins (and losses) with funny animations. It's immersive and entertaining.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/gonzos-quest-free-falls-golden-temple.avif" type="image/avif">
-  <source srcset="/assets/blog/gonzos-quest-free-falls-golden-temple.webp" type="image/webp">
-  <img src="/assets/blog/gonzos-quest-free-falls-golden-temple.webp" alt="The golden gates of El Dorado opening to reveal the Free Falls bonus round in Gonzo's Quest" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/gonzos-quest-free-falls-golden-temple-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/gonzos-quest-free-falls-golden-temple-optimized.webp" type="image/webp">
+  <img src="/assets/blog/gonzos-quest-free-falls-golden-temple-optimized.webp" alt="The golden gates of El Dorado opening to reveal the Free Falls bonus round in Gonzo's Quest" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
