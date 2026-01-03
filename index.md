@@ -163,6 +163,10 @@ faq:
         <span style="color: var(--muted); font-size: 0.9rem;">Everything you need to know to start betting.</span>
       </li>
       <li>
+        <a href="/blog/nagad-vs-bkash-casino-deposits/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">💳 Nagad vs bKash for Betting</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Which payment method is better for you?</span>
+      </li>
+      <li>
         <a href="/blog/is-online-casino-legal-in-bangladesh/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">⚖️ Is Online Casino Legal?</a>
         <span style="color: var(--muted); font-size: 0.9rem;">Understanding the legal landscape in BD.</span>
       </li>
