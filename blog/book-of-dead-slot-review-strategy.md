@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Book of Dead Slot Review: RTP, Volatility & Winning Tips (বুক অফ ডেড স্লট)"
 description: "Read our in-depth review of Book of Dead by Play'n GO. Discover the RTP, high volatility, free spins feature, and strategies to win big in Bangladesh."
-date: 2026-02-06
-lastUpdated: 2026-02-06
-ogImage: book-of-dead-slot-gameplay-rich-wilde.webp
+date: 2026-02-11
+lastUpdated: 2026-02-11
+ogImage: book-of-dead-slot-gameplay-rich-wilde-optimized.webp
 ogImageAlt: "Rich Wilde character standing next to the Book of Dead slot reels in an ancient Egyptian tomb setting."
 tags: [post, slot-review, playn-go, high-volatility]
 review:
@@ -40,9 +40,9 @@ Join the adventurer **Rich Wilde** as he explores the tombs of Pharaohs in searc
 The game is set in an ancient Egyptian burial chamber. The graphics are sharp, and the soundtrack adds a mysterious and adventurous vibe. Symbols include Pharaohs, Anubis, Osiris, and the high-paying Rich Wilde himself.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/book-of-dead-free-spins-expanding-symbol.avif" type="image/avif">
-  <source srcset="/assets/blog/book-of-dead-free-spins-expanding-symbol.webp" type="image/webp">
-  <img src="/assets/blog/book-of-dead-free-spins-expanding-symbol.webp" alt="Screenshot showing the Expanding Symbol feature during the Free Spins round in Book of Dead" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/book-of-dead-free-spins-expanding-symbol-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/book-of-dead-free-spins-expanding-symbol-optimized.webp" type="image/webp">
+  <img src="/assets/blog/book-of-dead-free-spins-expanding-symbol-optimized.webp" alt="Screenshot showing the Expanding Symbol feature during the Free Spins round in Book of Dead" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
