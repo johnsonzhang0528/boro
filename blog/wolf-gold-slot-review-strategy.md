@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Wolf Gold Slot Review: Money Respin & Jackpots (উলফ গোল্ড স্লট)"
 description: "Explore the American West in Wolf Gold by Pragmatic Play. Learn how to trigger the Money Respin feature and win the Mega Jackpot."
-date: 2026-02-08
-lastUpdated: 2026-02-08
-ogImage: wolf-gold-slot-canyon-background.webp
+date: 2026-02-13
+lastUpdated: 2026-02-13
+ogImage: wolf-gold-slot-canyon-background-optimized.webp
 ogImageAlt: "Wolf Gold slot logo with a majestic wolf howling against a full moon in a desert canyon."
 tags: [post, slot-review, pragmatic-play, jackpot]
 review:
@@ -38,9 +38,9 @@ faq:
 The game features stunning visuals of desert canyons and wildlife like eagles, buffalo, and cougars. The sound of howling wolves and eagle cries adds to the immersive atmosphere.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/wolf-gold-money-respin-feature.avif" type="image/avif">
-  <source srcset="/assets/blog/wolf-gold-money-respin-feature.webp" type="image/webp">
-  <img src="/assets/blog/wolf-gold-money-respin-feature.webp" alt="The Money Respin feature in Wolf Gold showing blue moon symbols with cash values locked on the reels" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/wolf-gold-money-respin-feature-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/wolf-gold-money-respin-feature-optimized.webp" type="image/webp">
+  <img src="/assets/blog/wolf-gold-money-respin-feature-optimized.webp" alt="The Money Respin feature in Wolf Gold showing blue moon symbols with cash values locked on the reels" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
