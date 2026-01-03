@@ -82,6 +82,7 @@ faq:
 BoroJeet-এ আপনি বিভিন্ন ধরণের মাছ ধরার গেম পাবেন। এখানে কিছু জনপ্রিয় গেমের তালিকা দেওয়া হলো:
 
 *   **[Jili Jackpot Fishing](/blog/jili-jackpot-fishing-review-strategy/):** জ্যাকপট জেতার সুযোগ সহ একটি উত্তেজনাপূর্ণ গেম।
+*   **[Mega Fishing](/blog/mega-fishing-game-guide-strategy/):** বিশাল অক্টোপাস বস এবং বিশেষ অস্ত্রের জন্য পরিচিত।
 
 ## উপসংহার
 
