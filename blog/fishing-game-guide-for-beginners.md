@@ -85,6 +85,7 @@ BoroJeet-এ আপনি বিভিন্ন ধরণের মাছ ধর
 *   **[Mega Fishing](/blog/mega-fishing-game-guide-strategy/):** বিশাল অক্টোপাস বস এবং বিশেষ অস্ত্রের জন্য পরিচিত।
 *   **[Royal Fishing](/blog/royal-fishing-winning-tricks-bangladesh/):** ড্রাগন কিং এবং সামন ফিচারের জন্য জনপ্রিয়।
 *   **[Bombing Fishing](/blog/bombing-fishing-strategy-guide/):** টর্পেডো এবং বিস্ফোরণের মাধ্যমে মাছ ধরার অনন্য অভিজ্ঞতা।
+*   **[Dinosaur Tycoon](/blog/dinosaur-tycoon-fishing-game-guide/):** ডাইনোসর শিকারের থিম সহ একটি ভিন্নধর্মী গেম।
 
 ## উপসংহার
 
