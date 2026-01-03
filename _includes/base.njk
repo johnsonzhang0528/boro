@@ -784,6 +784,15 @@
   <footer class="wrap">
     <div class="footer-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-bottom: 2rem; text-align: left;">
       <div>
+        <h3 style="font-size: 1.1rem; margin-bottom: 1rem; color: var(--text);">Latest Updates</h3>
+        <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.5rem;">
+          {# collections.post is already filtered for future dates in .eleventy.js #}
+          {% for post in collections.post.slice(0, 5) %}
+          <li><a href="{{ post.url }}" style="font-size: 0.95rem;">{{ post.data.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div>
         <h3 style="font-size: 1.1rem; margin-bottom: 1rem; color: var(--text);">Quick Links</h3>
         <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.5rem;">
           <li><a href="/promotions/">All Promotions</a></li>
