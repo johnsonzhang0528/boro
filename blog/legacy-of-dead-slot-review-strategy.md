@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Legacy of Dead Slot Review: Unlimited Retriggers (লেগ্যাসি অফ ডেড)"
 description: "Return to ancient Egypt in Legacy of Dead by Play'n GO. Discover how to unlock up to 9 expanding symbols in the Free Spins round for massive wins."
-date: 2026-02-09
-lastUpdated: 2026-02-09
-ogImage: legacy-of-dead-slot-tomb-background.webp
+date: 2026-02-14
+lastUpdated: 2026-02-14
+ogImage: legacy-of-dead-slot-tomb-background-optimized.webp
 ogImageAlt: "The dark and mysterious tomb setting of Legacy of Dead slot with flaming torches."
 tags: [post, slot-review, playn-go, high-volatility]
 review:
@@ -40,9 +40,9 @@ If you love high volatility action and the potential for screen-filling wins, th
 The game is set in a darker, more atmospheric tomb than its predecessor. The symbols include the King, Anubis, Horus, and the Pharaoh. The soundtrack is haunting and epic.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/legacy-of-dead-expanding-symbols-feature.avif" type="image/avif">
-  <source srcset="/assets/blog/legacy-of-dead-expanding-symbols-feature.webp" type="image/webp">
-  <img src="/assets/blog/legacy-of-dead-expanding-symbols-feature.webp" alt="Multiple expanding symbols covering the reels in Legacy of Dead Free Spins" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/legacy-of-dead-expanding-symbols-feature-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/legacy-of-dead-expanding-symbols-feature-optimized.webp" type="image/webp">
+  <img src="/assets/blog/legacy-of-dead-expanding-symbols-feature-optimized.webp" alt="Multiple expanding symbols covering the reels in Legacy of Dead Free Spins" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
