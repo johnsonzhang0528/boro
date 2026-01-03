@@ -39,7 +39,7 @@ faq:
         <span class="kicker">Bangladesh • bn‑BD</span>
         <span>Last updated: <span class="last-updated">{{ lastUpdated | date("MMMM dd, yyyy") }}</span></span>
       </div>
-      <h1 class="h1">Boro Jeet অ্যাপ: বাংলাদেশের জন্য অফিসিয়াল সুরক্ষিত ডাউনলোড (BoroJeet)</h1>
+      <h1 class="h1">Boro Jeet অ্যাপ: বাংলাদেশের জন্য অফিসিয়াল সুরক্ষিত ডাউনলোড (BoroJeet | বড় জিত)</h1>
       <p class="lead">একটি সুরক্ষিত এবং লাইটওয়েট অভিজ্ঞতার জন্য অফিসিয়াল Boro Jeet (BoroJeet) অ্যাপ APK পান। এই পৃষ্ঠাটি সরাসরি ডাউনলোড লিঙ্ক এবং বাংলাদেশে বোনাস, ডিপোজিট এবং উইথড্রয়ালের জন্য একটি সম্পূর্ণ গাইড প্রদান করে।</p>
       <p>
         <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">Boro Jeet অ্যাপ ডাউনলোড করুন (APK)</a>
@@ -145,6 +145,10 @@ faq:
       <li>
         <a href="/blog/best-cricket-betting-apps-bangladesh-2025/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">🏆 Best Cricket Betting Apps (APK)</a>
         <span style="color: var(--muted); font-size: 0.9rem;">Top 5 Android apps with bKash/Nagad support.</span>
+      </li>
+      <li>
+        <a href="/blog/borojeet-login-troubleshooting-guide/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">🔑 BoroJeet Login Guide</a>
+        <span style="color: var(--muted); font-size: 0.9rem;">Forgot password? Account locked? Fix it here.</span>
       </li>
       <li>
         <a href="/blog/guide-to-crash-games-bangladesh/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;">🚀 Crash Games Strategy Guide</a>

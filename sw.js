@@ -157,14 +157,41 @@ async function handleContentRequest(request) {
     if (request.mode === 'navigate') {
       return new Response(`
         <!DOCTYPE html>
-        <html>
+        <html lang="bn-BD">
         <head>
-          <title>Offline - BoroJeet BD</title>
-          <style>body{font-family:sans-serif;text-align:center;padding:2rem;}</style>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <title>Offline - BoroJeet (বড় জিত)</title>
+          <style>
+            body {
+              font-family: system-ui, -apple-system, sans-serif;
+              text-align: center;
+              padding: 2rem;
+              background: #0b0f14;
+              color: #e9f2ff;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              min-height: 100vh;
+              margin: 0;
+            }
+            h1 { color: #10b981; margin-bottom: 1rem; }
+            p { color: #9db1c9; margin-bottom: 2rem; }
+            .btn {
+              background: #10b981;
+              color: #041b11;
+              text-decoration: none;
+              padding: 12px 24px;
+              border-radius: 8px;
+              font-weight: bold;
+            }
+          </style>
         </head>
         <body>
-          <h1>You're Offline</h1>
-          <p>Please check your internet connection and try again.</p>
+          <h1>You're Offline / সংযোগ নেই</h1>
+          <p>Please check your internet connection to access BoroJeet (বড় জিত).</p>
+          <a href="/" class="btn" onclick="window.location.reload(); return false;">Try Again / আবার চেষ্টা করুন</a>
         </body>
         </html>
       `, {

@@ -1,5 +1,5 @@
 module.exports = {
-  "name": "Borojeet Bangladesh",
-  "description": "Borojeet is a premier online casino and betting platform in Bangladesh. Enjoy a wide range of games, secure payments with bKash and Nagad, and generous bonuses.",
+  "name": "BoroJeet Bangladesh (বড় জিত)",
+  "description": "Official BoroJeet (বড় জিত) Affiliate - The #1 Online Casino & Betting App in Bangladesh. Secure Login, Fast bKash/Nagad Deposit, and 24/7 Support.",
   "url": "https://borojeetbd.com"
 }
