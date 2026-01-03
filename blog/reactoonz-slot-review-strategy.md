@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Reactoonz Slot Review: Cluster Pays & Gargantoon (রিয়্যাক্টুনজ স্লট)"
 description: "Enter the alien world of Reactoonz by Play'n GO. Learn how the Cluster Pays mechanic works and how to summon the massive Gargantoon for huge wins."
-date: 2026-02-08
-lastUpdated: 2026-02-08
-ogImage: reactoonz-slot-grid-aliens.webp
+date: 2026-02-13
+lastUpdated: 2026-02-13
+ogImage: reactoonz-slot-grid-aliens-optimized.webp
 ogImageAlt: "Colorful 7x7 grid of Reactoonz aliens with the Gargantoon monster waiting on the side."
 tags: [post, slot-review, playn-go, cluster-pays]
 review:
@@ -40,9 +40,9 @@ If you are tired of traditional slots, Reactoonz offers a refreshing and electri
 The game takes place in space, filled with colorful, energetic aliens. The animations are smooth, and the sound effects—especially the little noises the aliens make—are delightful.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/reactoonz-gargantoon-feature-activation.avif" type="image/avif">
-  <source srcset="/assets/blog/reactoonz-gargantoon-feature-activation.webp" type="image/webp">
-  <img src="/assets/blog/reactoonz-gargantoon-feature-activation.webp" alt="The massive 3x3 Gargantoon Wild symbol landing on the Reactoonz grid" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/reactoonz-gargantoon-feature-activation-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/reactoonz-gargantoon-feature-activation-optimized.webp" type="image/webp">
+  <img src="/assets/blog/reactoonz-gargantoon-feature-activation-optimized.webp" alt="The massive 3x3 Gargantoon Wild symbol landing on the Reactoonz grid" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Key Features (মূল বৈশিষ্ট্য)
