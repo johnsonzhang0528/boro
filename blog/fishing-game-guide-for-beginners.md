@@ -84,6 +84,7 @@ BoroJeet-এ আপনি বিভিন্ন ধরণের মাছ ধর
 *   **[Jili Jackpot Fishing](/blog/jili-jackpot-fishing-review-strategy/):** জ্যাকপট জেতার সুযোগ সহ একটি উত্তেজনাপূর্ণ গেম।
 *   **[Mega Fishing](/blog/mega-fishing-game-guide-strategy/):** বিশাল অক্টোপাস বস এবং বিশেষ অস্ত্রের জন্য পরিচিত।
 *   **[Royal Fishing](/blog/royal-fishing-winning-tricks-bangladesh/):** ড্রাগন কিং এবং সামন ফিচারের জন্য জনপ্রিয়।
+*   **[Bombing Fishing](/blog/bombing-fishing-strategy-guide/):** টর্পেডো এবং বিস্ফোরণের মাধ্যমে মাছ ধরার অনন্য অভিজ্ঞতা।
 
 ## উপসংহার
 
