@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Monopoly Live Game Guide & Strategy (Monopoly Live গেম গাইড)"
 description: "Evolution Gaming-এর Monopoly Live গেম শো খেলার নিয়ম, 3D বোনাস রাউন্ড এবং জয়ের সেরা কৌশলগুলো জানুন। মিস্টার মনোপলির সাথে বোর্ড গেমে অংশ নিন।"
-date: 2026-01-29
+date: 2025-12-03
 lastUpdated: 2026-01-29
 ogImage: monopoly-live-game-guide-optimized.webp
 ogImageAlt: Monopoly Live Game Show with Mr. Monopoly (Monopoly Live গেম শো এবং মিস্টার মনোপলি)

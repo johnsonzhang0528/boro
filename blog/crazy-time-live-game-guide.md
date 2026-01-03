@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Crazy Time Live Game Guide & Strategy (Crazy Time লাইভ গেম গাইড)"
 description: "Evolution Gaming-এর Crazy Time লাইভ গেম শো খেলার নিয়ম, ৪টি বোনাস রাউন্ড এবং জয়ের সেরা কৌশলগুলো জানুন। বাংলাদেশের সেরা ক্যাসিনো গেম গাইড।"
-date: 2026-01-28
+date: 2026-01-09
 lastUpdated: 2026-01-28
 ogImage: crazy-time-live-game-guide-optimized.webp
 ogImageAlt: Crazy Time Live Game Show Wheel and Host (Crazy Time লাইভ গেম শো চাকা এবং হোস্ট)

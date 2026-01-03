@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Mega Ball 100x Strategy & Winning Tips (Mega Ball গাইড)"
 description: "Evolution Gaming-এর Mega Ball লাইভ গেম খেলার নিয়ম এবং ১০০x মাল্টিপ্লায়ার জয়ের কৌশল জানুন। বিঙ্গো এবং লটারির এক অনন্য সংমিশ্রণ।"
-date: 2026-01-30
+date: 2025-12-16
 lastUpdated: 2026-01-30
 ogImage: mega-ball-100x-strategy-optimized.webp
 ogImageAlt: Mega Ball Studio with Host and Ball Machine (Mega Ball স্টুডিও এবং হোস্ট)

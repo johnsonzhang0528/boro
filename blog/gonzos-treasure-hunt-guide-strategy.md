@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Gonzo's Treasure Hunt Strategy & Guide (Gonzo's Treasure Hunt গাইড)"
 description: "Evolution Gaming-এর Gonzo's Treasure Hunt লাইভ গেম খেলার নিয়ম, VR মোড এবং ২০,০০০x জয়ের কৌশল জানুন। Gonzo-এর সাথে গুপ্তধন খুঁজুন।"
-date: 2026-01-31
+date: 2026-01-25
 lastUpdated: 2026-01-31
 ogImage: gonzos-treasure-hunt-guide-optimized.webp
 ogImageAlt: Gonzo's Treasure Hunt Studio with Gonzo and Host (Gonzo's Treasure Hunt স্টুডিও)
