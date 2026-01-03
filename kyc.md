@@ -4,6 +4,8 @@ description: "Learn about our Know Your Customer (KYC) and Anti-Money Laundering
 layout: "base.njk"
 date: 2025-10-31
 tags: "kyc"
+ogImage: "borojeet-account-verification-guide-bangla-og-optimized.webp"
+ogImageAlt: "KYC Policy"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

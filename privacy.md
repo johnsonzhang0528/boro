@@ -4,6 +4,8 @@ description: "Learn how we collect, use, and protect your personal information. 
 layout: "base.njk"
 date: 2025-10-31
 tags: "privacy"
+ogImage: "safe-casino-guide-og-optimized.webp"
+ogImageAlt: "Privacy and Safety Guide"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

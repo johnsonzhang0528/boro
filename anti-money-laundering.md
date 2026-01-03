@@ -4,6 +4,8 @@ description: "Our comprehensive Anti-Money Laundering (AML) and Counter-Terroris
 layout: "base.njk"
 date: 2025-10-31
 tags: "anti-money-laundering"
+ogImage: "safe-casino-guide-og-optimized.webp"
+ogImageAlt: "Anti-Money Laundering Policy"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

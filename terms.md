@@ -6,6 +6,8 @@ description: "Read the full terms and conditions for using our website and the s
 robots: "noindex, follow"
 date: 2025-10-31
 tags: "terms"
+ogImage: "safe-casino-guide-og-optimized.webp"
+ogImageAlt: "Terms and Conditions"
 ---
 <div class="card" style="max-width: 800px; margin: 20px auto;">
   <h1>Terms and Conditions</h1>

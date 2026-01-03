@@ -4,6 +4,8 @@ description: "Our strict policy against underage gaming. Learn about our age ver
 layout: "base.njk"
 date: 2025-10-31
 tags: "underage-gaming"
+ogImage: "og-responsible-gaming-guide-bangladesh-optimized.webp"
+ogImageAlt: "Underage Gaming Policy"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">

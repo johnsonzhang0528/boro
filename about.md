@@ -6,6 +6,8 @@ description: "আমাদের লক্ষ্য এবং কিভাবে
 date: 2025-10-31
 lastUpdated: 2026-01-03
 tags: "about"
+ogImage: "hero-optimized.webp"
+ogImageAlt: "BoroJeet Hero Image"
 ---
 <script type="application/ld+json">
 {

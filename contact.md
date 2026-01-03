@@ -6,6 +6,8 @@ description: "BoroJeet-এ কোনো সমস্যায় পড়েছ
 date: 2025-11-24
 lastUpdated: 2025-11-24
 tags: "contact"
+ogImage: "borojeet-customer-support-guide-optimized.webp"
+ogImageAlt: "BoroJeet Customer Support Guide"
 ---
 <script type="application/ld+json">
 {

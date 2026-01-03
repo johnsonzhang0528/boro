@@ -4,6 +4,8 @@ description: "Learn about our commitment to responsible gaming. Find resources, 
 layout: "base.njk"
 date: 2025-10-31
 tags: "responsible-gaming"
+ogImage: "og-responsible-gaming-guide-bangladesh-optimized.webp"
+ogImageAlt: "Responsible Gaming Guide Bangladesh"
 ---
 <main class="wrap">
   <div class="card" style="max-width: 800px; margin: 20px auto;">
