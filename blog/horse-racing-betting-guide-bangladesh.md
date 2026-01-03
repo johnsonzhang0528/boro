@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Horse Racing Betting in Bangladesh: A Complete Guide for Beginners (ঘোড়দৌড় বাজি)"
 description: "Learn how to bet on horse racing online from Bangladesh. Understand odds, bet types (Win, Place, Show), and tips for major international races."
-date: 2026-02-06
-lastUpdated: 2026-02-06
-ogImage: horse-racing-finish-line-action.webp
+date: 2026-02-11
+lastUpdated: 2026-02-11
+ogImage: horse-racing-finish-line-action-optimized.webp
 ogImageAlt: "Dramatic photo of racehorses crossing the finish line with jockeys in colorful silks."
 tags: [post, sports-betting, horse-racing, guide]
 faq:
@@ -45,9 +45,9 @@ The race card contains vital information:
 *   **Odds:** The price offered by the bookmaker.
 
 <picture class="content-image">
-  <source srcset="/assets/blog/horse-racing-bet-types-explained.avif" type="image/avif">
-  <source srcset="/assets/blog/horse-racing-bet-types-explained.webp" type="image/webp">
-  <img src="/assets/blog/horse-racing-bet-types-explained.webp" alt="Infographic explaining common horse racing bets like Win, Place, Show, and Exacta" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/horse-racing-bet-types-explained-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/horse-racing-bet-types-explained-optimized.webp" type="image/webp">
+  <img src="/assets/blog/horse-racing-bet-types-explained-optimized.webp" alt="Infographic explaining common horse racing bets like Win, Place, Show, and Exacta" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## Common Bet Types (বাজির ধরন)
