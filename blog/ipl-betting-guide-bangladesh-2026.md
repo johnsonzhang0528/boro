@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "IPL Betting Bangladesh 2026: সেরা অ্যাপ ও জয়ের কৌশল | Ultimate Guide"
 description: "IPL Betting Bangladesh 2026 এর জন্য প্রস্তুত? জেনে নিন সেরা আইপিএল বেটিং অ্যাপ, টিপস এবং কৌশল। BoroJeet এর সাথে নিরাপদে বাজি ধরুন এবং জিতুন।"
-date: 2026-03-01
-lastUpdated: 2026-03-01
+date: 2026-02-16
+lastUpdated: 2026-02-16
 ogImage: ipl-betting-2026-hero-optimized.webp
 ogImageAlt: "IPL 2026 Betting Guide - Cricket Stadium Atmosphere"
 tags: ["post", "cricket", "ipl", "betting"]
