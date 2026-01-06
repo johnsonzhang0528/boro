@@ -8,7 +8,9 @@ async function checkLinks() {
     console.log('🔍 Starting comprehensive link check...');
     
     // Get all markdown files
-    const files = await glob('**/*.md', { ignore: 'node_modules/**' });
+    const files = await glob('**/*.md', { 
+        ignore: ['node_modules/**', '_site/**', '_sop/**', 'scripts/**'] 
+    });
     let errorCount = 0;
 
     for (const file of files) {
@@ -23,6 +25,9 @@ async function checkLinks() {
             
             // Focus on internal blog links
             if (link && link.startsWith('/blog/')) {
+                // Ignore root blog index link
+                if (link === '/blog/' || link === '/blog') continue;
+
                 const targetSlug = link.replace('/blog/', '').replace(/\/$/, '');
                 // Check if target file exists as .md
                 const targetFile = path.join(BLOG_DIR, targetSlug + '.md');
