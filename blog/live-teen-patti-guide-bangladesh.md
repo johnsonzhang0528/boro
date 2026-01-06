@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 lang: bn-BD
-title: "Live Teen Patti Guide Bangladesh: তিন পাত্তি খেলার নিয়ম ও কৌশল"
+title: "Live Dealer Teen Patti: লাইভ ক্যাসিনো খেলার কৌশল ও গাইড"
 description: "লাইভ তিন পাত্তি (Live Teen Patti) গেমের সম্পূর্ণ গাইড। খেলার নিয়ম, হ্যান্ড র‍্যাঙ্কিং, এবং বাংলাদেশ থেকে Real Money দিয়ে জেতার কৌশল জানুন।"
 date: 2026-02-17
 lastUpdated: 2026-02-17
