@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet App Installation Error: 'App Not Installed' সমাধান"
 description: "Boro Jeet অ্যাপ ইন্সটল হচ্ছে না? 'App Not Installed' বা 'Parse Error' সমস্যার ১০০% কার্যকরী সমাধান। অ্যান্ড্রয়েডে সেটিং ঠিক করার নিয়ম।"
-date: 2026-02-25
+date: 2026-02-20
 ogImage: boro-jeet-app-install-error-hero.webp
 ogImageAlt: "Android error message showing App Not Installed"
 tags: [post, troubleshooting, app]

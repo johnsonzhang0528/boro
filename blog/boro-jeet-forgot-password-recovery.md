@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet Password Recovery Guide: কীভাবে পাসওয়ার্ড রিসেট করবেন?"
 description: "Boro Jeet অ্যাকাউন্টের পাসওয়ার্ড ভুলে গেছেন? SMS বা ইমেইলের মাধ্যমে পাসওয়ার্ড রিসেট করার সহজ নিয়ম। অ্যাকাউন্ট লক হলে করণীয়।"
-date: 2026-02-24
+date: 2026-02-20
 ogImage: boro-jeet-password-recovery-hero.webp
 ogImageAlt: "Boro Jeet password recovery screen on mobile"
 tags: [post, guides, help-center]
