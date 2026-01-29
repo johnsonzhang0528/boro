@@ -4,7 +4,7 @@ lang: bn-BD
 title: "Boro Jeet কি বাংলাদেশে বৈধ? Legal Status & License Analysis 2026"
 description: "Boro Jeet কি বাংলাদেশে খেলা নিরাপদ? কুরাকাও লাইসেন্স এবং বাংলাদেশের জুয়া আইন সম্পর্কে বিস্তারিত বিশ্লেষণ। জেনে নিন আপনার টাকা কতটা সুরক্ষিত।"
 date: 2026-02-21
-ogImage: boro-jeet-legal-license-hero.webp
+ogImage: boro-jeet-legal-license-hero-optimized.webp
 ogImageAlt: "Boro Jeet official gambling license certificate explanation"
 tags: [post, legal, safety]
 faq:
@@ -25,7 +25,9 @@ faq:
 *   **ফেয়ার প্লে:** গেমগুলোর ফলাফল RNG (Random Number Generator) দ্বারা নিয়ন্ত্রিত, যা কারচুপি রোধ করে।
 
 <picture class="content-image">
-  <img src="/assets/blog/curacao-gambling-license-certificate.webp" alt="Curacao eGaming License verification seal" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/curacao-gambling-license-certificate-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/curacao-gambling-license-certificate-optimized.webp" type="image/webp">
+  <img src="/assets/blog/curacao-gambling-license-certificate-optimized.webp" alt="Curacao eGaming License verification seal" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## বাংলাদেশের আইন কী বলে? (The Public Gambling Act, 1867)

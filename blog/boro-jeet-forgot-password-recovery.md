@@ -4,7 +4,7 @@ lang: bn-BD
 title: "Boro Jeet Password Recovery Guide: কীভাবে পাসওয়ার্ড রিসেট করবেন?"
 description: "Boro Jeet অ্যাকাউন্টের পাসওয়ার্ড ভুলে গেছেন? SMS বা ইমেইলের মাধ্যমে পাসওয়ার্ড রিসেট করার সহজ নিয়ম। অ্যাকাউন্ট লক হলে করণীয়।"
 date: 2026-02-20
-ogImage: boro-jeet-password-recovery-hero.webp
+ogImage: boro-jeet-password-recovery-hero-optimized.webp
 ogImageAlt: "Boro Jeet password recovery screen on mobile"
 tags: [post, guides, help-center]
 faq:
@@ -29,7 +29,9 @@ Boro Jeet এর পাসওয়ার্ড রিসেট করার প
 *   **ইমেইল এড্রেস:** যদি ইমেইল লিংক করা থাকে।
 
 <picture class="content-image">
-  <img src="/assets/blog/boro-jeet-reset-password-sms-screen.webp" alt="Boro Jeet SMS password reset interface" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-reset-password-sms-screen-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-reset-password-sms-screen-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-reset-password-sms-screen-optimized.webp" alt="Boro Jeet SMS password reset interface" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ### ৩. ওটিপি (OTP) ভেরিফিকেশন
