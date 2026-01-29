@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "The D'Alembert System in Crash Games: Safer Than Martingale? (2026)"
 description: "Looking for a low-risk betting strategy? Learn how the D'Alembert system works in Crash games like Aviator and why it's safer than doubling down."
-date: 2026-03-10
-lastUpdated: 2026-03-10
+date: 2026-03-09
+lastUpdated: 2026-03-09
 ogImage: "dalembert-strategy-hero-optimized.webp"
 ogImageAlt: "Vintage french mathematician jean le rond d'alembert portrait overlaid with modern crash game graph"
 tags: ["strategy", "math", "betting-systems", "low-risk"]
