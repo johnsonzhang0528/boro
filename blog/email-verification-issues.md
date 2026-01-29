@@ -15,6 +15,7 @@ faq:
 
 You are trying to withdraw money or verify your account, but the **Email OTP** just won't arrive.
 It is frustrating. But it is usually an easy fix.
+Note: If you forgot your password entirely, see our [Password Recovery Guide](/blog/boro-jeet-forgot-password-recovery/).
 
 ## 1. Check the "Hidden" Folders
 Betting site emails often get flagged by Google/Yahoo filters.

@@ -15,6 +15,7 @@ faq:
 
 A **Device Ban** is the ultimate punishment from a betting site.
 It means they don't just want to ban your *account*; they want to ban *you* and your *phone* forever.
+If you are just having trouble logging in, check our [Login Issues Guide](/blog/boro-jeet-login-issues-solutions/) first. A device ban is much more serious.
 
 ## Symptoms of a Device Ban
 1.  You create a new account, and it gets locked instantly.

@@ -13,12 +13,12 @@ faq:
     answer: "No. The system sees this as multi-accounting. Recover your old account instead."
 ---
 
-It is the oldest trick in the book: "I'll open one account for me, and one for my wife, and get the Welcome Bonus twice!"
+It is the oldest trick in the book: "I'll open one account for me, and one for my wife, and get the [Welcome Bonus](/blog/best-welcome-bonuses-bd-2026/) twice!"
 This is called **Bonus Abuse** via Multi-Accounting.
 And in 2026, it is the fastest way to lose your money.
 
 ## How They Catch You
-You might think you are clever by using two different phone numbers. But betting sites use advanced "Device Fingerprinting".
+You might think you are clever by using two different phone numbers (violating the [Registration Rules](/blog/boro-jeet-registration-guide-2026/)). But betting sites use advanced "Device Fingerprinting".
 
 They track:
 1.  **IP Address**: Are both accounts logging in from same WiFi?

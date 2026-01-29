@@ -15,6 +15,7 @@ faq:
 
 Telegram is the #1 hunting ground for scammers targeting Bangladeshi bettors.
 They clone official profile pictures, usernames, and bios to look exactly like support agents.
+Always verify channels via our [Official Social Media Communities list](/blog/official-social-media-communities/).
 
 ## The "Direct Message" Trap
 

@@ -21,6 +21,8 @@ Facing an issue with your deposit, login, or withdrawal? **Boro Jeet** provides 
 
 This guide lists the verified methods to get help instantly.
 
+> **⚠️ SCAM ALERT:** Beware of fake admins on Telegram requesting money. Read our guide on **[How to Spot Fake Admin Scams](/blog/fake-admin-scams-telegram/)** before contacting anyone on social media.
+
 ## 1. Live Chat (Fastest Method)
 The quickest way to resolve 90% of issues is via the in-app Live Chat.
 

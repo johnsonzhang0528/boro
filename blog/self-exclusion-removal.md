@@ -15,6 +15,8 @@ faq:
 
 Self-exclusion is a powerful tool designed to stop you from gambling when you feel out of control.
 However, many players click it by mistake or regret it a week later.
+It is part of the [Responsible Gaming Tools](/blog/guide-to-responsible-gaming-bangladesh/) mandated by regulators.
+
 The big question: **Can you undo it?**
 
 ## The Short Answer: NO.

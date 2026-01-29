@@ -16,6 +16,8 @@ faq:
 If you think your account has been compromised, **DO NOT PANIC**. 
 Panic causes mistakes. Speed is key.
 
+Before starting, if you can still access your account, try to [enable Two-Factor Authentication (2FA)](/blog/two-factor-authentication/) immediately to lock out the intruder.
+
 ## Step 1: Secure Your Email (Most Important)
 
 Hackers usually get into your betting account by first hacking your **Gmail** or **Yahoo**.

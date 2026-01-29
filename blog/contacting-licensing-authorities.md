@@ -19,7 +19,7 @@ If you have tried **Live Chat**, emailed **Support**, and even contacted a **Man
 It is time to go to the boss.
 
 Most legitimate sites in Bangladesh (Boro Jeet, JeetBuzz, Mostbet) operate under a **Curacao eGaming License**.
-This license obliges them to treat players fairly. If they don't, they can lose their license.
+This license obliges them to treat players fairly. If they don't, they can lose their license (as explained in our [Legal Status Guide](/blog/is-boro-jeet-legal-bangladesh-2026/)).
 
 ## Step 1: Find the License Validator
 Go to the bottom (footer) of the betting site.

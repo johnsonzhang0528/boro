@@ -14,7 +14,7 @@ faq:
 ---
 
 Your registered phone number is your **unique identity** on Boro Jeet. It links your login, your OTPs, and your bKash/Nagad wallet.
-Because it's so important, **you cannot change it in the Profile Settings.**
+Because it's so important (tied to your [KYC Verification](/blog/boro-jeet-account-verification-kyc-guide/)), **you cannot change it in the Profile Settings.**
 
 This prevents hackers from stealing your account and changing the number to their own.
 

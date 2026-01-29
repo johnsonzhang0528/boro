@@ -16,7 +16,7 @@ faq:
 ---
 
 The #1 reason for "Withdrawal Rejected" is incomplete wagering.
-New players often take a **100% Sports Bonus**, win a big bet, try to withdraw, and get blocked.
+New players often take a [Welcome Bonus](/blog/best-welcome-bonuses-bd-2026/), win a big bet, try to withdraw, and get blocked.
 This guide explains how to track your progress so you can unlock your cash.
 
 ## What is Wagering Requirement?

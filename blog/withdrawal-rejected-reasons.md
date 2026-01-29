@@ -15,6 +15,7 @@ faq:
 
 Seeing your withdrawal status change from "Pending" to **"Rejected"** is scary.
 But usually, the money is not gone—it has just been returned to your game wallet.
+For general payment methods and limits, refer to our [Ultimate Payments Guide](/blog/ultimate-guide-to-online-casino-payments-bangladesh/).
 
 Here is a breakdown of why this happens.
 
