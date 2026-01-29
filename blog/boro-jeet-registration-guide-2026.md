@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet Registration Guide 2026: নতুন গেমারদের জন্য ধাপে ধাপে নির্দেশিকা"
 description: "Boro Jeet এ ২০২৬ সালে কীভাবে অ্যাকাউন্ট খুলবেন এবং ভেরিফিকেশন করবেন? সাইন আপ বোনাস এবং নিরাপদ রেজিস্ট্রেশন প্রক্রিয়া সম্পর্কে বিস্তারিত জানুন। ধাপে ধাপে গাইড।"
-date: 2026-02-20
-lastUpdated: 2026-02-20
+date: 2026-02-18
+lastUpdated: 2026-02-18
 ogImage: boro-jeet-registration-hero-2026-optimized.webp
 ogImageAlt: "Boro Jeet Registration Guide 2026 cover image showing mobile signup screen"
 tags: [post, guides, boro-jeet]

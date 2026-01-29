@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Spaceman Strategy Guide: প্র্যাগম্যাটিক প্লে-এর ক্র্যাশ গেমে জেতার উপায়"
 description: "Spaceman (Pragmatic Play) ক্র্যাশ গেমের গোপন উইনিং কৌশল সম্পর্কে জানুন। 50% অটো ক্যাশআউট এবং ডাবল বেট মেথড ব্যবহার করে ২০২৬ সালে বড় জিতুন।"
-date: 2026-02-21
-lastUpdated: 2026-02-21
+date: 2026-02-19
+lastUpdated: 2026-02-19
 ogImage: spaceman-crash-game-hero-optimized.webp
 ogImageAlt: "Spaceman crash game astronaut character flying in space"
 tags: [post, crash-games, strategies]

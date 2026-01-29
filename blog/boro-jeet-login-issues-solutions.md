@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet Login Issues & Solutions 2026: লগইন সমস্যার ১০টি সহজ সমাধান"
 description: "Boro Jeet অ্যাকাউন্টে লগইন করতে পারছেন না? পাসওয়ার্ড ভুলে গেলে বা অ্যাকাউন্ট লক হলে কী করবেন? ২০২৬ এর সেরা সমাধান গাইড।"
-date: 2026-02-20
-lastUpdated: 2026-02-20
+date: 2026-02-19
+lastUpdated: 2026-02-19
 ogImage: boro-jeet-login-error-screen-optimized.webp
 ogImageAlt: "Boro Jeet login error screen illustration"
 tags: [post, troubleshooting, boro-jeet]
