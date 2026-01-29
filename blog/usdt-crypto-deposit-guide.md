@@ -19,7 +19,7 @@ faq:
 
 ## The Future of Payments (পেমেন্টের ভবিষ্যৎ)
 
-bKash/Nagad এর লিমিট নিয়ে চিন্তিত? তাহলে **Cryptocurrency** বা **USDT** ব্যবহার করুন। এটি দ্রুত, নিরাপদ এবং এতে কোনো লেনদেনের ঊর্ধ্বসীমা (Upper Limit) নেই।
+bKash/Nagad এর লিমিট নিয়ে চিন্তিত? তাহলে **Cryptocurrency** বা **USDT** ব্যবহার করুন। এটি দ্রুত, নিরাপদ এবং এতে কোনো লেনদেনের ঊর্ধ্বসীমা (Upper Limit) নেই। *মোবাইল ব্যাংকিং এবং ক্রিপ্টোর তুলনা দেখতে [অনলাইন পেমেন্ট গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) পড়ুন।*
 
 ## How to Deposit with USDT (USDT দিয়ে ডিপোজিটের নিয়ম)
 
