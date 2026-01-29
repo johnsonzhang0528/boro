@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "The D'Alembert System in Crash Games: Safer Than Martingale? (2026)"
 description: "Looking for a low-risk betting strategy? Learn how the D'Alembert system works in Crash games like Aviator and why it's safer than doubling down."
-date: 2026-03-09
-lastUpdated: 2026-03-09
+date: 2026-03-10
+lastUpdated: 2026-03-10
 ogImage: "dalembert-strategy-hero-optimized.webp"
 ogImageAlt: "Vintage french mathematician jean le rond d'alembert portrait overlaid with modern crash game graph"
 tags: ["strategy", "math", "betting-systems", "low-risk"]
@@ -29,7 +29,7 @@ faq:
 3.  **Win:** যদি জিতেন, তবে বেট ১ ইউনিট কমান (২০০ - ১০০ = ১০০ টাকা)।
 
 <picture class="content-image">
-  <img src="/assets/blog/dalembert-flowchart-steps.webp" alt="Flowchart diagram explaining the steps of D'Alembert betting system with win loss branches" width="800" height="450" loading="lazy" decoding="async">
+  <img src="/assets/blog/dalembert-flowchart-steps-optimized.webp" alt="Flowchart diagram explaining the steps of D'Alembert betting system with win loss branches" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ### Example Scenario in Aviator (2.0x Target)
