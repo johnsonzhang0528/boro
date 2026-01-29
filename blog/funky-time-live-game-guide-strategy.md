@@ -5,7 +5,7 @@ title: "Funky Time Live Game Guide & Strategy (Funky Time লাইভ গেম
 description: "Evolution Gaming-এর Funky Time লাইভ গেম শো খেলার নিয়ম, বোনাস রাউন্ড এবং জয়ের কৌশল জানুন। DigiWheel-এর সাথে একটি ডিস্কো পার্টির অভিজ্ঞতা নিন।"
 date: 2026-01-27
 lastUpdated: 2026-01-27
-ogImage: funky-time-live-game-show-guide.webp
+ogImage: funky-time-live-game-show-guide-optimized.webp
 ogImageAlt: Funky Time Live Game Show Host with DigiWheel (Funky Time লাইভ গেম শো হোস্ট)
 tags: [post, live-casino, game-show, evolution-gaming, strategy]
 review:
@@ -33,7 +33,11 @@ howto:
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/funky-time-live-studio-action.avif" type="image/avif">
   <source srcset="/assets/blog/funky-time-live-studio-action.webp" type="image/webp">
-  <img src="/assets/blog/funky-time-live-studio-action.webp" alt="Funky Time Live Studio Action with Host">
+  <picture class="content-image">
+  <source srcset="/assets/blog/funky-time-live-studio-action-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/funky-time-live-studio-action-optimized.webp" type="image/webp">
+  <img src="/assets/blog/funky-time-live-studio-action-optimized.webp" alt="Funky Time Live Studio Action with Host">
+</picture>
 </picture>
 
 ## Funky Time কি? (What is Funky Time?)
@@ -59,7 +63,11 @@ Funky Time-এর আসল মজা এর বোনাস রাউন্ড�
 <picture class="content-image">
   <source srcset="/assets/blog/funky-time-bonus-rounds-explained.avif" type="image/avif">
   <source srcset="/assets/blog/funky-time-bonus-rounds-explained.webp" type="image/webp">
-  <img src="/assets/blog/funky-time-bonus-rounds-explained.webp" alt="Funky Time Bonus Rounds Explanation Graphic">
+  <picture class="content-image">
+  <source srcset="/assets/blog/funky-time-bonus-rounds-explained-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/funky-time-bonus-rounds-explained-optimized.webp" type="image/webp">
+  <img src="/assets/blog/funky-time-bonus-rounds-explained-optimized.webp" alt="Funky Time Bonus Rounds Explanation Graphic">
+</picture>
 </picture>
 
 ## জয়ের কৌশল (Winning Strategy)
