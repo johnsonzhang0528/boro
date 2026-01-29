@@ -1,7 +1,7 @@
 ---
 layout: post.njk
-title: "Can I Remove Self-Exclusion on Boro Jeet?"
-description: "Accidentally locked your account? Here is the truth about removing self-exclusion (GamStop style) bans on Bangladeshi betting sites like Boro Jeet."
+title: "Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)"
+description: "Accidentally locked your account? (ভুল করে একাউন্ট লক করেছেন?) Here is the truth about removing self-exclusion (GamStop style) bans on Bangladeshi betting sites like Boro Jeet."
 date: 2026-05-24
 tags: 
   - responsible-gaming
