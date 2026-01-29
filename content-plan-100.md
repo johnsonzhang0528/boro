@@ -6,8 +6,8 @@ This document outlines the strategic content plan to dominate the Bangladeshi ga
 ## 🏛️ Pillar 1: Brand Authority & Help Center (20 Articles)
 *Focus: Capturing brand traffic, solving login/app issues, and building trust.*
 
-- [ ] **Boro Jeet Registration Guide 2026**: Step-by-step account creation for Mobile & PC.
-- [ ] **Boro Jeet Login Issues & Solutions**: Troubleshooting "Invalid Password", "Account Locked", and VPN issues.
+- [x] **Boro Jeet Registration Guide 2026**: Step-by-step account creation for Mobile & PC.
+- [x] **Boro Jeet Login Issues & Solutions**: Troubleshooting "Invalid Password", "Account Locked", and VPN issues.
 - [ ] **Forgot Password Recovery Guide**: How to reset via SMS/Email quickly.
 - [ ] **Boro Jeet App Installation Error Fixes**: Solutions for "App not installed" and permission errors.
 - [ ] **Is Boro Jeet Legal in Bangladesh? (2026 Update)**: Analysis of curacao license and local laws.
@@ -30,7 +30,7 @@ This document outlines the strategic content plan to dominate the Bangladeshi ga
 ## 🚀 Pillar 2: Crash Games Mastery (25 Articles)
 *Focus: High-intent acquisition via game-specific strategies.*
 
-- [ ] **Spaceman (Pragmatic Play) Strategy**: Winning tricks for the astronaut crash game.
+- [x] **Spaceman (Pragmatic Play) Strategy**: Winning tricks for the astronaut crash game.
 - [ ] **Zeppelin Crash Game Guide**: How to play and win on Betsolutions' game.
 - [ ] **Cricket X Winning Tips**: Strategy for the cricket-themed crash game.
 - [ ] **Big Bass Crash Review**: Combining slots theme with crash mechanics.
