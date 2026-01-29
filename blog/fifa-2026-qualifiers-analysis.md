@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "FIFA 2026 Qualifiers Analysis: Betting on the Road to America (বাছাইপর্ব বিশ্লেষণ)"
 description: "Which teams will qualify for the World Cup? Analysis of AFC (Asia), CONMEBOL (South America), and UEFA qualifiers. (বাছাইপর্ব বাজি)"
-date: 2026-05-05
-lastUpdated: 2026-05-05
+date: 2026-04-21
+lastUpdated: 2026-04-21
 ogImage: qualifiers-hero-optimized.webp
 ogImageAlt: "A world map with highlighted qualifying zones (Asia, South America, Europe) and football lines connecting them to North America"
 tags: [sports-betting, football, fifa-qualifiers, analysis]

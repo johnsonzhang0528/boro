@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "FIFA World Cup 2026 Betting Guide: Early Predictions (ফিফা বিশ্বকাপ ২০২৬)"
 description: "The biggest World Cup ever is coming to North America. Get ready with our early betting guide for Bangladesh. (বিশ্বকাপ বাজি গাইড)"
-date: 2026-05-01
-lastUpdated: 2026-05-01
+date: 2026-04-20
+lastUpdated: 2026-04-20
 ogImage: fifa-2026-hero-optimized.webp
 ogImageAlt: "FIFA World Cup 2026 trophy standing in a stadium with USA, Mexico, and Canada flags, excitement atmosphere"
 tags: [sports-betting, football, fifa-2026, guide]

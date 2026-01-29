@@ -2,7 +2,7 @@
 layout: post.njk
 title: "ISL (Indian Super League) Betting Guide for Bangladesh (বাংলাদেশি ভক্তদের জন্য ISL বেটিং)"
 description: "The Indian Super League (ISL) is growing fast. Learn how to bet on ISL matches from Bangladesh, including team analysis and market tips. (ইন্ডিয়ান সুপার লিগ বেটিং গাইড)"
-date: 2026-05-10
+date: 2026-04-26
 tags: ["Football Betting", "ISL", "Regional Sports"]
 ogImage: isl-betting-guide-hero-optimized.webp
 ---

@@ -2,7 +2,7 @@
 layout: post.njk
 title: "Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)"
 description: "The last 10 minutes of a football match are chaos. Learn how to profit from late goals and momentum shifts with BoroJeet's Live Betting guide. (লাইভ বেটিং টিপস)"
-date: 2026-05-14
+date: 2026-04-30
 tags: ["Football Betting", "In-Play Strategy", "Live Betting"]
 ogImage: live-football-betting-hero-optimized.webp
 ---

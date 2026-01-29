@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Card Betting Strategy: Predicting Yellow & Red Cards (কার্ড বাজি গাইড)"
 description: "Which referees give the most cards? How to bet on Booking Points in heated derby matches. (কার্ড এবং বুকিং পয়েন্ট)"
-date: 2026-05-08
-lastUpdated: 2026-05-08
+date: 2026-04-23
+lastUpdated: 2026-04-23
 ogImage: card-betting-hero-optimized.webp
 ogImageAlt: "Dramatic referee hand holding up a red card to a player, blurred stadium background"
 tags: [sports-betting, football, strategy, cards]

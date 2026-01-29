@@ -2,7 +2,7 @@
 layout: post.njk
 title: "Tennis Grand Slam Betting Guide: Wimbledon to US Open (টেনিস গ্র্যান্ড স্ল্যাম বেটিং)"
 description: "Master betting on Wimbledon, Roland Garros, US Open, and Australian Open. Learn how surface differences affect odds and match outcomes. (টেনিস গ্র্যান্ড স্ল্যাম বেটিং গাইড)"
-date: 2026-05-11
+date: 2026-04-26
 tags: ["Tennis Betting", "Grand Slam", "Sports Strategy"]
 ogImage: tennis-grand-slam-hero-optimized.webp
 ---

@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Both Teams to Score (BTTS) Strategy: High Odds Tactics (উভয় দল গোল করবে?)"
 description: "Why is BTTS one of the most popular bets? How to identify high-scoring matches in Bundesliga and Serie A. (বিটিটিএস কৌশল)"
-date: 2026-05-07
-lastUpdated: 2026-05-07
+date: 2026-04-22
+lastUpdated: 2026-04-22
 ogImage: btts-strategy-hero-optimized.webp
 ogImageAlt: "Split screen showing two football players celebrating goals, with a glowing 'YES' checkmark in the center"
 tags: [sports-betting, football, strategy, btts]

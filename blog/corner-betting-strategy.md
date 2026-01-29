@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Corner Betting Strategy: The Underrated Market (কর্নার বেটিং কৌশল)"
 description: "Corners are predictable if you know the stats. How to use attacking data to win corner bets. (কর্নার বাজি গাইড)"
-date: 2026-05-07
-lastUpdated: 2026-05-07
+date: 2026-04-23
+lastUpdated: 2026-04-23
 ogImage: corner-betting-hero-optimized.webp
 ogImageAlt: "Action shot of a football player taking a corner kick, with tactical lines showing the trajectory"
 tags: [sports-betting, football, strategy, corners]

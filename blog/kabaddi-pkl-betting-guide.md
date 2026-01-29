@@ -2,7 +2,7 @@
 layout: post.njk
 title: "Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)"
 description: "From Super Raids to High 5s, master the art of Kabaddi betting. A complete guide to Pro Kabaddi League (PKL) markets on BoroJeet. (প্রো কাবাডি লিগ বেটিং)"
-date: 2026-05-13
+date: 2026-04-28
 tags: ["Kabaddi Betting", "PKL", "Regional Sports"]
 ogImage: pkl-betting-guide-hero-optimized.webp
 ---

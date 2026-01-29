@@ -2,7 +2,7 @@
 layout: post.njk
 title: "Clean Sheet Betting Strategy: Defensive Masterclass (ক্লিন শিট বেটিং)"
 description: "Sometimes the best offense is a good defense. Learn how to profit from Clean Sheet betting markets by identifying defensive powerhouses. (ক্লিন শিট বেটিং টিপস)"
-date: 2026-05-14
+date: 2026-04-29
 tags: ["Football Betting", "Defensive Strategy", "Stats"]
 ogImage: clean-sheet-betting-hero-optimized.webp
 ---

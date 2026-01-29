@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "English Premier League (EPL) 2026 Preview: Favorites and Dark Horses (ইংলিশ প্রিমিয়ার লিগ)"
 description: "Who will win the 2026 title? Man City, Arsenal, or Liverpool? Analysis of the favorites and relegation candidates. (ইপিএল বেটিং গাইড)"
-date: 2026-05-05
-lastUpdated: 2026-05-05
+date: 2026-04-20
+lastUpdated: 2026-04-20
 ogImage: epl-2026-hero-optimized.webp
 ogImageAlt: "English Premier League trophy with 2026 branding, stadium background with colorful team scarves"
 tags: [sports-betting, football, epl, premier-league]

@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Half-Time/Full-Time (HT/FT) Ways to Win Big (হাফ টাইম/ফুল টাইম গাইড)"
 description: "Why bet on HT/FT instead of Match Winner? Understand the risk and reward of predicting both halves. (উচ্চ অডস বেটিং)"
-date: 2026-05-08
-lastUpdated: 2026-05-08
+date: 2026-04-24
+lastUpdated: 2026-04-24
 ogImage: ht-ft-hero-optimized.webp
 ogImageAlt: "A clock split in half, one side showing '45:00' and other '90:00', with contrasting weather or lighting"
 tags: [sports-betting, football, strategy, ht-ft]

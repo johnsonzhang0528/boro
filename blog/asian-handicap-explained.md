@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Asian Handicap in Football: A Simple Guide (এশিয়ান হ্যান্ডিক্যাপ নির্দেশিকা)"
 description: "What is -0.5, +1.25, or 0.0? Asian Handicap removes the Draw option and gives you better odds. (এশিয়ান হ্যান্ডিক্যাপ ব্যাখ্যা)"
-date: 2026-05-09
-lastUpdated: 2026-05-09
+date: 2026-04-24
+lastUpdated: 2026-04-24
 ogImage: asian-handicap-hero-optimized.webp
 ogImageAlt: "A balance scale with a heavy football on one side and two smaller footballs on the other, representing handicap balancing"
 tags: [sports-betting, football, asian-handicap, guide]

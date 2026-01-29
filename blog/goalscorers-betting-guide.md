@@ -2,7 +2,7 @@
 layout: post.njk
 title: "Goalscorers Market Guide: First, Last & Anytime Scorer (গোলস্কোরার বেটিং নির্দেশিকা)"
 description: "Master the art of betting on goalscorers. Learn strategies for First Goalscorer, Anytime Goalscorer, and Last Goalscorer markets at BoroJeet. (গোলস্কোরার মার্কেটে বেটিং করার সেরা কৌশল)"
-date: 2026-05-09
+date: 2026-04-25
 tags: ["Football Betting", "Betting Guide", "Sports Strategy"]
 ogImage: goalscorer-betting-hero-optimized.webp
 ---
