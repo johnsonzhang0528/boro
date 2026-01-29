@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Understanding Crash Game Multipliers: Probability & Payouts (2026)"
 description: "What are the odds of hitting 100x in Aviator? Learn the math behind Crash Game multipliers, probability of low vs high payouts, and how to bet smart."
-date: 2026-03-08
-lastUpdated: 2026-03-08
+date: 2026-03-09
+lastUpdated: 2026-03-09
 ogImage: "crash-multiplier-probability-hero-optimized.webp"
 ogImageAlt: "Mathematical equation board showing probability curves of 2x vs 100x multipliers"
 tags: ["math", "probability", "multipliers", "guide"]
@@ -35,7 +35,7 @@ Boro Jeet-এর ডাটা বিশ্লেষণ করে আমরা �
 > **Note:** এটি গড় হিসাব। বাস্তবে গেমটি র‍্যান্ডম, তাই ফলাফল ভিন্ন হতে পারে।
 
 <picture class="content-image">
-  <img src="/assets/blog/multiplier-risk-reward-chart.webp" alt="Risk vs Reward chart showing how payout decreases as probability increases" width="800" height="450" loading="lazy" decoding="async">
+  <img src="/assets/blog/multiplier-risk-reward-chart-optimized.webp" alt="Risk vs Reward chart showing how payout decreases as probability increases" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ## The "Instant Crash" (1.00x) Phenomenon
