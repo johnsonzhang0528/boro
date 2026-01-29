@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet Login Issues & Solutions 2026: লগইন সমস্যার ১০টি সহজ সমাধান"
 description: "Boro Jeet অ্যাকাউন্টে লগইন করতে পারছেন না? পাসওয়ার্ড ভুলে গেলে বা অ্যাকাউন্ট লক হলে কী করবেন? ২০২৬ এর সেরা সমাধান গাইড।"
-date: 2026-02-19
-lastUpdated: 2026-02-19
-ogImage: boro-jeet-login-error-screen.webp
+date: 2026-02-20
+lastUpdated: 2026-02-20
+ogImage: boro-jeet-login-error-screen-optimized.webp
 ogImageAlt: "Boro Jeet login error screen illustration"
 tags: [post, troubleshooting, boro-jeet]
 faq:
@@ -31,9 +31,9 @@ faq:
 লগইন সমস্যার অন্যতম প্রধান কারণ হলো পাসওয়ার্ড ভুলে যাওয়া। নিচের ছবির মতো "Forgot Password" লিংকে ক্লিক করে খুব সহজেই এটি রিসেট করা যায়।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/boro-jeet-password-reset-mobile.avif" type="image/avif">
-  <source srcset="/assets/blog/boro-jeet-password-reset-mobile.webp" type="image/webp">
-  <img src="/assets/blog/boro-jeet-password-reset-mobile.webp" alt="Password reset steps on Boro Jeet mobile app" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/boro-jeet-password-reset-mobile-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/boro-jeet-password-reset-mobile-optimized.webp" type="image/webp">
+  <img src="/assets/blog/boro-jeet-password-reset-mobile-optimized.webp" alt="Password reset steps on Boro Jeet mobile app" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 **রিসেট ধাপ:**
