@@ -3,7 +3,7 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet কি বাংলাদেশে বৈধ? Legal Status & License Analysis 2026"
 description: "Boro Jeet কি বাংলাদেশে খেলা নিরাপদ? কুরাকাও লাইসেন্স এবং বাংলাদেশের জুয়া আইন সম্পর্কে বিস্তারিত বিশ্লেষণ। জেনে নিন আপনার টাকা কতটা সুরক্ষিত।"
-date: 2026-02-24
+date: 2026-02-25
 ogImage: boro-jeet-legal-license-hero.webp
 ogImageAlt: "Boro Jeet official gambling license certificate explanation"
 tags: [post, legal, safety]
