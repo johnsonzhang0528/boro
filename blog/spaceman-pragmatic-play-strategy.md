@@ -3,9 +3,9 @@ layout: post.njk
 lang: bn-BD
 title: "Spaceman Strategy Guide: প্র্যাগম্যাটিক প্লে-এর ক্র্যাশ গেমে জেতার উপায়"
 description: "Spaceman (Pragmatic Play) ক্র্যাশ গেমের গোপন উইনিং কৌশল সম্পর্কে জানুন। 50% অটো ক্যাশআউট এবং ডাবল বেট মেথড ব্যবহার করে ২০২৬ সালে বড় জিতুন।"
-date: 2026-02-19
-lastUpdated: 2026-02-19
-ogImage: spaceman-crash-game-hero.webp
+date: 2026-02-21
+lastUpdated: 2026-02-21
+ogImage: spaceman-crash-game-hero-optimized.webp
 ogImageAlt: "Spaceman crash game astronaut character flying in space"
 tags: [post, crash-games, strategies]
 faq:
@@ -32,9 +32,9 @@ Spaceman এর সবচেয়ে ইউনিক ফিচার হলো 
 *   বাকি ৫০ টাকা দিয়ে যতটা সম্ভব রিস্ক নিন। এতে লস হওয়ার ভয় থাকে না।
 
 <picture class="content-image">
-  <source srcset="/assets/blog/spaceman-game-interface-winning.avif" type="image/avif">
-  <source srcset="/assets/blog/spaceman-game-interface-winning.webp" type="image/webp">
-  <img src="/assets/blog/spaceman-game-interface-winning.webp" alt="Spaceman game interface showing 50% cashout button" width="800" height="450" loading="lazy" decoding="async">
+  <source srcset="/assets/blog/spaceman-game-interface-winning-optimized.avif" type="image/avif">
+  <source srcset="/assets/blog/spaceman-game-interface-winning-optimized.webp" type="image/webp">
+  <img src="/assets/blog/spaceman-game-interface-winning-optimized.webp" alt="Spaceman game interface showing 50% cashout button" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
 ### ২. মার্টিনগেল পদ্ধতি (Martingale System)
