@@ -3,7 +3,7 @@ layout: post.njk
 title: "Scorecast & Wincast Betting Explained (স্কোরকাস্ট এবং উইনকাস্ট বেটিং)"
 description: "Looking for massive odds? Learn how Scorecast and Wincast bets combine goalscorers with match results for potentially huge payouts on BoroJeet. (স্কোরকাস্ট এবং উইনকাস্ট গাইড)"
 date: 2026-05-01
-tags: ["Football Betting", "High Odds", "Strategy"]
+tags: ["Football Betting", "High Odds", "strategy"]
 ogImage: scorecast-betting-hero-optimized.webp
 ---
 

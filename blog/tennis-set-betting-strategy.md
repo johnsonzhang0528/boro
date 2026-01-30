@@ -3,7 +3,7 @@ layout: post.njk
 title: "Tennis Set Betting Strategy: Predicting Correct Scores (টেনিস সেট বেটিং কৌশল)"
 description: "Why bet on the winner when you can predict the score? Learn the art of Tennis Set Betting (2-0 vs 2-1) to maximize your returns on BoroJeet. (সঠিক স্কোর প্রেডিকশন টিপস)"
 date: 2026-04-28
-tags: ["Tennis Betting", "Correct Score", "Strategy"]
+tags: ["Tennis Betting", "Correct Score", "strategy"]
 ogImage: tennis-set-betting-hero-optimized.webp
 ---
 
