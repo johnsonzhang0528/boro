@@ -3,7 +3,7 @@ layout: post.njk
 title: "Withdrawal Rejected? Understanding Error Codes (টাকা উত্তোলন বাতিল? এর কারণ ও সমাধান)"
 description: "Panic is not necessary. (চিন্তার কিছু নেই।) Here are the top reasons why Boro Jeet withdrawals get rejected (Error Codes 99, 501, 703) and how to fix them."
 date: 2026-05-26
-tags: 
+tags:
   - troubleshooting
   - banking
 faq:
