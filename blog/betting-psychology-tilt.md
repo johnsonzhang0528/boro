@@ -4,6 +4,7 @@ title: "What is Tilt in Betting? How to Stop Emotional Decisions"
 description: "Why did you bet your whole bankroll on a 3rd division match? You were on 'Tilt'. Learn to recognize and stop this bankroll killer."
 date: 2026-05-16
 tags: 
+  - post
   - psychology
   - advice
 faq:

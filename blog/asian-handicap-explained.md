@@ -7,7 +7,7 @@ date: 2026-04-24
 lastUpdated: 2026-04-24
 ogImage: asian-handicap-hero-optimized.webp
 ogImageAlt: "A balance scale with a heavy football on one side and two smaller footballs on the other, representing handicap balancing"
-tags: [sports-betting, football, asian-handicap, guide]
+tags: [post, sports-betting, football, asian-handicap, guide]
 faq:
   - question: "What is Asian Handicap 0.0? (শূন্য হ্যান্ডিক্যাপ কি?)"
     answer: "It is the same as 'Draw No Bet'. If the match is a draw, you get your money back. If your team wins, you win."

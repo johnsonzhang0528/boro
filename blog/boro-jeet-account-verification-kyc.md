@@ -7,7 +7,7 @@ date: 2026-02-26
 lastUpdated: 2026-02-26
 ogImage: "boro-jeet-kyc-verification-guide-hero-optimized.webp"
 ogImageAlt: "Boro Jeet Account Verification process showing documents and smartphone"
-tags: ["account", "verification", "kyc", "safety"]
+tags: [post, "account", "verification", "kyc", "safety"]
 faq:
   - question: "Boro Jeet একাউন্ট ভেরিফাই করতে কত সময় লাগে?"
     answer: "সাধারণত 24 থেকে 48 ঘন্টার মধ্যে ভেরিফিকেশন সম্পন্ন হয়, তবে সঠিক ডকুমেন্ট দিলে এটি আরও দ্রুত হতে পারে।"

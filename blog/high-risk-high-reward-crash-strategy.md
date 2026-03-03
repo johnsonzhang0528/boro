@@ -7,7 +7,7 @@ date: 2026-03-11
 lastUpdated: 2026-03-11
 ogImage: "high-risk-crash-strategy-hero-optimized.webp"
 ogImageAlt: "A stunt pilot flying vertically towards a pink lightning storm representing high multipliers"
-tags: ["strategy", "high-risk", "jackpot", "aviator"]
+tags: [post, "strategy", "high-risk", "jackpot", "aviator"]
 faq:
   - question: "100x বা Pink Multiplier কত ঘন ঘন আসে?"
     answer: "গাণিতিকভাবে, এটি প্রতি ১-১.৫ ঘণ্টায় একবার বা প্রতি ১০০-১৫০ রাউন্ডে একবার আসতে পারে।"

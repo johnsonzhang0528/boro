@@ -7,7 +7,7 @@ date: 2026-02-28
 lastUpdated: 2026-02-28
 ogImage: "boro-jeet-responsible-gambling-hero-optimized.webp"
 ogImageAlt: "Responsible gambling concept with hands protecting a house and money"
-tags: ["responsible-gambling", "limits", "safety", "help"]
+tags: [post, "responsible-gambling", "limits", "safety", "help"]
 faq:
   - question: "Deposit Limit কি?"
     answer: "এটি এমন একটি টুল যার মাধ্যমে আপনি প্রতিদিন বা প্রতি সপ্তাহে সর্বোচ্চ কত টাকা ডিপোজিট করতে পারবেন তা নির্ধারণ করতে পারেন।"

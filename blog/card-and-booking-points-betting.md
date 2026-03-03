@@ -7,7 +7,7 @@ date: 2026-04-23
 lastUpdated: 2026-04-23
 ogImage: card-betting-hero-optimized.webp
 ogImageAlt: "Dramatic referee hand holding up a red card to a player, blurred stadium background"
-tags: [sports-betting, football, strategy, cards]
+tags: [post, sports-betting, football, strategy, cards]
 faq:
   - question: "What are Booking Points? (বুকিং পয়েন্ট কি?)"
     answer: "A system where Yellow Card = 10 points and Red Card = 25 points. Betting 'Over 40 Points' means you need roughly 4 yellows."

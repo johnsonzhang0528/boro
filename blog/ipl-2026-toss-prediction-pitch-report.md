@@ -7,7 +7,7 @@ date: 2026-03-16
 lastUpdated: 2026-03-16
 ogImage: "ipl-2026-toss-prediction-hero-optimized.webp"
 ogImageAlt: "Coin flip moment at an IPL match deciding the fate of the game"
-tags: ["cricket", "ipl", "toss-prediction", "betting"]
+tags: [post, "cricket", "ipl", "toss-prediction", "betting"]
 faq:
   - question: "IPL এ টস কতটা গুরুত্বপূর্ণ?"
     answer: "ভারতে শিশির (Dew) ফ্যাক্টরের কারণে টস জয়ী দল প্রায়ই ফিল্ডিং বেছে নেয় এবং জয়ের সম্ভাবনা ৬০% বেড়ে যায়।"

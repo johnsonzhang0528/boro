@@ -7,7 +7,7 @@ date: 2026-04-07
 lastUpdated: 2026-04-07
 ogImage: mahjong-ways-1-hero-optimized.webp
 ogImageAlt: "Mahjong Ways 1 title screen with golden tiles and green background"
-tags: [slots, pg-soft, mahjong-ways, winning-strategy]
+tags: [post, slots, pg-soft, mahjong-ways, winning-strategy]
 faq:
   - question: "How do I win free spins in Mahjong Ways 1? (কিভাবে ফ্রি স্পিন পাবো?)"
     answer: "You need to land 3 Scatter symbols (the red Chinese character) anywhere on the reels to trigger 12 free spins."

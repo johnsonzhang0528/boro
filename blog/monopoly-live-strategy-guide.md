@@ -7,7 +7,7 @@ date: 2026-03-29
 lastUpdated: 2026-03-29
 ogImage: "monopoly-live-hero-optimized.webp"
 ogImageAlt: "Mr. Monopoly drinking tea in front of the giant Monopoly Live wheel"
-tags: ["live-casino", "game-show", "monopoly-live", "strategy"]
+tags: [post, "live-casino", "game-show", "monopoly-live", "strategy"]
 faq:
   - question: "2 Rolls এবং 4 Rolls কি?"
     answer: "এই সেগমেন্টে চাকা থামলে Mr. Monopoly বোর্ড গেমে চলে যান এবং ২ বা ৪ বার ডাইস রোল করেন।"

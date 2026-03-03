@@ -3,7 +3,7 @@ layout: post.njk
 title: "Basketball Quarter Betting: Fast-Paced Wins (বাস্কেটবল কোয়ার্টার বেটিং)"
 description: "In basketball, every quarter tells a different story. Learn how to bet on Quarter Winners and Total Points for faster returns on BoroJeet. (বাস্কেটবল বেটিং কৌশল)"
 date: 2026-04-27
-tags: ["Basketball Betting", "NBA", "strategy"]
+tags: [post, "Basketball Betting", "NBA", "strategy"]
 ogImage: basketball-quarter-betting-hero-optimized.webp
 ---
 

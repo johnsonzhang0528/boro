@@ -7,7 +7,7 @@ date: 2026-03-01
 lastUpdated: 2026-03-01
 ogImage: "boro-jeet-system-requirements-hero-optimized.webp"
 ogImageAlt: "Comparison of low-end and high-end smartphones running gambling app"
-tags: ["system-requirements", "android", "specs", "performance"]
+tags: [post, "system-requirements", "android", "specs", "performance"]
 faq:
   - question: "আমার ফোন কি Boro Jeet চালানোর জন্য উপযুক্ত?"
     answer: "কমপক্ষে Android 6.0 এবং 2GB RAM থাকলে আপনি অ্যাপটি চালাতে পারবেন।"

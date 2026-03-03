@@ -7,7 +7,7 @@ date: 2026-03-09
 lastUpdated: 2026-03-09
 ogImage: "crash-multiplier-probability-hero-optimized.webp"
 ogImageAlt: "Mathematical equation board showing probability curves of 2x vs 100x multipliers"
-tags: ["math", "probability", "multipliers", "guide"]
+tags: [post, "math", "probability", "multipliers", "guide"]
 faq:
   - question: "100x বা Pink Multiplier আসার সম্ভাবনা কত?"
     answer: "গাণিতিকভাবে, 100x আসার সম্ভাবনা ১% এরও কম (প্রতি ১০০-১৫০ রাউন্ডে একবার)।"

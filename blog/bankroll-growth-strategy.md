@@ -4,6 +4,7 @@ title: "Bankroll Growth Strategy: From 1000 BDT to 1 Lakh"
 description: "Stop trying to get rich overnight. Follow this consistent, mathematical plan to grow a small bankroll into a fortune using compound interest."
 date: 2026-05-18
 tags: 
+  - post
   - strategy
   - bankroll-management
 faq:

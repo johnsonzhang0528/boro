@@ -7,7 +7,7 @@ date: 2026-02-26
 lastUpdated: 2026-02-26
 ogImage: boro-jeet-kyc-verified-hero-optimized.webp
 ogImageAlt: "Boro Jeet Account Verified Success Screen"
-tags: [kyc, details, verification, account]
+tags: [post, kyc, details, verification, account]
 faq:
   - question: "Is KYC mandatory for withdrawal?"
     answer: "Yes, for security reasons, you must complete standard identity verification (KYC) before making large withdrawals."

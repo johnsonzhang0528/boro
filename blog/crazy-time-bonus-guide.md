@@ -7,7 +7,7 @@ date: 2026-03-28
 lastUpdated: 2026-03-28
 ogImage: "crazy-time-bonus-rounds-hero-optimized.webp"
 ogImageAlt: "Montage of the 4 Crazy Time bonus rounds: Pachinko wall, Cash Hunt gallery, Coin Flip machine, and the Crazy Time red door"
-tags: ["live-casino", "game-show", "crazy-time", "strategy"]
+tags: [post, "live-casino", "game-show", "crazy-time", "strategy"]
 faq:
   - question: "কোন বোনাস রাউন্ডটি সেরা?"
     answer: "'Crazy Time' রাউন্ডটি সেরা কারণ এতে ২০,০০০ গুণ পর্যন্ত জেতার সম্ভাবনা থাকে।"

@@ -7,7 +7,7 @@ date: 2026-04-06
 lastUpdated: 2026-04-06
 ogImage: "phishing-warning-shield-optimized.webp"
 ogImageAlt: "Digital shield with a lock icon blocking a fishing hook (phishing symbol), red warning background"
-tags: ["security", "safety", "scam-alert", "guide"]
+tags: [post, "security", "safety", "scam-alert", "guide"]
 faq:
   - question: "ফিশিং (Phishing) লিংক কি?"
     answer: "এটি আসল ওয়েবসাইটের মতো দেখতে একটি নকল সাইট, যা আপনার পাসওয়ার্ড এবং তথ্য চুরি করার জন্য তৈরি করা হয়।"

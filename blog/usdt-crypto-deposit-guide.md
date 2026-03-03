@@ -7,7 +7,7 @@ date: 2026-04-04
 lastUpdated: 2026-04-04
 ogImage: "usdt-tether-coin-optimized.webp"
 ogImageAlt: "Gold Tether (USDT) coin glowing green on a digital circuit background"
-tags: ["payments", "crypto", "usdt", "guide"]
+tags: [post, "payments", "crypto", "usdt", "guide"]
 faq:
   - question: "USDT ডিপোজিট কি নিরাপদ?"
     answer: "হ্যাঁ, এটি ব্লকচেইন টেকনোলজির মাধ্যমে হয় যা অত্যন্ত নিরাপদ এবং বেনামী (Private)।"

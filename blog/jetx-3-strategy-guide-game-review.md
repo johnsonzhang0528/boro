@@ -7,7 +7,7 @@ date: 2026-03-13
 lastUpdated: 2026-03-13
 ogImage: "jetx3-game-hero-optimized.webp"
 ogImageAlt: "Three fighter jets flying in formation representing the JetX 3 gameplay"
-tags: ["review", "strategy", "jetx-3", "smartsoft"]
+tags: [post, "review", "strategy", "jetx-3", "smartsoft"]
 faq:
   - question: "JetX এবং JetX 3 এর পার্থক্য কি?"
     answer: "JetX এ একটি মাত্র জেট থাকে, কিন্তু JetX 3 তে একসাথে তিনটি জেট ওড়ে এবং আপনি তিনটিতেই আলাদা বাজি ধরতে পারেন।"

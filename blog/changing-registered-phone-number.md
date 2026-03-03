@@ -4,6 +4,7 @@ title: "How to Change Your Registered Phone Number (কিভাবে রেজ
 description: "Lost your SIM? Want to update your bKash number on Boro Jeet? (সিম হারিয়ে ফেলেছেন?) Steps to change your registered mobile number safely."
 date: 2026-05-24
 tags: 
+  - post
   - account-management
   - security
 faq:

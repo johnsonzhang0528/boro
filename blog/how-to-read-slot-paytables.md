@@ -7,7 +7,7 @@ date: 2026-04-17
 lastUpdated: 2026-04-17
 ogImage: paytable-hero-optimized.webp
 ogImageAlt: "A magnifying glass hovering over a digital slot machine paytable with symbols and numbers"
-tags: [slots, guide, tutorial, beginner]
+tags: [post, slots, guide, tutorial, beginner]
 faq:
   - question: "Where is the Paytable? (পে টেবিল কোথায়?)"
     answer: "Look for the 'i' (Info) button or the 'Burger Menu' (three lines) usually at the bottom corner of the game screen."

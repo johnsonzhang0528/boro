@@ -7,7 +7,7 @@ date: 2026-03-02
 lastUpdated: 2026-03-02
 ogImage: "boro-jeet-history-milestones-hero-optimized.webp"
 ogImageAlt: "Timeline infographic showing growth of Boro Jeet from 2020 to 2026"
-tags: ["history", "brand", "about", "evolution"]
+tags: [post, "history", "brand", "about", "evolution"]
 faq:
   - question: "Boro Jeet কবে চালু হয়?"
     answer: "Boro Jeet আনুষ্ঠানিকভাবে ২০২০ সালে তাদের যাত্রা শুরু করে।"

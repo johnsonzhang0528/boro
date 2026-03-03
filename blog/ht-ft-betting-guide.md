@@ -7,7 +7,7 @@ date: 2026-04-24
 lastUpdated: 2026-04-24
 ogImage: ht-ft-hero-optimized.webp
 ogImageAlt: "A clock split in half, one side showing '45:00' and other '90:00', with contrasting weather or lighting"
-tags: [sports-betting, football, strategy, ht-ft]
+tags: [post, sports-betting, football, strategy, ht-ft]
 faq:
   - question: "What is HT/FT? (HT/FT কি?)"
     answer: "You are betting on the result at Half Time AND the result at Full Time. You need both to be correct to win."

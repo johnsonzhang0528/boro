@@ -7,7 +7,7 @@ date: 2026-02-27
 lastUpdated: 2026-02-27
 ogImage: "boro-jeet-alternative-links-hero-optimized.webp"
 ogImageAlt: "Chain link concept connecting to Boro Jeet alternative site"
-tags: ["links", "access", "mirror", "login"]
+tags: [post, "links", "access", "mirror", "login"]
 faq:
   - question: "Boro Jeet সাইটে ঢুকতে পারছি না কেন?"
     answer: "মাঝে মাঝে ইন্টারনেট প্রোভাইডাররা মূল ডোমেইন ব্লক করে দেয়। তখন Alternative Link ব্যবহার করতে হয়।"

@@ -7,7 +7,7 @@ date: 2026-03-14
 lastUpdated: 2026-03-14
 ogImage: "pilot-gamzix-game-hero-optimized.webp"
 ogImageAlt: "Vintage aviator character representing the Pilot crash game by Gamzix"
-tags: ["review", "pilot", "gamzix", "crash-games"]
+tags: [post, "review", "pilot", "gamzix", "crash-games"]
 faq:
   - question: "Pilot এবং Aviator এর মধ্যে পার্থক্য কি?"
     answer: "Pilot এর মূল সুবিধা হলো এর '50% Cashout' ফিচার, যা Aviator-এ নেই।"

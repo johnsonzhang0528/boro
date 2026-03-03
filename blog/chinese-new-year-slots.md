@@ -7,7 +7,7 @@ date: 2026-04-15
 lastUpdated: 2026-04-15
 ogImage: chinese-new-year-hero-optimized.webp
 ogImageAlt: "Festive background with red lanterns, gold ingots, and slot symbols representing Chinese New Year celebration"
-tags: [slots, festive, chinese-new-year, best-games]
+tags: [post, slots, festive, chinese-new-year, best-games]
 faq:
   - question: "Why play Chinese New Year slots? (কেন এই গেমগুলি খেলবেন?)"
     answer: "These games often have high RTPs and special 'Prosperity' bonuses designed to make players feel lucky."

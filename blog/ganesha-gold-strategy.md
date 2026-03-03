@@ -7,7 +7,7 @@ date: 2026-04-10
 lastUpdated: 2026-04-10
 ogImage: ganesha-gold-hero-optimized.webp
 ogImageAlt: "Ganesha Gold slot character sitting on a pile of gold coins"
-tags: [slots, pg-soft, ganesha-gold, winning-strategy]
+tags: [post, slots, pg-soft, ganesha-gold, winning-strategy]
 faq:
   - question: "How do I trigger Free Spins in Ganesha Gold? (কিভাবে ফ্রি স্পিন পাবো?)"
     answer: "Land 3, 4, or 5 Scatter symbols anywhere on the reels to trigger 12, 15, or 20 free spins respectively."

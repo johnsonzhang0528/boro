@@ -7,7 +7,7 @@ date: 2026-04-03
 lastUpdated: 2026-04-03
 ogImage: "upay-app-logo-optimized.webp"
 ogImageAlt: "Upay blue and yellow logo on a sleek smartphone held in hand"
-tags: ["payments", "upay", "banking", "guide"]
+tags: [post, "payments", "upay", "banking", "guide"]
 faq:
   - question: "Upay তে ক্যাশ আউট চার্জ কত?"
     answer: "ইউসিবি এটিএম (UCB ATM) থেকে ক্যাশ আউট চার্জ সম্পূর্ণ ফ্রি! এজেন্টের মাধ্যমে হাজারে ১৪ টাকা।"

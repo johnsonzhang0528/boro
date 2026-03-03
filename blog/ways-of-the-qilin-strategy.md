@@ -7,7 +7,7 @@ date: 2026-04-11
 lastUpdated: 2026-04-11
 ogImage: ways-of-the-qilin-hero-optimized.webp
 ogImageAlt: "Ways of the Qilin slot character, a majestic mythical green beast, with chinese clouds"
-tags: [slots, pg-soft, ways-of-the-qilin, winning-strategy]
+tags: [post, slots, pg-soft, ways-of-the-qilin, winning-strategy]
 faq:
   - question: "What is the max win in Ways of the Qilin? (সর্বোচ্চ জয় কত?)"
     answer: "You can win up to 80,000x your bet, making it one of the highest paying games from PG Soft."

@@ -4,6 +4,7 @@ title: "The Gambler's Fallacy: Why You Are Not 'Due' for a Win"
 description: "Lost 5 times in a row? Feel like you HAVE to win next? You are suffering from the Gambler's Fallacy. Here's why the universe doesn't care."
 date: 2026-05-16
 tags: 
+  - post
   - psychology
   - math
 faq:

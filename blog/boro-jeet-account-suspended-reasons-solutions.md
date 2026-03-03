@@ -7,7 +7,7 @@ date: 2026-02-27
 lastUpdated: 2026-02-27
 ogImage: "boro-jeet-account-suspended-hero-optimized.webp"
 ogImageAlt: "Locked Boro Jeet account concept with padlock and warning sign"
-tags: ["account", "suspended", "troubleshooting", "help"]
+tags: [post, "account", "suspended", "troubleshooting", "help"]
 faq:
   - question: "Boro Jeet একাউন্ট সাসপেন্ড হলে কি করণীয়?"
     answer: "ভয় না পেয়ে অবিলম্বে কাস্টমার সাপোর্টে যোগাযোগ করুন এবং আপনার প্রকৃত সমস্যা খুলে বলুন।"

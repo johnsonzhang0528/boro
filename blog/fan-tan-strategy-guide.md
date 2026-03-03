@@ -7,7 +7,7 @@ date: 2026-03-31
 lastUpdated: 2026-03-31
 ogImage: "fan-tan-dealer-beads-optimized.webp"
 ogImageAlt: "Overhead view of a Fan Tan dealer sorting white buttons with a bamboo stick"
-tags: ["live-casino", "fan-tan", "strategy", "table-games"]
+tags: [post, "live-casino", "fan-tan", "strategy", "table-games"]
 faq:
   - question: "Fan Tan গেমটি আসলে কি?"
     answer: "এটি একটি প্রাচীন চীনা খেলা যেখানে ডিলার এক মুঠো বোতাম বা পুঁথি নেন এবং ৪টি করে ভাগ করেন। শেষে কতটি বোতাম বাকি থাকবে (১, ২, ৩ বা ৪) তার ওপর বাজি ধরা হয়।"

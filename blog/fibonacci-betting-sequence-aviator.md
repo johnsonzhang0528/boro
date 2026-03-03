@@ -7,7 +7,7 @@ date: 2026-03-10
 lastUpdated: 2026-03-10
 ogImage: "fibonacci-aviator-strategy-hero-optimized.webp"
 ogImageAlt: "Golden ratio spiral overlaying a crash game rocket trajectory"
-tags: ["strategy", "math", "fibonacci", "betting-systems"]
+tags: [post, "strategy", "math", "fibonacci", "betting-systems"]
 faq:
   - question: "Fibonacci বেটিং সিস্টেম কি?"
     answer: "এটি একটি গাণিতিক ধারা (1, 1, 2, 3, 5...) যা লস রিকভার করার জন্য ব্যবহার করা হয়।"

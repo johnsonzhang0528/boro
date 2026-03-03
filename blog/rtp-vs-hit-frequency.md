@@ -7,7 +7,7 @@ date: 2026-04-16
 lastUpdated: 2026-04-16
 ogImage: rtp-vs-frequency-hero-optimized.webp
 ogImageAlt: "Conceptual comparison image showing RTP as a pile of gold and Hit Frequency as a rapid firing machine gun"
-tags: [slots, guide, math, strategy]
+tags: [post, slots, guide, math, strategy]
 faq:
   - question: "What is RTP? (RTP কি?)"
     answer: "RTP (Return to Player) is the percentage of money a slot pays back over millions of spins (e.g., 96%)."

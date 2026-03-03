@@ -7,7 +7,7 @@ date: 2026-04-12
 lastUpdated: 2026-04-12
 ogImage: caishen-wins-hero-optimized.webp
 ogImageAlt: "Caishen Wins slot god character smiling with red and gold background"
-tags: [slots, pg-soft, caishen-wins, winning-strategy]
+tags: [post, slots, pg-soft, caishen-wins, winning-strategy]
 faq:
   - question: "What is the Gamble Feature in Caishen Wins? (গ্যাম্বল ফিচার কি?)"
     answer: "It allows you to gamble your starting free spins and multiplier. You can win more spins/multipliers or lose the entire bonus feature."

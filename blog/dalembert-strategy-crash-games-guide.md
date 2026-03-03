@@ -7,7 +7,7 @@ date: 2026-03-09
 lastUpdated: 2026-03-09
 ogImage: "dalembert-strategy-hero-optimized.webp"
 ogImageAlt: "Vintage french mathematician jean le rond d'alembert portrait overlaid with modern crash game graph"
-tags: ["strategy", "math", "betting-systems", "low-risk"]
+tags: [post, "strategy", "math", "betting-systems", "low-risk"]
 faq:
   - question: "D'Alembert সিস্টেম কি?"
     answer: "এটি একটি নেগেটিভ প্রগ্রেশন সিস্টেম যেখানে লস হলে বেট ১ ইউনিট বাড়ে এবং জিতলে ১ ইউনিট কমে।"

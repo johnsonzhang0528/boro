@@ -7,7 +7,7 @@ date: 2026-03-11
 lastUpdated: 2026-03-11
 ogImage: "crash-bankroll-management-hero-optimized.webp"
 ogImageAlt: "Digital vault illustrating secure bankroll management for gambling"
-tags: ["guide", "finance", "money-management", "aviator"]
+tags: [post, "guide", "finance", "money-management", "aviator"]
 faq:
   - question: "Bankroll Management কি?"
     answer: "এটি জুয়ার জন্য রাখা নির্দিষ্ট অর্থ সঠিকভাবে পরিচালনা করার পদ্ধতি, যা আপনাকে দেউলিয়া হওয়া থেকে বাঁচায়।"

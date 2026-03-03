@@ -7,7 +7,7 @@ date: 2026-03-10
 lastUpdated: 2026-03-10
 ogImage: "low-volatility-crash-strategy-hero-optimized.webp"
 ogImageAlt: "A steady green line graph rising slowly compared to a volatile red jagged line"
-tags: ["strategy", "low-risk", "aviator", "guide"]
+tags: [post, "strategy", "low-risk", "aviator", "guide"]
 faq:
   - question: "Low Volatility Strategy কি?"
     answer: "এটি এমন একটি কৌশল যেখানে আপনি খুব কম ঝুঁকিতে ছোট ছোট লাভ (যেমন 1.10x) টার্গেট করেন।"

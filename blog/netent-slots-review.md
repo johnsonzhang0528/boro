@@ -7,7 +7,7 @@ date: 2026-03-27
 lastUpdated: 2026-03-27
 ogImage: "netent-starburst-gonzo-hero-optimized.webp"
 ogImageAlt: "Mashup image featuring the Starburst gemstone star and Gonzo from Gonzo's Quest looking at a map"
-tags: ["slots", "netent", "review", "starburst"]
+tags: [post, "slots", "netent", "review", "starburst"]
 faq:
   - question: "Starburst কেন সেরা?"
     answer: "কারণ এটি উভয় দিক থেকে (Both ways) পে করে এবং এর 'Expanding Wild' ফিচারটি খুব আকর্ষণীয়।"

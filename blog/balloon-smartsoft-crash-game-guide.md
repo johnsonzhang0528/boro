@@ -7,7 +7,7 @@ date: 2026-03-14
 lastUpdated: 2026-03-14
 ogImage: "balloon-crash-game-hero-optimized.webp"
 ogImageAlt: "A glowing balloon about to pop representing the Smartsoft Balloon game"
-tags: ["review", "balloon", "smartsoft", "guide"]
+tags: [post, "review", "balloon", "smartsoft", "guide"]
 faq:
   - question: "Balloon গেমটি কি Aviator এর মতো?"
     answer: "মূল ধারণা একই (Crash), কিন্তু এখানে প্লেন ওড়ে না; একটি বেলুন ফোলাতে হয়।"

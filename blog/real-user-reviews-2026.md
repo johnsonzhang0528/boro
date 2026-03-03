@@ -7,7 +7,7 @@ date: 2026-03-03
 lastUpdated: 2026-03-03
 ogImage: "boro-jeet-user-reviews-hero-optimized.webp"
 ogImageAlt: "Collage of 5-star rating bubbles and happy user avatars"
-tags: ["reviews", "feedback", "testimonials", "trust"]
+tags: [post, "reviews", "feedback", "testimonials", "trust"]
 faq:
   - question: "Boro Jeet কি পেমেন্ট দেয়?"
     answer: "হ্যাঁ, হাজার হাজার পেমেন্ট প্রুফ এবং ইউজার রিভিউ অনুযায়ী তারা নিয়মিত এবং দ্রুত পেমেন্ট দিয়ে থাকে।"

@@ -4,6 +4,7 @@ title: "Smart Money vs Public Money: How to Follow the Pros"
 description: "Why do odds suddenly drop moments before a match? That's the 'Smart Money'. Learn how to distinguish between public hype and professional syndicates."
 date: 2026-05-17
 tags: 
+  - post
   - strategy
   - market-analysis
 faq:

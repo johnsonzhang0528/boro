@@ -7,7 +7,7 @@ date: 2026-04-03
 lastUpdated: 2026-04-03
 ogImage: "rocket-payment-hero-optimized.webp"
 ogImageAlt: "Rocket mobile banking logo on a smartphone screen with Dutch-Bangla Bank branding background"
-tags: ["payments", "rocket", "banking", "guide"]
+tags: [post, "payments", "rocket", "banking", "guide"]
 faq:
   - question: "Rocket এ ক্যাশ আউট চার্জ কত?"
     answer: "এটিএম থেকে ক্যাশ আউট করলে প্রতি হাজারে ৯ টাকা এবং এজেন্টের মাধ্যমে ১৬.৭ টাকা চার্জ কাটে (শর্ত প্রযোজ্য)।"

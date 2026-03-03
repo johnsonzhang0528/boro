@@ -7,7 +7,7 @@ date: 2026-03-21
 lastUpdated: 2026-03-21
 ogImage: "virtual-cricket-betting-hero-optimized.webp"
 ogImageAlt: "3D rendered cricket players in a virtual stadium environment"
-tags: ["virtual-sports", "cricket", "rng", "betting-guide"]
+tags: [post, "virtual-sports", "cricket", "rng", "betting-guide"]
 faq:
   - question: "Virtual Cricket কি?"
     answer: "এটি কম্পিউটার সিমুলেটেড ক্রিকেট খেলা, যা আসল ম্যাচের মতো দেখায় কিন্তু ফলাফল RNG (Random Number Generator) দ্বারা নির্ধারিত হয়।"

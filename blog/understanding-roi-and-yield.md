@@ -4,6 +4,7 @@ title: "Understanding ROI and Yield: Measuring Your Betting Success"
 description: "Winning money is great, but are you actually a good bettor? Learn how to calculate ROI and Yield to measure your true performance."
 date: 2026-05-19
 tags: 
+  - post
   - math
   - analysis
   - advanced

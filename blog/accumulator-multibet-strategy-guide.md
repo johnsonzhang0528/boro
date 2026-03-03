@@ -7,7 +7,7 @@ date: 2026-03-20
 lastUpdated: 2026-03-20
 ogImage: "accumulator-bet-slip-hero-optimized.webp"
 ogImageAlt: "A winning accumulator bet slip showing multiple green checkmarks and high payout"
-tags: ["education", "accumulator", "multibet", "strategy"]
+tags: [post, "education", "accumulator", "multibet", "strategy"]
 faq:
   - question: "Accumulator (Multibet) কি?"
     answer: "একাধিক বাজিকে একটি বাজিতে পরিণত করা, যেখানে সবগুলো সিলেকশন জিতলে তবেই আপনি জিতবেন।"

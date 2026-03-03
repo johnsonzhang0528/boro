@@ -7,7 +7,7 @@ date: 2026-04-15
 lastUpdated: 2026-04-15
 ogImage: fa-chai-hero-optimized.webp
 ogImageAlt: "Fa Chai Gaming logo with characters from their popular slots, vibrant asian casino theme"
-tags: [slots, fa-chai, provider-review, casino-guide]
+tags: [post, slots, fa-chai, provider-review, casino-guide]
 faq:
   - question: "Is Fa Chai same as PG Soft? (FC এবং PG কি এক?)"
     answer: "No, Fa Chai (FC) is a different provider. However, they have a similar 'mobile-first' portrait style."

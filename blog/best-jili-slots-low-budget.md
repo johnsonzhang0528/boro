@@ -7,7 +7,7 @@ date: 2026-03-23
 lastUpdated: 2026-03-23
 ogImage: "jili-slots-low-budget-hero-optimized.webp"
 ogImageAlt: "Colorful JILI slot game characters with coins and 1 BDT coin prominently displayed"
-tags: ["slots", "jili", "budget-gaming", "review"]
+tags: [post, "slots", "jili", "budget-gaming", "review"]
 faq:
   - question: "Low Budget Slots কেন খেলবেন?"
     answer: "কম ঝুঁকিতে দীর্ঘ সময় খেলার জন্য এবং গেমের মেকানিক্স শেখার জন্য এগুলো সেরা।"

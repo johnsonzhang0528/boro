@@ -7,7 +7,7 @@ date: 2026-04-14
 lastUpdated: 2026-04-14
 ogImage: fortune-mouse-hero-optimized.webp
 ogImageAlt: "Fortune Mouse slot character, cute golden mouse holding money, red chinese background, festive atmosphere"
-tags: [slots, pg-soft, fortune-mouse, strategy]
+tags: [post, slots, pg-soft, fortune-mouse, strategy]
 faq:
   - question: "How does the Fortune Mouse Feature work? (ফরচুন মাউস ফিচার কিভাবে কাজ করে?)"
     answer: "During any spin, 3 Wild symbols can be added to the middle reel, and the first and third reels will respin until you win."

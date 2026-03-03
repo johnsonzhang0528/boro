@@ -7,7 +7,7 @@ date: 2026-03-30
 lastUpdated: 2026-03-30
 ogImage: "sic-bo-table-hero-optimized.webp"
 ogImageAlt: "Illuminated Sic Bo table layout showing dice combinations and payout odds"
-tags: ["live-casino", "sic-bo", "strategy", "dice-games"]
+tags: [post, "live-casino", "sic-bo", "strategy", "dice-games"]
 faq:
   - question: "Sic Bo কি?"
     answer: "এটি একটি প্রাচীন চীনা ডাইস গেম যেখানে ৩টি ছক্কা (Dice) একসাথে ফেলা হয় এবং তাদের যোগফল বা কম্বিনেশনের ওপর বাজি ধরা হয়।"

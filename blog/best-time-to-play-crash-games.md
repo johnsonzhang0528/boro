@@ -7,7 +7,7 @@ date: 2026-03-07
 lastUpdated: 2026-03-07
 ogImage: "best-time-to-play-aviator-hero-optimized.webp"
 ogImageAlt: "Clock face with winning multipliers instead of numbers, golden lighting"
-tags: ["strategy", "crash-game", "winning-tips", "luck"]
+tags: [post, "strategy", "crash-game", "winning-tips", "luck"]
 faq:
   - question: "মেশিন কি রাতে বেশি পেমেন্ট দেয়?"
     answer: "না, RNG অ্যালগরিদমের কারণে দিন বা রাতের ওপর ফলাফলের কোনো নির্ভরতা নেই।"

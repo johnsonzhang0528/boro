@@ -7,7 +7,7 @@ date: 2026-03-06
 lastUpdated: 2026-03-06
 ogImage: "aviator-predictor-scam-alert-hero-optimized.webp"
 ogImageAlt: "Hacker holding a phone with 'Aviator Predictor' app showing fake 100% win rate, red warning sign overlay"
-tags: ["scam-alert", "aviator", "predictor", "safety"]
+tags: [post, "scam-alert", "aviator", "predictor", "safety"]
 faq:
   - question: "Aviator হ্যাক করা কি সম্ভব?"
     answer: "না, Aviator গেমটি 'Provably Fair' প্রযুক্তিতে তৈরি, তাই বাইরের কোনো সফটওয়্যার দিয়ে এর ফলাফল আগে থেকে জানা অসম্ভব।"

@@ -3,7 +3,7 @@ layout: post.njk
 title: "NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)"
 description: "Prepare for the 2026 NBA season with our expert guide. Learn how to beat the Point Spread and find value in Player Prop markets (Points, Rebounds, Assists). (NBA বেটিং কৌশল)"
 date: 2026-04-29
-tags: ["Basketball Betting", "NBA", "Player Props"]
+tags: [post, "Basketball Betting", "NBA", "Player Props"]
 ogImage: nba-betting-guide-hero-optimized.webp
 ---
 

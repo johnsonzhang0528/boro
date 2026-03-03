@@ -7,7 +7,7 @@ date: 2026-03-13
 lastUpdated: 2026-03-13
 ogImage: "aviator-mistakes-hero-optimized.webp"
 ogImageAlt: "A frustrated player watching the plane crash at 1.01x"
-tags: ["tips", "mistakes", "aviator", "strategy"]
+tags: [post, "tips", "mistakes", "aviator", "strategy"]
 faq:
   - question: "Aviator এ সবচেয়ে বড় ভুল কি?"
     answer: "সবচেয়ে বড় ভুল হলো লোভ করা এবং লস রিকভার করার জন্য বড় বাজি ধরা।"

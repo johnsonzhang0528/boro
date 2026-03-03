@@ -4,6 +4,7 @@ title: "How to Secure Your Account with Two-Factor Authentication (2FA)"
 description: "Protect your winnings from hackers. Learn how to set up Google Authenticator (2FA) on your Boro Jeet account in 2 minutes."
 date: 2026-05-22
 tags: 
+  - post
   - security
   - account-safety
 faq:

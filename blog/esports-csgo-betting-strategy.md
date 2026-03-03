@@ -7,7 +7,7 @@ date: 2026-03-20
 lastUpdated: 2026-03-20
 ogImage: "csgo-esports-betting-hero-optimized.webp"
 ogImageAlt: "Counter-Terrorist and Terrorist symbols with betting odds overlay"
-tags: ["esports", "csgo", "cs2", "strategy", "betting-guide"]
+tags: [post, "esports", "csgo", "cs2", "strategy", "betting-guide"]
 faq:
   - question: "Map Winner Betting কি?"
     answer: "CS:GO খেলায় সাধারণত ৩টি ম্যাপ থাকে। আপনি বাজি ধরতে পারেন কে নির্দিষ্ট ম্যাপ (যেমন Mirage বা Dust 2) জিতবে।"

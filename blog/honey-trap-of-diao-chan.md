@@ -7,7 +7,7 @@ date: 2026-04-14
 lastUpdated: 2026-04-14
 ogImage: diao-chan-hero-optimized.webp
 ogImageAlt: "Honey Trap of Diao Chan slot game art, beautiful Chinese characters, Diao Chan with Lu Bu and Dong Zhuo"
-tags: [slots, pg-soft, diao-chan, strategy]
+tags: [post, slots, pg-soft, diao-chan, strategy]
 faq:
   - question: "Which Free Spin feature is best? (কোন ফ্রি স্পিন মোড সেরা?)"
     answer: "Diao Chan mode gives higher multipliers (x8-x12), while Dong Zhuo gives Sticky Wilds. High risk players should choose Diao Chan."

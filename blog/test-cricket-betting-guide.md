@@ -7,7 +7,7 @@ date: 2026-03-22
 lastUpdated: 2026-03-22
 ogImage: "test-cricket-red-ball-hero-optimized.webp"
 ogImageAlt: "Close up of a red cricket ball on a dusty pitch with test match field placements in background"
-tags: ["cricket", "test-match", "strategy", "betting-guide"]
+tags: [post, "cricket", "test-match", "strategy", "betting-guide"]
 faq:
   - question: "Test Cricket এ 'Draw' অপশন কি?"
     answer: "টেস্ট ম্যাচে ড্র হওয়ার সম্ভাবনা অনেক বেশি থাকে (বৃষ্টি বা পিচ ফ্ল্যাট হলে)। বেটিংয়ে এটি একটি বড় মার্কেট।"

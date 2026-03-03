@@ -7,7 +7,7 @@ date: 2026-04-23
 lastUpdated: 2026-04-23
 ogImage: corner-betting-hero-optimized.webp
 ogImageAlt: "Action shot of a football player taking a corner kick, with tactical lines showing the trajectory"
-tags: [sports-betting, football, strategy, corners]
+tags: [post, sports-betting, football, strategy, corners]
 faq:
   - question: "Why bet on corners? (কেন কর্নার বাজি ধরবেন?)"
     answer: "Corners are less random than goals. Teams with high pressure and many shots almost always generate many corners."

@@ -4,6 +4,7 @@ title: "Boro Jeet Device Ban: Is My Phone Blacklisted? (ডিভাইস ব�
 description: "Getting 'Device Not Allowed' or 'Multiple Accounts' error? (ডিভাইস নট এলাউড এরর আসছে?) Here is how device bans work and what you can (and cannot) do about it."
 date: 2026-05-25
 tags: 
+  - post
   - troubleshooting
   - security
 faq:

@@ -7,7 +7,7 @@ date: 2026-03-28
 lastUpdated: 2026-03-28
 ogImage: "lightning-roulette-hero-optimized.webp"
 ogImageAlt: "Evolution Gaming's Lightning Roulette studio with the host and electrifying number panels behind"
-tags: ["live-casino", "roulette", "strategy", "evolution-gaming"]
+tags: [post, "live-casino", "roulette", "strategy", "evolution-gaming"]
 faq:
   - question: "Lightning Roulette সাধারণ রুলেট থেকে আলাদা কেন?"
     answer: "এখানে প্রতি রাউন্ডে ১-৫টি 'লাকি নাম্বার' নির্বাচিত হয়, যা ৫০x থেকে ৫০০x পর্যন্ত মাল্টিপ্লায়ার দিতে পারে।"

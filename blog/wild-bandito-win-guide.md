@@ -7,7 +7,7 @@ date: 2026-04-10
 lastUpdated: 2026-04-10
 ogImage: wild-bandito-hero-optimized.webp
 ogImageAlt: "Wild Bandito slot characters, three skeleton mariachi musicians with guitars"
-tags: [slots, pg-soft, wild-bandito, winning-guide]
+tags: [post, slots, pg-soft, wild-bandito, winning-guide]
 faq:
   - question: "What are the Gold Framed Symbols? (গোল্ড ফ্রেমড সিম্বল কি?)"
     answer: "Symbols in gold frames that are part of a win transform into Wild symbols, helping you chain together multiple wins."

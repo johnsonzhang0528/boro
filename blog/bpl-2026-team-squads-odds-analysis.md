@@ -7,7 +7,7 @@ date: 2026-03-16
 lastUpdated: 2026-03-16
 ogImage: "bpl-2026-squads-prediction-hero-optimized.webp"
 ogImageAlt: "Cricket stadium atmosphere for BPL 2026 with team flags"
-tags: ["cricket", "bpl", "betting", "odds"]
+tags: [post, "cricket", "bpl", "betting", "odds"]
 faq:
   - question: "BPL 2026 এর ফেভারিট দল কোনটি?"
     answer: "বর্তমান স্কোয়াড এবং ফর্ম বিবেচনায় Comilla Victorians এবং Rangpur Riders সবচেয়ে শক্তিশালী।"

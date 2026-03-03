@@ -4,6 +4,7 @@ title: "Chasing Losses: The Psychology of the Death Spiral"
 description: "Lost money today? Thinking about doubling your next bet to get it back? Stop. Read this before you lose everything."
 date: 2026-05-17
 tags: 
+  - post
   - psychology
   - warning
 faq:

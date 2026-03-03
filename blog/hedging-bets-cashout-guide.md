@@ -7,7 +7,7 @@ date: 2026-03-19
 lastUpdated: 2026-03-19
 ogImage: "betting-cashout-button-hero-optimized.webp"
 ogImageAlt: "Smartphone screen showing a green Cash Out button with profit amount"
-tags: ["education", "cash-out", "trading", "strategy"]
+tags: [post, "education", "cash-out", "trading", "strategy"]
 faq:
   - question: "Hedging কি?"
     answer: "বিপরীত ফলাফলের ওপর বাজি ধরে লস কমানো বা লাভ নিশ্চিত করার কৌশল।"

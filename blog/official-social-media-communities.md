@@ -7,7 +7,7 @@ date: 2026-03-02
 lastUpdated: 2026-03-02
 ogImage: "boro-jeet-social-media-channels-hero-optimized.webp"
 ogImageAlt: "3D icons of Telegram, Facebook, and WhatsApp floating around Boro Jeet logo"
-tags: ["social-media", "community", "telegram", "facebook"]
+tags: [post, "social-media", "community", "telegram", "facebook"]
 faq:
   - question: "Boro Jeet এর অফিসিয়াল টেলিগ্রাম চ্যানেল কোনটি?"
     answer: "ভুয়া চ্যানেল থেকে সাবধান! আমাদের অফিসিয়াল লিংকটি অ্যাপের 'Contact Us' পেজে পাওয়া যাবে।"

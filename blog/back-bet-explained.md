@@ -4,6 +4,7 @@ title: "What is a Back Bet? The Traditional Way to Bet on Cricket"
 description: "New to betting exchanges? Learn what a 'Back Bet' means, how to calculate your profit, and why it's the foundation of all betting strategies."
 date: 2026-05-10
 tags: 
+  - post
   - exchange
   - beginners
 faq:

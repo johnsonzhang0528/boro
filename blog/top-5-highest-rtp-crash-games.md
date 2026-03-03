@@ -7,7 +7,7 @@ date: 2026-03-12
 lastUpdated: 2026-03-12
 ogImage: "crash-games-rtp-comparison-hero-optimized.webp"
 ogImageAlt: "Trophy podium ranking various crash games by RTP percentage"
-tags: ["review", "top-list", "rtp", "crash-games"]
+tags: [post, "review", "top-list", "rtp", "crash-games"]
 faq:
   - question: "RTP কি?"
     answer: "RTP (Return to Player) হলো একটি গেম দীর্ঘমেয়াদে খেলোয়াড়দের কত শতাংশ টাকা ফেরত দেয় তার হিসাব।"

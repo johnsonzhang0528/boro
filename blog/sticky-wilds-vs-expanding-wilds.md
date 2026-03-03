@@ -7,7 +7,7 @@ date: 2026-04-18
 lastUpdated: 2026-04-18
 ogImage: wilds-comparison-hero-optimized.webp
 ogImageAlt: "Comparison of a Sticky Wild symbol (locked in chains) and an Expanding Wild symbol (growing tall)"
-tags: [slots, guide, wild-symbol, strategy]
+tags: [post, slots, guide, wild-symbol, strategy]
 faq:
   - question: "What is a Sticky Wild? (স্টিকি ওয়াইল্ড কি?)"
     answer: "A Sticky Wild stays in the same place for multiple spins, allowing you to build large winning combinations over time."

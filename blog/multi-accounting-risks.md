@@ -4,6 +4,7 @@ title: "The Danger of Multi-Accounting: Why You Will Get Banned (মাল্ট
 description: "Thinking about opening 2 accounts to get the bonus twice? (বোনাসের জন্য ২য় একাউন্ট খুলছেন?) Don't do it. Here is how Boro Jeet detects multi-accounting and bans both accounts."
 date: 2026-05-25
 tags: 
+  - post
   - responsible-gaming
   - account-security
 faq:

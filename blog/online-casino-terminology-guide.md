@@ -9,6 +9,7 @@ ogImage: og-casino-terminology-guide-optimized.webp
 ogImageAlt: Online Casino Terminology Guide (অনলাইন ক্যাসিনো পরিভাষা নির্দেশিকা)
 tags:
   - post
+  - post
   - guide
   - terminology
   - glossary

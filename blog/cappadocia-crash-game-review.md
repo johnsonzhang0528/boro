@@ -7,7 +7,7 @@ date: 2026-03-15
 lastUpdated: 2026-03-15
 ogImage: "cappadocia-game-hero-optimized.webp"
 ogImageAlt: "Colorful hot air balloons rising over the landscape of Cappadocia in a crash game style"
-tags: ["review", "cappadocia", "smartsoft", "crash-games"]
+tags: [post, "review", "cappadocia", "smartsoft", "crash-games"]
 faq:
   - question: "Cappadocia গেমটি কি?"
     answer: "এটি তুরস্কের বিখ্যাত ক্যাপাডোসিয়া বেলুন উৎসবের থিমে তৈরি একটি ক্র্যাশ গেম, যেখানে আপনি একসাথে একাধিক বেলুন ওড়াতে পারেন।"

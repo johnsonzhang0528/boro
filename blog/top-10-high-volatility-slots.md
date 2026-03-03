@@ -7,7 +7,7 @@ date: 2026-03-23
 lastUpdated: 2026-03-23
 ogImage: "high-volatility-slots-hero-optimized.webp"
 ogImageAlt: "Explosion of gold coins and diamonds from a slot machine jackpot"
-tags: ["slots", "casino", "volatility", "review"]
+tags: [post, "slots", "casino", "volatility", "review"]
 faq:
   - question: "High Volatility Slots কি?"
     answer: "এই স্লটগুলি জেতার সুযোগ কম দেয় কিন্তু জিতলে অনেক বড় পুরস্কার (যেমন ৫০০০ গুণ) দেয়।"

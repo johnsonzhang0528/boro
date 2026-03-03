@@ -7,7 +7,7 @@ date: 2026-04-11
 lastUpdated: 2026-04-11
 ogImage: crypto-gold-hero-optimized.webp
 ogImageAlt: "Crypto Gold slot main character, a cyberpunk hacker with bitcoin symbols"
-tags: [slots, pg-soft, crypto-gold, slot-review]
+tags: [post, slots, pg-soft, crypto-gold, slot-review]
 faq:
   - question: "What is the theme of Crypto Gold?"
     answer: "It is a futuristic, cyberpunk themed slot centered around cryptocurrency mining and a master hacker."

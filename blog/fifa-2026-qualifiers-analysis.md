@@ -7,7 +7,7 @@ date: 2026-04-21
 lastUpdated: 2026-04-21
 ogImage: qualifiers-hero-optimized.webp
 ogImageAlt: "A world map with highlighted qualifying zones (Asia, South America, Europe) and football lines connecting them to North America"
-tags: [sports-betting, football, fifa-qualifiers, analysis]
+tags: [post, sports-betting, football, fifa-qualifiers, analysis]
 faq:
   - question: "How many Asian teams will qualify? (এশিয়ার কয়টি দল যাবে?)"
     answer: "For 2026, AFC gets 8 direct slots! This is a huge chance for teams like Japan, South Korea, Iran, and maybe even a surprise underdog."

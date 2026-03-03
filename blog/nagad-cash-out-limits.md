@@ -7,7 +7,7 @@ date: 2026-04-02
 lastUpdated: 2026-04-02
 ogImage: "nagad-limit-chart-hero-optimized.webp"
 ogImageAlt: "3D illustration of Nagad logo with coins stacked representing transaction limits"
-tags: ["payments", "nagad", "banking", "limits"]
+tags: [post, "payments", "nagad", "banking", "limits"]
 faq:
   - question: "নগদ এ দিনে কত টাকা ক্যাশ আউট করা যায়?"
     answer: "বর্তমানে নগদ অ্যাপ ব্যবহার করে দিনে সর্বোচ্চ ২,০০,০০০ (দুই লক্ষ) টাকা ক্যাশ আউট করা যায়।"

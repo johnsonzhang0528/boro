@@ -7,7 +7,7 @@ date: 2026-03-07
 lastUpdated: 2026-03-07
 ogImage: "post-crash-analysis-history-hero-optimized.webp"
 ogImageAlt: "Digital detective analyzing crash game graph data with magnifying glass, futuristic HUD interface"
-tags: ["analytics", "strategy", "history", "patterns"]
+tags: [post, "analytics", "strategy", "history", "patterns"]
 faq:
   - question: "Round History বার কি?"
     answer: "এটি গেম স্ক্রিনের ওপরে থাকা একটি বার, যেখানে শেষ ২০-৫০টি রাউন্ডের ফলাফল (রঙিন নম্বর) দেখানো হয়।"

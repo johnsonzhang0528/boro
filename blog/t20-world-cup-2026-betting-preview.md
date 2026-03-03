@@ -7,7 +7,7 @@ date: 2026-03-17
 lastUpdated: 2026-03-17
 ogImage: "t20-wc-2026-preview-hero-optimized.webp"
 ogImageAlt: "T20 World Cup trophy with flags of participating nations"
-tags: ["cricket", "t20-world-cup", "prediction", "betting"]
+tags: [post, "cricket", "t20-world-cup", "prediction", "betting"]
 faq:
   - question: "T20 World Cup 2026 কোথায় হবে?"
     answer: "২০২৬ বিশ্বকাপ ভারত ও শ্রীলঙ্কায় যৌথভাবে অনুষ্ঠিত হবে, যা স্পিনারদের জন্য বড় সুবিধা।"

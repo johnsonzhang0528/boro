@@ -7,7 +7,7 @@ date: 2026-04-07
 lastUpdated: 2026-04-07
 ogImage: pg-soft-review-hero-optimized.webp
 ogImageAlt: "PG Soft logo with popular characters like the Lucky Neko cat and Mahjong tiles"
-tags: [slots, pg-soft, game-provider, mobile-gaming]
+tags: [post, slots, pg-soft, game-provider, mobile-gaming]
 faq:
   - question: "What is PG Soft? (PG Soft কি?)"
     answer: "PG Soft (Pocket Games Soft) is a world-class mobile game developer known for high-quality graphics and innovative gameplay, very popular in Bangladesh."

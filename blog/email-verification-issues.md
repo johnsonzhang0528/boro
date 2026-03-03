@@ -4,6 +4,7 @@ title: "Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভ
 description: "Clicked 'Send Code' but nothing arrived? (OTP কোড পাচ্ছেন না?) Solving email verification problems on Boro Jeet, JeetBuzz, and other betting sites."
 date: 2026-05-26
 tags: 
+  - post
   - troubleshooting
   - account-setup
 faq:

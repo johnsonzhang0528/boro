@@ -7,7 +7,7 @@ date: 2026-04-02
 lastUpdated: 2026-04-02
 ogImage: "bkash-app-error-screen-optimized.webp"
 ogImageAlt: "Smartphone screen showing bKash app transaction failed message with a red cross icon"
-tags: ["payments", "bkash", "troubleshooting", "guides"]
+tags: [post, "payments", "bkash", "troubleshooting", "guides"]
 faq:
   - question: "কেন আমার bKash ডিপোজিট বাতিল হলো?"
     answer: "ভুল রেফারেন্স নম্বর, ক্যাশ আউট লিমিট শেষ হয়ে যাওয়া, অথবা সার্ভারের সমস্যার কারণে এটি হতে পারে।"

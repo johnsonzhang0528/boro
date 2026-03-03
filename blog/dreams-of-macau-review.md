@@ -7,7 +7,7 @@ date: 2026-04-12
 lastUpdated: 2026-04-12
 ogImage: dreams-of-macau-hero-optimized.webp
 ogImageAlt: "Dreams of Macau slot game art, luxurious casino interior with diamond reel frame"
-tags: [slots, pg-soft, dreams-of-macau, slot-review]
+tags: [post, slots, pg-soft, dreams-of-macau, slot-review]
 faq:
   - question: "How does the Sticky Wilds-on-the-Way feature work? (স্টিকি ওয়াইল্ডস কি?)"
     answer: "Normally, Wilds disappear after a win. In this game, they can stick around for multiple cascades if they are generated from a diamond frame."

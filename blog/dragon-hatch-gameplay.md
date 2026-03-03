@@ -7,7 +7,7 @@ date: 2026-04-13
 lastUpdated: 2026-04-13
 ogImage: dragon-hatch-hero-optimized.webp
 ogImageAlt: "Dragon Hatch slot game art, golden dragon eye glowing in a dark cave"
-tags: [slots, pg-soft, dragon-hatch, winning-guide]
+tags: [post, slots, pg-soft, dragon-hatch, winning-guide]
 faq:
   - question: "How does Dragon Hatch payout work? (পে-আউট সিস্টেম কি?)"
     answer: "It uses a 'Cluster Pays' system on a 5x5 grid. You need a group of 4 or more touching symbols to win."

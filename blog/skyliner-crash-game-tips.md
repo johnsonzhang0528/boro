@@ -7,7 +7,7 @@ date: 2026-03-15
 lastUpdated: 2026-03-15
 ogImage: "skyliner-game-hero-optimized.webp"
 ogImageAlt: "Art deco style airplane flying over a city skyline"
-tags: ["review", "skyliner", "tips", "strategy"]
+tags: [post, "review", "skyliner", "tips", "strategy"]
 faq:
   - question: "Skyliner এবং Aviator এর পার্থক্য কি?"
     answer: "মূল পার্থক্য হলো থিম এবং ডিজাইনে। Skyliner এর ডিজাইন অনেক বেশি ক্ল্যাসিক এবং আরবান।"

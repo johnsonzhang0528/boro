@@ -7,7 +7,7 @@ date: 2026-03-26
 lastUpdated: 2026-03-26
 ogImage: "playtech-slots-hero-optimized.webp"
 ogImageAlt: "Collage of Greek mythology characters from Age of the Gods slot series"
-tags: ["slots", "playtech", "review", "age-of-the-gods"]
+tags: [post, "slots", "playtech", "review", "age-of-the-gods"]
 faq:
   - question: "Playtech গেম কেন স্পেশাল?"
     answer: "তাদের গ্রাফিক্স সিনেমার মতো এবং প্রতিটি গেমে একটি গভীর গল্প (Storyline) থাকে।"

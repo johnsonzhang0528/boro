@@ -7,7 +7,7 @@ date: 2026-02-25
 lastUpdated: 2026-02-25
 ogImage: boro-jeet-support-hero-optimized.webp
 ogImageAlt: "Boro Jeet Customer Support Agent"
-tags: [support, help, contact, guide]
+tags: [post, support, help, contact, guide]
 faq:
   - question: "What is the official Boro Jeet support email?"
     answer: "The official support email is typically support@borojeet.com (check the app for the most current localized address)."

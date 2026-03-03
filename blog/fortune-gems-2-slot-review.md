@@ -7,7 +7,7 @@ date: 2026-03-25
 lastUpdated: 2026-03-25
 ogImage: "fortune-gems-2-slot-hero-optimized.webp"
 ogImageAlt: "Brilliant gemstone symbols and the new bonus wheel of Fortune Gems 2 slot"
-tags: ["slots", "jili", "review", "fortune-gems"]
+tags: [post, "slots", "jili", "review", "fortune-gems"]
 faq:
   - question: "পার্ট ১ এর সাথে পার্থক্য কি?"
     answer: "মূল পার্থক্য হলো 'Special Wheel'। এখানে আপনি সরাসরি বোনাস পয়েন্ট বা মাল্টিপ্লায়ার জিততে পারেন যা পার্ট ১ এ ছিল না।"

@@ -7,7 +7,7 @@ date: 2026-04-01
 lastUpdated: 2026-04-01
 ogImage: "rummy-cards-hand-optimized.webp"
 ogImageAlt: "A player organizing a hand of cards into sets and sequences on a wooden table"
-tags: ["rummy", "card-games", "skill-games", "strategy"]
+tags: [post, "rummy", "card-games", "skill-games", "strategy"]
 faq:
   - question: "Rummy কি ভাগ্য নাকি দক্ষতা?"
     answer: "Rummy কে 'Game of Skill' বলা হয়। এখানে কার্ড সাজানোর দক্ষতা ভাগ্যের চেয়ে বেশি গুরুত্বপূর্ণ।"

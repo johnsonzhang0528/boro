@@ -9,6 +9,7 @@ ogImage: og-cricket-toss-betting-optimized.webp
 ogImageAlt: Cricket Toss Betting Strategy Guide
 tags:
   - post
+  - post
   - sports-betting
   - cricket
   - strategy

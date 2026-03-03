@@ -7,7 +7,7 @@ date: 2026-02-23
 lastUpdated: 2026-02-23
 ogImage: boro-jeet-agent-signup-banner-optimized.webp
 ogImageAlt: "Boro Jeet Agent Program Registration Banner"
-tags: [agent, affiliate, money, guide]
+tags: [post, agent, affiliate, money, guide]
 faq:
   - question: "Is joining the Boro Jeet Agent program free?"
     answer: "Yes, registration for the Boro Jeet partner program is 100% free. You do not need to pay any fees to become an agent."

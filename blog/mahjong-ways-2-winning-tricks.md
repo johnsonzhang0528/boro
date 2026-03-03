@@ -7,7 +7,7 @@ date: 2026-04-08
 lastUpdated: 2026-04-08
 ogImage: mahjong-ways-2-hero-optimized.webp
 ogImageAlt: "Mahjong Ways 2 game logo with gold dragon background"
-tags: [slots, pg-soft, mahjong-ways-2, winning-tricks]
+tags: [post, slots, pg-soft, mahjong-ways-2, winning-tricks]
 faq:
   - question: "Is Mahjong Ways 2 better than the original? (মাহজং ওয়েজ ২ কি ১ এর চেয়ে ভালো?)"
     answer: "Yes, it offers more ways to win (up to 2000) and slightly better graphics, though the core mechanic is similar."

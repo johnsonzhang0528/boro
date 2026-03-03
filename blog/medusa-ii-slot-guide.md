@@ -7,7 +7,7 @@ date: 2026-04-13
 lastUpdated: 2026-04-13
 ogImage: medusa-ii-hero-optimized.webp
 ogImageAlt: "Medusa II slot game promotional art, Medusa with snake hair and glowing eyes in a Greek temple"
-tags: [slots, pg-soft, medusa-ii, winning-strategy]
+tags: [post, slots, pg-soft, medusa-ii, winning-strategy]
 faq:
   - question: "What are Stacked Wilds? (স্ট্যাকড ওয়াইল্ডস কি?)"
     answer: "These are Wild symbols that appear stacked on top of each other, potentially covering an entire reel for multiple wins."

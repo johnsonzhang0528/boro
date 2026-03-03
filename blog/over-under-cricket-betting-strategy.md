@@ -7,7 +7,7 @@ date: 2026-03-19
 lastUpdated: 2026-03-19
 ogImage: "cricket-over-under-betting-optimized.webp"
 ogImageAlt: "Cricket stadium scoreboard showing projected score for over/under betting"
-tags: ["education", "over-under", "cricket-betting", "strategy"]
+tags: [post, "education", "over-under", "cricket-betting", "strategy"]
 faq:
   - question: "Over/Under Betting কি?"
     answer: "এটি এমন একটি বাজি যেখানে আপনি অনুমান করেন মোট রান বুকমেকারের নির্ধারিত লাইনের চেয়ে বেশি (Over) হবে নাকি কম (Under)।"

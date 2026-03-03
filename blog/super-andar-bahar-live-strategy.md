@@ -7,7 +7,7 @@ date: 2026-03-31
 lastUpdated: 2026-03-31
 ogImage: "super-andar-bahar-dealer-optimized.webp"
 ogImageAlt: "Indian dealer in a saree at a Super Andar Bahar table holding a card, gold studio background"
-tags: ["live-casino", "andar-bahar", "card-games", "strategy"]
+tags: [post, "live-casino", "andar-bahar", "card-games", "strategy"]
 faq:
   - question: "Super Andar Bahar কেন আলাদা?"
     answer: "সাধারণ আন্দার বাহারের মতোই, তবে এতে সাইড বেটে র‍্যান্ডম মাল্টিপ্লায়ার যোগ করা হয় যা ৪০০০x পর্যন্ত পেআউট দিতে পারে।"

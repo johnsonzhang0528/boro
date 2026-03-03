@@ -7,7 +7,7 @@ date: 2026-03-05
 lastUpdated: 2026-03-05
 ogImage: "magnify-man-crash-game-hero-optimized.webp"
 ogImageAlt: "Superhero character flying above a futuristic metropolis skyline with multiplier numbers"
-tags: ["magnify-man", "crash-game", "fugaso", "superhero"]
+tags: [post, "magnify-man", "crash-game", "fugaso", "superhero"]
 faq:
   - question: "Magnify Man গেমটি কোন কোম্পানির?"
     answer: "এটি Fugaso (Future Gaming Solutions) এর তৈরি একটি জনপ্রিয় গেম।"

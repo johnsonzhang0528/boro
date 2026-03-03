@@ -4,6 +4,7 @@ title: "What is a Lay Bet? How to Be the Bookmaker"
 description: "The 'Pink Button' explained. Learn how to Lay a bet on Boro Jeet, calculate your liability, and profit when a team loses."
 date: 2026-05-11
 tags: 
+  - post
   - exchange
   - advanced
 faq:

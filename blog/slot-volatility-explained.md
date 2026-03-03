@@ -7,7 +7,7 @@ date: 2026-04-16
 lastUpdated: 2026-04-16
 ogImage: volatility-hero-optimized.webp
 ogImageAlt: "Conceptual comparison of high volatility (rollercoaster) vs low volatility (smooth road) in slot gaming"
-tags: [slots, guide, volatility, bankroll-management]
+tags: [post, slots, guide, volatility, bankroll-management]
 faq:
   - question: "What is High Volatility? (হাই ভোলাটিলিটি কি?)"
     answer: "High volatility means high risk. You might lose for a long time, but when you win, the payout is massive. Example: Mahjong Ways."

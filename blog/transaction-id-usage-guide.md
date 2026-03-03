@@ -7,7 +7,7 @@ date: 2026-04-05
 lastUpdated: 2026-04-05
 ogImage: "trxid-explained-hero-optimized.webp"
 ogImageAlt: "Magnifying glass focusing on a TrxID code on a smartphone screen, digital security concept"
-tags: ["payments", "troubleshooting", "guide", "security"]
+tags: [post, "payments", "troubleshooting", "guide", "security"]
 faq:
   - question: "TrxID কি?"
     answer: "TrxID (Transaction ID) হলো প্রতিটি লেনদেনের একটি ইউনিক কোড। এটি প্রমান করে যে আপনি টাকা পাঠিয়েছেন।"

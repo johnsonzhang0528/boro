@@ -7,7 +7,7 @@ date: 2026-03-21
 lastUpdated: 2026-03-21
 ogImage: "cash-out-feature-ui-hero-optimized.webp"
 ogImageAlt: "Mobile betting interface highlighting the Cash Out button with fluctuating values"
-tags: ["education", "cash-out", "betting-features", "risk-management"]
+tags: [post, "education", "cash-out", "betting-features", "risk-management"]
 faq:
   - question: "Partial Cash Out কি?"
     answer: "পুরো টাকা না তুলে বাজির কিছু অংশ (যেমন ৫০%) ক্যাশ আউট করা এবং বাকিটা খেলা চালিয়ে যাওয়া।"

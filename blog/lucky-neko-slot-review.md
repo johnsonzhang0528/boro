@@ -7,7 +7,7 @@ date: 2026-04-08
 lastUpdated: 2026-04-08
 ogImage: lucky-neko-hero-optimized.webp
 ogImageAlt: "Lucky Neko game character holding a gold coin with sakura background"
-tags: [slots, pg-soft, lucky-neko, gigablox]
+tags: [post, slots, pg-soft, lucky-neko, gigablox]
 faq:
   - question: "What is the Gigablox mechanic in Lucky Neko? (গিগাব্লক্স কি?)"
     answer: "It allows symbols to land as giant blocks (2x2, 3x3, or 4x4), which count as multiple individual symbols, massively increasing winning ways."

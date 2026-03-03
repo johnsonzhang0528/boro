@@ -7,7 +7,7 @@ date: 2026-03-29
 lastUpdated: 2026-03-29
 ogImage: "baccarat-roadmaps-guide-optimized.webp"
 ogImageAlt: "Detailed Baccarat scoreboard displaying Bead Plate, Big Road, Big Eye Boy, Small Road, and Cockroach Pig"
-tags: ["live-casino", "baccarat", "strategy", "roadmaps"]
+tags: [post, "live-casino", "baccarat", "strategy", "roadmaps"]
 faq:
   - question: "Roadmap কি?"
     answer: "এটি ব্যাকারাট খেলার পূর্ববর্তী ফলাফলের (Banker/Player Wins) একটি ভিজ্যুয়াল রেকর্ড।"

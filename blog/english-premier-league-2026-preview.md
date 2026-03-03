@@ -7,7 +7,7 @@ date: 2026-04-20
 lastUpdated: 2026-04-20
 ogImage: epl-2026-hero-optimized.webp
 ogImageAlt: "English Premier League trophy with 2026 branding, stadium background with colorful team scarves"
-tags: [sports-betting, football, epl, premier-league]
+tags: [post, sports-betting, football, epl, premier-league]
 faq:
   - question: "Who is the favorite to win EPL 2026? (ইপিএল ২০২৬ জয়ের ফেভারিট কারা?)"
     answer: "Manchester City remains the bookies' favorite, but Arsenal's young squad is now at their peak maturity."

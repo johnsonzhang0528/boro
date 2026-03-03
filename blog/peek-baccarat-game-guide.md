@@ -9,6 +9,7 @@ ogImage: og-peek-baccarat-guide-optimized.webp
 ogImageAlt: Peek Baccarat Live Casino Game Guide
 tags:
   - post
+  - post
   - live-casino
   - baccarat
   - strategy

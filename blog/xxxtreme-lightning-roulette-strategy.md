@@ -7,7 +7,7 @@ date: 2026-03-30
 lastUpdated: 2026-03-30
 ogImage: "xxxtreme-roulette-lightning-strike-optimized.webp"
 ogImageAlt: "Dramatic red studio lighting of XXXTreme Lightning Roulette showing the betting grid"
-tags: ["live-casino", "roulette", "strategy", "high-volatility"]
+tags: [post, "live-casino", "roulette", "strategy", "high-volatility"]
 faq:
   - question: "XXXTreme এবং নিয়মিত Lightning Roulette এর পার্থক্য কি?"
     answer: "XXXTreme-এ মাল্টিপ্লায়ার ২০০০x পর্যন্ত যেতে পারে, যখন সাধারণ Lightning-এ এটি ৫০০x। তবে XXXTreme-এ পেমেন্ট কমে ১৯:১ (সাধারণ সোজা বাজির জন্য)।"

@@ -7,7 +7,7 @@ date: 2026-04-18
 lastUpdated: 2026-04-18
 ogImage: megaways-hero-optimized.webp
 ogImageAlt: "Futuristic digital grid showing the number 117,649 glowing in neon, representing Megaways winning potential"
-tags: [slots, guide, megaways, strategy]
+tags: [post, slots, guide, megaways, strategy]
 faq:
   - question: "What is Megaways? (মেগাওয়েজ কি?)"
     answer: "It is a random reel modifier mechanic. Every spin, the number of symbols on each reel changes (from 2 to 7), changing the number of ways to win."

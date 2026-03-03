@@ -7,7 +7,7 @@ date: 2026-04-20
 lastUpdated: 2026-04-20
 ogImage: fifa-2026-hero-optimized.webp
 ogImageAlt: "FIFA World Cup 2026 trophy standing in a stadium with USA, Mexico, and Canada flags, excitement atmosphere"
-tags: [sports-betting, football, fifa-2026, guide]
+tags: [post, sports-betting, football, fifa-2026, guide]
 faq:
   - question: "When is the World Cup 2026? (বিশ্বকাপ ২০২৬ কবে?)"
     answer: "It starts in June 2026 and will be hosted by the USA, Mexico, and Canada."

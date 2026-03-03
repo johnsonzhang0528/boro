@@ -7,7 +7,7 @@ date: 2026-03-12
 lastUpdated: 2026-03-12
 ogImage: "bonus-money-crash-game-hero-optimized.webp"
 ogImageAlt: "Golden bonus coins raining on a crash game screen with a wagering requirement warning"
-tags: ["bonus", "guide", "wagering", "aviator"]
+tags: [post, "bonus", "guide", "wagering", "aviator"]
 faq:
   - question: "Bonus দিয়ে কি Aviator খেলা যায়?"
     answer: "বেশিরভাগ সাইটে বোনাস মানি দিয়ে ক্র্যাশ গেম খেলার অনুমতি দেওয়া হয় না, বা দেওয়া হলেও কন্ট্রিবিউশন ১০-২০% থাকে।"

@@ -7,7 +7,7 @@ date: 2026-03-01
 lastUpdated: 2026-03-01
 ogImage: "boro-jeet-ios-download-hero-optimized.webp"
 ogImageAlt: "iPhone displaying Boro Jeet app icon on home screen"
-tags: ["ios", "iphone", "app-download", "mobile"]
+tags: [post, "ios", "iphone", "app-download", "mobile"]
 faq:
   - question: "Boro Jeet কি App Store-এ আছে?"
     answer: "না, জুয়া সংক্রান্ত বিধিনিষেধের কারণে এটি সরাসরি Apple App Store-এ পাওয়া যায় না। তবে আপনি PWA হিসেবে এটি ইনস্টল করতে পারেন।"

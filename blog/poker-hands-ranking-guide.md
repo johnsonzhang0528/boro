@@ -7,7 +7,7 @@ date: 2026-04-01
 lastUpdated: 2026-04-01
 ogImage: "poker-royal-flush-hand-optimized.webp"
 ogImageAlt: "A player holding a Royal Flush (Ace, King, Queen, Jack, 10 of Spades) in a dimly lit casino setting"
-tags: ["poker", "card-games", "strategy", "beginners-guide"]
+tags: [post, "poker", "card-games", "strategy", "beginners-guide"]
 faq:
   - question: "Flush বড় নাকি Straight?"
     answer: "Flush বড়। Flush এর র‍্যাঙ্কিং Straight এর উপরে।"

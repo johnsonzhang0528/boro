@@ -7,7 +7,7 @@ date: 2026-03-05
 lastUpdated: 2026-03-05
 ogImage: "cash-or-crash-live-strategy-hero-optimized.webp"
 ogImageAlt: "Animated blimp soaring through a metropolis in Cash or Crash Live game show"
-tags: ["live-casino", "crash-game", "evolution-gaming", "strategy"]
+tags: [post, "live-casino", "crash-game", "evolution-gaming", "strategy"]
 faq:
   - question: "Cash or Crash গেমটির RTP কত?"
     answer: "এই গেমের RTP হলো অবিশ্বাস্য 99.59%, যা যেকোনো ক্যাসিনো গেমের মধ্যে সর্বোচ্চ।"

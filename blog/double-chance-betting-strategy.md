@@ -3,7 +3,7 @@ layout: post.njk
 title: "Double Chance Betting Strategy: Low Risk Wins (ডাবল চান্স বেটিং)"
 description: "Reduce your risk by covering two possible outcomes with a single bet. Learn how to use Double Chance strategy effectively on BoroJeet. (ডাবল চান্স বেটিং কৌশল)"
 date: 2026-05-01
-tags: ["Football Betting", "low-risk", "beginner-guide"]
+tags: [post, "Football Betting", "low-risk", "beginner-guide"]
 ogImage: double-chance-betting-hero-optimized.webp
 ---
 

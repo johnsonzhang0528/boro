@@ -7,7 +7,7 @@ date: 2026-03-08
 lastUpdated: 2026-03-08
 ogImage: "auto-cashout-mastery-hero-optimized.webp"
 ogImageAlt: "Digital dashboard showing an automated trading bot configuration with green success indicators"
-tags: ["strategy", "automation", "aviator", "tips"]
+tags: [post, "strategy", "automation", "aviator", "tips"]
 faq:
   - question: "Auto-Cashout কি?"
     answer: "এটি এমন একটি ফিচার যা আপনার নির্ধারিত মাল্টিপ্লায়ারে পৌঁছালে স্বয়ংক্রিয়ভাবে টাকা তুলে নেয়।"

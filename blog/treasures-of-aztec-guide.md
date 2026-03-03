@@ -7,7 +7,7 @@ date: 2026-04-09
 lastUpdated: 2026-04-09
 ogImage: treasures-of-aztec-hero-optimized.webp
 ogImageAlt: "Treasures of Aztec slot game logo with Mayan pyramid background"
-tags: [slots, pg-soft, treasures-of-aztec, winning-strategy]
+tags: [post, slots, pg-soft, treasures-of-aztec, winning-strategy]
 faq:
   - question: "How does the 'Wilds on the Way' feature work? (ওয়াইল্ডস অন দ্য ওয়ে কি?)"
     answer: "Silver framed symbols transform into gold framed symbols after a win. If the gold symbol wins again, it turns into a Wild."

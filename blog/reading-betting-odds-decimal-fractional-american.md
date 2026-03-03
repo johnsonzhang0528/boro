@@ -7,7 +7,7 @@ date: 2026-03-17
 lastUpdated: 2026-03-17
 ogImage: "betting-odds-explained-hero-optimized.webp"
 ogImageAlt: "Chalkboard demonstrating different types of betting odds formats"
-tags: ["education", "odds", "betting-guide", "beginners"]
+tags: [post, "education", "odds", "betting-guide", "beginners"]
 faq:
   - question: "Decimal Odds কি?"
     answer: "এটি সবচেয়ে সহজ ফরম্যাট (যেমন 2.50)। বাজি x অডস = মোট ফেরত।"

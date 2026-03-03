@@ -7,7 +7,7 @@ date: 2026-03-27
 lastUpdated: 2026-03-27
 ogImage: "buy-feature-button-hero-optimized.webp"
 ogImageAlt: "Prominent 'Buy Free Spins' button (Cost 100x Bet) on a slot game interface"
-tags: ["slots", "pragmatic-play", "strategy", "buy-feature"]
+tags: [post, "slots", "pragmatic-play", "strategy", "buy-feature"]
 faq:
   - question: "Buy Feature কি?"
     answer: "এটি এমন একটি অপশন যা আপনাকে বেটের ১০০ গুণ (সাধারণত) খরচ করে সরাসরি বোনাস রাউন্ডে নিয়ে যায়।"

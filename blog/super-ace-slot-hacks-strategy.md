@@ -7,7 +7,7 @@ date: 2026-03-24
 lastUpdated: 2026-03-24
 ogImage: "super-ace-slot-hero-optimized.webp"
 ogImageAlt: "Super Ace slot game screen showing Golden Cards transforming into Joker Wilds"
-tags: ["slots", "jili", "strategy", "game-guide"]
+tags: [post, "slots", "jili", "strategy", "game-guide"]
 faq:
   - question: "Golden Card কি?"
     answer: "Super Ace গেমে গোল্ডেন কার্ড যদি উইনিং কম্বিনেশনে থাকে, তবে এটি ফ্লিপ করে 'Joker' (Wild) কার্ডে পরিণত হয়।"

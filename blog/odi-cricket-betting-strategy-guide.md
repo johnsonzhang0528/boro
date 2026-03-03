@@ -7,7 +7,7 @@ date: 2026-03-22
 lastUpdated: 2026-03-22
 ogImage: "odi-cricket-betting-hero-optimized.webp"
 ogImageAlt: "Cricket stadium scoreboard showing 50 overs match details with betting odds"
-tags: ["cricket", "odi", "strategy", "betting-guide"]
+tags: [post, "cricket", "odi", "strategy", "betting-guide"]
 faq:
   - question: "ODI এবং T20 বেটিং এর পার্থক্য কি?"
     answer: "T20 তে প্রতিটি বল গুরুত্বপূর্ণ, কিন্তু ODI তে 'Middle Overs' (১১-৪০ ওভার) এবং পার্টনারশিপ বেশি গুরুত্বপূর্ণ।"

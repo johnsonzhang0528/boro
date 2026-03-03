@@ -7,7 +7,7 @@ date: 2026-03-04
 lastUpdated: 2026-03-04
 ogImage: "cricket-x-game-strategy-hero-optimized.webp"
 ogImageAlt: "Cricket batsman hitting a ball that turns into a rising multiplier graph"
-tags: ["cricket-x", "crash-game", "strategy", "smartsoft"]
+tags: [post, "cricket-x", "crash-game", "strategy", "smartsoft"]
 faq:
   - question: "Cricket X গেমটি কারা বানিয়েছে?"
     answer: "এটি Smartsoft Gaming-এর তৈরি একটি জনপ্রিয় ক্র্যাশ গেম।"

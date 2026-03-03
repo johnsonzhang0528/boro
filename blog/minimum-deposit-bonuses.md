@@ -7,7 +7,7 @@ date: 2026-04-06
 lastUpdated: 2026-04-06
 ogImage: "bonus-deposit-coins-optimized.webp"
 ogImageAlt: "A pile of gold coins with a '500 BDT' tag and a 'Bonus Unlocked' neon sign in the background"
-tags: ["promotions", "bonus", "deposit", "guide"]
+tags: [post, "promotions", "bonus", "deposit", "guide"]
 faq:
   - question: "বোনাস পেতে সর্বনিম্ন কত টাকা ডিপোজিট করতে হবে?"
     answer: "আমাদের ওয়েলকাম বোনাসের জন্য সর্বনিম্ন ডিপোজিট সাধারণত ৫০০ টাকা। তবে অফার ভেদে এটি ২০০ টাকাও হতে পারে।"

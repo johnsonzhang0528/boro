@@ -7,7 +7,7 @@ date: 2026-03-04
 lastUpdated: 2026-03-04
 ogImage: "big-bass-crash-game-hero-optimized.webp"
 ogImageAlt: "Fisherman from Big Bass Bonanza driving a boat with a net catching multiplier numbers"
-tags: ["big-bass", "crash-game", "pragmatic-play", "review"]
+tags: [post, "big-bass", "crash-game", "pragmatic-play", "review"]
 faq:
   - question: "Big Bass Crash গেমটির RTP কত?"
     answer: "এই গেমের RTP হলো 95.50%, যা অন্যান্য স্লট গেমের তুলনায় বেশ ভালো।"

@@ -7,7 +7,7 @@ date: 2026-04-19
 lastUpdated: 2026-04-19
 ogImage: tournament-hero-optimized.webp
 ogImageAlt: "Golden trophy cup surrounded by slot machines and falling confetti, championship atmosphere"
-tags: [slots, guide, tournament, strategy]
+tags: [post, slots, guide, tournament, strategy]
 faq:
   - question: "How do I join a tournament? (কিভাবে যোগ দেবেন?)"
     answer: "Most tournaments are free to join. Just play the eligible games during the event period."

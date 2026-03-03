@@ -7,7 +7,7 @@ date: 2026-04-22
 lastUpdated: 2026-04-22
 ogImage: btts-strategy-hero-optimized.webp
 ogImageAlt: "Split screen showing two football players celebrating goals, with a glowing 'YES' checkmark in the center"
-tags: [sports-betting, football, strategy, btts]
+tags: [post, sports-betting, football, strategy, btts]
 faq:
   - question: "What is BTTS? (BTTS কি?)"
     answer: "BTTS means 'Both Teams to Score'. You win if the final score is 1-1, 2-1, 3-2, etc. You lose if it is 1-0, 0-0, or 3-0."

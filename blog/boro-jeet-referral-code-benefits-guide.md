@@ -7,7 +7,7 @@ date: 2026-02-28
 lastUpdated: 2026-02-28
 ogImage: "boro-jeet-referral-code-income-hero-optimized.webp"
 ogImageAlt: "Happy user showing referral earnings on smartphone screen"
-tags: ["referral", "bonus", "commission", "earn-money"]
+tags: [post, "referral", "bonus", "commission", "earn-money"]
 faq:
   - question: "Referral Bonus কত পাওয়া যায়?"
     answer: "আপনার বন্ধুর ডিপোজিটের ওপর ভিত্তি করে আপনি ৩% থেকে শুরু করে ২০% পর্যন্ত কমিশন পেতে পারেন (শর্তসাপেক্ষে)।"

@@ -7,7 +7,7 @@ date: 2026-03-18
 lastUpdated: 2026-03-18
 ogImage: "draw-no-bet-hero-optimized.webp"
 ogImageAlt: "Shield protecting betting stake symbolizing Draw No Bet safety"
-tags: ["education", "betting-guide", "dnb", "football"]
+tags: [post, "education", "betting-guide", "dnb", "football"]
 faq:
   - question: "Draw No Bet (DNB) এর মানে কি?"
     answer: "এর মানে হলো, যদি ম্যাচ ড্র হয়, তবে আপনার বাজির টাকা ফেরত দেওয়া হবে। আপনি হারবেন না।"

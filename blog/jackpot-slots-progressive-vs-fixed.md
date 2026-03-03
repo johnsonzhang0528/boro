@@ -7,7 +7,7 @@ date: 2026-03-26
 lastUpdated: 2026-03-26
 ogImage: "jackpot-types-comparison-hero-optimized.webp"
 ogImageAlt: "Split screen showing a massive glowing progressive jackpot counter vs a set of fixed prize chests"
-tags: ["slots", "casino", "jackpot", "guide"]
+tags: [post, "slots", "casino", "jackpot", "guide"]
 faq:
   - question: "Progressive Jackpot কি?"
     answer: "এটি এমন একটি জ্যাকপট যা প্রতিবার কেউ গেমটি খেললে এবং না জিতলে বাড়তে থাকে। এটি কোটি টাকা পর্যন্ত হতে পারে।"

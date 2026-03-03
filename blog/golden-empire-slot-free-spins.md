@@ -7,7 +7,7 @@ date: 2026-03-24
 lastUpdated: 2026-03-24
 ogImage: "golden-empire-slot-hero-optimized.webp"
 ogImageAlt: "Mayan temple background with golden slot reels and 'Free Spins' text glowing"
-tags: ["slots", "jili", "free-spins", "game-guide"]
+tags: [post, "slots", "jili", "free-spins", "game-guide"]
 faq:
   - question: "Free Spin কিভাবে পাওয়া যায়?"
     answer: "রীলে অন্তত ৪টি 'Scatter' সিম্বল (মায়ান মাস্ক) আসলে আপনি ৮টি ফ্রি স্পিন পাবেন।"

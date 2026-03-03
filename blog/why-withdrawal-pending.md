@@ -7,7 +7,7 @@ date: 2026-04-05
 lastUpdated: 2026-04-05
 ogImage: "withdrawal-pending-hourglass-optimized.webp"
 ogImageAlt: "3D hourglass with golden sand next to a 'Processing' status bar on a smartphone screen"
-tags: ["troubleshooting", "withdrawal", "policies", "help"]
+tags: [post, "troubleshooting", "withdrawal", "policies", "help"]
 faq:
   - question: "টার্নওভার (Turnover) কি?"
     answer: "ডিপোজিটকৃত টাকা দিয়ে আপনাকে নির্দিষ্ট পরিমাণ বাজি ধরতে হবে (সাধারণত ১x)। এটি মানি লন্ডারিং রোধ করার জন্য প্রয়োজনীয়।"

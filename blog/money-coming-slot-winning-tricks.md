@@ -7,7 +7,7 @@ date: 2026-03-25
 lastUpdated: 2026-03-25
 ogImage: "money-coming-slot-hero-optimized.webp"
 ogImageAlt: "Money Coming slot machine interface focusing on the special multiplier reel on the right"
-tags: ["slots", "jili", "winning-tricks", "game-guide"]
+tags: [post, "slots", "jili", "winning-tricks", "game-guide"]
 faq:
   - question: "Money Coming গেমটি অন্যগুলোর চেয়ে আলাদা কেন?"
     answer: "কারণ এর বাম দিকের তিনটি রিল সংখ্যার জন্য এবং ডান দিকের বিশেষ রিলটি শুধুমাত্র মাল্টিপ্লায়ারের জন্য।"

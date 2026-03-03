@@ -7,7 +7,7 @@ date: 2026-03-18
 lastUpdated: 2026-03-18
 ogImage: "cricket-handicap-betting-hero-optimized.webp"
 ogImageAlt: "Digital scoreboard illustrating handicap betting concept in cricket"
-tags: ["education", "handicap", "cricket-betting", "strategy"]
+tags: [post, "education", "handicap", "cricket-betting", "strategy"]
 faq:
   - question: "Handicap Betting কি?"
     answer: "এটি এমন একটি পদ্ধতি যেখানে দুর্বল দলকে কাল্পনিক সুবিধা (যেমন +২০ রান) দেওয়া হয় যাতে খেলাটি সমান হয়।"

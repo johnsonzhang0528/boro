@@ -3,7 +3,7 @@ layout: post.njk
 title: "Outright Winner Betting: Investing for the Season (আউটরাইট উইনার বেটিং)"
 description: "Long-term betting offers stability and high returns. Learn how to identify value in League Winner and Top Goalscorer markets on BoroJeet. (আউটরাইট বেটিং গাইড)"
 date: 2026-04-30
-tags: ["Football Betting", "Long Term", "Investment"]
+tags: [post, "Football Betting", "Long Term", "Investment"]
 ogImage: outright-winner-hero-optimized.webp
 ---
 

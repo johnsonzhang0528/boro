@@ -7,7 +7,7 @@ date: 2026-04-17
 lastUpdated: 2026-04-17
 ogImage: bonus-buy-hero-optimized.webp
 ogImageAlt: "A big red button labeled 'Buy Feature' next to a normal spin button, with price tags attached, 3D style"
-tags: [slots, strategy, bonus-buy, math]
+tags: [post, slots, strategy, bonus-buy, math]
 faq:
   - question: "What is a Bonus Buy? (বোনাস বাই কি?)"
     answer: "It allows you to pay a large amount (usually 50x to 100x your bet) to trigger the Free Spins mode immediately without waiting."
