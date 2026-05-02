@@ -50,3 +50,5 @@ This is not your fault. The bKash/Nagad network is down.
 **Error**: *Risk Verification*
 You won too much, too fast. The Risk Team is manually checking your bets for cheating.
 *   **Fix**: Be patient. This can take 24 hours. Do not contact support every 5 minutes—it resets the queue.
+
+If your request is still not rejected and only shows **Pending**, read **[how to cancel a pending withdrawal on BoroJeet](/blog/cancel-pending-withdrawal-borojeet/)** before submitting a second request.
