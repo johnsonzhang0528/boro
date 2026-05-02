@@ -1,67 +1,67 @@
-# Boro Batch Publishing Workflow
+# Boro 批次發布工作流程
 
-This is the repeatable workflow for the full `batch-generate articles -> dedupe -> build manifest -> batch-generate Stability AI images -> date-based local commits -> manual push` pipeline.
+這是一套可重複執行的完整流程，用於處理 `批次產生文章 -> 去重 -> 建立 manifest -> 批次產生 Stability AI 圖片 -> 依日期建立本地 commit -> 手動 push`。
 
-## What This Flow Assumes
+## 此流程的前提假設
 
-- Draft generation uses `scripts/generate-batch-articles.js`.
-- Image prompts and publish manifests live in `data/publishing/`.
-- Single-article publish logic stays in `scripts/automate-publish.js`.
-- Targeted staging is already enforced, so article publishes do not sweep unrelated working-tree files into commits.
-- Batch publishing creates local date-based commits only by default. Automated push is disabled for the standard SOP; final push must be performed manually by the repository owner.
+- 草稿產生使用 `scripts/generate-batch-articles.js`。
+- 圖片 prompts 與 publish manifests 存放在 `data/publishing/`。
+- 單篇文章的發布邏輯維持在 `scripts/automate-publish.js`。
+- 目前已經有針對性 staging，因此文章發布時不會把無關的 working tree 檔案一起納入 commit。
+- 批次發布預設只建立本地、依日期切分的 commits。標準 SOP 禁止自動 push；最後的 push 必須由 repository 擁有者手動執行。
 
-## Critical Push Rule
+## 關鍵 Push 規則
 
-Do not push automatically during batch publishing.
+批次發布過程中不得自動 push。
 
-- Standard batch command: `node scripts/publish-batch.js <manifest>`
-- This creates local commits only.
-- Do not pass `--push` during the standard SOP.
-- After all article/image commits are complete, review local commits and let the repository owner run `git push` manually.
+- 標準批次指令：`node scripts/publish-batch.js <manifest>`
+- 這個指令只會建立本地 commits。
+- 標準 SOP 中不要傳入 `--push`。
+- 當所有文章與圖片的 commits 都完成後，先檢查本地 commits，再由 repository 擁有者手動執行 `git push`。
 
-## Step 1: Generate Drafts
+## 步驟 1：產生草稿
 
-Run the generator to create missing batch drafts.
+執行產生器，建立缺少的批次草稿。
 
 ```bash
 node scripts/generate-batch-articles.js
 ```
 
-What it does:
+這個步驟會做的事：
 
-- Creates only missing draft files in `blog/`
-- Skips files that already exist, which is the first dedupe layer
-- Rewrites `data/publishing/batch-prompts-100.json` with the full prompt set for the batch topics
+- 只在 `blog/` 中建立缺少的草稿檔案
+- 跳過已存在的檔案，作為第一層去重
+- 以這批主題的完整 prompt 集合重寫 `data/publishing/batch-prompts-100.json`
 
-## Required Stability AI Image Prompt Flow
+## 必須遵守的 Stability AI 圖片 Prompt 流程
 
-All production image generation must use Stability AI `v2beta/stable-image/generate/sd3` with model `sd3.5-large-turbo`.
+所有正式環境的圖片產生都必須使用 Stability AI `v2beta/stable-image/generate/sd3`，模型為 `sd3.5-large-turbo`。
 
-Every image-generation task must use the fixed positive prompt wrapper below. Insert each image task's article-specific `coreConcept` / original image prompt at `[CORE_CONCEPT]`, then send the complete expanded prompt to Stability AI.
+每一個圖片產生任務都必須套用下方固定的 positive prompt wrapper。請將每個圖片任務對應文章的 `coreConcept` / 原始 image prompt 插入 `[CORE_CONCEPT]`，再把完整展開後的 prompt 傳送給 Stability AI。
 
-Positive prompt:
+Positive prompt：
 
 ```text
 A high-end 3D conceptual editorial illustration representing [CORE_CONCEPT], single unified scene, perfect human anatomy, accurate physics, strict logical structure. Sophisticated modern style, cinematic studio lighting, soft ambient occlusion, smooth textures. Professional harmonious color palette, minimalist uncluttered background, centered clean composition. 8K resolution, masterpiece, ultra-detailed, Unreal Engine 5, Octane Render style, premium corporate aesthetic, trending on ArtStation.
 ```
 
-Negative prompt:
+Negative prompt：
 
 ```text
 bad anatomy, extra limbs, missing limbs, mutated hands, poorly drawn face, deformed, ugly, melted faces, floating objects, multiple balls, extra equipment, duplicated items, collage, grid layout, split screen, multiple panels, messy lines, illogical architecture, text, watermark, worst quality, low quality, jpeg artifacts, blurry, out of frame.
 ```
 
-Implementation requirements:
+實作要求：
 
-- `scripts/generate-batch-articles.js` stores both `coreConcept` and the fully wrapped `prompt` for newly generated prompt tasks.
-- `scripts/generate-images.js` normalizes older prompt manifests and sends the fully wrapped positive prompt plus the fixed negative prompt to Stability AI.
-- Stability requests must use multipart form-data, not the legacy v1 JSON body.
-- Stability requests must set `model=sd3.5-large-turbo`, `aspect_ratio=16:9`, and `output_format=webp`.
-- `scripts/generate-local-prompt-images.js` also normalizes older prompt manifests before local fallback generation, while preserving the original `coreConcept` for contextual scene selection.
-- The template must not be nested twice. If a prompt is already wrapped, reuse it as-is.
-- For repair batches, first build a task list and generate only the first image for visual approval before running the rest.
+- `scripts/generate-batch-articles.js` 對新產生的 prompt tasks 必須同時保存 `coreConcept` 與完整包裝後的 `prompt`。
+- `scripts/generate-images.js` 必須正規化較舊的 prompt manifest，並把完整包裝後的 positive prompt 加上固定的 negative prompt 傳送給 Stability AI。
+- Stability 請求必須使用 multipart form-data，而不是舊版 v1 JSON body。
+- Stability 請求必須設定 `model=sd3.5-large-turbo`、`aspect_ratio=16:9` 與 `output_format=webp`。
+- `scripts/generate-local-prompt-images.js` 在本地 fallback 產圖前，也必須先正規化較舊的 prompt manifest，同時保留原本的 `coreConcept` 供情境化場景選擇使用。
+- 模板不得被重複包裝兩次。如果某個 prompt 已經包裝完成，就直接重用。
+- 對於修復批次，必須先建立 task 清單，只產生第一張圖片供人工視覺確認，通過後再跑剩餘任務。
 
-Build the repair task list for an affected commit range:
+為受影響的 commit 範圍建立修復 task 清單：
 
 ```bash
 node scripts/build-stability-repair-tasks.js \
@@ -70,7 +70,7 @@ node scripts/build-stability-repair-tasks.js \
   --output data/publishing/stability-repair-02867e8-tasks.json
 ```
 
-Generate only the first sample image:
+只產生第一張樣本圖片：
 
 ```bash
 node scripts/generate-images.js \
@@ -80,7 +80,7 @@ node scripts/generate-images.js \
   --with-optimized
 ```
 
-Only after the sample is approved, generate the remaining tasks starting from task 2:
+只有在樣本通過確認後，才從第 2 個 task 開始產生剩餘圖片：
 
 ```bash
 node scripts/generate-images.js \
@@ -90,9 +90,9 @@ node scripts/generate-images.js \
   --with-optimized
 ```
 
-## Step 2: Build a Publish Manifest From Remaining Unpublished Drafts
+## 步驟 2：從尚未發布的剩餘草稿建立 Publish Manifest
 
-Create a manifest from prompt-backed drafts that still exist locally but are not tracked in git yet.
+從目前仍存在於本地、但尚未被 git track 的 prompt-backed 草稿建立 manifest。
 
 ```bash
 node scripts/build-publish-manifest.js \
@@ -101,20 +101,20 @@ node scripts/build-publish-manifest.js \
   --name remaining-batch
 ```
 
-Default behavior:
+預設行為：
 
-- Derives article slugs from `data/publishing/batch-prompts-100.json`
-- Maps them to `blog/<slug>.md`
-- Keeps only files that exist locally
-- Excludes files already tracked in git
+- 從 `data/publishing/batch-prompts-100.json` 推導文章 slug
+- 對應成 `blog/<slug>.md`
+- 只保留本地實際存在的檔案
+- 排除已被 git track 的檔案
 
-That git-tracked check is the formal dedupe layer for publication. In practice it means:
+這個 git-tracked 檢查就是正式發布用的去重層。實務上代表：
 
-- already-published articles are skipped
-- pre-existing tracked duplicates are skipped
-- only still-unpublished local drafts remain in the manifest
+- 已經發布過的文章會被跳過
+- 已存在且已被 track 的重複稿會被跳過
+- manifest 中只會留下仍未發布的本地草稿
 
-Useful options:
+常用選項：
 
 ```bash
 node scripts/build-publish-manifest.js --batch-size 10 --start 0
@@ -122,74 +122,74 @@ node scripts/build-publish-manifest.js --batch-size 10 --start 10 --output data/
 node scripts/build-publish-manifest.js --include-tracked
 ```
 
-## Step 3: Dry-Run the Batch
+## 步驟 3：先做 Dry Run
 
-Validate exactly which articles will run before any image generation or git commit activity.
+在任何圖片產生或 git commit 動作開始前，先精準驗證這次批次到底會跑哪些文章。
 
 ```bash
 node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --dry-run
 ```
 
-What the dry run verifies:
+Dry run 會驗證：
 
-- each article file exists
-- each prompt-backed article has exactly 3 prompt tasks
-- the batch runner can resolve the right generation/publish steps
+- 每篇文章檔案都存在
+- 每篇由 prompt 驅動的文章都剛好有 3 個 prompt tasks
+- 批次執行器能正確解析所需的產圖與發布步驟
 
-## Step 4: Batch-Generate Stability Images and Create Date-Based Local Commits
+## 步驟 4：批次產生 Stability 圖片並建立依日期切分的本地 Commits
 
-When the dry run is correct, execute the real batch. This command generates each article's Stability AI images, optimizes image assets, schedules the article date, and creates a local commit for that article. It does not push.
+當 dry run 結果正確後，再執行正式批次。這個指令會為每篇文章產生 Stability AI 圖片、最佳化圖片資產、安排文章日期，並建立該文章專屬的本地 commit。它不會 push。
 
 ```bash
 node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 ```
 
-What happens for each article:
+每篇文章會依序發生以下事情：
 
-1. Writes a temporary `prompts.json` subset for that one article
-2. Runs `scripts/generate-images.js` with Stability AI `sd3.5-large-turbo`
-3. Applies the required positive prompt template and fixed negative prompt
-4. Creates source `.webp` images plus optimized `.webp` and `.avif` assets
-5. Runs `scripts/automate-publish.js --no-push`
-6. Schedules the article date using the max-2-posts-per-day rule
-7. Creates one local commit for that article and its related assets
-8. Deletes the temporary `prompts.json`
+1. 為該篇文章寫出一份暫時性的 `prompts.json` 子集合
+2. 使用 Stability AI `sd3.5-large-turbo` 執行 `scripts/generate-images.js`
+3. 套用規定的 positive prompt 模板與固定 negative prompt
+4. 產生原始 `.webp` 圖片，以及最佳化後的 `.webp` 與 `.avif` 資產
+5. 執行 `scripts/automate-publish.js --no-push`
+6. 依照每天最多 2 篇文章的規則安排文章日期
+7. 為該文章與其相關資產建立一個本地 commit
+8. 刪除暫時性的 `prompts.json`
 
-The command intentionally does not push. The batch runner passes `--no-push` to `scripts/automate-publish.js` unless `--push` is explicitly supplied. Do not use `--push` in the standard workflow.
+這個指令是刻意設計成不 push。除非你明確傳入 `--push`，否則批次執行器會把 `--no-push` 傳給 `scripts/automate-publish.js`。標準流程中不要使用 `--push`。
 
-The runner resumes by default. If an article is already tracked in git, it is skipped automatically on rerun.
+執行器預設可續跑。如果某篇文章已經被 git track，重新執行時會自動跳過。
 
-After all commits are complete, review the unpushed local commits:
+當所有 commits 完成後，先檢查尚未 push 的本地 commits：
 
 ```bash
 git --no-pager log --oneline origin/main..HEAD
 git status --short --branch
 ```
 
-Only the repository owner should manually push after review:
+只有 repository 擁有者可以在檢查後手動 push：
 
 ```bash
 git push
 ```
 
-## Local Image Fallback When Stability Balance Is Unavailable
+## 當 Stability 額度不可用時的本地圖片 Fallback
 
-If Stability AI has no balance, generate the required source `.webp` files locally from the same prompt manifest.
+如果 Stability AI 沒有額度，可以從同一份 prompt manifest 在本地產生所需的原始 `.webp` 檔案。
 
 ```bash
 node scripts/generate-local-prompt-images.js data/publishing/remaining-batch-selection.json
 node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --skip-image-generation
 ```
 
-This creates the same source paths expected by the original pipeline:
+這會建立與原始流程相同的來源檔路徑：
 
 - `assets/blog/<slug>-hero.webp`
 - `assets/blog/<slug>-detail.webp`
 - `assets/og/og-<slug>.webp`
 
-Then `scripts/automate-publish.js` performs the normal optimization step and creates the final `-optimized.webp` and `-optimized.avif` files used by published articles.
+接著由 `scripts/automate-publish.js` 執行正常的最佳化步驟，產出發布文章所需的最終 `-optimized.webp` 與 `-optimized.avif` 檔案。
 
-To repair and overwrite an already-published commit range, regenerate both source and optimized images directly from the affected article files:
+若要修復並覆寫某個已發布的 commit 範圍，請直接根據受影響的文章檔案重建原始與最佳化圖片：
 
 ```bash
 node scripts/generate-local-prompt-images.js \
@@ -199,9 +199,9 @@ node scripts/generate-local-prompt-images.js \
   --with-optimized
 ```
 
-## Step 5: Continue in Batches Until Empty
+## 步驟 5：持續分批執行直到清空
 
-After one batch is committed locally, build the next manifest from the remaining untracked drafts.
+當一個批次已經在本地完成 commit 後，再從剩餘未被 track 的草稿建立下一份 manifest。
 
 ```bash
 node scripts/build-publish-manifest.js \
@@ -212,33 +212,33 @@ node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --d
 node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 ```
 
-Repeat until the manifest contains zero articles. Do not push between batches unless the repository owner explicitly decides to push manually.
+重複以上流程，直到 manifest 中沒有任何文章。除非 repository 擁有者明確決定手動 push，否則不要在批次之間 push。
 
-## Existing Compatibility Entry Point
+## 既有相容入口
 
-The old first-batch command still works:
+舊的第一批發布指令仍可使用：
 
 ```bash
 node scripts/publish-first-batch.js
 ```
 
-It now delegates to the general `scripts/publish-batch.js` runner.
+它現在會委派給通用的 `scripts/publish-batch.js` 執行器。
 
-## Recommended Operating Pattern
+## 建議的操作順序
 
-Use this exact order for future batches:
+未來批次請固定依照這個順序執行：
 
 1. `node scripts/generate-batch-articles.js`
 2. `node scripts/build-publish-manifest.js --output data/publishing/remaining-batch-selection.json --name remaining-batch`
 3. `node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --dry-run`
 4. `node scripts/publish-batch.js data/publishing/remaining-batch-selection.json`
-5. Repeat steps 2-4 until the manifest is empty
-6. Review local commits with `git --no-pager log --oneline origin/main..HEAD`
-7. Leave `git push` for manual repository-owner execution only
+5. 重複步驟 2 到 4，直到 manifest 為空
+6. 使用 `git --no-pager log --oneline origin/main..HEAD` 檢查本地 commits
+7. `git push` 只留給 repository 擁有者手動執行
 
-## Notes
+## 備註
 
-- Publication scheduling still comes from `scripts/automate-publish.js` and respects the existing max-2-posts-per-day logic.
-- This workflow does slug/file-level dedupe, not semantic-topic dedupe.
-- The manifest file is safe to regenerate at any time because it is derived from current filesystem state plus git tracked state.
-- `scripts/publish-batch.js` defaults to local commits only. Automated push requires an explicit `--push` flag and is not part of this SOP.
+- 發布排程仍由 `scripts/automate-publish.js` 負責，並遵守既有的每天最多 2 篇文章規則。
+- 這套流程做的是 slug / 檔案層級去重，不是語意主題層級去重。
+- manifest 檔案可隨時安全重建，因為它是根據目前檔案系統狀態與 git tracked 狀態推導出來的。
+- `scripts/publish-batch.js` 預設只建立本地 commits。自動 push 必須明確傳入 `--push`，而這不屬於本 SOP 的標準流程。
