@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "All Trusted Betting Sites in Bangladesh 2026 List | সেরা বেটিং সাইট তালিকা"
 description: "Looking for the best betting site list in Bangladesh? Check our trusted 2026 review on international sites with local payment. সেরা বেটিং সাইট তালিকা দেখুন।"
-date: 2026-02-15
-lastUpdated: 2026-02-15
+date: 2026-05-28
+lastUpdated: 2026-05-28
 ogImage: trusted-betting-sites-list-hero-optimized.webp
 ogImageAlt: "A holographic list interface displaying top betting sites in Bangladesh with trust badges"
 tags: [post, betting-sites, guide, review]
