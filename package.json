@@ -24,7 +24,8 @@
     "fix:seo": "node scripts/fix-seo.js",
     "standardize:seo": "node scripts/standardize-seo.js",
     "generate-images": "node scripts/generate-images.js",
-    "magic": "node scripts/magic.js"
+    "magic": "node scripts/magic.js",
+    "generate:batch-100": "node scripts/generate-batch-articles.js"
   },
   "keywords": [
     "eleventy",

@@ -4,9 +4,18 @@ const esbuild = require("esbuild");
 const Image = require("@11ty/eleventy-img");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginTOC = require("eleventy-plugin-toc");
-const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
 const htmlMinifier = require("html-minifier");
+
+function requireWithFallback(primary, fallback) {
+  try {
+    return require(primary);
+  } catch (error) {
+    return require(fallback);
+  }
+}
+
+const markdownIt = requireWithFallback("markdown-it", "markdown-it/dist/markdown-it");
+const markdownItAnchor = requireWithFallback("markdown-it-anchor", "markdown-it-anchor/dist/markdownItAnchor.js");
 
 async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority = "auto") {
   let fullSrc = path.join(__dirname, src);
