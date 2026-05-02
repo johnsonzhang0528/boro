@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Daily Withdrawal Limit Reset Time: limit কখন reset হয়?"
 description: "Daily Withdrawal Limit Reset Time নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-04
-lastUpdated: 2026-06-04
+date: 2026-08-07
+lastUpdated: 2026-08-07
 ogImage: "og-daily-withdrawal-limit-reset-time-optimized.webp"
 ogImageAlt: "Daily Withdrawal Limit Reset Time visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "withdrawal", "limits"]

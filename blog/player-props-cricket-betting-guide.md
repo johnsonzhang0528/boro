@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Player Props Cricket Betting Guide: batter ও bowler props কীভাবে ধরবেন"
 description: "Player Props Cricket Betting Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-20
-lastUpdated: 2026-06-20
+date: 2026-06-10
+lastUpdated: 2026-06-10
 ogImage: "og-player-props-cricket-betting-guide-optimized.webp"
 ogImageAlt: "Player Props Cricket Betting Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "player-props"]

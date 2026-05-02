@@ -2,7 +2,8 @@
 layout: post.njk
 title: "What is Liquidity in Cricket Betting? Why It Matters"
 description: "Why can't I bet 1 Lakh on a local match? We explain 'Liquidity' in betting exchanges and how to read the market depth."
-date: 2026-05-12
+date: 2026-06-14
+lastUpdated: 2026-06-14
 tags: 
   - post
   - exchange

@@ -2,7 +2,8 @@
 layout: post.njk
 title: "Scalping Strategy in Cricket Betting: Small Profits, Big Gains"
 description: "Don't wait for a wicket. Learn how to 'Scalp' small price movements for guaranteed profit on every over."
-date: 2026-05-13
+date: 2026-06-12
+lastUpdated: 2026-06-12
 tags: 
   - post
   - strategy

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cash or Crash Collect vs Cashout: collect strategy কবে better?"
 description: "Cash or Crash Collect vs Cashout rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-07-01
-lastUpdated: 2026-07-01
+date: 2026-07-02
+lastUpdated: 2026-07-02
 ogImage: "og-cash-or-crash-collect-vs-cashout-optimized.webp"
 ogImageAlt: "Cash or Crash Collect vs Cashout visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "cash-or-crash"]

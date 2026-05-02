@@ -2,7 +2,8 @@
 layout: post.njk
 title: "What is Value Betting? How to Spot Overpriced Odds"
 description: "The secret to long-term betting success is not picking winners, but picking prices. Learn the concept of 'Value' with a simple coin toss example."
-date: 2026-05-15
+date: 2026-08-21
+lastUpdated: 2026-08-21
 tags: 
   - post
   - strategy

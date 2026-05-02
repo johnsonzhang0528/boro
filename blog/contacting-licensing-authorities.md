@@ -2,7 +2,8 @@
 layout: post.njk
 title: "How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)"
 description: "Has a betting site stolen your money unfairly? (বেটিং সাইট কি আপনার টাকা আটকে রেখেছে?) Here is how to escalate your complaint to the official licensing master licensor in Curacao."
-date: 2026-05-27
+date: 2026-08-10
+lastUpdated: 2026-08-10
 tags: 
   - post
   - security

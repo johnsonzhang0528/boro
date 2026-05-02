@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Failed Payment After Network Timeout: টাকা কাটা গেলেও update না এলে"
 description: "Failed Payment After Network Timeout নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-08
-lastUpdated: 2026-06-08
+date: 2026-07-12
+lastUpdated: 2026-07-12
 ogImage: "og-failed-payment-after-network-timeout-optimized.webp"
 ogImageAlt: "Failed Payment After Network Timeout visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "network", "deposit"]

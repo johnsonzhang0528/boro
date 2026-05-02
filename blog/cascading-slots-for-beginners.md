@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cascading Slots for Beginners: tumbling reels কীভাবে কাজ করে?"
 description: "Cascading Slots for Beginners mechanic কী, RTP বা volatility-এর সাথে এর সম্পর্ক কী, আর bankroll কীভাবে manage করবেন তা জানুন।"
-date: 2026-07-05
-lastUpdated: 2026-07-05
+date: 2026-07-08
+lastUpdated: 2026-07-08
 ogImage: "og-cascading-slots-for-beginners-optimized.webp"
 ogImageAlt: "Cascading Slots for Beginners visual for BoroJeet readers"
 tags: ["post", "slots", "guide", "strategy", "cascading"]

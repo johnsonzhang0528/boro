@@ -2,7 +2,8 @@
 layout: post.njk
 title: "How to Update the Boro Jeet App Manually (APK Guide)"
 description: "Can't find Boro Jeet in the Play Store? Use this guide to download and install the latest APK update safely."
-date: 2026-05-21
+date: 2026-05-17
+lastUpdated: 2026-05-17
 tags: 
   - post
   - android

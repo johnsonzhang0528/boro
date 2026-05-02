@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Corners Over/Under Live Betting: live match-এ corner market analysis"
 description: "Corners Over/Under Live Betting market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-21
-lastUpdated: 2026-06-21
+date: 2026-05-26
+lastUpdated: 2026-05-26
 ogImage: "og-corners-over-under-live-betting-optimized.webp"
 ogImageAlt: "Corners Over/Under Live Betting visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "corners"]

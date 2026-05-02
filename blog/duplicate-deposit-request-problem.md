@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Duplicate Deposit Request Problem: একই ডিপোজিট দুইবার গেলে কী করবেন?"
 description: "Duplicate Deposit Request Problem নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-02
-lastUpdated: 2026-06-02
+date: 2026-07-11
+lastUpdated: 2026-07-11
 ogImage: "og-duplicate-deposit-request-problem-optimized.webp"
 ogImageAlt: "Duplicate Deposit Request Problem visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "deposit"]

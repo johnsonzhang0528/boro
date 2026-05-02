@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?"
 description: "First Goalscorer vs Anytime Goalscorer market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-20
-lastUpdated: 2026-06-20
+date: 2026-06-06
+lastUpdated: 2026-06-06
 ogImage: "og-first-goalscorer-vs-anytime-goalscorer-optimized.webp"
 ogImageAlt: "First Goalscorer vs Anytime Goalscorer visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "goalscorer"]

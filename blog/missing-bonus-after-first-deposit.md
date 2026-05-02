@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Missing Bonus After First Deposit: বোনাস না এলে কোথায় দেখবেন?"
 description: "Missing Bonus After First Deposit নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-03
-lastUpdated: 2026-06-03
+date: 2026-07-14
+lastUpdated: 2026-07-14
 ogImage: "og-missing-bonus-after-first-deposit-optimized.webp"
 ogImageAlt: "Missing Bonus After First Deposit visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bonus", "deposit"]

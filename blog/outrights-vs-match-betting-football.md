@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Outrights vs Match Betting Football: long-term নাকি short-term market?"
 description: "Outrights vs Match Betting Football market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-24
-lastUpdated: 2026-06-24
+date: 2026-06-06
+lastUpdated: 2026-06-06
 ogImage: "og-outrights-vs-match-betting-football-optimized.webp"
 ogImageAlt: "Outrights vs Match Betting Football visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "outrights"]

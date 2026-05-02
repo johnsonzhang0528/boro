@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Screenshot Proof for Payment Support: support-এ কী screenshot পাঠাবেন?"
 description: "Screenshot Proof for Payment Support নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-06
-lastUpdated: 2026-06-06
+date: 2026-08-15
+lastUpdated: 2026-08-15
 ogImage: "og-screenshot-proof-for-payment-support-optimized.webp"
 ogImageAlt: "Screenshot Proof for Payment Support visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "support"]

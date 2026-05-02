@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet Pending Withdrawal Cancel করার নিয়ম: Step-by-Step Guide"
 description: "BoroJeet Pending Withdrawal cancel করতে চাইলে কোন স্ট্যাটাসে কী করা যায়, কতক্ষণ অপেক্ষা করা উচিত, আর কখন support-এ যেতে হবে তা এই Bengali guide-এ জানুন।"
-date: 2026-05-27
-lastUpdated: 2026-05-27
+date: 2026-08-04
+lastUpdated: 2026-08-04
 ogImage: "og-cancel-pending-withdrawal-borojeet-optimized.webp"
 ogImageAlt: "BoroJeet pending withdrawal screen with cancel request button on a mobile wallet interface"
 tags: ["post", "withdrawal", "troubleshooting", "guide", "borojeet", "payments"]

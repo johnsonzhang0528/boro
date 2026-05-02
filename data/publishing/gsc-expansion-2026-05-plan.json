@@ -1,0 +1,3490 @@
+{
+  "generatedAt": "2026-05-03",
+  "batchId": "gsc-expansion-2026-05",
+  "strategySummary": {
+    "objective": "Create 100 new, non-duplicative Bengali-dominant articles based on high-impression / low-ranking GSC opportunities and upcoming Bangladesh betting demand windows.",
+    "newArticleCount": 100,
+    "unpublishedScheduledCount": 231,
+    "maxPostsPerDay": 2
+  },
+  "keywordOpportunityBuckets": [
+    {
+      "bucket": "cricket-app-download",
+      "reason": "GSC shows many cricket betting app / APK queries around positions 6-12 with meaningful impressions but low CTR; these are realistic near-term gains.",
+      "examples": [
+        "cricket betting app",
+        "cricket betting apps",
+        "cricket betting app download",
+        "cricket betting apps in bangladesh",
+        "best cricket betting app"
+      ]
+    },
+    {
+      "bucket": "world-cup-football-2026",
+      "reason": "FIFA World Cup 2026 starts within six weeks, creating a short but very large football betting demand window.",
+      "examples": [
+        "world cup betting",
+        "football betting app",
+        "over under goals",
+        "correct score",
+        "bet builder"
+      ]
+    },
+    {
+      "bucket": "crash-aviator-crazy-time",
+      "reason": "Crash, Aviator, Crazy Time and Funky Time queries have positions around 6-14 plus repeated Bengali intent; better topical depth can capture long-tail traffic.",
+      "examples": [
+        "crash game tricks",
+        "aviator game tips and tricks",
+        "crazy time জেতার কৌশল",
+        "funky time strategy"
+      ]
+    },
+    {
+      "bucket": "casino-list-legal-bkash",
+      "reason": "Casino list, legal, bKash/Nagad and low-deposit keywords show low clicks with broad impressions; these support commercial discovery traffic.",
+      "examples": [
+        "legal online casino bangladesh",
+        "online casino games list",
+        "casino games list with pictures",
+        "casino bkash",
+        "৫০ টাকা ডিপোজিট সাইট"
+      ]
+    },
+    {
+      "bucket": "betting-app-general",
+      "reason": "Best betting app / sports betting app queries rank around page one to page two; focused comparison and install guides can lift CTR.",
+      "examples": [
+        "best betting apps in bangladesh",
+        "best sports betting app",
+        "betting apps android",
+        "bd betting app download"
+      ]
+    },
+    {
+      "bucket": "bonus-terms-trust",
+      "reason": "Wagering, rebate, legality and fake app trust queries help monetization and E-E-A-T while supporting conversion pages.",
+      "examples": [
+        "wagering requirements meaning",
+        "daily betting rebate",
+        "is online gambling legal in bangladesh",
+        "fake betting apps"
+      ]
+    }
+  ],
+  "eventCalendar": [
+    {
+      "window": "2026-05-04 to 2026-05-25",
+      "focus": "Cricket app/APK, IPL closing stretch, Champions League final prep, Eid al-Adha payment and bonus readiness",
+      "schedulingAction": "Put app download, cricket app, UCL, payment and high-conversion comparison content first."
+    },
+    {
+      "window": "2026-05-26 to 2026-06-10",
+      "focus": "FIFA World Cup 2026 pre-tournament research and team/market preparation",
+      "schedulingAction": "Publish World Cup evergreen explainers before the opening match."
+    },
+    {
+      "window": "2026-06-11 to 2026-07-19",
+      "focus": "FIFA World Cup 2026 live traffic window",
+      "schedulingAction": "Keep World Cup, live football and high-intent football betting articles active through group and knockout stages."
+    },
+    {
+      "window": "2026-07-20 to 2026-08-15",
+      "focus": "Post-World-Cup evergreen capture, crash games, casino lists, app install and payment topics",
+      "schedulingAction": "Move crash/casino/app evergreen terms after the football peak so rankings can build into Q3."
+    },
+    {
+      "window": "2026-08-16 to 2026-09-15",
+      "focus": "EPL/La Liga 2026-27 season start and Asia Cup cricket preparation",
+      "schedulingAction": "Place football season previews and cricket tournament preparation content before late-August and September demand."
+    },
+    {
+      "window": "2026-09-16 to 2026-11-03",
+      "focus": "Asia Cup cricket, Durga Puja seasonal promotions, casino evergreen and bonus education",
+      "schedulingAction": "Reserve remaining evergreen casino, bonus and trust pieces for sustained non-event traffic."
+    }
+  ],
+  "newTopics": [
+    {
+      "slug": "cricket-betting-app-download-bd-android-2026",
+      "file": "blog/cricket-betting-app-download-bd-android-2026.md",
+      "title": "Cricket Betting App Download BD Android 2026: নিরাপদ APK গাইড",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting app download",
+      "gscMetrics": {
+        "impressions": 33,
+        "rank": 10.67
+      },
+      "angle": "High-intent app download query with page-one/page-two ranking potential.",
+      "scheduledDate": "2026-05-04"
+    },
+    {
+      "slug": "cricket-betting-app-apk-bangladesh-safe-install",
+      "file": "blog/cricket-betting-app-apk-bangladesh-safe-install.md",
+      "title": "Cricket Betting App APK Bangladesh: safe install করার checklist",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting app apk",
+      "gscMetrics": {
+        "impressions": 6,
+        "rank": 8.17
+      },
+      "angle": "APK install safety and trust angle for Android users.",
+      "scheduledDate": "2026-05-09"
+    },
+    {
+      "slug": "best-cricket-betting-app-for-android-bangladesh",
+      "file": "blog/best-cricket-betting-app-for-android-bangladesh.md",
+      "title": "Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?",
+      "cluster": "cricketApp",
+      "primaryKeyword": "best cricket betting app",
+      "gscMetrics": {
+        "impressions": 33,
+        "rank": 10.3
+      },
+      "angle": "Commercial comparison for Android cricket bettors.",
+      "scheduledDate": "2026-05-20"
+    },
+    {
+      "slug": "cricket-betting-app-with-bkash-nagad-bd",
+      "file": "blog/cricket-betting-app-with-bkash-nagad-bd.md",
+      "title": "Cricket Betting App with bKash Nagad BD: deposit-friendly app guide",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting app bd",
+      "gscMetrics": {
+        "impressions": 31,
+        "rank": 9.13
+      },
+      "angle": "Connect cricket app intent with local payment methods.",
+      "scheduledDate": "2026-05-05"
+    },
+    {
+      "slug": "cricket-betting-app-for-pc-bangladesh-browser",
+      "file": "blog/cricket-betting-app-for-pc-bangladesh-browser.md",
+      "title": "Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting app for pc",
+      "gscMetrics": {
+        "impressions": 28,
+        "rank": 7.64
+      },
+      "angle": "PC/browser variant with lower competition.",
+      "scheduledDate": "2026-05-13"
+    },
+    {
+      "slug": "online-cricket-betting-app-download-guide",
+      "file": "blog/online-cricket-betting-app-download-guide.md",
+      "title": "Online Cricket Betting App Download Guide: Bangladesh user checklist",
+      "cluster": "cricketApp",
+      "primaryKeyword": "online cricket betting app download",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 10
+      },
+      "angle": "Long-tail app download tutorial.",
+      "scheduledDate": "2026-05-12"
+    },
+    {
+      "slug": "cricket-betting-apps-real-money-bangladesh",
+      "file": "blog/cricket-betting-apps-real-money-bangladesh.md",
+      "title": "Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting apps real money",
+      "gscMetrics": {
+        "impressions": 33,
+        "rank": 9.7
+      },
+      "angle": "Real-money intent with trust and responsible gambling.",
+      "scheduledDate": "2026-05-05"
+    },
+    {
+      "slug": "cricket-betting-app-for-ios-bangladesh",
+      "file": "blog/cricket-betting-app-for-ios-bangladesh.md",
+      "title": "Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting apps for ios",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 10.33
+      },
+      "angle": "iOS long-tail not covered deeply by Android-heavy content.",
+      "scheduledDate": "2026-05-09"
+    },
+    {
+      "slug": "top-cricket-betting-apps-bangladesh-comparison",
+      "file": "blog/top-cricket-betting-apps-bangladesh-comparison.md",
+      "title": "Top Cricket Betting Apps Bangladesh: speed, odds ও payment comparison",
+      "cluster": "cricketApp",
+      "primaryKeyword": "top cricket betting apps",
+      "gscMetrics": {
+        "impressions": 11,
+        "rank": 9.18
+      },
+      "angle": "Top-list intent with comparison framing.",
+      "scheduledDate": "2026-05-21"
+    },
+    {
+      "slug": "no-1-cricket-betting-app-bd",
+      "file": "blog/no-1-cricket-betting-app-bd.md",
+      "title": "No 1 Cricket Betting App BD: কোন criteria দিয়ে সেরা app বাছবেন?",
+      "cluster": "cricketApp",
+      "primaryKeyword": "no 1 cricket betting app",
+      "gscMetrics": {
+        "impressions": 8,
+        "rank": 10.38
+      },
+      "angle": "Best/no.1 query with criteria-based answer.",
+      "scheduledDate": "2026-05-11"
+    },
+    {
+      "slug": "safest-cricket-betting-app-bangladesh",
+      "file": "blog/safest-cricket-betting-app-bangladesh.md",
+      "title": "Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?",
+      "cluster": "cricketApp",
+      "primaryKeyword": "safest cricket betting app",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 11
+      },
+      "angle": "Safety/E-E-A-T support topic.",
+      "scheduledDate": "2026-05-13"
+    },
+    {
+      "slug": "low-data-cricket-betting-app-bangladesh",
+      "file": "blog/low-data-cricket-betting-app-bangladesh.md",
+      "title": "Low Data Cricket Betting App Bangladesh: slow internet-এ smooth betting",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting software for android",
+      "gscMetrics": {
+        "impressions": 21,
+        "rank": 6.76
+      },
+      "angle": "Performance and low data angle for mobile users.",
+      "scheduledDate": "2026-05-14"
+    },
+    {
+      "slug": "cricket-session-betting-app-bd-guide",
+      "file": "blog/cricket-session-betting-app-bd-guide.md",
+      "title": "Cricket Session Betting App BD: session market mobile guide",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket session betting app",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 9
+      },
+      "angle": "Session betting long-tail with app context.",
+      "scheduledDate": "2026-05-10"
+    },
+    {
+      "slug": "live-cricket-betting-app-bangladesh-2026",
+      "file": "blog/live-cricket-betting-app-bangladesh-2026.md",
+      "title": "Live Cricket Betting App Bangladesh 2026: in-play market guide",
+      "cluster": "cricketApp",
+      "primaryKeyword": "online cricket betting app",
+      "gscMetrics": {
+        "impressions": 47,
+        "rank": 8.98
+      },
+      "angle": "Live cricket betting app demand.",
+      "scheduledDate": "2026-05-04"
+    },
+    {
+      "slug": "cricket-betting-tips-app-bd-guide",
+      "file": "blog/cricket-betting-tips-app-bd-guide.md",
+      "title": "Cricket Betting Tips App BD: কোন data দেখে mobile bet নেবেন?",
+      "cluster": "cricketApp",
+      "primaryKeyword": "cricket betting tips app",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 9.33
+      },
+      "angle": "Tips app query, converted into decision framework.",
+      "scheduledDate": "2026-05-10"
+    },
+    {
+      "slug": "fifa-world-cup-2026-betting-guide-bangladesh",
+      "file": "blog/fifa-world-cup-2026-betting-guide-bangladesh.md",
+      "title": "FIFA World Cup 2026 Betting Guide Bangladesh: match market plan",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup betting guide",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Upcoming mega-event topic; publish before tournament.",
+      "scheduledDate": "2026-05-29"
+    },
+    {
+      "slug": "world-cup-2026-betting-app-bd",
+      "file": "blog/world-cup-2026-betting-app-bd.md",
+      "title": "World Cup 2026 Betting App BD: football match bet করার setup",
+      "cluster": "worldCup",
+      "primaryKeyword": "football betting app world cup",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Combine World Cup demand with app install intent.",
+      "scheduledDate": "2026-05-31"
+    },
+    {
+      "slug": "world-cup-2026-match-winner-market-guide",
+      "file": "blog/world-cup-2026-match-winner-market-guide.md",
+      "title": "World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম",
+      "cluster": "worldCup",
+      "primaryKeyword": "match winner betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Core football market for new World Cup bettors.",
+      "scheduledDate": "2026-06-02"
+    },
+    {
+      "slug": "world-cup-2026-group-stage-betting-strategy",
+      "file": "blog/world-cup-2026-group-stage-betting-strategy.md",
+      "title": "World Cup 2026 Group Stage Betting Strategy: early matches কীভাবে পড়বেন",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup group stage betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Group-stage tactical evergreen.",
+      "scheduledDate": "2026-06-02"
+    },
+    {
+      "slug": "world-cup-2026-top-goalscorer-betting-guide",
+      "file": "blog/world-cup-2026-top-goalscorer-betting-guide.md",
+      "title": "World Cup 2026 Top Goalscorer Betting Guide: outright market explained",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup top goalscorer betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Outright traffic before and during tournament.",
+      "scheduledDate": "2026-06-04"
+    },
+    {
+      "slug": "world-cup-2026-over-under-goals-guide",
+      "file": "blog/world-cup-2026-over-under-goals-guide.md",
+      "title": "World Cup 2026 Over/Under Goals Guide: totals market কীভাবে ধরবেন",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup over under goals",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Over/under cluster support.",
+      "scheduledDate": "2026-06-03"
+    },
+    {
+      "slug": "world-cup-2026-btts-betting-guide",
+      "file": "blog/world-cup-2026-btts-betting-guide.md",
+      "title": "World Cup 2026 BTTS Betting Guide: both teams to score market",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup btts betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "BTTS-specific long-tail.",
+      "scheduledDate": "2026-06-01"
+    },
+    {
+      "slug": "world-cup-2026-correct-score-betting-guide",
+      "file": "blog/world-cup-2026-correct-score-betting-guide.md",
+      "title": "World Cup 2026 Correct Score Betting Guide: high odds risk control",
+      "cluster": "worldCup",
+      "primaryKeyword": "correct score betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "High-odds football intent aligned to existing GSC high-odds cluster.",
+      "scheduledDate": "2026-06-01"
+    },
+    {
+      "slug": "world-cup-2026-argentina-brazil-betting-bd",
+      "file": "blog/world-cup-2026-argentina-brazil-betting-bd.md",
+      "title": "Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide",
+      "cluster": "worldCup",
+      "primaryKeyword": "argentina brazil betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Bangladesh football fan demand for Argentina/Brazil.",
+      "scheduledDate": "2026-05-24"
+    },
+    {
+      "slug": "world-cup-2026-england-france-betting-preview",
+      "file": "blog/world-cup-2026-england-france-betting-preview.md",
+      "title": "England France World Cup 2026 Betting Preview: odds, squad ও market",
+      "cluster": "worldCup",
+      "primaryKeyword": "england france betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "High-profile national-team long-tail.",
+      "scheduledDate": "2026-05-27"
+    },
+    {
+      "slug": "fifa-world-cup-live-betting-tips-bangladesh",
+      "file": "blog/fifa-world-cup-live-betting-tips-bangladesh.md",
+      "title": "FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist",
+      "cluster": "worldCup",
+      "primaryKeyword": "live football betting tips",
+      "gscMetrics": {
+        "impressions": 4,
+        "rank": 87
+      },
+      "angle": "Live football queries need pre-tournament pages.",
+      "scheduledDate": "2026-05-23"
+    },
+    {
+      "slug": "world-cup-2026-betting-bonuses-bd",
+      "file": "blog/world-cup-2026-betting-bonuses-bd.md",
+      "title": "World Cup 2026 Betting Bonuses BD: bonus claim করার আগে terms দেখুন",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup betting bonus",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Bonus/event commercial bridge.",
+      "scheduledDate": "2026-05-31"
+    },
+    {
+      "slug": "world-cup-2026-odds-explained-bangla",
+      "file": "blog/world-cup-2026-odds-explained-bangla.md",
+      "title": "World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়",
+      "cluster": "worldCup",
+      "primaryKeyword": "football odds explained",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Beginner education before event.",
+      "scheduledDate": "2026-06-03"
+    },
+    {
+      "slug": "world-cup-2026-bet-builder-guide",
+      "file": "blog/world-cup-2026-bet-builder-guide.md",
+      "title": "World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup bet builder",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Bet builder long-tail.",
+      "scheduledDate": "2026-05-30"
+    },
+    {
+      "slug": "world-cup-2026-quarter-final-betting-strategy",
+      "file": "blog/world-cup-2026-quarter-final-betting-strategy.md",
+      "title": "World Cup 2026 Quarter Final Betting Strategy: knockout match plan",
+      "cluster": "worldCup",
+      "primaryKeyword": "world cup quarter final betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Knockout-stage evergreen planned before event.",
+      "scheduledDate": "2026-06-04"
+    },
+    {
+      "slug": "champions-league-final-2026-betting-guide-bd",
+      "file": "blog/champions-league-final-2026-betting-guide-bd.md",
+      "title": "Champions League Final 2026 Betting Guide BD: May final market checklist",
+      "cluster": "worldCup",
+      "primaryKeyword": "champions league final betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Near-term May football final traffic.",
+      "scheduledDate": "2026-05-25"
+    },
+    {
+      "slug": "europa-final-2026-betting-market-guide",
+      "file": "blog/europa-final-2026-betting-market-guide.md",
+      "title": "Europa Final 2026 Betting Market Guide: totals, corners ও cards",
+      "cluster": "worldCup",
+      "primaryKeyword": "europa final betting",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "European finals May traffic.",
+      "scheduledDate": "2026-05-28"
+    },
+    {
+      "slug": "epl-2026-27-season-betting-preview-bd",
+      "file": "blog/epl-2026-27-season-betting-preview-bd.md",
+      "title": "EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন",
+      "cluster": "worldCup",
+      "primaryKeyword": "epl betting preview",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "August football season start preparation.",
+      "scheduledDate": "2026-05-27"
+    },
+    {
+      "slug": "la-liga-2026-27-betting-preview-bd",
+      "file": "blog/la-liga-2026-27-betting-preview-bd.md",
+      "title": "La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide",
+      "cluster": "worldCup",
+      "primaryKeyword": "la liga betting guide",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "August European football demand.",
+      "scheduledDate": "2026-05-30"
+    },
+    {
+      "slug": "football-betting-app-bangladesh-world-cup",
+      "file": "blog/football-betting-app-bangladesh-world-cup.md",
+      "title": "Football Betting App Bangladesh World Cup: mobile setup ও safety guide",
+      "cluster": "worldCup",
+      "primaryKeyword": "football betting app bangladesh",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Football event + app commercial bridge.",
+      "scheduledDate": "2026-05-29"
+    },
+    {
+      "slug": "crash-game-bangladesh-real-money-guide",
+      "file": "blog/crash-game-bangladesh-real-money-guide.md",
+      "title": "Crash Game Bangladesh Real Money Guide: safe cashout ও bankroll plan",
+      "cluster": "crash",
+      "primaryKeyword": "crash game bangladesh",
+      "gscMetrics": {
+        "impressions": 36,
+        "rank": 33.53
+      },
+      "angle": "High impression but low ranking crash keyword.",
+      "scheduledDate": "2026-06-15"
+    },
+    {
+      "slug": "crash-game-winning-tricks-bangla",
+      "file": "blog/crash-game-winning-tricks-bangla.md",
+      "title": "Crash Game Winning Tricks Bangla: কোন trick আসলে কাজ করে?",
+      "cluster": "crash",
+      "primaryKeyword": "crash game winning trick",
+      "gscMetrics": {
+        "impressions": 15,
+        "rank": 9.73
+      },
+      "angle": "Tricks query with myth-busting responsible framing.",
+      "scheduledDate": "2026-06-18"
+    },
+    {
+      "slug": "crash-game-pattern-myths-explained",
+      "file": "blog/crash-game-pattern-myths-explained.md",
+      "title": "Crash Game Pattern Myths Explained: pattern দেখে prediction করা যায়?",
+      "cluster": "crash",
+      "primaryKeyword": "crash game pattern",
+      "gscMetrics": {
+        "impressions": 7,
+        "rank": 5.57
+      },
+      "angle": "Pattern intent with scam prevention.",
+      "scheduledDate": "2026-06-24"
+    },
+    {
+      "slug": "crash-game-app-bd-guide",
+      "file": "blog/crash-game-app-bd-guide.md",
+      "title": "Crash Game App BD Guide: mobile-এ crash game খেলার নিয়ম",
+      "cluster": "crash",
+      "primaryKeyword": "crash game app",
+      "gscMetrics": {
+        "impressions": 21,
+        "rank": 4.81
+      },
+      "angle": "App-focused crash query.",
+      "scheduledDate": "2026-06-19"
+    },
+    {
+      "slug": "crash-game-signal-scam-alert-bangladesh",
+      "file": "blog/crash-game-signal-scam-alert-bangladesh.md",
+      "title": "Crash Game Signal Scam Alert Bangladesh: paid signal কেন risky",
+      "cluster": "crash",
+      "primaryKeyword": "crash game signal",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 6.67
+      },
+      "angle": "Trust/safety support topic.",
+      "scheduledDate": "2026-06-25"
+    },
+    {
+      "slug": "crash-game-strategy-for-beginners-bd",
+      "file": "blog/crash-game-strategy-for-beginners-bd.md",
+      "title": "Crash Game Strategy for Beginners BD: 1.5x, 2x ও stop-loss plan",
+      "cluster": "crash",
+      "primaryKeyword": "crash game strategy",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 11
+      },
+      "angle": "Beginner strategy cluster.",
+      "scheduledDate": "2026-06-18"
+    },
+    {
+      "slug": "aviator-game-tips-and-tricks-bangla",
+      "file": "blog/aviator-game-tips-and-tricks-bangla.md",
+      "title": "Aviator Game Tips and Tricks Bangla: auto cashout কীভাবে set করবেন",
+      "cluster": "crash",
+      "primaryKeyword": "aviator game tips and tricks",
+      "gscMetrics": {
+        "impressions": 19,
+        "rank": 9.05
+      },
+      "angle": "Aviator high-intent tips.",
+      "scheduledDate": "2026-06-16"
+    },
+    {
+      "slug": "aviator-game-winning-strategy-bd",
+      "file": "blog/aviator-game-winning-strategy-bd.md",
+      "title": "Aviator Game Winning Strategy BD: realistic strategy বনাম myth",
+      "cluster": "crash",
+      "primaryKeyword": "aviator game winning strategy",
+      "gscMetrics": {
+        "impressions": 4,
+        "rank": 9.5
+      },
+      "angle": "Winning strategy query, responsibly framed.",
+      "scheduledDate": "2026-06-17"
+    },
+    {
+      "slug": "aviator-crash-game-tricks-explained",
+      "file": "blog/aviator-crash-game-tricks-explained.md",
+      "title": "Aviator Crash Game Tricks Explained: cashout timing guide",
+      "cluster": "crash",
+      "primaryKeyword": "aviator crash game tricks",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 5
+      },
+      "angle": "Aviator crash trick long-tail.",
+      "scheduledDate": "2026-06-23"
+    },
+    {
+      "slug": "aviator-game-how-to-play-bangladesh",
+      "file": "blog/aviator-game-how-to-play-bangladesh.md",
+      "title": "Aviator Game How to Play Bangladesh: beginner rule guide",
+      "cluster": "crash",
+      "primaryKeyword": "aviator game how to play",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 4.67
+      },
+      "angle": "How-to query with good ranking potential.",
+      "scheduledDate": "2026-06-23"
+    },
+    {
+      "slug": "aviator-game-predictor-scam-bd",
+      "file": "blog/aviator-game-predictor-scam-bd.md",
+      "title": "Aviator Game Predictor Scam BD: predictor app সত্যি নাকি ফাঁদ?",
+      "cluster": "crash",
+      "primaryKeyword": "aviator predictor app",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Protect users and support Aviator cluster.",
+      "scheduledDate": "2026-06-24"
+    },
+    {
+      "slug": "aviator-auto-cashout-settings-guide",
+      "file": "blog/aviator-auto-cashout-settings-guide.md",
+      "title": "Aviator Auto Cashout Settings Guide: low-risk multiplier plan",
+      "cluster": "crash",
+      "primaryKeyword": "aviator auto cashout",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Actionable auto cashout support content.",
+      "scheduledDate": "2026-06-08"
+    },
+    {
+      "slug": "plane-crash-betting-game-guide-bd",
+      "file": "blog/plane-crash-betting-game-guide-bd.md",
+      "title": "Plane Crash Betting Game Guide BD: plane game কীভাবে কাজ করে?",
+      "cluster": "crash",
+      "primaryKeyword": "plane crash betting game",
+      "gscMetrics": {
+        "impressions": 4,
+        "rank": 7.5
+      },
+      "angle": "Plane crash game query cluster.",
+      "scheduledDate": "2026-06-26"
+    },
+    {
+      "slug": "lucky-jet-crash-game-guide-bangladesh",
+      "file": "blog/lucky-jet-crash-game-guide-bangladesh.md",
+      "title": "Lucky Jet Crash Game Guide Bangladesh: Aviator alternative explained",
+      "cluster": "crash",
+      "primaryKeyword": "lucky jet crash game",
+      "gscMetrics": {
+        "impressions": 9,
+        "rank": 7
+      },
+      "angle": "Alternative crash game query.",
+      "scheduledDate": "2026-06-26"
+    },
+    {
+      "slug": "megapari-crash-game-alternatives-bd",
+      "file": "blog/megapari-crash-game-alternatives-bd.md",
+      "title": "Megapari Crash Game Alternatives BD: safe comparison checklist",
+      "cluster": "crash",
+      "primaryKeyword": "megapari crash game",
+      "gscMetrics": {
+        "impressions": 7,
+        "rank": 6.29
+      },
+      "angle": "Competitor/alternative query capture.",
+      "scheduledDate": "2026-07-03"
+    },
+    {
+      "slug": "funky-time-strategy-bangla",
+      "file": "blog/funky-time-strategy-bangla.md",
+      "title": "Funky Time Strategy Bangla: bonus rounds ও bet sizing guide",
+      "cluster": "crash",
+      "primaryKeyword": "strategy funky time",
+      "gscMetrics": {
+        "impressions": 10,
+        "rank": 8.6
+      },
+      "angle": "Funky Time strategy query.",
+      "scheduledDate": "2026-06-19"
+    },
+    {
+      "slug": "funky-time-rules-bangladesh",
+      "file": "blog/funky-time-rules-bangladesh.md",
+      "title": "Funky Time Rules Bangladesh: multiplier, bonus ও payout explained",
+      "cluster": "crash",
+      "primaryKeyword": "funky time rules",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 11
+      },
+      "angle": "Rules query for game-show cluster.",
+      "scheduledDate": "2026-06-05"
+    },
+    {
+      "slug": "crazy-time-khelar-niyom-bangla",
+      "file": "blog/crazy-time-khelar-niyom-bangla.md",
+      "title": "Crazy Time খেলার নিয়ম Bangla: bonus wheel সহজ guide",
+      "cluster": "crash",
+      "primaryKeyword": "crazy time খেলার নিয়ম",
+      "gscMetrics": {
+        "impressions": 113,
+        "rank": 10.38
+      },
+      "angle": "Bengali Crazy Time rules with high impressions.",
+      "scheduledDate": "2026-06-08"
+    },
+    {
+      "slug": "crazy-time-jetar-koushol-bangla",
+      "file": "blog/crazy-time-jetar-koushol-bangla.md",
+      "title": "Crazy Time জেতার কৌশল Bangla: risk control ও bonus round plan",
+      "cluster": "crash",
+      "primaryKeyword": "crazy time জেতার কৌশল",
+      "gscMetrics": {
+        "impressions": 37,
+        "rank": 8.16
+      },
+      "angle": "Bengali Crazy Time strategy query.",
+      "scheduledDate": "2026-06-16"
+    },
+    {
+      "slug": "cash-or-crash-game-bangladesh-guide",
+      "file": "blog/cash-or-crash-game-bangladesh-guide.md",
+      "title": "Cash or Crash Game Bangladesh Guide: collect নাকি cashout?",
+      "cluster": "crash",
+      "primaryKeyword": "cash or crash game",
+      "gscMetrics": {
+        "impressions": 10,
+        "rank": 8.2
+      },
+      "angle": "Cash or Crash long-tail.",
+      "scheduledDate": "2026-06-17"
+    },
+    {
+      "slug": "online-casino-games-list-bangladesh",
+      "file": "blog/online-casino-games-list-bangladesh.md",
+      "title": "Online Casino Games List Bangladesh: popular games এক নজরে",
+      "cluster": "casino",
+      "primaryKeyword": "online casino games list",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 4
+      },
+      "angle": "Game list discovery page.",
+      "scheduledDate": "2026-07-15"
+    },
+    {
+      "slug": "casino-games-list-with-pictures-bd",
+      "file": "blog/casino-games-list-with-pictures-bd.md",
+      "title": "Casino Games List with Pictures BD: slot, table ও live game guide",
+      "cluster": "casino",
+      "primaryKeyword": "casino games list with pictures",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 5
+      },
+      "angle": "Visual list keyword support.",
+      "scheduledDate": "2026-07-09"
+    },
+    {
+      "slug": "casino-game-name-list-bangla",
+      "file": "blog/casino-game-name-list-bangla.md",
+      "title": "Casino Game Name List Bangla: কোন game কীভাবে খেলা হয়?",
+      "cluster": "casino",
+      "primaryKeyword": "casino game name list",
+      "gscMetrics": {
+        "impressions": 5,
+        "rank": 1
+      },
+      "angle": "Game name list query, currently high ranking but needs landing depth.",
+      "scheduledDate": "2026-07-09"
+    },
+    {
+      "slug": "best-online-casino-games-bangladesh-2026",
+      "file": "blog/best-online-casino-games-bangladesh-2026.md",
+      "title": "Best Online Casino Games Bangladesh 2026: beginner-friendly picks",
+      "cluster": "casino",
+      "primaryKeyword": "best online casino games in bangladesh",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 1
+      },
+      "angle": "Best casino game list with conversion potential.",
+      "scheduledDate": "2026-07-06"
+    },
+    {
+      "slug": "online-casino-guide-bangladesh-beginners",
+      "file": "blog/online-casino-guide-bangladesh-beginners.md",
+      "title": "Online Casino Guide Bangladesh Beginners: account, game ও payment basics",
+      "cluster": "casino",
+      "primaryKeyword": "online casino guide",
+      "gscMetrics": {
+        "impressions": 16,
+        "rank": 5.62
+      },
+      "angle": "Guide query with decent position.",
+      "scheduledDate": "2026-07-16"
+    },
+    {
+      "slug": "online-casino-legit-check-bangladesh",
+      "file": "blog/online-casino-legit-check-bangladesh.md",
+      "title": "Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?",
+      "cluster": "casino",
+      "primaryKeyword": "online casino legit",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 5.33
+      },
+      "angle": "Trust query supporting E-E-A-T.",
+      "scheduledDate": "2026-07-16"
+    },
+    {
+      "slug": "legal-online-casino-bangladesh-guide",
+      "file": "blog/legal-online-casino-bangladesh-guide.md",
+      "title": "Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist",
+      "cluster": "casino",
+      "primaryKeyword": "legal online casino bangladesh",
+      "gscMetrics": {
+        "impressions": 48,
+        "rank": 11.23
+      },
+      "angle": "High impression legal keyword near page one.",
+      "scheduledDate": "2026-06-25"
+    },
+    {
+      "slug": "online-gambling-in-bangladesh-explained",
+      "file": "blog/online-gambling-in-bangladesh-explained.md",
+      "title": "Online Gambling in Bangladesh Explained: কী legal, কী risky?",
+      "cluster": "casino",
+      "primaryKeyword": "online gambling in bangladesh",
+      "gscMetrics": {
+        "impressions": 8,
+        "rank": 80.75
+      },
+      "angle": "Broad low-rank informational topic.",
+      "scheduledDate": "2026-06-29"
+    },
+    {
+      "slug": "casino-bkash-deposit-guide-bangladesh",
+      "file": "blog/casino-bkash-deposit-guide-bangladesh.md",
+      "title": "Casino bKash Deposit Guide Bangladesh: step-by-step payment safety",
+      "cluster": "payments",
+      "primaryKeyword": "casino bkash",
+      "gscMetrics": {
+        "impressions": 6,
+        "rank": 30
+      },
+      "angle": "bKash casino deposit query.",
+      "scheduledDate": "2026-06-28"
+    },
+    {
+      "slug": "bkash-casino-sites-bangladesh-guide",
+      "file": "blog/bkash-casino-sites-bangladesh-guide.md",
+      "title": "bKash Casino Sites Bangladesh Guide: deposit করার আগে কী দেখবেন",
+      "cluster": "payments",
+      "primaryKeyword": "bkash casino",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 30.5
+      },
+      "angle": "bKash casino discovery and trust.",
+      "scheduledDate": "2026-06-27"
+    },
+    {
+      "slug": "nagad-online-casino-guide-bangladesh",
+      "file": "blog/nagad-online-casino-guide-bangladesh.md",
+      "title": "Nagad Online Casino Bangladesh Guide: deposit, cashout ও limits",
+      "cluster": "payments",
+      "primaryKeyword": "best nagad online casino",
+      "gscMetrics": {
+        "impressions": 39,
+        "rank": 5.03
+      },
+      "angle": "Nagad high-potential payment query.",
+      "scheduledDate": "2026-07-01"
+    },
+    {
+      "slug": "50-taka-deposit-casino-sites-bd",
+      "file": "blog/50-taka-deposit-casino-sites-bd.md",
+      "title": "৫০ টাকা ডিপোজিট Casino Sites BD: low deposit খেললে কী risk?",
+      "cluster": "payments",
+      "primaryKeyword": "৫০ টাকা ডিপোজিট সাইট ইন বাংলাদেশ",
+      "gscMetrics": {
+        "impressions": 6,
+        "rank": 72.5
+      },
+      "angle": "Bengali low-deposit query with high rank gap.",
+      "scheduledDate": "2026-06-27"
+    },
+    {
+      "slug": "low-deposit-betting-sites-bangladesh",
+      "file": "blog/low-deposit-betting-sites-bangladesh.md",
+      "title": "সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide",
+      "cluster": "payments",
+      "primaryKeyword": "সর্বনিম্ন ডিপোজিট বেটিং সাইট",
+      "gscMetrics": {
+        "impressions": 5,
+        "rank": 45.6
+      },
+      "angle": "Low-deposit betting intent.",
+      "scheduledDate": "2026-06-30"
+    },
+    {
+      "slug": "casino-games-online-real-money-bd",
+      "file": "blog/casino-games-online-real-money-bd.md",
+      "title": "Casino Games Online Real Money BD: safe play ও bankroll basics",
+      "cluster": "casino",
+      "primaryKeyword": "casino games online for real money",
+      "gscMetrics": {
+        "impressions": 22,
+        "rank": 4
+      },
+      "angle": "Real-money casino query.",
+      "scheduledDate": "2026-07-01"
+    },
+    {
+      "slug": "real-cash-online-casino-bangladesh",
+      "file": "blog/real-cash-online-casino-bangladesh.md",
+      "title": "Real Cash Online Casino Bangladesh: withdrawal-ready play guide",
+      "cluster": "casino",
+      "primaryKeyword": "real cash online casino",
+      "gscMetrics": {
+        "impressions": 8,
+        "rank": 3
+      },
+      "angle": "Real cash intent.",
+      "scheduledDate": "2026-07-17"
+    },
+    {
+      "slug": "online-slots-bangladesh-guide",
+      "file": "blog/online-slots-bangladesh-guide.md",
+      "title": "Online Slots Bangladesh Guide: RTP, volatility ও bonus feature",
+      "cluster": "casino",
+      "primaryKeyword": "online slots bangladesh",
+      "gscMetrics": {
+        "impressions": 35,
+        "rank": 2.77
+      },
+      "angle": "Slots query with good position and zero clicks.",
+      "scheduledDate": "2026-07-02"
+    },
+    {
+      "slug": "best-slot-game-in-bangladesh-2026",
+      "file": "blog/best-slot-game-in-bangladesh-2026.md",
+      "title": "Best Slot Game in Bangladesh 2026: RTP, volatility ও theme comparison",
+      "cluster": "casino",
+      "primaryKeyword": "best slot game in bangladesh",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 10.33
+      },
+      "angle": "Best slot game long-tail.",
+      "scheduledDate": "2026-07-20"
+    },
+    {
+      "slug": "which-slot-game-is-easy-to-win-bangla",
+      "file": "blog/which-slot-game-is-easy-to-win-bangla.md",
+      "title": "Which Slot Game is Easy to Win? Bangla realistic answer",
+      "cluster": "casino",
+      "primaryKeyword": "which slot game is easy to win",
+      "gscMetrics": {
+        "impressions": 10,
+        "rank": 5.9
+      },
+      "angle": "Easy-to-win query handled responsibly.",
+      "scheduledDate": "2026-07-19"
+    },
+    {
+      "slug": "best-casino-slots-to-play-online-bd",
+      "file": "blog/best-casino-slots-to-play-online-bd.md",
+      "title": "Best Casino Slots to Play Online BD: beginner slot selection guide",
+      "cluster": "casino",
+      "primaryKeyword": "best casino slots to play online",
+      "gscMetrics": {
+        "impressions": 5,
+        "rank": 2.2
+      },
+      "angle": "Casino slots list query.",
+      "scheduledDate": "2026-07-05"
+    },
+    {
+      "slug": "slot-game-bangladesh-beginners-guide",
+      "file": "blog/slot-game-bangladesh-beginners-guide.md",
+      "title": "Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins",
+      "cluster": "casino",
+      "primaryKeyword": "slot game bangladesh",
+      "gscMetrics": {
+        "impressions": 16,
+        "rank": 8.31
+      },
+      "angle": "Beginner slot keyword with existing impressions.",
+      "scheduledDate": "2026-06-30"
+    },
+    {
+      "slug": "best-betting-apps-in-bangladesh-2026",
+      "file": "blog/best-betting-apps-in-bangladesh-2026.md",
+      "title": "Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison",
+      "cluster": "bettingApp",
+      "primaryKeyword": "best betting apps in bangladesh",
+      "gscMetrics": {
+        "impressions": 13,
+        "rank": 69.46
+      },
+      "angle": "High-rank-gap best app query.",
+      "scheduledDate": "2026-05-20"
+    },
+    {
+      "slug": "best-betting-app-bangladesh-download",
+      "file": "blog/best-betting-app-bangladesh-download.md",
+      "title": "Best Betting App Bangladesh Download: Android APK safe setup",
+      "cluster": "bettingApp",
+      "primaryKeyword": "best betting app bangladesh",
+      "gscMetrics": {
+        "impressions": 4,
+        "rank": 60
+      },
+      "angle": "Download-focused best betting app query.",
+      "scheduledDate": "2026-05-07"
+    },
+    {
+      "slug": "top-5-betting-apps-bangladesh",
+      "file": "blog/top-5-betting-apps-bangladesh.md",
+      "title": "Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison",
+      "cluster": "bettingApp",
+      "primaryKeyword": "top 5 betting apps",
+      "gscMetrics": {
+        "impressions": 15,
+        "rank": 6.87
+      },
+      "angle": "Top 5 list with page-one potential.",
+      "scheduledDate": "2026-06-07"
+    },
+    {
+      "slug": "bd-betting-app-download-guide",
+      "file": "blog/bd-betting-app-download-guide.md",
+      "title": "BD Betting App Download Guide: APK install, login ও payment setup",
+      "cluster": "bettingApp",
+      "primaryKeyword": "bd betting app download",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 67
+      },
+      "angle": "BD app download long-tail.",
+      "scheduledDate": "2026-05-06"
+    },
+    {
+      "slug": "betting-app-apk-bangladesh-safe-install",
+      "file": "blog/betting-app-apk-bangladesh-safe-install.md",
+      "title": "Betting App APK Bangladesh: safe install করার আগে ৭টি checklist",
+      "cluster": "bettingApp",
+      "primaryKeyword": "betting app apk",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 9
+      },
+      "angle": "APK safety commercial query.",
+      "scheduledDate": "2026-05-07"
+    },
+    {
+      "slug": "betting-apps-android-bangladesh",
+      "file": "blog/betting-apps-android-bangladesh.md",
+      "title": "Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?",
+      "cluster": "bettingApp",
+      "primaryKeyword": "betting apps android",
+      "gscMetrics": {
+        "impressions": 8,
+        "rank": 7.75
+      },
+      "angle": "Android betting app query.",
+      "scheduledDate": "2026-05-16"
+    },
+    {
+      "slug": "safest-betting-app-for-bangladesh",
+      "file": "blog/safest-betting-app-for-bangladesh.md",
+      "title": "Safest Betting App for Bangladesh: license, KYC ও payment signal",
+      "cluster": "bettingApp",
+      "primaryKeyword": "safest betting app",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 11
+      },
+      "angle": "Safety trust query.",
+      "scheduledDate": "2026-05-12"
+    },
+    {
+      "slug": "best-sports-betting-app-bangladesh-2026",
+      "file": "blog/best-sports-betting-app-bangladesh-2026.md",
+      "title": "Best Sports Betting App Bangladesh 2026: football ও cricket market guide",
+      "cluster": "bettingApp",
+      "primaryKeyword": "best sports betting app",
+      "gscMetrics": {
+        "impressions": 31,
+        "rank": 8.19
+      },
+      "angle": "Sports app query with decent impressions.",
+      "scheduledDate": "2026-05-22"
+    },
+    {
+      "slug": "betting-app-with-bkash-nagad-bd",
+      "file": "blog/betting-app-with-bkash-nagad-bd.md",
+      "title": "Betting App with bKash Nagad BD: local payment-friendly guide",
+      "cluster": "bettingApp",
+      "primaryKeyword": "betting app bd",
+      "gscMetrics": {
+        "impressions": 12,
+        "rank": 8.92
+      },
+      "angle": "Betting app + local payments bridge.",
+      "scheduledDate": "2026-05-08"
+    },
+    {
+      "slug": "betting-app-login-problems-fix-bangladesh",
+      "file": "blog/betting-app-login-problems-fix-bangladesh.md",
+      "title": "Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue",
+      "cluster": "bettingApp",
+      "primaryKeyword": "betting app login",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Support/app troubleshooting cluster.",
+      "scheduledDate": "2026-05-15"
+    },
+    {
+      "slug": "new-betting-apps-2026-bangladesh",
+      "file": "blog/new-betting-apps-2026-bangladesh.md",
+      "title": "New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা",
+      "cluster": "bettingApp",
+      "primaryKeyword": "new betting app 2025",
+      "gscMetrics": {
+        "impressions": 6,
+        "rank": 7.17
+      },
+      "angle": "New betting app query updated for 2026.",
+      "scheduledDate": "2026-05-17"
+    },
+    {
+      "slug": "betting-app-bd-low-deposit-guide",
+      "file": "blog/betting-app-bd-low-deposit-guide.md",
+      "title": "Betting App BD Low Deposit Guide: ছোট বাজেটে safe start",
+      "cluster": "bettingApp",
+      "primaryKeyword": "bd betting app",
+      "gscMetrics": {
+        "impressions": 10,
+        "rank": 9.7
+      },
+      "angle": "Low-deposit app angle.",
+      "scheduledDate": "2026-05-08"
+    },
+    {
+      "slug": "international-betting-apps-bangladesh-guide",
+      "file": "blog/international-betting-apps-bangladesh-guide.md",
+      "title": "International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?",
+      "cluster": "bettingApp",
+      "primaryKeyword": "international betting apps",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 10.33
+      },
+      "angle": "International app query for BD users.",
+      "scheduledDate": "2026-05-11"
+    },
+    {
+      "slug": "betting-apps-list-bangladesh",
+      "file": "blog/betting-apps-list-bangladesh.md",
+      "title": "Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে",
+      "cluster": "bettingApp",
+      "primaryKeyword": "betting apps list",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 10.5
+      },
+      "angle": "List query support.",
+      "scheduledDate": "2026-05-23"
+    },
+    {
+      "slug": "top-betting-sites-cricket-bangladesh",
+      "file": "blog/top-betting-sites-cricket-bangladesh.md",
+      "title": "Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison",
+      "cluster": "bettingApp",
+      "primaryKeyword": "top betting sites for cricket",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 108
+      },
+      "angle": "High-rank-gap cricket site query.",
+      "scheduledDate": "2026-05-21"
+    },
+    {
+      "slug": "wagering-requirements-meaning-bangla",
+      "file": "blog/wagering-requirements-meaning-bangla.md",
+      "title": "Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "wagering requirements meaning",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 5.67
+      },
+      "angle": "Meaning query with conversion support.",
+      "scheduledDate": "2026-07-30"
+    },
+    {
+      "slug": "wagering-requirement-bonus-guide-bd",
+      "file": "blog/wagering-requirement-bonus-guide-bd.md",
+      "title": "Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "wagering requirement",
+      "gscMetrics": {
+        "impressions": 1,
+        "rank": 1
+      },
+      "angle": "Bonus education support topic.",
+      "scheduledDate": "2026-07-29"
+    },
+    {
+      "slug": "bonus-turnover-calculation-bangladesh",
+      "file": "blog/bonus-turnover-calculation-bangladesh.md",
+      "title": "Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "bonus turnover",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Turnover calculator-style educational topic.",
+      "scheduledDate": "2026-07-26"
+    },
+    {
+      "slug": "daily-betting-rebate-guide-bangladesh",
+      "file": "blog/daily-betting-rebate-guide-bangladesh.md",
+      "title": "Daily Betting Rebate Guide Bangladesh: 5% rebate claim করার আগে জানুন",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "প্রতিদিনের বেটিং রিবেট",
+      "gscMetrics": {
+        "impressions": 40,
+        "rank": 9.05
+      },
+      "angle": "Bengali rebate query with impressions.",
+      "scheduledDate": "2026-07-10"
+    },
+    {
+      "slug": "free-bonus-without-deposit-bd-guide",
+      "file": "blog/free-bonus-without-deposit-bd-guide.md",
+      "title": "Free Bonus Without Deposit BD Guide: ফ্রি বোনাসের real terms",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "বিনামূল্যে বোনাস",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 55
+      },
+      "angle": "Free bonus high-risk query with terms framing.",
+      "scheduledDate": "2026-06-28"
+    },
+    {
+      "slug": "borojeet-casino-login-guide",
+      "file": "blog/borojeet-casino-login-guide.md",
+      "title": "BoroJeet Casino Login Guide: safe login, OTP ও account security",
+      "cluster": "bettingApp",
+      "primaryKeyword": "boro jeet casino login",
+      "gscMetrics": {
+        "impressions": 43,
+        "rank": 4.16
+      },
+      "angle": "Brand + casino login query.",
+      "scheduledDate": "2026-05-06"
+    },
+    {
+      "slug": "borojeet-vip-bonus-rules-bangla",
+      "file": "blog/borojeet-vip-bonus-rules-bangla.md",
+      "title": "BoroJeet VIP Bonus Rules Bangla: level, cashback ও withdrawal impact",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "borojeet vip",
+      "gscMetrics": {
+        "impressions": 14,
+        "rank": 6.86
+      },
+      "angle": "VIP query support.",
+      "scheduledDate": "2026-07-26"
+    },
+    {
+      "slug": "online-betting-legal-bangladesh-explained",
+      "file": "blog/online-betting-legal-bangladesh-explained.md",
+      "title": "Online Betting Legal Bangladesh Explained: law, risk ও safe behavior",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "is online betting legal in bangladesh",
+      "gscMetrics": {
+        "impressions": 2,
+        "rank": 3
+      },
+      "angle": "Legal betting query with responsible framing.",
+      "scheduledDate": "2026-07-15"
+    },
+    {
+      "slug": "is-online-gambling-legal-in-bangladesh-guide",
+      "file": "blog/is-online-gambling-legal-in-bangladesh-guide.md",
+      "title": "Is Online Gambling Legal in Bangladesh? Practical risk guide",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "is online gambling legal in bangladesh",
+      "gscMetrics": {
+        "impressions": 3,
+        "rank": 29.33
+      },
+      "angle": "Broad legal gambling query.",
+      "scheduledDate": "2026-06-29"
+    },
+    {
+      "slug": "fake-betting-apps-bangladesh-warning",
+      "file": "blog/fake-betting-apps-bangladesh-warning.md",
+      "title": "Fake Betting Apps Bangladesh Warning: APK scam ও phishing চিনবেন কীভাবে",
+      "cluster": "bonusTrust",
+      "primaryKeyword": "fake betting apps",
+      "gscMetrics": {
+        "impressions": 0,
+        "rank": null
+      },
+      "angle": "Trust/safety and scam prevention topic.",
+      "scheduledDate": "2026-05-16"
+    }
+  ],
+  "unpublishedTopics": [
+    {
+      "date": "2026-05-04",
+      "slot": 1,
+      "file": "blog/live-cricket-betting-app-bangladesh-2026.md",
+      "slug": "live-cricket-betting-app-bangladesh-2026",
+      "title": "Live Cricket Betting App Bangladesh 2026: in-play market guide",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-04",
+      "slot": 2,
+      "file": "blog/cricket-betting-app-download-bd-android-2026.md",
+      "slug": "cricket-betting-app-download-bd-android-2026",
+      "title": "Cricket Betting App Download BD Android 2026: নিরাপদ APK গাইড",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-05",
+      "slot": 1,
+      "file": "blog/cricket-betting-app-with-bkash-nagad-bd.md",
+      "slug": "cricket-betting-app-with-bkash-nagad-bd",
+      "title": "Cricket Betting App with bKash Nagad BD: deposit-friendly app guide",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-05",
+      "slot": 2,
+      "file": "blog/cricket-betting-apps-real-money-bangladesh.md",
+      "slug": "cricket-betting-apps-real-money-bangladesh",
+      "title": "Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-06",
+      "slot": 1,
+      "file": "blog/borojeet-casino-login-guide.md",
+      "slug": "borojeet-casino-login-guide",
+      "title": "BoroJeet Casino Login Guide: safe login, OTP ও account security",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-06",
+      "slot": 2,
+      "file": "blog/bd-betting-app-download-guide.md",
+      "slug": "bd-betting-app-download-guide",
+      "title": "BD Betting App Download Guide: APK install, login ও payment setup",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-07",
+      "slot": 1,
+      "file": "blog/best-betting-app-bangladesh-download.md",
+      "slug": "best-betting-app-bangladesh-download",
+      "title": "Best Betting App Bangladesh Download: Android APK safe setup",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-07",
+      "slot": 2,
+      "file": "blog/betting-app-apk-bangladesh-safe-install.md",
+      "slug": "betting-app-apk-bangladesh-safe-install",
+      "title": "Betting App APK Bangladesh: safe install করার আগে ৭টি checklist",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-08",
+      "slot": 1,
+      "file": "blog/betting-app-bd-low-deposit-guide.md",
+      "slug": "betting-app-bd-low-deposit-guide",
+      "title": "Betting App BD Low Deposit Guide: ছোট বাজেটে safe start",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-08",
+      "slot": 2,
+      "file": "blog/betting-app-with-bkash-nagad-bd.md",
+      "slug": "betting-app-with-bkash-nagad-bd",
+      "title": "Betting App with bKash Nagad BD: local payment-friendly guide",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-09",
+      "slot": 1,
+      "file": "blog/cricket-betting-app-apk-bangladesh-safe-install.md",
+      "slug": "cricket-betting-app-apk-bangladesh-safe-install",
+      "title": "Cricket Betting App APK Bangladesh: safe install করার checklist",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-09",
+      "slot": 2,
+      "file": "blog/cricket-betting-app-for-ios-bangladesh.md",
+      "slug": "cricket-betting-app-for-ios-bangladesh",
+      "title": "Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-10",
+      "slot": 1,
+      "file": "blog/cricket-betting-tips-app-bd-guide.md",
+      "slug": "cricket-betting-tips-app-bd-guide",
+      "title": "Cricket Betting Tips App BD: কোন data দেখে mobile bet নেবেন?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-10",
+      "slot": 2,
+      "file": "blog/cricket-session-betting-app-bd-guide.md",
+      "slug": "cricket-session-betting-app-bd-guide",
+      "title": "Cricket Session Betting App BD: session market mobile guide",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-11",
+      "slot": 1,
+      "file": "blog/international-betting-apps-bangladesh-guide.md",
+      "slug": "international-betting-apps-bangladesh-guide",
+      "title": "International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-11",
+      "slot": 2,
+      "file": "blog/no-1-cricket-betting-app-bd.md",
+      "slug": "no-1-cricket-betting-app-bd",
+      "title": "No 1 Cricket Betting App BD: কোন criteria দিয়ে সেরা app বাছবেন?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-12",
+      "slot": 1,
+      "file": "blog/online-cricket-betting-app-download-guide.md",
+      "slug": "online-cricket-betting-app-download-guide",
+      "title": "Online Cricket Betting App Download Guide: Bangladesh user checklist",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-12",
+      "slot": 2,
+      "file": "blog/safest-betting-app-for-bangladesh.md",
+      "slug": "safest-betting-app-for-bangladesh",
+      "title": "Safest Betting App for Bangladesh: license, KYC ও payment signal",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-13",
+      "slot": 1,
+      "file": "blog/safest-cricket-betting-app-bangladesh.md",
+      "slug": "safest-cricket-betting-app-bangladesh",
+      "title": "Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-13",
+      "slot": 2,
+      "file": "blog/cricket-betting-app-for-pc-bangladesh-browser.md",
+      "slug": "cricket-betting-app-for-pc-bangladesh-browser",
+      "title": "Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-14",
+      "slot": 1,
+      "file": "blog/low-data-cricket-betting-app-bangladesh.md",
+      "slug": "low-data-cricket-betting-app-bangladesh",
+      "title": "Low Data Cricket Betting App Bangladesh: slow internet-এ smooth betting",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-14",
+      "slot": 2,
+      "file": "blog/account-login-location-mismatch.md",
+      "slug": "account-login-location-mismatch",
+      "title": "Account Login Location Mismatch: location alert কেন আসে?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-15",
+      "slot": 1,
+      "file": "blog/apk-signature-mismatch-fix.md",
+      "slug": "apk-signature-mismatch-fix",
+      "title": "APK Signature Mismatch Fix: install error এলে কী করবেন?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-15",
+      "slot": 2,
+      "file": "blog/betting-app-login-problems-fix-bangladesh.md",
+      "slug": "betting-app-login-problems-fix-bangladesh",
+      "title": "Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-16",
+      "slot": 1,
+      "file": "blog/betting-apps-android-bangladesh.md",
+      "slug": "betting-apps-android-bangladesh",
+      "title": "Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-16",
+      "slot": 2,
+      "file": "blog/fake-betting-apps-bangladesh-warning.md",
+      "slug": "fake-betting-apps-bangladesh-warning",
+      "title": "Fake Betting Apps Bangladesh Warning: APK scam ও phishing চিনবেন কীভাবে",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-17",
+      "slot": 1,
+      "file": "blog/updating-boro-jeet-app.md",
+      "slug": "updating-boro-jeet-app",
+      "title": "How to Update the Boro Jeet App Manually (APK Guide)",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-17",
+      "slot": 2,
+      "file": "blog/new-betting-apps-2026-bangladesh.md",
+      "slug": "new-betting-apps-2026-bangladesh",
+      "title": "New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-18",
+      "slot": 1,
+      "file": "blog/payment-method-hidden-after-login.md",
+      "slug": "payment-method-hidden-after-login",
+      "title": "Payment Method Hidden After Login: Deposit Option হঠাৎ উধাও হলে",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-18",
+      "slot": 2,
+      "file": "blog/secure-shared-phone-login-guide.md",
+      "slug": "secure-shared-phone-login-guide",
+      "title": "Secure Shared Phone Login Guide: shared phone-এ safe login কীভাবে করবেন?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-19",
+      "slot": 1,
+      "file": "blog/session-expired-login-fix.md",
+      "slug": "session-expired-login-fix",
+      "title": "Session Expired Login Fix: বারবার logout হলে সমাধান",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-19",
+      "slot": 2,
+      "file": "blog/suspicious-login-alert-what-to-do.md",
+      "slug": "suspicious-login-alert-what-to-do",
+      "title": "Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-20",
+      "slot": 1,
+      "file": "blog/best-cricket-betting-app-for-android-bangladesh.md",
+      "slug": "best-cricket-betting-app-for-android-bangladesh",
+      "title": "Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-20",
+      "slot": 2,
+      "file": "blog/best-betting-apps-in-bangladesh-2026.md",
+      "slug": "best-betting-apps-in-bangladesh-2026",
+      "title": "Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-21",
+      "slot": 1,
+      "file": "blog/top-betting-sites-cricket-bangladesh.md",
+      "slug": "top-betting-sites-cricket-bangladesh",
+      "title": "Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-21",
+      "slot": 2,
+      "file": "blog/top-cricket-betting-apps-bangladesh-comparison.md",
+      "slug": "top-cricket-betting-apps-bangladesh-comparison",
+      "title": "Top Cricket Betting Apps Bangladesh: speed, odds ও payment comparison",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-22",
+      "slot": 1,
+      "file": "blog/best-sports-betting-app-bangladesh-2026.md",
+      "slug": "best-sports-betting-app-bangladesh-2026",
+      "title": "Best Sports Betting App Bangladesh 2026: football ও cricket market guide",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-22",
+      "slot": 2,
+      "file": "blog/safest-betting-apps-bd-2026.md",
+      "slug": "safest-betting-apps-bd-2026",
+      "title": "Safest Betting Apps in Bangladesh (2026 Security Ranking) | নিরাপদ অ্যাপ",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-23",
+      "slot": 1,
+      "file": "blog/betting-apps-list-bangladesh.md",
+      "slug": "betting-apps-list-bangladesh",
+      "title": "Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-23",
+      "slot": 2,
+      "file": "blog/fifa-world-cup-live-betting-tips-bangladesh.md",
+      "slug": "fifa-world-cup-live-betting-tips-bangladesh",
+      "title": "FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-24",
+      "slot": 1,
+      "file": "blog/world-cup-2026-argentina-brazil-betting-bd.md",
+      "slug": "world-cup-2026-argentina-brazil-betting-bd",
+      "title": "Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-24",
+      "slot": 2,
+      "file": "blog/asian-total-goals-betting-guide.md",
+      "slug": "asian-total-goals-betting-guide",
+      "title": "Asian Total Goals Betting Guide: Over/Under-এর advanced version",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-25",
+      "slot": 1,
+      "file": "blog/both-halves-over-0-5-goals.md",
+      "slug": "both-halves-over-0-5-goals",
+      "title": "Both Halves Over 0.5 Goals: market logic ও match selection",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-25",
+      "slot": 2,
+      "file": "blog/champions-league-final-2026-betting-guide-bd.md",
+      "slug": "champions-league-final-2026-betting-guide-bd",
+      "title": "Champions League Final 2026 Betting Guide BD: May final market checklist",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-26",
+      "slot": 1,
+      "file": "blog/corners-over-under-live-betting.md",
+      "slug": "corners-over-under-live-betting",
+      "title": "Corners Over/Under Live Betting: live match-এ corner market analysis",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-26",
+      "slot": 2,
+      "file": "blog/correct-score-betting-bankroll-tips.md",
+      "slug": "correct-score-betting-bankroll-tips",
+      "title": "Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-27",
+      "slot": 1,
+      "file": "blog/world-cup-2026-england-france-betting-preview.md",
+      "slug": "world-cup-2026-england-france-betting-preview",
+      "title": "England France World Cup 2026 Betting Preview: odds, squad ও market",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-27",
+      "slot": 2,
+      "file": "blog/epl-2026-27-season-betting-preview-bd.md",
+      "slug": "epl-2026-27-season-betting-preview-bd",
+      "title": "EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-28",
+      "slot": 1,
+      "file": "blog/europa-final-2026-betting-market-guide.md",
+      "slug": "europa-final-2026-betting-market-guide",
+      "title": "Europa Final 2026 Betting Market Guide: totals, corners ও cards",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-28",
+      "slot": 2,
+      "file": "blog/extra-time-betting-rules-guide.md",
+      "slug": "extra-time-betting-rules-guide",
+      "title": "Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-29",
+      "slot": 1,
+      "file": "blog/fifa-world-cup-2026-betting-guide-bangladesh.md",
+      "slug": "fifa-world-cup-2026-betting-guide-bangladesh",
+      "title": "FIFA World Cup 2026 Betting Guide Bangladesh: match market plan",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-29",
+      "slot": 2,
+      "file": "blog/football-betting-app-bangladesh-world-cup.md",
+      "slug": "football-betting-app-bangladesh-world-cup",
+      "title": "Football Betting App Bangladesh World Cup: mobile setup ও safety guide",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-30",
+      "slot": 1,
+      "file": "blog/la-liga-2026-27-betting-preview-bd.md",
+      "slug": "la-liga-2026-27-betting-preview-bd",
+      "title": "La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-30",
+      "slot": 2,
+      "file": "blog/world-cup-2026-bet-builder-guide.md",
+      "slug": "world-cup-2026-bet-builder-guide",
+      "title": "World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": 1,
+      "file": "blog/world-cup-2026-betting-app-bd.md",
+      "slug": "world-cup-2026-betting-app-bd",
+      "title": "World Cup 2026 Betting App BD: football match bet করার setup",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-05-31",
+      "slot": 2,
+      "file": "blog/world-cup-2026-betting-bonuses-bd.md",
+      "slug": "world-cup-2026-betting-bonuses-bd",
+      "title": "World Cup 2026 Betting Bonuses BD: bonus claim করার আগে terms দেখুন",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": 1,
+      "file": "blog/world-cup-2026-btts-betting-guide.md",
+      "slug": "world-cup-2026-btts-betting-guide",
+      "title": "World Cup 2026 BTTS Betting Guide: both teams to score market",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": 2,
+      "file": "blog/world-cup-2026-correct-score-betting-guide.md",
+      "slug": "world-cup-2026-correct-score-betting-guide",
+      "title": "World Cup 2026 Correct Score Betting Guide: high odds risk control",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": 1,
+      "file": "blog/world-cup-2026-group-stage-betting-strategy.md",
+      "slug": "world-cup-2026-group-stage-betting-strategy",
+      "title": "World Cup 2026 Group Stage Betting Strategy: early matches কীভাবে পড়বেন",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": 2,
+      "file": "blog/world-cup-2026-match-winner-market-guide.md",
+      "slug": "world-cup-2026-match-winner-market-guide",
+      "title": "World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": 1,
+      "file": "blog/world-cup-2026-odds-explained-bangla.md",
+      "slug": "world-cup-2026-odds-explained-bangla",
+      "title": "World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-03",
+      "slot": 2,
+      "file": "blog/world-cup-2026-over-under-goals-guide.md",
+      "slug": "world-cup-2026-over-under-goals-guide",
+      "title": "World Cup 2026 Over/Under Goals Guide: totals market কীভাবে ধরবেন",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": 1,
+      "file": "blog/world-cup-2026-quarter-final-betting-strategy.md",
+      "slug": "world-cup-2026-quarter-final-betting-strategy",
+      "title": "World Cup 2026 Quarter Final Betting Strategy: knockout match plan",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": 2,
+      "file": "blog/world-cup-2026-top-goalscorer-betting-guide.md",
+      "slug": "world-cup-2026-top-goalscorer-betting-guide",
+      "title": "World Cup 2026 Top Goalscorer Betting Guide: outright market explained",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": 1,
+      "file": "blog/funky-time-rules-bangladesh.md",
+      "slug": "funky-time-rules-bangladesh",
+      "title": "Funky Time Rules Bangladesh: multiplier, bonus ও payout explained",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": 2,
+      "file": "blog/draw-no-bet-vs-double-chance.md",
+      "slug": "draw-no-bet-vs-double-chance",
+      "title": "Draw No Bet vs Double Chance: কোন market বেশি practical?",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": 1,
+      "file": "blog/first-goalscorer-vs-anytime-goalscorer.md",
+      "slug": "first-goalscorer-vs-anytime-goalscorer",
+      "title": "First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-06",
+      "slot": 2,
+      "file": "blog/outrights-vs-match-betting-football.md",
+      "slug": "outrights-vs-match-betting-football",
+      "title": "Outrights vs Match Betting Football: long-term নাকি short-term market?",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": 1,
+      "file": "blog/over-1-5-goals-vs-over-2-5-goals.md",
+      "slug": "over-1-5-goals-vs-over-2-5-goals",
+      "title": "Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-07",
+      "slot": 2,
+      "file": "blog/top-5-betting-apps-bangladesh.md",
+      "slug": "top-5-betting-apps-bangladesh",
+      "title": "Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison",
+      "cluster": "worldCup",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": 1,
+      "file": "blog/aviator-auto-cashout-settings-guide.md",
+      "slug": "aviator-auto-cashout-settings-guide",
+      "title": "Aviator Auto Cashout Settings Guide: low-risk multiplier plan",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": 2,
+      "file": "blog/crazy-time-khelar-niyom-bangla.md",
+      "slug": "crazy-time-khelar-niyom-bangla",
+      "title": "Crazy Time খেলার নিয়ম Bangla: bonus wheel সহজ guide",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": 1,
+      "file": "blog/trading-a-t20-match.md",
+      "slug": "trading-a-t20-match",
+      "title": "How to Trade a T20 Cricket Match: A Step-by-Step Guide",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-09",
+      "slot": 2,
+      "file": "blog/lightning-roulette-multiplier-risk-guide.md",
+      "slug": "lightning-roulette-multiplier-risk-guide",
+      "title": "Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": 1,
+      "file": "blog/multiplier-wilds-explained.md",
+      "slug": "multiplier-wilds-explained",
+      "title": "Multiplier Wilds Explained: wild multiplier effect কতটা strong?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": 2,
+      "file": "blog/player-props-cricket-betting-guide.md",
+      "slug": "player-props-cricket-betting-guide",
+      "title": "Player Props Cricket Betting Guide: batter ও bowler props কীভাবে ধরবেন",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-11",
+      "slot": 1,
+      "file": "blog/powerplay-betting-cricket-guide.md",
+      "slug": "powerplay-betting-cricket-guide",
+      "title": "Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-11",
+      "slot": 2,
+      "file": "blog/rain-affected-match-betting-rules.md",
+      "slug": "rain-affected-match-betting-rules",
+      "title": "Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-12",
+      "slot": 1,
+      "file": "blog/scalping-strategy.md",
+      "slug": "scalping-strategy",
+      "title": "Scalping Strategy in Cricket Betting: Small Profits, Big Gains",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-12",
+      "slot": 2,
+      "file": "blog/sixes-market-cricket-betting-guide.md",
+      "slug": "sixes-market-cricket-betting-guide",
+      "title": "Sixes Market Cricket Betting Guide: total sixes market বোঝার নিয়ম",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-13",
+      "slot": 1,
+      "file": "blog/team-total-runs-cricket-guide.md",
+      "slug": "team-total-runs-cricket-guide",
+      "title": "Team Total Runs Cricket Guide: innings line পড়ার সহজ পদ্ধতি",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-13",
+      "slot": 2,
+      "file": "blog/test-match-session-betting-guide.md",
+      "slug": "test-match-session-betting-guide",
+      "title": "Test Match Session Betting Guide: session বাজারে value খোঁজার নিয়ম",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-14",
+      "slot": 1,
+      "file": "blog/back-bet-explained.md",
+      "slug": "back-bet-explained",
+      "title": "What is a Back Bet? The Traditional Way to Bet on Cricket",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-14",
+      "slot": 2,
+      "file": "blog/liquidity-in-cricket-markets.md",
+      "slug": "liquidity-in-cricket-markets",
+      "title": "What is Liquidity in Cricket Betting? Why It Matters",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-15",
+      "slot": 1,
+      "file": "blog/wicket-method-betting-explained.md",
+      "slug": "wicket-method-betting-explained",
+      "title": "Wicket Method Betting Explained: caught, bowled, lbw market কী?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-15",
+      "slot": 2,
+      "file": "blog/crash-game-bangladesh-real-money-guide.md",
+      "slug": "crash-game-bangladesh-real-money-guide",
+      "title": "Crash Game Bangladesh Real Money Guide: safe cashout ও bankroll plan",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-16",
+      "slot": 1,
+      "file": "blog/crazy-time-jetar-koushol-bangla.md",
+      "slug": "crazy-time-jetar-koushol-bangla",
+      "title": "Crazy Time জেতার কৌশল Bangla: risk control ও bonus round plan",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-16",
+      "slot": 2,
+      "file": "blog/aviator-game-tips-and-tricks-bangla.md",
+      "slug": "aviator-game-tips-and-tricks-bangla",
+      "title": "Aviator Game Tips and Tricks Bangla: auto cashout কীভাবে set করবেন",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-17",
+      "slot": 1,
+      "file": "blog/aviator-game-winning-strategy-bd.md",
+      "slug": "aviator-game-winning-strategy-bd",
+      "title": "Aviator Game Winning Strategy BD: realistic strategy বনাম myth",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-17",
+      "slot": 2,
+      "file": "blog/cash-or-crash-game-bangladesh-guide.md",
+      "slug": "cash-or-crash-game-bangladesh-guide",
+      "title": "Cash or Crash Game Bangladesh Guide: collect নাকি cashout?",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-18",
+      "slot": 1,
+      "file": "blog/crash-game-strategy-for-beginners-bd.md",
+      "slug": "crash-game-strategy-for-beginners-bd",
+      "title": "Crash Game Strategy for Beginners BD: 1.5x, 2x ও stop-loss plan",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-18",
+      "slot": 2,
+      "file": "blog/crash-game-winning-tricks-bangla.md",
+      "slug": "crash-game-winning-tricks-bangla",
+      "title": "Crash Game Winning Tricks Bangla: কোন trick আসলে কাজ করে?",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-19",
+      "slot": 1,
+      "file": "blog/funky-time-strategy-bangla.md",
+      "slug": "funky-time-strategy-bangla",
+      "title": "Funky Time Strategy Bangla: bonus rounds ও bet sizing guide",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-19",
+      "slot": 2,
+      "file": "blog/crash-game-app-bd-guide.md",
+      "slug": "crash-game-app-bd-guide",
+      "title": "Crash Game App BD Guide: mobile-এ crash game খেলার নিয়ম",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-20",
+      "slot": 1,
+      "file": "blog/best-cricket-betting-odds-2026.md",
+      "slug": "best-cricket-betting-odds-2026",
+      "title": "Best Cricket Betting Odds in Bangladesh (2026 Analysis) | সেরা অডস",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-20",
+      "slot": 2,
+      "file": "blog/boro-jeet-vs-bjbaji-cricket-review.md",
+      "slug": "boro-jeet-vs-bjbaji-cricket-review",
+      "title": "Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-21",
+      "slot": 1,
+      "file": "blog/boro-jeet-vs-mcw-review.md",
+      "slug": "boro-jeet-vs-mcw-review",
+      "title": "Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-21",
+      "slot": 2,
+      "file": "blog/toss-winner-vs-match-winner-correlation.md",
+      "slug": "toss-winner-vs-match-winner-correlation",
+      "title": "Toss Winner vs Match Winner Correlation: correlation কতটা real?",
+      "cluster": "cricketApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-22",
+      "slot": 1,
+      "file": "blog/app-crashing-after-update-fix.md",
+      "slug": "app-crashing-after-update-fix",
+      "title": "App Crashing After Update Fix: update-এর পরে app crash হলে",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-22",
+      "slot": 2,
+      "file": "blog/clear-cache-and-data-guide.md",
+      "slug": "clear-cache-and-data-guide",
+      "title": "App Crashing? How to Clear Cache and Data",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-23",
+      "slot": 1,
+      "file": "blog/aviator-crash-game-tricks-explained.md",
+      "slug": "aviator-crash-game-tricks-explained",
+      "title": "Aviator Crash Game Tricks Explained: cashout timing guide",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-23",
+      "slot": 2,
+      "file": "blog/aviator-game-how-to-play-bangladesh.md",
+      "slug": "aviator-game-how-to-play-bangladesh",
+      "title": "Aviator Game How to Play Bangladesh: beginner rule guide",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-24",
+      "slot": 1,
+      "file": "blog/aviator-game-predictor-scam-bd.md",
+      "slug": "aviator-game-predictor-scam-bd",
+      "title": "Aviator Game Predictor Scam BD: predictor app সত্যি নাকি ফাঁদ?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-24",
+      "slot": 2,
+      "file": "blog/crash-game-pattern-myths-explained.md",
+      "slug": "crash-game-pattern-myths-explained",
+      "title": "Crash Game Pattern Myths Explained: pattern দেখে prediction করা যায়?",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-25",
+      "slot": 1,
+      "file": "blog/crash-game-signal-scam-alert-bangladesh.md",
+      "slug": "crash-game-signal-scam-alert-bangladesh",
+      "title": "Crash Game Signal Scam Alert Bangladesh: paid signal কেন risky",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-25",
+      "slot": 2,
+      "file": "blog/legal-online-casino-bangladesh-guide.md",
+      "slug": "legal-online-casino-bangladesh-guide",
+      "title": "Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-26",
+      "slot": 1,
+      "file": "blog/lucky-jet-crash-game-guide-bangladesh.md",
+      "slug": "lucky-jet-crash-game-guide-bangladesh",
+      "title": "Lucky Jet Crash Game Guide Bangladesh: Aviator alternative explained",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-26",
+      "slot": 2,
+      "file": "blog/plane-crash-betting-game-guide-bd.md",
+      "slug": "plane-crash-betting-game-guide-bd",
+      "title": "Plane Crash Betting Game Guide BD: plane game কীভাবে কাজ করে?",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-27",
+      "slot": 1,
+      "file": "blog/50-taka-deposit-casino-sites-bd.md",
+      "slug": "50-taka-deposit-casino-sites-bd",
+      "title": "৫০ টাকা ডিপোজিট Casino Sites BD: low deposit খেললে কী risk?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-27",
+      "slot": 2,
+      "file": "blog/bkash-casino-sites-bangladesh-guide.md",
+      "slug": "bkash-casino-sites-bangladesh-guide",
+      "title": "bKash Casino Sites Bangladesh Guide: deposit করার আগে কী দেখবেন",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-28",
+      "slot": 1,
+      "file": "blog/casino-bkash-deposit-guide-bangladesh.md",
+      "slug": "casino-bkash-deposit-guide-bangladesh",
+      "title": "Casino bKash Deposit Guide Bangladesh: step-by-step payment safety",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-28",
+      "slot": 2,
+      "file": "blog/free-bonus-without-deposit-bd-guide.md",
+      "slug": "free-bonus-without-deposit-bd-guide",
+      "title": "Free Bonus Without Deposit BD Guide: ফ্রি বোনাসের real terms",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-29",
+      "slot": 1,
+      "file": "blog/is-online-gambling-legal-in-bangladesh-guide.md",
+      "slug": "is-online-gambling-legal-in-bangladesh-guide",
+      "title": "Is Online Gambling Legal in Bangladesh? Practical risk guide",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-29",
+      "slot": 2,
+      "file": "blog/online-gambling-in-bangladesh-explained.md",
+      "slug": "online-gambling-in-bangladesh-explained",
+      "title": "Online Gambling in Bangladesh Explained: কী legal, কী risky?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-30",
+      "slot": 1,
+      "file": "blog/slot-game-bangladesh-beginners-guide.md",
+      "slug": "slot-game-bangladesh-beginners-guide",
+      "title": "Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-06-30",
+      "slot": 2,
+      "file": "blog/low-deposit-betting-sites-bangladesh.md",
+      "slug": "low-deposit-betting-sites-bangladesh",
+      "title": "সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-01",
+      "slot": 1,
+      "file": "blog/casino-games-online-real-money-bd.md",
+      "slug": "casino-games-online-real-money-bd",
+      "title": "Casino Games Online Real Money BD: safe play ও bankroll basics",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-01",
+      "slot": 2,
+      "file": "blog/nagad-online-casino-guide-bangladesh.md",
+      "slug": "nagad-online-casino-guide-bangladesh",
+      "title": "Nagad Online Casino Bangladesh Guide: deposit, cashout ও limits",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-02",
+      "slot": 1,
+      "file": "blog/online-slots-bangladesh-guide.md",
+      "slug": "online-slots-bangladesh-guide",
+      "title": "Online Slots Bangladesh Guide: RTP, volatility ও bonus feature",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-02",
+      "slot": 2,
+      "file": "blog/cash-or-crash-collect-vs-cashout.md",
+      "slug": "cash-or-crash-collect-vs-cashout",
+      "title": "Cash or Crash Collect vs Cashout: collect strategy কবে better?",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-03",
+      "slot": 1,
+      "file": "blog/megapari-crash-game-alternatives-bd.md",
+      "slug": "megapari-crash-game-alternatives-bd",
+      "title": "Megapari Crash Game Alternatives BD: safe comparison checklist",
+      "cluster": "crash",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-03",
+      "slot": 2,
+      "file": "blog/andar-bahar-first-card-probability.md",
+      "slug": "andar-bahar-first-card-probability",
+      "title": "Andar Bahar First Card Probability: first card দেখে edge পাওয়া যায়?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-04",
+      "slot": 1,
+      "file": "blog/autoplay-safety-settings-slots.md",
+      "slug": "autoplay-safety-settings-slots",
+      "title": "Autoplay Safety Settings in Slots: autoplay চালু করলে কী limit দেবেন?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-04",
+      "slot": 2,
+      "file": "blog/baccarat-shoe-length-explained.md",
+      "slug": "baccarat-shoe-length-explained",
+      "title": "Baccarat Shoe Length Explained: shoe count result-এ effect ফেলে?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-05",
+      "slot": 1,
+      "file": "blog/banker-player-commission-explained.md",
+      "slug": "banker-player-commission-explained",
+      "title": "Banker Player Commission Explained: Baccarat-এ commission কেন কাটা হয়?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-05",
+      "slot": 2,
+      "file": "blog/best-casino-slots-to-play-online-bd.md",
+      "slug": "best-casino-slots-to-play-online-bd",
+      "title": "Best Casino Slots to Play Online BD: beginner slot selection guide",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-06",
+      "slot": 1,
+      "file": "blog/best-online-casino-games-bangladesh-2026.md",
+      "slug": "best-online-casino-games-bangladesh-2026",
+      "title": "Best Online Casino Games Bangladesh 2026: beginner-friendly picks",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-06",
+      "slot": 2,
+      "file": "blog/bkash-cash-out-fee-calculator-guide.md",
+      "slug": "bkash-cash-out-fee-calculator-guide",
+      "title": "bKash Cash Out Fee Calculator Guide: আসল net amount কীভাবে বুঝবেন",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-07",
+      "slot": 1,
+      "file": "blog/blackjack-soft-hands-guide.md",
+      "slug": "blackjack-soft-hands-guide",
+      "title": "Blackjack Soft Hands Guide: soft 17 থেকে soft 20 decision chart",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-07",
+      "slot": 2,
+      "file": "blog/blackjack-surrender-guide.md",
+      "slug": "blackjack-surrender-guide",
+      "title": "Blackjack Surrender Guide: surrender option কবে ব্যবহার করবেন?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-08",
+      "slot": 1,
+      "file": "blog/buy-feature-house-edge-explained.md",
+      "slug": "buy-feature-house-edge-explained",
+      "title": "Buy Feature House Edge Explained: feature buy-এর hidden cost কী?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-08",
+      "slot": 2,
+      "file": "blog/cascading-slots-for-beginners.md",
+      "slug": "cascading-slots-for-beginners",
+      "title": "Cascading Slots for Beginners: tumbling reels কীভাবে কাজ করে?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-09",
+      "slot": 1,
+      "file": "blog/casino-game-name-list-bangla.md",
+      "slug": "casino-game-name-list-bangla",
+      "title": "Casino Game Name List Bangla: কোন game কীভাবে খেলা হয়?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-09",
+      "slot": 2,
+      "file": "blog/casino-games-list-with-pictures-bd.md",
+      "slug": "casino-games-list-with-pictures-bd",
+      "title": "Casino Games List with Pictures BD: slot, table ও live game guide",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-10",
+      "slot": 1,
+      "file": "blog/daily-betting-rebate-guide-bangladesh.md",
+      "slug": "daily-betting-rebate-guide-bangladesh",
+      "title": "Daily Betting Rebate Guide Bangladesh: 5% rebate claim করার আগে জানুন",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-10",
+      "slot": 2,
+      "file": "blog/dragon-tiger-side-bets-explained.md",
+      "slug": "dragon-tiger-side-bets-explained",
+      "title": "Dragon Tiger Side Bets Explained: Tie ও suited bet-এর risk কত?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-11",
+      "slot": 1,
+      "file": "blog/dream-catcher-top-slot-probability.md",
+      "slug": "dream-catcher-top-slot-probability",
+      "title": "Dream Catcher Top Slot Probability: top slot কতটা rare?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-11",
+      "slot": 2,
+      "file": "blog/duplicate-deposit-request-problem.md",
+      "slug": "duplicate-deposit-request-problem",
+      "title": "Duplicate Deposit Request Problem: একই ডিপোজিট দুইবার গেলে কী করবেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-12",
+      "slot": 1,
+      "file": "blog/failed-payment-after-network-timeout.md",
+      "slug": "failed-payment-after-network-timeout",
+      "title": "Failed Payment After Network Timeout: টাকা কাটা গেলেও update না এলে",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-12",
+      "slot": 2,
+      "file": "blog/live-casino-latency-fairness-guide.md",
+      "slug": "live-casino-latency-fairness-guide",
+      "title": "Live Casino Latency Fairness Guide: delay মানেই unfair নাকি network issue?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-13",
+      "slot": 1,
+      "file": "blog/manual-deposit-verification-time.md",
+      "slug": "manual-deposit-verification-time",
+      "title": "Manual Deposit Verification Time: manual approve হতে কতক্ষণ লাগে?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-13",
+      "slot": 2,
+      "file": "blog/mega-ball-bonus-ticket-explained.md",
+      "slug": "mega-ball-bonus-ticket-explained",
+      "title": "Mega Ball Bonus Ticket Explained: bonus card ও payout কীভাবে কাজ করে",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-14",
+      "slot": 1,
+      "file": "blog/missing-bonus-after-first-deposit.md",
+      "slug": "missing-bonus-after-first-deposit",
+      "title": "Missing Bonus After First Deposit: বোনাস না এলে কোথায় দেখবেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-14",
+      "slot": 2,
+      "file": "blog/nagad-cash-out-fee-calculator-guide.md",
+      "slug": "nagad-cash-out-fee-calculator-guide",
+      "title": "Nagad Cash Out Fee Calculator Guide: payout হাতে কত পাবেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-15",
+      "slot": 1,
+      "file": "blog/online-betting-legal-bangladesh-explained.md",
+      "slug": "online-betting-legal-bangladesh-explained",
+      "title": "Online Betting Legal Bangladesh Explained: law, risk ও safe behavior",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-15",
+      "slot": 2,
+      "file": "blog/online-casino-games-list-bangladesh.md",
+      "slug": "online-casino-games-list-bangladesh",
+      "title": "Online Casino Games List Bangladesh: popular games এক নজরে",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-16",
+      "slot": 1,
+      "file": "blog/online-casino-guide-bangladesh-beginners.md",
+      "slug": "online-casino-guide-bangladesh-beginners",
+      "title": "Online Casino Guide Bangladesh Beginners: account, game ও payment basics",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-16",
+      "slot": 2,
+      "file": "blog/online-casino-legit-check-bangladesh.md",
+      "slug": "online-casino-legit-check-bangladesh",
+      "title": "Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-17",
+      "slot": 1,
+      "file": "blog/pending-deposit-after-trxid-submission.md",
+      "slug": "pending-deposit-after-trxid-submission",
+      "title": "Pending Deposit After TrxID Submission: TrxID দেওয়ার পরেও pending কেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-17",
+      "slot": 2,
+      "file": "blog/real-cash-online-casino-bangladesh.md",
+      "slug": "real-cash-online-casino-bangladesh",
+      "title": "Real Cash Online Casino Bangladesh: withdrawal-ready play guide",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-18",
+      "slot": 1,
+      "file": "blog/roulette-neighbor-bets-guide.md",
+      "slug": "roulette-neighbor-bets-guide",
+      "title": "Roulette Neighbor Bets Guide: racetrack bet বোঝার সহজ নিয়ম",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-18",
+      "slot": 2,
+      "file": "blog/sic-bo-big-small-best-bet-guide.md",
+      "slug": "sic-bo-big-small-best-bet-guide",
+      "title": "Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-19",
+      "slot": 1,
+      "file": "blog/slot-hit-frequency-check-guide.md",
+      "slug": "slot-hit-frequency-check-guide",
+      "title": "Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-19",
+      "slot": 2,
+      "file": "blog/which-slot-game-is-easy-to-win-bangla.md",
+      "slug": "which-slot-game-is-easy-to-win-bangla",
+      "title": "Which Slot Game is Easy to Win? Bangla realistic answer",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-20",
+      "slot": 1,
+      "file": "blog/best-slot-game-in-bangladesh-2026.md",
+      "slug": "best-slot-game-in-bangladesh-2026",
+      "title": "Best Slot Game in Bangladesh 2026: RTP, volatility ও theme comparison",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-20",
+      "slot": 2,
+      "file": "blog/boro-jeet-vs-glory-casino-withdrawal.md",
+      "slug": "boro-jeet-vs-glory-casino-withdrawal",
+      "title": "Boro Jeet vs Glory Casino: Who Pays Faster? | টাকা উত্তোলনের গতি",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-21",
+      "slot": 1,
+      "file": "blog/boro-jeet-vs-nagad88-review.md",
+      "slug": "boro-jeet-vs-nagad88-review",
+      "title": "Boro Jeet vs Nagad88: Which is More Trusted? | বিশ্বস্ততা যাচাই",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-21",
+      "slot": 2,
+      "file": "blog/demo-mode-vs-real-money-slots.md",
+      "slug": "demo-mode-vs-real-money-slots",
+      "title": "Demo Mode vs Real Money Slots: RTP কি একই থাকে?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-22",
+      "slot": 1,
+      "file": "blog/fastest-payout-casinos-bd-2026.md",
+      "slug": "fastest-payout-casinos-bd-2026",
+      "title": "Fastest Payout Casinos Comparison (2026 Edition) | দ্রুততম পেমেন্ট",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-22",
+      "slot": 2,
+      "file": "blog/monopoly-live-2-rolls-vs-4-rolls.md",
+      "slug": "monopoly-live-2-rolls-vs-4-rolls",
+      "title": "Monopoly Live 2 Rolls vs 4 Rolls: কোন bonus segment বেশি value?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-23",
+      "slot": 1,
+      "file": "blog/scatter-vs-wild-symbols-explained.md",
+      "slug": "scatter-vs-wild-symbols-explained",
+      "title": "Scatter vs Wild Symbols Explained: slot symbol mechanics সহজ ভাষায়",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-23",
+      "slot": 2,
+      "file": "blog/teen-patti-seen-vs-blind-guide.md",
+      "slug": "teen-patti-seen-vs-blind-guide",
+      "title": "Teen Patti Seen vs Blind Guide: decision timing কীভাবে বুঝবেন",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-24",
+      "slot": 1,
+      "file": "blog/volatility-vs-max-win-slots.md",
+      "slug": "volatility-vs-max-win-slots",
+      "title": "Volatility vs Max Win in Slots: high max win মানেই কি high volatility?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-24",
+      "slot": 2,
+      "file": "blog/all-trusted-betting-sites-bangladesh-2026-list.md",
+      "slug": "all-trusted-betting-sites-bangladesh-2026-list",
+      "title": "All Trusted Betting Sites in Bangladesh 2026 List | সেরা বেটিং সাইট তালিকা",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-25",
+      "slot": 1,
+      "file": "blog/birthday-bonus-eligibility-guide.md",
+      "slug": "birthday-bonus-eligibility-guide",
+      "title": "Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-25",
+      "slot": 2,
+      "file": "blog/bonus-abuse-what-counts.md",
+      "slug": "bonus-abuse-what-counts",
+      "title": "Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-26",
+      "slot": 1,
+      "file": "blog/bonus-turnover-calculation-bangladesh.md",
+      "slug": "bonus-turnover-calculation-bangladesh",
+      "title": "Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-26",
+      "slot": 2,
+      "file": "blog/borojeet-vip-bonus-rules-bangla.md",
+      "slug": "borojeet-vip-bonus-rules-bangla",
+      "title": "BoroJeet VIP Bonus Rules Bangla: level, cashback ও withdrawal impact",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-27",
+      "slot": 1,
+      "file": "blog/fake-admin-scams-telegram.md",
+      "slug": "fake-admin-scams-telegram",
+      "title": "Exposed: Fake 'Admin' Scams on Telegram (সাবধান: টেলিগ্রাম ফেক অ্যাডমিন স্ক্যাম)",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-27",
+      "slot": 2,
+      "file": "blog/bonus-wagering-verification.md",
+      "slug": "bonus-wagering-verification",
+      "title": "How to Check Your Bonus Wagering Progress (বোনাস ওয়েজারিং প্রগ্রেস কিভাবে চেক করবেন)",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-28",
+      "slot": 1,
+      "file": "blog/loyalty-points-conversion-guide.md",
+      "slug": "loyalty-points-conversion-guide",
+      "title": "Loyalty Points Conversion Guide: points কখন cash এ convert করবেন?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-28",
+      "slot": 2,
+      "file": "blog/no-bonus-withdrawal-speed-guide.md",
+      "slug": "no-bonus-withdrawal-speed-guide",
+      "title": "No Bonus Withdrawal Speed Guide: bonus ছাড়া খেললে payout দ্রুত হয়?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-29",
+      "slot": 1,
+      "file": "blog/promo-code-not-working-fix.md",
+      "slug": "promo-code-not-working-fix",
+      "title": "Promo Code Not Working Fix: code invalid দেখালে কী করবেন?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-29",
+      "slot": 2,
+      "file": "blog/wagering-requirement-bonus-guide-bd.md",
+      "slug": "wagering-requirement-bonus-guide-bd",
+      "title": "Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-30",
+      "slot": 1,
+      "file": "blog/wagering-requirements-meaning-bangla.md",
+      "slug": "wagering-requirements-meaning-bangla",
+      "title": "Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-30",
+      "slot": 2,
+      "file": "blog/best-welcome-bonuses-bd-2026.md",
+      "slug": "best-welcome-bonuses-bd-2026",
+      "title": "Best Welcome Bonuses 2026: Who Gives Real Money? | সেরা স্বাগতম বোনাস",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-31",
+      "slot": 1,
+      "file": "blog/bonus-balance-vs-cash-balance-withdrawal.md",
+      "slug": "bonus-balance-vs-cash-balance-withdrawal",
+      "title": "Bonus Balance vs Cash Balance Withdrawal: কোন টাকা আগে withdraw হবে?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-07-31",
+      "slot": 2,
+      "file": "blog/boro-jeet-vs-betvisa-bonus-reviews.md",
+      "slug": "boro-jeet-vs-betvisa-bonus-reviews",
+      "title": "Boro Jeet vs Betvisa: Who has Fairer Bonus Terms? | বোনাস তুলনা",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-01",
+      "slot": 1,
+      "file": "blog/reload-bonus-vs-cashback-guide.md",
+      "slug": "reload-bonus-vs-cashback-guide",
+      "title": "Reload Bonus vs Cashback Guide: কোন reward model বেশি useful?",
+      "cluster": "bonusTrust",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-01",
+      "slot": 2,
+      "file": "blog/account-hacked-recovery.md",
+      "slug": "account-hacked-recovery",
+      "title": "Account Hacked? Immediate Recovery Steps (অ্যাকাউন্ট হ্যাক হয়েছে? পুনরুদ্ধারের উপায়)",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-02",
+      "slot": 1,
+      "file": "blog/account-under-review-how-long.md",
+      "slug": "account-under-review-how-long",
+      "title": "Account Under Review: কতক্ষণ লাগে এবং কী প্রস্তুত রাখবেন?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-02",
+      "slot": 2,
+      "file": "blog/arbitrage-betting-bd.md",
+      "slug": "arbitrage-betting-bd",
+      "title": "Arbitrage Betting in Bangladesh: Is it Possible?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-03",
+      "slot": 1,
+      "file": "blog/bankroll-growth-strategy.md",
+      "slug": "bankroll-growth-strategy",
+      "title": "Bankroll Growth Strategy: From 1000 BDT to 1 Lakh",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-03",
+      "slot": 2,
+      "file": "blog/betting-exchange-commission-guide.md",
+      "slug": "betting-exchange-commission-guide",
+      "title": "Betting Exchange Commission Explained: How Fees Affect Profit",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-04",
+      "slot": 1,
+      "file": "blog/device-ban-solutions.md",
+      "slug": "device-ban-solutions",
+      "title": "Boro Jeet Device Ban: Is My Phone Blacklisted? (ডিভাইস ব্যান: আপনার ফোন কি ব্ল্যাকলিস্টেড?)",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-04",
+      "slot": 2,
+      "file": "blog/cancel-pending-withdrawal-borojeet.md",
+      "slug": "cancel-pending-withdrawal-borojeet",
+      "title": "BoroJeet Pending Withdrawal Cancel করার নিয়ম: Step-by-Step Guide",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-05",
+      "slot": 1,
+      "file": "blog/self-exclusion-removal.md",
+      "slug": "self-exclusion-removal",
+      "title": "Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-05",
+      "slot": 2,
+      "file": "blog/change-registered-email-borojeet.md",
+      "slug": "change-registered-email-borojeet",
+      "title": "Change Registered Email on BoroJeet: email বদলাতে কী লাগে?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-06",
+      "slot": 1,
+      "file": "blog/change-withdrawal-method-after-request.md",
+      "slug": "change-withdrawal-method-after-request",
+      "title": "Change Withdrawal Method After Request: Request দেওয়ার পরে method বদলানো যায়?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-06",
+      "slot": 2,
+      "file": "blog/chasing-losses.md",
+      "slug": "chasing-losses",
+      "title": "Chasing Losses: The Psychology of the Death Spiral",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-07",
+      "slot": 1,
+      "file": "blog/clear-app-storage-without-losing-account.md",
+      "slug": "clear-app-storage-without-losing-account",
+      "title": "Clear App Storage Without Losing Account: data clear করলেও account থাকবে?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-07",
+      "slot": 2,
+      "file": "blog/daily-withdrawal-limit-reset-time.md",
+      "slug": "daily-withdrawal-limit-reset-time",
+      "title": "Daily Withdrawal Limit Reset Time: limit কখন reset হয়?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-08",
+      "slot": 1,
+      "file": "blog/email-otp-not-received-borojeet.md",
+      "slug": "email-otp-not-received-borojeet",
+      "title": "Email OTP Not Received on BoroJeet: mail না এলে fix কী?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-08",
+      "slot": 2,
+      "file": "blog/email-verification-issues.md",
+      "slug": "email-verification-issues",
+      "title": "Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভেরিফিকেশন সমস্যা: OTP আসছে না?)",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-09",
+      "slot": 1,
+      "file": "blog/implied-probability-calculation.md",
+      "slug": "implied-probability-calculation",
+      "title": "How to Calculate Implied Probability from Exchange Odds",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-09",
+      "slot": 2,
+      "file": "blog/changing-registered-phone-number.md",
+      "slug": "changing-registered-phone-number",
+      "title": "How to Change Your Registered Phone Number (কিভাবে রেজিস্টার্ড ফোন নম্বর পরিবর্তন করবেন)",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-10",
+      "slot": 1,
+      "file": "blog/contacting-licensing-authorities.md",
+      "slug": "contacting-licensing-authorities",
+      "title": "How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-10",
+      "slot": 2,
+      "file": "blog/two-factor-authentication.md",
+      "slug": "two-factor-authentication",
+      "title": "How to Secure Your Account with Two-Factor Authentication (2FA)",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-11",
+      "slot": 1,
+      "file": "blog/how-to-use-a-vpn-for-gambling.md",
+      "slug": "how-to-use-a-vpn-for-gambling",
+      "title": "How to Use a VPN for Gambling: Safe Servers for Bangladesh",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-11",
+      "slot": 2,
+      "file": "blog/kyc-address-proof-guide.md",
+      "slug": "kyc-address-proof-guide",
+      "title": "KYC Address Proof Guide: address proof হিসেবে কী accepted?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-12",
+      "slot": 1,
+      "file": "blog/line-movement-analysis.md",
+      "slug": "line-movement-analysis",
+      "title": "Line Movement Analysis: Why Do Odds Change?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-12",
+      "slot": 2,
+      "file": "blog/password-reset-link-expired-fix.md",
+      "slug": "password-reset-link-expired-fix",
+      "title": "Password Reset Link Expired Fix: link মেয়াদ শেষ হলে",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-13",
+      "slot": 1,
+      "file": "blog/payment-history-not-showing-fix.md",
+      "slug": "payment-history-not-showing-fix",
+      "title": "Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-13",
+      "slot": 2,
+      "file": "blog/payment-name-mismatch-fix.md",
+      "slug": "payment-name-mismatch-fix",
+      "title": "Payment Name Mismatch Fix: account name না মিললে সমাধান",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-14",
+      "slot": 1,
+      "file": "blog/play-without-app-mobile-browser.md",
+      "slug": "play-without-app-mobile-browser",
+      "title": "Play Without App on Mobile Browser: app ছাড়াই full site ব্যবহার",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-14",
+      "slot": 2,
+      "file": "blog/player-points-line-shopping-guide.md",
+      "slug": "player-points-line-shopping-guide",
+      "title": "Player Points Line Shopping Guide: NBA props-এ line compare কেন জরুরি",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-15",
+      "slot": 1,
+      "file": "blog/push-notifications-not-working-borojeet.md",
+      "slug": "push-notifications-not-working-borojeet",
+      "title": "Push Notifications Not Working on BoroJeet: notification fix guide",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-15",
+      "slot": 2,
+      "file": "blog/screenshot-proof-for-payment-support.md",
+      "slug": "screenshot-proof-for-payment-support",
+      "title": "Screenshot Proof for Payment Support: support-এ কী screenshot পাঠাবেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-16",
+      "slot": 1,
+      "file": "blog/dns-settings-for-better-speed.md",
+      "slug": "dns-settings-for-better-speed",
+      "title": "Slow Internet? Change DNS Settings for Faster Betting",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-16",
+      "slot": 2,
+      "file": "blog/sms-otp-delay-bangladesh-fix.md",
+      "slug": "sms-otp-delay-bangladesh-fix",
+      "title": "SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-17",
+      "slot": 1,
+      "file": "blog/multi-accounting-risks.md",
+      "slug": "multi-accounting-risks",
+      "title": "The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-17",
+      "slot": 2,
+      "file": "blog/gamblers-fallacy.md",
+      "slug": "gamblers-fallacy",
+      "title": "The Gambler's Fallacy: Why You Are Not 'Due' for a Win",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-18",
+      "slot": 1,
+      "file": "blog/kelly-criterion-for-beginners.md",
+      "slug": "kelly-criterion-for-beginners",
+      "title": "The Kelly Criterion: How Much Money Should You Bet?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-18",
+      "slot": 2,
+      "file": "blog/understanding-roi-and-yield.md",
+      "slug": "understanding-roi-and-yield",
+      "title": "Understanding ROI and Yield: Measuring Your Betting Success",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-19",
+      "slot": 1,
+      "file": "blog/duckworth-lewis-method.md",
+      "slug": "duckworth-lewis-method",
+      "title": "Understanding the Duckworth-Lewis (DLS) Method for Betting",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-19",
+      "slot": 2,
+      "file": "blog/uninstall-reinstall-borojeet-app.md",
+      "slug": "uninstall-reinstall-borojeet-app",
+      "title": "Uninstall and Reinstall BoroJeet App: clean reinstall guide",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-20",
+      "slot": 1,
+      "file": "blog/lay-bet-explained.md",
+      "slug": "lay-bet-explained",
+      "title": "What is a Lay Bet? How to Be the Bookmaker",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-20",
+      "slot": 2,
+      "file": "blog/betting-psychology-tilt.md",
+      "slug": "betting-psychology-tilt",
+      "title": "What is Tilt in Betting? How to Stop Emotional Decisions",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-21",
+      "slot": 1,
+      "file": "blog/value-betting-guide.md",
+      "slug": "value-betting-guide",
+      "title": "What is Value Betting? How to Spot Overpriced Odds",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-21",
+      "slot": 2,
+      "file": "blog/record-keeping-for-bettors.md",
+      "slug": "record-keeping-for-bettors",
+      "title": "Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-22",
+      "slot": 1,
+      "file": "blog/withdrawal-rejected-reasons.md",
+      "slug": "withdrawal-rejected-reasons",
+      "title": "Withdrawal Rejected? Understanding Error Codes (টাকা উত্তোলন বাতিল? এর কারণ ও সমাধান)",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-22",
+      "slot": 2,
+      "file": "blog/withdrawal-reversal-to-wallet-explained.md",
+      "slug": "withdrawal-reversal-to-wallet-explained",
+      "title": "Withdrawal Reversal to Wallet Explained: টাকা wallet-এ ফেরত এলে মানে কী?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-23",
+      "slot": 1,
+      "file": "blog/withdrawal-under-review-meaning.md",
+      "slug": "withdrawal-under-review-meaning",
+      "title": "Withdrawal Under Review Meaning: এই status আসলে কী বোঝায়?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-23",
+      "slot": 2,
+      "file": "blog/boro-jeet-vs-linebet-agent-review.md",
+      "slug": "boro-jeet-vs-linebet-agent-review",
+      "title": "Boro Jeet vs Linebet: Better Agent Support? | এজেন্ট সাপোর্ট পর্যালোচনা",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-24",
+      "slot": 1,
+      "file": "blog/boro-jeet-vs-parimatch-app-review.md",
+      "slug": "boro-jeet-vs-parimatch-app-review",
+      "title": "Boro Jeet vs Parimatch BD: Which App is Better? | সেরা অ্যাপ তুলনা",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-24",
+      "slot": 2,
+      "file": "blog/browser-vs-app-performance-borojeet.md",
+      "slug": "browser-vs-app-performance-borojeet",
+      "title": "Browser vs App Performance on BoroJeet: কোনটা দ্রুত?",
+      "cluster": "bettingApp",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-25",
+      "slot": 1,
+      "file": "blog/early-cashout-vs-full-time-value.md",
+      "slug": "early-cashout-vs-full-time-value",
+      "title": "Early Cashout vs Full-Time Value: cash out করলে value হারাচ্ছেন?",
+      "cluster": "payments",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-25",
+      "slot": 2,
+      "file": "blog/handicap-vs-spread-betting-basketball.md",
+      "slug": "handicap-vs-spread-betting-basketball",
+      "title": "Handicap vs Spread Betting in Basketball: line বুঝবেন কীভাবে",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-26",
+      "slot": 1,
+      "file": "blog/smart-money-vs-public-money.md",
+      "slug": "smart-money-vs-public-money",
+      "title": "Smart Money vs Public Money: How to Follow the Pros",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-26",
+      "slot": 2,
+      "file": "blog/sportsbook-vs-betting-exchange-explained.md",
+      "slug": "sportsbook-vs-betting-exchange-explained",
+      "title": "Sportsbook vs Betting Exchange: Which is Better for Bangladeshi Bettors?",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    },
+    {
+      "date": "2026-08-27",
+      "slot": 1,
+      "file": "blog/top-10-betting-sites-bangladesh-2026.md",
+      "slug": "top-10-betting-sites-bangladesh-2026",
+      "title": "Top 10 Betting Sites in Bangladesh 2026 | বাংলাদেশের সেরা ১০টি বেটিং সাইট",
+      "cluster": "casino",
+      "source": "existing-unpublished"
+    }
+  ]
+}

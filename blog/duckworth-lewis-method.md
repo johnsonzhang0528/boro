@@ -2,7 +2,8 @@
 layout: post.njk
 title: "Understanding the Duckworth-Lewis (DLS) Method for Betting"
 description: "Rain stopped play? Learn how the DLS method calculates new targets and how smart bettors exploit the confusion."
-date: 2026-05-14
+date: 2026-08-19
+lastUpdated: 2026-08-19
 tags: 
   - post
   - cricket

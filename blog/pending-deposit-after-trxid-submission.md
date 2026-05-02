@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Pending Deposit After TrxID Submission: TrxID দেওয়ার পরেও pending কেন?"
 description: "Pending Deposit After TrxID Submission নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-09
-lastUpdated: 2026-06-09
+date: 2026-07-17
+lastUpdated: 2026-07-17
 ogImage: "og-pending-deposit-after-trxid-submission-optimized.webp"
 ogImageAlt: "Pending Deposit After TrxID Submission visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "trxid", "deposit"]

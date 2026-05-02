@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Wicket Method Betting Explained: caught, bowled, lbw market কী?"
 description: "Wicket Method Betting Explained market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-26
-lastUpdated: 2026-06-26
+date: 2026-06-15
+lastUpdated: 2026-06-15
 ogImage: "og-wicket-method-betting-explained-optimized.webp"
 ogImageAlt: "Wicket Method Betting Explained visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "special-markets"]

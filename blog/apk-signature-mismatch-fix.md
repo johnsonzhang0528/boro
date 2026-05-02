@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "APK Signature Mismatch Fix: install error এলে কী করবেন?"
 description: "APK Signature Mismatch Fix সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-06-12
-lastUpdated: 2026-06-12
+date: 2026-05-15
+lastUpdated: 2026-05-15
 ogImage: "og-apk-signature-mismatch-fix-optimized.webp"
 ogImageAlt: "APK Signature Mismatch Fix visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "apk", "app"]

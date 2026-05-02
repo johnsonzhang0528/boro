@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Early Cashout vs Full-Time Value: cash out করলে value হারাচ্ছেন?"
 description: "Early Cashout vs Full-Time Value market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-25
-lastUpdated: 2026-06-25
+date: 2026-08-25
+lastUpdated: 2026-08-25
 ogImage: "og-early-cashout-vs-full-time-value-optimized.webp"
 ogImageAlt: "Early Cashout vs Full-Time Value visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cashout", "education"]

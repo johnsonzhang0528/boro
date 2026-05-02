@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Roulette Neighbor Bets Guide: racetrack bet বোঝার সহজ নিয়ম"
 description: "Roulette Neighbor Bets Guide rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-06-28
-lastUpdated: 2026-06-28
+date: 2026-07-18
+lastUpdated: 2026-07-18
 ogImage: "og-roulette-neighbor-bets-guide-optimized.webp"
 ogImageAlt: "Roulette Neighbor Bets Guide visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "roulette"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?"
 description: "Birthday Bonus Eligibility Guide claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-07-03
-lastUpdated: 2026-07-03
+date: 2026-07-25
+lastUpdated: 2026-07-25
 ogImage: "og-birthday-bonus-eligibility-guide-optimized.webp"
 ogImageAlt: "Birthday Bonus Eligibility Guide visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "birthday-bonus"]

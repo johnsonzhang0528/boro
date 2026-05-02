@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Autoplay Safety Settings in Slots: autoplay চালু করলে কী limit দেবেন?"
 description: "Autoplay Safety Settings in Slots mechanic কী, RTP বা volatility-এর সাথে এর সম্পর্ক কী, আর bankroll কীভাবে manage করবেন তা জানুন।"
-date: 2026-07-07
-lastUpdated: 2026-07-07
+date: 2026-07-04
+lastUpdated: 2026-07-04
 ogImage: "og-autoplay-safety-settings-slots-optimized.webp"
 ogImageAlt: "Autoplay Safety Settings in Slots visual for BoroJeet readers"
 tags: ["post", "slots", "guide", "strategy", "autoplay"]

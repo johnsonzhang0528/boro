@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Andar Bahar First Card Probability: first card দেখে edge পাওয়া যায়?"
 description: "Andar Bahar First Card Probability rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-05-31
-lastUpdated: 2026-05-31
+date: 2026-07-03
+lastUpdated: 2026-07-03
 ogImage: "og-andar-bahar-first-card-probability-optimized.webp"
 ogImageAlt: "Andar Bahar First Card Probability visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "andar-bahar"]

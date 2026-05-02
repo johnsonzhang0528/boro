@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Payment Name Mismatch Fix: account name না মিললে সমাধান"
 description: "Payment Name Mismatch Fix নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-05
-lastUpdated: 2026-06-05
+date: 2026-08-13
+lastUpdated: 2026-08-13
 ogImage: "og-payment-name-mismatch-fix-optimized.webp"
 ogImageAlt: "Payment Name Mismatch Fix visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "kyc"]

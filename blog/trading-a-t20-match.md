@@ -2,7 +2,8 @@
 layout: post.njk
 title: "How to Trade a T20 Cricket Match: A Step-by-Step Guide"
 description: "Stop gambling and start trading. Learn the basic 'Back-to-Lay' strategy for T20 cricket to lock in profit before the match ends."
-date: 2026-05-12
+date: 2026-06-09
+lastUpdated: 2026-06-09
 tags: 
   - post
   - trading

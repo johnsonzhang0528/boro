@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Handicap vs Spread Betting in Basketball: line বুঝবেন কীভাবে"
 description: "Handicap vs Spread Betting in Basketball market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-24
-lastUpdated: 2026-06-24
+date: 2026-08-25
+lastUpdated: 2026-08-25
 ogImage: "og-handicap-vs-spread-betting-basketball-optimized.webp"
 ogImageAlt: "Handicap vs Spread Betting in Basketball visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "basketball", "spread"]

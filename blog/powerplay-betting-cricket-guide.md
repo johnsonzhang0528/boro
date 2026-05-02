@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis"
 description: "Powerplay Betting Cricket Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-05-31
-lastUpdated: 2026-05-31
+date: 2026-06-11
+lastUpdated: 2026-06-11
 ogImage: "og-powerplay-betting-cricket-guide-optimized.webp"
 ogImageAlt: "Powerplay Betting Cricket Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "powerplay"]

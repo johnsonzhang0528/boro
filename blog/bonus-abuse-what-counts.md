@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?"
 description: "Bonus Abuse claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-06-01
-lastUpdated: 2026-06-01
+date: 2026-07-25
+lastUpdated: 2026-07-25
 ogImage: "og-bonus-abuse-what-counts-optimized.webp"
 ogImageAlt: "Bonus Abuse visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "bonus-abuse"]

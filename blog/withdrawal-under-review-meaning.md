@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Withdrawal Under Review Meaning: এই status আসলে কী বোঝায়?"
 description: "Withdrawal Under Review Meaning নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-04
-lastUpdated: 2026-06-04
+date: 2026-08-23
+lastUpdated: 2026-08-23
 ogImage: "og-withdrawal-under-review-meaning-optimized.webp"
 ogImageAlt: "Withdrawal Under Review Meaning visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "withdrawal"]

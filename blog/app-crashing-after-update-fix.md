@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "App Crashing After Update Fix: update-এর পরে app crash হলে"
 description: "App Crashing After Update Fix সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-06-11
-lastUpdated: 2026-06-11
+date: 2026-06-22
+lastUpdated: 2026-06-22
 ogImage: "og-app-crashing-after-update-fix-optimized.webp"
 ogImageAlt: "App Crashing After Update Fix visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "app"]
