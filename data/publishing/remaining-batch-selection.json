@@ -1,6 +1,6 @@
 {
   "publishBatchName": "remaining-batch-000",
-  "promptsFile": "batch-prompts-100.json",
+  "promptsFile": "data/publishing/batch-prompts-100.json",
   "articleFiles": [],
   "promptBackedArticles": [],
   "generationSummary": {

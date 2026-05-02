@@ -3,7 +3,8 @@ const path = require('path');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 const BLOG_DIR = path.join(ROOT_DIR, 'blog');
-const PROMPTS_FILE = path.join(ROOT_DIR, 'batch-prompts-100.json');
+const PUBLISHING_DATA_DIR = path.join(ROOT_DIR, 'data', 'publishing');
+const PROMPTS_FILE = path.join(PUBLISHING_DATA_DIR, 'batch-prompts-100.json');
 const BASE_DATE = '2026-05-02';
 
 const clusterLinks = {
@@ -568,6 +569,7 @@ function ensureUniqueSlugs(topicList) {
 
 function main() {
     ensureUniqueSlugs(topics);
+    fs.mkdirSync(PUBLISHING_DATA_DIR, { recursive: true });
 
     const prompts = [];
     let created = 0;

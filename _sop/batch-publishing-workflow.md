@@ -5,7 +5,7 @@ This is the repeatable workflow for the full `generate -> dedupe -> build manife
 ## What This Flow Assumes
 
 - Draft generation uses `scripts/generate-batch-articles.js`.
-- Image prompts live in `batch-prompts-100.json`.
+- Image prompts and publish manifests live in `data/publishing/`.
 - Single-article publish logic stays in `scripts/automate-publish.js`.
 - Targeted staging is already enforced, so article publishes do not sweep unrelated working-tree files into commits.
 
@@ -21,7 +21,7 @@ What it does:
 
 - Creates only missing draft files in `blog/`
 - Skips files that already exist, which is the first dedupe layer
-- Rewrites `batch-prompts-100.json` with the full prompt set for the batch topics
+- Rewrites `data/publishing/batch-prompts-100.json` with the full prompt set for the batch topics
 
 ## Step 2: Build a Publish Manifest From Remaining Unpublished Drafts
 
@@ -29,14 +29,14 @@ Create a manifest from prompt-backed drafts that still exist locally but are not
 
 ```bash
 node scripts/build-publish-manifest.js \
-  --prompts batch-prompts-100.json \
-  --output remaining-batch-selection.json \
+  --prompts data/publishing/batch-prompts-100.json \
+  --output data/publishing/remaining-batch-selection.json \
   --name remaining-batch
 ```
 
 Default behavior:
 
-- Derives article slugs from `batch-prompts-100.json`
+- Derives article slugs from `data/publishing/batch-prompts-100.json`
 - Maps them to `blog/<slug>.md`
 - Keeps only files that exist locally
 - Excludes files already tracked in git
@@ -51,7 +51,7 @@ Useful options:
 
 ```bash
 node scripts/build-publish-manifest.js --batch-size 10 --start 0
-node scripts/build-publish-manifest.js --batch-size 10 --start 10 --output remaining-batch-2.json
+node scripts/build-publish-manifest.js --batch-size 10 --start 10 --output data/publishing/remaining-batch-2.json
 node scripts/build-publish-manifest.js --include-tracked
 ```
 
@@ -60,7 +60,7 @@ node scripts/build-publish-manifest.js --include-tracked
 Validate exactly which articles will run before any image generation or git activity.
 
 ```bash
-node scripts/publish-batch.js remaining-batch-selection.json --dry-run
+node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --dry-run
 ```
 
 What the dry run verifies:
@@ -74,7 +74,7 @@ What the dry run verifies:
 When the dry run is correct, execute the real batch.
 
 ```bash
-node scripts/publish-batch.js remaining-batch-selection.json
+node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 ```
 
 What happens for each article:
@@ -92,8 +92,8 @@ The runner resumes by default. If an article is already tracked in git, it is sk
 If Stability AI has no balance, generate the required source `.webp` files locally from the same prompt manifest.
 
 ```bash
-node scripts/generate-local-prompt-images.js remaining-batch-selection.json
-node scripts/publish-batch.js remaining-batch-selection.json --skip-image-generation
+node scripts/generate-local-prompt-images.js data/publishing/remaining-batch-selection.json
+node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --skip-image-generation
 ```
 
 This creates the same source paths expected by the original pipeline:
@@ -110,11 +110,11 @@ After one batch is published, build the next manifest from the remaining untrack
 
 ```bash
 node scripts/build-publish-manifest.js \
-  --prompts batch-prompts-100.json \
-  --output remaining-batch-selection.json \
+  --prompts data/publishing/batch-prompts-100.json \
+  --output data/publishing/remaining-batch-selection.json \
   --name remaining-batch
-node scripts/publish-batch.js remaining-batch-selection.json --dry-run
-node scripts/publish-batch.js remaining-batch-selection.json
+node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --dry-run
+node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 ```
 
 Repeat until the manifest contains zero articles.
@@ -134,9 +134,9 @@ It now delegates to the general `scripts/publish-batch.js` runner.
 Use this exact order for future batches:
 
 1. `node scripts/generate-batch-articles.js`
-2. `node scripts/build-publish-manifest.js --output remaining-batch-selection.json --name remaining-batch`
-3. `node scripts/publish-batch.js remaining-batch-selection.json --dry-run`
-4. `node scripts/publish-batch.js remaining-batch-selection.json`
+2. `node scripts/build-publish-manifest.js --output data/publishing/remaining-batch-selection.json --name remaining-batch`
+3. `node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --dry-run`
+4. `node scripts/publish-batch.js data/publishing/remaining-batch-selection.json`
 
 ## Notes
 

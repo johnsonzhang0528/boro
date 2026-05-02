@@ -3,6 +3,7 @@ const path = require('path');
 const sharp = require('sharp');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
+const DEFAULT_PROMPTS_FILE = path.join(ROOT_DIR, 'data', 'publishing', 'batch-prompts-100.json');
 
 function parseArgs(argv) {
     const options = {
@@ -275,7 +276,7 @@ async function writeImage(task, overwrite) {
 async function main() {
     const options = parseArgs(process.argv.slice(2));
     const manifest = loadJson(options.manifestPath);
-    const promptsFile = path.resolve(ROOT_DIR, manifest.promptsFile || 'batch-prompts-100.json');
+    const promptsFile = path.resolve(ROOT_DIR, manifest.promptsFile || DEFAULT_PROMPTS_FILE);
     const promptTasks = loadJson(promptsFile);
     const promptLookup = buildPromptLookup(promptTasks);
 

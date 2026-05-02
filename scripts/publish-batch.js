@@ -3,7 +3,7 @@ const path = require('path');
 const { execFileSync } = require('child_process');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
-const DEFAULT_PROMPTS_FILE = path.join(ROOT_DIR, 'batch-prompts-100.json');
+const DEFAULT_PROMPTS_FILE = path.join(ROOT_DIR, 'data', 'publishing', 'batch-prompts-100.json');
 const TEMP_PROMPTS_FILE = path.join(ROOT_DIR, 'prompts.json');
 
 function parseArgs(argv) {
@@ -29,7 +29,7 @@ function parseArgs(argv) {
     }
 
     if (!options.manifestPath) {
-        throw new Error('Usage: node scripts/publish-batch.js <manifest.json> [--dry-run] [--no-resume]');
+        throw new Error('Usage: node scripts/publish-batch.js <manifest.json> [--dry-run] [--no-resume] [--skip-image-generation]');
     }
 
     return options;

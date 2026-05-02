@@ -3,12 +3,13 @@ const path = require('path');
 const { execFileSync } = require('child_process');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
-const DEFAULT_PROMPTS_FILE = path.join(ROOT_DIR, 'batch-prompts-100.json');
+const PUBLISHING_DATA_DIR = path.join(ROOT_DIR, 'data', 'publishing');
+const DEFAULT_PROMPTS_FILE = path.join(PUBLISHING_DATA_DIR, 'batch-prompts-100.json');
 
 function parseArgs(argv) {
     const options = {
         promptsFile: DEFAULT_PROMPTS_FILE,
-        outputFile: path.join(ROOT_DIR, 'remaining-batch-selection.json'),
+        outputFile: path.join(PUBLISHING_DATA_DIR, 'remaining-batch-selection.json'),
         batchSize: null,
         start: 0,
         includeTracked: false,
@@ -131,6 +132,7 @@ function main() {
     const options = parseArgs(process.argv.slice(2));
     const manifest = buildManifest(options);
 
+    fs.mkdirSync(path.dirname(options.outputFile), { recursive: true });
     fs.writeFileSync(options.outputFile, `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
 
     console.log(`✅ Wrote manifest: ${path.relative(ROOT_DIR, options.outputFile)}`);
