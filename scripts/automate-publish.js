@@ -12,6 +12,14 @@ const MAX_WIDTH = 1536;
 const WEBP_QUALITY = 75;
 const AVIF_QUALITY = 50;
 
+function quoteForShell(value) {
+    return `'${value.replace(/'/g, `'\\''`)}'`;
+}
+
+function collectExistingGitPaths(paths) {
+    return [...new Set(paths)].filter(filePath => fs.existsSync(filePath));
+}
+
 async function main() {
     console.log('🚀 Starting automation script...');
 
@@ -50,6 +58,7 @@ async function main() {
     }
 
     let content = fs.readFileSync(targetFile, 'utf8');
+    const gitPaths = new Set([targetFile]);
 
     // 2. Image Processing
     console.log('🖼️  Processing images...');
@@ -174,6 +183,10 @@ async function main() {
                 console.error(`   ❌ Error processing ${img.originalPath}:`, error);
             }
         }
+
+        gitPaths.add(img.originalPath);
+        gitPaths.add(webpPath);
+        gitPaths.add(avifPath);
 
         try {
 
@@ -314,7 +327,13 @@ async function main() {
     // 5. Git Operations
     console.log('octocat Git operations...');
     try {
-        execSync('git add .', { stdio: 'inherit' });
+        const stagedPaths = collectExistingGitPaths([...gitPaths]);
+
+        if (stagedPaths.length === 0) {
+            throw new Error('No target-specific files found to stage.');
+        }
+
+        execSync(`git add -- ${stagedPaths.map(quoteForShell).join(' ')}`, { stdio: 'inherit' });
         execSync(`git commit -m "post ${newDateStr}"`, { stdio: 'inherit' });
         console.log('   Committed.');
         

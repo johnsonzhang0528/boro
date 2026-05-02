@@ -1,0 +1,13 @@
+{
+  "publishBatchName": "remaining-batch-000",
+  "promptsFile": "batch-prompts-100.json",
+  "articleFiles": [],
+  "promptBackedArticles": [],
+  "generationSummary": {
+    "totalPromptSlugs": 100,
+    "eligibleArticles": 0,
+    "selectedArticles": 0,
+    "start": 0,
+    "batchSize": null
+  }
+}

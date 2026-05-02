@@ -1,0 +1,31 @@
+{
+  "publishBatchName": "plan-3-plus-1-first-batch",
+  "articleFiles": [
+    "blog/all-trusted-betting-sites-bangladesh-2026-list.md",
+    "blog/dream-catcher-top-slot-probability.md",
+    "blog/live-casino-latency-fairness-guide.md",
+    "blog/player-points-line-shopping-guide.md",
+    "blog/mega-ball-bonus-ticket-explained.md",
+    "blog/volatility-vs-max-win-slots.md",
+    "blog/andar-bahar-first-card-probability.md",
+    "blog/powerplay-betting-cricket-guide.md",
+    "blog/bonus-abuse-what-counts.md",
+    "blog/team-total-runs-cricket-guide.md"
+  ],
+  "promptBackedArticles": [
+    "blog/dream-catcher-top-slot-probability.md",
+    "blog/live-casino-latency-fairness-guide.md",
+    "blog/player-points-line-shopping-guide.md",
+    "blog/mega-ball-bonus-ticket-explained.md",
+    "blog/volatility-vs-max-win-slots.md",
+    "blog/andar-bahar-first-card-probability.md",
+    "blog/powerplay-betting-cricket-guide.md",
+    "blog/bonus-abuse-what-counts.md",
+    "blog/team-total-runs-cricket-guide.md"
+  ],
+  "existingAssetArticle": "blog/all-trusted-betting-sites-bangladesh-2026-list.md",
+  "replacedMissingSuggestion": {
+    "missing": "blog/admin-banking-deposit-guide-bangladesh.md",
+    "replacement": "blog/team-total-runs-cricket-guide.md"
+  }
+}
