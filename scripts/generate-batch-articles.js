@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { buildPremiumImagePrompt } = require('./premium-image-prompts');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 const BLOG_DIR = path.join(ROOT_DIR, 'blog');
@@ -535,14 +536,16 @@ ${clusterSections[topic.cluster]}
 function buildPrompt(topic, filename, variant) {
     const label = extractLabel(topic.title);
     const sceneMap = {
-        hero: `A premium editorial-style betting dashboard scene illustrating ${label}, modern smartphone interface, dark navy and metallic gold palette, clean fintech atmosphere, subtle cinematic lighting, realistic UI shapes with no readable brand text, photorealistic, masterpiece, best quality, highly detailed, 8k resolution, HDR, professional photography, cinematic lighting, sharp focus --no coins, cash, money, text, watermark`,
-        detail: `A close-up product-style interface visual about ${label}, layered analytics cards, status panels, polished glass reflections, sharp mobile UX details, blurred professional background, realistic lighting, premium betting guide aesthetic, photorealistic, masterpiece, best quality, highly detailed, 8k resolution, HDR, professional photography, cinematic lighting, sharp focus --no coins, cash, money, text, watermark`,
-        og: `A wide Open Graph hero image centered on ${label}, premium mobile betting platform aesthetic, deep blue and gold gradients, clean composition, subtle motion cues, sharp screen reflections, editorial layout, photorealistic, masterpiece, best quality, highly detailed, 8k resolution, HDR, professional photography, cinematic lighting, sharp focus --no coins, cash, money, text, watermark`
+        hero: `${label}, premium article hero composition with one central symbolic focal object and contextual abstract elements`,
+        detail: `${label}, close-up detail composition with one clear symbolic focal object and refined abstract interface-inspired geometry`,
+        og: `${label}, wide hero composition with one central symbolic focal object and generous negative space for social sharing`
     };
+    const coreConcept = sceneMap[variant];
 
     return {
         filename,
-        prompt: sceneMap[variant]
+        coreConcept,
+        prompt: buildPremiumImagePrompt(coreConcept)
     };
 }
 

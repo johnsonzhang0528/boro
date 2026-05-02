@@ -20,11 +20,33 @@ function collectExistingGitPaths(paths) {
     return [...new Set(paths)].filter(filePath => fs.existsSync(filePath));
 }
 
+function parseArgs(argv) {
+    const options = {
+        targetFile: null,
+        push: true
+    };
+
+    for (const arg of argv) {
+        if (arg === '--no-push') {
+            options.push = false;
+        } else if (arg === '--push') {
+            options.push = true;
+        } else if (!options.targetFile) {
+            options.targetFile = arg;
+        } else {
+            throw new Error(`Unknown argument: ${arg}`);
+        }
+    }
+
+    return options;
+}
+
 async function main() {
     console.log('🚀 Starting automation script...');
 
     let targetFile;
-    const argFile = process.argv[2];
+    const options = parseArgs(process.argv.slice(2));
+    const argFile = options.targetFile;
 
     if (argFile) {
         targetFile = argFile;
@@ -336,10 +358,14 @@ async function main() {
         execSync(`git add -- ${stagedPaths.map(quoteForShell).join(' ')}`, { stdio: 'inherit' });
         execSync(`git commit -m "post ${newDateStr}"`, { stdio: 'inherit' });
         console.log('   Committed.');
-        
-        console.log('   Pushing to remote...');
-        execSync('git push', { stdio: 'inherit' });
-        console.log('✅ Successfully pushed to Vercel!');
+
+        if (options.push) {
+            console.log('   Pushing to remote...');
+            execSync('git push', { stdio: 'inherit' });
+            console.log('✅ Successfully pushed to Vercel!');
+        } else {
+            console.log('✅ Commit created locally. Push skipped by --no-push.');
+        }
     } catch (error) {
         console.error('❌ Git operation failed:', error.message);
         process.exit(1);

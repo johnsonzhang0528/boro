@@ -11,7 +11,8 @@ function parseArgs(argv) {
         manifestPath: null,
         dryRun: false,
         resume: true,
-        skipImageGeneration: false
+        skipImageGeneration: false,
+        push: false
     };
 
     for (const arg of argv) {
@@ -21,6 +22,8 @@ function parseArgs(argv) {
             options.resume = false;
         } else if (arg === '--skip-image-generation') {
             options.skipImageGeneration = true;
+        } else if (arg === '--push') {
+            options.push = true;
         } else if (!options.manifestPath) {
             options.manifestPath = path.resolve(ROOT_DIR, arg);
         } else {
@@ -29,7 +32,7 @@ function parseArgs(argv) {
     }
 
     if (!options.manifestPath) {
-        throw new Error('Usage: node scripts/publish-batch.js <manifest.json> [--dry-run] [--no-resume] [--skip-image-generation]');
+        throw new Error('Usage: node scripts/publish-batch.js <manifest.json> [--dry-run] [--no-resume] [--skip-image-generation] [--push]');
     }
 
     return options;
@@ -137,6 +140,7 @@ function main() {
 
     console.log(`📦 Batch: ${manifest.publishBatchName || path.basename(options.manifestPath)}`);
     console.log(`📝 Articles in manifest: ${(manifest.articleFiles || []).length}`);
+    console.log(`🚦 Push mode: ${options.push ? 'push after each commit' : 'local commits only'}`);
 
     let completed = 0;
     let skipped = 0;
@@ -168,7 +172,7 @@ function main() {
                 runNodeScript('scripts/generate-images.js', [articleFile]);
             }
 
-            runNodeScript('scripts/automate-publish.js', [articleFile]);
+            runNodeScript('scripts/automate-publish.js', options.push ? [articleFile, '--push'] : [articleFile, '--no-push']);
             completed += 1;
         } finally {
             cleanupTempPrompts();
