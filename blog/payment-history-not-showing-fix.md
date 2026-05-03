@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?"
 description: "Payment History Not Showing Fix নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-08-13
-lastUpdated: 2026-08-13
+date: 2026-08-05
+lastUpdated: 2026-08-05
 ogImage: "og-payment-history-not-showing-fix-optimized.webp"
 ogImageAlt: "Payment History Not Showing Fix visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "history"]

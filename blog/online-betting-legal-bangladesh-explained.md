@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Betting Legal Bangladesh Explained: law, risk ও safe behavior"
 description: "is online betting legal in bangladesh নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-07-15
-lastUpdated: 2026-07-15
+date: 2026-09-12
+lastUpdated: 2026-09-12
 ogImage: "og-online-betting-legal-bangladesh-explained-optimized.webp"
 ogImageAlt: "Online Betting Legal Bangladesh Explained visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "legal"]

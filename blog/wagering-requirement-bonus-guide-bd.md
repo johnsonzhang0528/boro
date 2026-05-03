@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন"
 description: "wagering requirement নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-07-29
-lastUpdated: 2026-07-29
+date: 2026-09-26
+lastUpdated: 2026-09-26
 ogImage: "og-wagering-requirement-bonus-guide-bd-optimized.webp"
 ogImageAlt: "Wagering Requirement Bonus Guide BD visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "wagering"]

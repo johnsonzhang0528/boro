@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Nagad Cash Out Fee Calculator Guide: payout হাতে কত পাবেন?"
 description: "Nagad Cash Out Fee Calculator Guide নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-07-14
-lastUpdated: 2026-07-14
+date: 2026-08-02
+lastUpdated: 2026-08-02
 ogImage: "og-nagad-cash-out-fee-calculator-guide-optimized.webp"
 ogImageAlt: "Nagad Cash Out Fee Calculator Guide visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "nagad", "fees"]

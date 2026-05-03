@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Funky Time Strategy Bangla: bonus rounds ও bet sizing guide"
 description: "strategy funky time নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-06-19
-lastUpdated: 2026-06-19
+date: 2026-08-26
+lastUpdated: 2026-08-26
 ogImage: "og-funky-time-strategy-bangla-optimized.webp"
 ogImageAlt: "Funky Time Strategy Bangla visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "funky-time"]

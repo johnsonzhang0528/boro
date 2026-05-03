@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Daily Betting Rebate Guide Bangladesh: 5% rebate claim করার আগে জানুন"
 description: "প্রতিদিনের বেটিং রিবেট নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-07-10
-lastUpdated: 2026-07-10
+date: 2026-09-23
+lastUpdated: 2026-09-23
 ogImage: "og-daily-betting-rebate-guide-bangladesh-optimized.webp"
 ogImageAlt: "Daily Betting Rebate Guide Bangladesh visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "rebate"]

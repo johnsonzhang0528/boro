@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন"
 description: "bonus turnover নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-07-26
-lastUpdated: 2026-07-26
+date: 2026-09-23
+lastUpdated: 2026-09-23
 ogImage: "og-bonus-turnover-calculation-bangladesh-optimized.webp"
 ogImageAlt: "Bonus Turnover Calculation Bangladesh visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "turnover"]

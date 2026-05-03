@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BD Betting App Download Guide: APK install, login ও payment setup"
 description: "bd betting app download নিয়ে Bangladesh user guide: Android APK, safe login, payment methods, app speed এবং trust signals compare করুন।"
-date: 2026-05-06
-lastUpdated: 2026-05-06
+date: 2026-05-05
+lastUpdated: 2026-05-05
 ogImage: "og-bd-betting-app-download-guide-optimized.webp"
 ogImageAlt: "BD Betting App Download Guide visual guide for Bangladesh users"
 tags: ["post", "betting-apps", "android", "guide", "download"]

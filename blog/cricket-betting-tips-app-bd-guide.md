@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting Tips App BD: কোন data দেখে mobile bet নেবেন?"
 description: "cricket betting tips app নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-10
-lastUpdated: 2026-05-10
+date: 2026-05-26
+lastUpdated: 2026-05-26
 ogImage: "og-cricket-betting-tips-app-bd-guide-optimized.webp"
 ogImageAlt: "Cricket Betting Tips App BD visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "tips"]

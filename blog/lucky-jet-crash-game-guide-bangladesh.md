@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Lucky Jet Crash Game Guide Bangladesh: Aviator alternative explained"
 description: "lucky jet crash game নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-06-26
-lastUpdated: 2026-06-26
+date: 2026-08-26
+lastUpdated: 2026-08-26
 ogImage: "og-lucky-jet-crash-game-guide-bangladesh-optimized.webp"
 ogImageAlt: "Lucky Jet Crash Game Guide Bangladesh visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "lucky-jet"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide"
 description: "cricket betting apps real money নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-05
-lastUpdated: 2026-05-05
+date: 2026-05-25
+lastUpdated: 2026-05-25
 ogImage: "og-cricket-betting-apps-real-money-bangladesh-optimized.webp"
 ogImageAlt: "Cricket Betting Apps Real Money Bangladesh visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "real-money"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Fake Betting Apps Bangladesh Warning: APK scam ও phishing চিনবেন কীভাবে"
 description: "fake betting apps নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-05-16
-lastUpdated: 2026-05-16
+date: 2026-05-27
+lastUpdated: 2026-05-27
 ogImage: "og-fake-betting-apps-bangladesh-warning-optimized.webp"
 ogImageAlt: "Fake Betting Apps Bangladesh Warning visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "security"]

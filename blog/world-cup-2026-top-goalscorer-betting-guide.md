@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Top Goalscorer Betting Guide: outright market explained"
 description: "world cup top goalscorer betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-04
-lastUpdated: 2026-06-04
+date: 2026-07-12
+lastUpdated: 2026-07-12
 ogImage: "og-world-cup-2026-top-goalscorer-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Top Goalscorer Betting Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "goalscorer"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?"
 description: "online casino legit নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-07-16
-lastUpdated: 2026-07-16
+date: 2026-09-14
+lastUpdated: 2026-09-14
 ogImage: "og-online-casino-legit-check-bangladesh-optimized.webp"
 ogImageAlt: "Online Casino Legit Check Bangladesh visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "security"]

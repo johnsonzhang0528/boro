@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?"
 description: "Sic Bo Big/Small Best Bet Guide rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-07-18
-lastUpdated: 2026-07-18
+date: 2026-09-18
+lastUpdated: 2026-09-18
 ogImage: "og-sic-bo-big-small-best-bet-guide-optimized.webp"
 ogImageAlt: "Sic Bo Big/Small Best Bet Guide visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "sic-bo"]

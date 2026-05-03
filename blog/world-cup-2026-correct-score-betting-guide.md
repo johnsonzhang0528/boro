@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Correct Score Betting Guide: high odds risk control"
 description: "correct score betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-01
-lastUpdated: 2026-06-01
+date: 2026-07-02
+lastUpdated: 2026-07-02
 ogImage: "og-world-cup-2026-correct-score-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Correct Score Betting Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "score-market"]

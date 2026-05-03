@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Over/Under Goals Guide: totals market কীভাবে ধরবেন"
 description: "world cup over under goals নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-03
-lastUpdated: 2026-06-03
+date: 2026-07-09
+lastUpdated: 2026-07-09
 ogImage: "og-world-cup-2026-over-under-goals-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Over/Under Goals Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "over-under"]

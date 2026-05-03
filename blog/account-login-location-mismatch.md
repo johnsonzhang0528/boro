@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Account Login Location Mismatch: location alert কেন আসে?"
 description: "Account Login Location Mismatch সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-05-14
-lastUpdated: 2026-05-14
+date: 2026-05-04
+lastUpdated: 2026-05-04
 ogImage: "og-account-login-location-mismatch-optimized.webp"
 ogImageAlt: "Account Login Location Mismatch visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "login"]

@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Betting Exchange Commission Explained: How Fees Affect Profit"
 description: "Why do exchanges charge commission? Learn how Boro Jeet's low commission structure beats traditional sportsbook margins."
-date: 2026-08-03
-lastUpdated: 2026-08-03
+date: 2026-09-30
+lastUpdated: 2026-09-30
 tags: 
   - post
   - exchange

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Slots Bangladesh Guide: RTP, volatility ও bonus feature"
 description: "online slots bangladesh নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-07-02
-lastUpdated: 2026-07-02
+date: 2026-09-16
+lastUpdated: 2026-09-16
 ogImage: "og-online-slots-bangladesh-guide-optimized.webp"
 ogImageAlt: "Online Slots Bangladesh Guide visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "slots"]

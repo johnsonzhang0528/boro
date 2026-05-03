@@ -2,8 +2,8 @@
 layout: post.njk
 title: "The Kelly Criterion: How Much Money Should You Bet?"
 description: "Most bettors lose because they bet too much on one game. Learn John Kelly's formula to optimize your stake size and grow your bankroll safely."
-date: 2026-08-18
-lastUpdated: 2026-08-18
+date: 2026-10-12
+lastUpdated: 2026-10-12
 tags: 
   - post
   - strategy

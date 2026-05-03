@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bonus Balance vs Cash Balance Withdrawal: কোন টাকা আগে withdraw হবে?"
 description: "Bonus Balance vs Cash Balance Withdrawal নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-07-31
-lastUpdated: 2026-07-31
+date: 2026-07-25
+lastUpdated: 2026-07-25
 ogImage: "og-bonus-balance-vs-cash-balance-withdrawal-optimized.webp"
 ogImageAlt: "Bonus Balance vs Cash Balance Withdrawal visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bonus", "withdrawal"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Gambling in Bangladesh Explained: কী legal, কী risky?"
 description: "online gambling in bangladesh নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-06-29
-lastUpdated: 2026-06-29
+date: 2026-09-15
+lastUpdated: 2026-09-15
 ogImage: "og-online-gambling-in-bangladesh-explained-optimized.webp"
 ogImageAlt: "Online Gambling in Bangladesh Explained visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "legal"]

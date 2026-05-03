@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Blackjack Surrender Guide: surrender option কবে ব্যবহার করবেন?"
 description: "Blackjack Surrender Guide rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-07-07
-lastUpdated: 2026-07-07
+date: 2026-09-03
+lastUpdated: 2026-09-03
 ogImage: "og-blackjack-surrender-guide-optimized.webp"
 ogImageAlt: "Blackjack Surrender Guide visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "blackjack"]

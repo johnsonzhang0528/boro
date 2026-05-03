@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?"
 description: "Rain-Affected Match Betting Rules market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-11
-lastUpdated: 2026-06-11
+date: 2026-06-16
+lastUpdated: 2026-06-16
 ogImage: "og-rain-affected-match-betting-rules-optimized.webp"
 ogImageAlt: "Rain-Affected Match Betting Rules visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "rules"]

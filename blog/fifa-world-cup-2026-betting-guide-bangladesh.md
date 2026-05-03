@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "FIFA World Cup 2026 Betting Guide Bangladesh: match market plan"
 description: "world cup betting guide নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-05-29
-lastUpdated: 2026-05-29
+date: 2026-06-26
+lastUpdated: 2026-06-26
 ogImage: "og-fifa-world-cup-2026-betting-guide-bangladesh-optimized.webp"
 ogImageAlt: "FIFA World Cup 2026 Betting Guide Bangladesh visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "fifa"]

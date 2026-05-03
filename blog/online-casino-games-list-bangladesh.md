@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Casino Games List Bangladesh: popular games এক নজরে"
 description: "online casino games list নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-07-15
-lastUpdated: 2026-07-15
+date: 2026-09-14
+lastUpdated: 2026-09-14
 ogImage: "og-online-casino-games-list-bangladesh-optimized.webp"
 ogImageAlt: "Online Casino Games List Bangladesh visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "games-list"]

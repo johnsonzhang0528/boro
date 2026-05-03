@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround"
 description: "SMS OTP Delay Bangladesh Fix সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-08-16
-lastUpdated: 2026-08-16
+date: 2026-06-05
+lastUpdated: 2026-06-05
 ogImage: "og-sms-otp-delay-bangladesh-fix-optimized.webp"
 ogImageAlt: "SMS OTP Delay Bangladesh Fix visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "otp", "sms"]

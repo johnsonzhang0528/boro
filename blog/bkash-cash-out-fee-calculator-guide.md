@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Cash Out Fee Calculator Guide: আসল net amount কীভাবে বুঝবেন"
 description: "bKash Cash Out Fee Calculator Guide নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-07-06
-lastUpdated: 2026-07-06
+date: 2026-07-23
+lastUpdated: 2026-07-23
 ogImage: "og-bkash-cash-out-fee-calculator-guide-optimized.webp"
 ogImageAlt: "bKash Cash Out Fee Calculator Guide visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "fees"]

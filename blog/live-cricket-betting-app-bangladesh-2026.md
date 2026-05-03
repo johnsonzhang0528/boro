@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Live Cricket Betting App Bangladesh 2026: in-play market guide"
 description: "online cricket betting app নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-04
-lastUpdated: 2026-05-04
+date: 2026-05-29
+lastUpdated: 2026-05-29
 ogImage: "og-live-cricket-betting-app-bangladesh-2026-optimized.webp"
 ogImageAlt: "Live Cricket Betting App Bangladesh 2026 visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "live-betting"]

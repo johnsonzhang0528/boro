@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Manual Deposit Verification Time: manual approve হতে কতক্ষণ লাগে?"
 description: "Manual Deposit Verification Time নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-07-13
-lastUpdated: 2026-07-13
+date: 2026-07-31
+lastUpdated: 2026-07-31
 ogImage: "og-manual-deposit-verification-time-optimized.webp"
 ogImageAlt: "Manual Deposit Verification Time visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "deposit"]

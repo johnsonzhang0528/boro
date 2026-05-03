@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet VIP Bonus Rules Bangla: level, cashback ও withdrawal impact"
 description: "borojeet vip নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-07-26
-lastUpdated: 2026-07-26
+date: 2026-05-21
+lastUpdated: 2026-05-21
 ogImage: "og-borojeet-vip-bonus-rules-bangla-optimized.webp"
 ogImageAlt: "BoroJeet VIP Bonus Rules Bangla visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "vip"]

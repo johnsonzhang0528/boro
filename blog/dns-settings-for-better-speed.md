@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Slow Internet? Change DNS Settings for Faster Betting"
 description: "Is Boro Jeet loading slowly? It might be your ISP. Switching to Google or Cloudflare DNS can solve connection timeouts instantly."
-date: 2026-08-16
-lastUpdated: 2026-08-16
+date: 2026-10-10
+lastUpdated: 2026-10-10
 tags: 
   - post
   - technical

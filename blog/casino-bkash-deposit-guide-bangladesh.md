@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino bKash Deposit Guide Bangladesh: step-by-step payment safety"
 description: "casino bkash নিয়ে local payment guide: bKash/Nagad deposit, limits, screenshot proof, safety এবং support checklist।"
-date: 2026-06-28
-lastUpdated: 2026-06-28
+date: 2026-07-26
+lastUpdated: 2026-07-26
 ogImage: "og-casino-bkash-deposit-guide-bangladesh-optimized.webp"
 ogImageAlt: "Casino bKash Deposit Guide Bangladesh visual guide for Bangladesh users"
 tags: ["post", "payments", "bkash", "nagad", "guide", "casino"]

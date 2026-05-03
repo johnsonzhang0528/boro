@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting App with bKash Nagad BD: deposit-friendly app guide"
 description: "cricket betting app bd নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-05
-lastUpdated: 2026-05-05
+date: 2026-05-25
+lastUpdated: 2026-05-25
 ogImage: "og-cricket-betting-app-with-bkash-nagad-bd-optimized.webp"
 ogImageAlt: "Cricket Betting App with bKash Nagad BD visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "bkash", "nagad"]

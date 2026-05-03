@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "৫০ টাকা ডিপোজিট Casino Sites BD: low deposit খেললে কী risk?"
 description: "৫০ টাকা ডিপোজিট সাইট ইন বাংলাদেশ নিয়ে local payment guide: bKash/Nagad deposit, limits, screenshot proof, safety এবং support checklist।"
-date: 2026-06-27
-lastUpdated: 2026-06-27
+date: 2026-07-20
+lastUpdated: 2026-07-20
 ogImage: "og-50-taka-deposit-casino-sites-bd-optimized.webp"
 ogImageAlt: "৫০ টাকা ডিপোজিট Casino Sites BD visual guide for Bangladesh users"
 tags: ["post", "payments", "bkash", "nagad", "guide", "low-deposit"]

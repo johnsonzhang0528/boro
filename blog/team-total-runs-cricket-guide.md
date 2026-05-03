@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Team Total Runs Cricket Guide: innings line পড়ার সহজ পদ্ধতি"
 description: "Team Total Runs Cricket Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-13
-lastUpdated: 2026-06-13
+date: 2026-06-17
+lastUpdated: 2026-06-17
 ogImage: "og-team-total-runs-cricket-guide-optimized.webp"
 ogImageAlt: "Team Total Runs Cricket Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "team-total"]

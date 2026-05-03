@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Secure Shared Phone Login Guide: shared phone-এ safe login কীভাবে করবেন?"
 description: "Secure Shared Phone Login Guide সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-05-18
-lastUpdated: 2026-05-18
+date: 2026-06-04
+lastUpdated: 2026-06-04
 ogImage: "og-secure-shared-phone-login-guide-optimized.webp"
 ogImageAlt: "Secure Shared Phone Login Guide visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide"]

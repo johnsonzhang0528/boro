@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?"
 description: "Slot Hit Frequency Check Guide mechanic কী, RTP বা volatility-এর সাথে এর সম্পর্ক কী, আর bankroll কীভাবে manage করবেন তা জানুন।"
-date: 2026-07-19
-lastUpdated: 2026-07-19
+date: 2026-09-19
+lastUpdated: 2026-09-19
 ogImage: "og-slot-hit-frequency-check-guide-optimized.webp"
 ogImageAlt: "Slot Hit Frequency Check Guide visual for BoroJeet readers"
 tags: ["post", "slots", "guide", "strategy", "hit-frequency"]

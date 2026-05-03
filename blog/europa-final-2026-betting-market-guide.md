@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Europa Final 2026 Betting Market Guide: totals, corners ও cards"
 description: "europa final betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-05-28
-lastUpdated: 2026-05-28
+date: 2026-06-23
+lastUpdated: 2026-06-23
 ogImage: "og-europa-final-2026-betting-market-guide-optimized.webp"
 ogImageAlt: "Europa Final 2026 Betting Market Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "europa"]

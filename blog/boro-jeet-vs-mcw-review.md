@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই"
 description: "Boro Jeet vs Mega Cricket World (MCW) review. We compare casino bonuses, cricket odds, and login issues. Find out which local site is better for you."
-date: 2026-06-21
-lastUpdated: 2026-06-21
+date: 2026-05-12
+lastUpdated: 2026-05-12
 ogImage: boro-vs-mcw-hero-optimized.webp
 ogImageAlt: "Boro Jeet vs Mega Cricket World Comparison"
 tags: [post, comparison, review, competitors, local-brands]

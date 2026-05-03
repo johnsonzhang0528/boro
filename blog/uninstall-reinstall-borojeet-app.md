@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Uninstall and Reinstall BoroJeet App: clean reinstall guide"
 description: "Uninstall and Reinstall BoroJeet App সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-08-19
-lastUpdated: 2026-08-19
+date: 2026-06-06
+lastUpdated: 2026-06-06
 ogImage: "og-uninstall-reinstall-borojeet-app-optimized.webp"
 ogImageAlt: "Uninstall and Reinstall BoroJeet App visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "app"]

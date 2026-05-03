@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Loyalty Points Conversion Guide: points কখন cash এ convert করবেন?"
 description: "Loyalty Points Conversion Guide claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-07-28
-lastUpdated: 2026-07-28
+date: 2026-05-30
+lastUpdated: 2026-05-30
 ogImage: "og-loyalty-points-conversion-guide-optimized.webp"
 ogImageAlt: "Loyalty Points Conversion Guide visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "loyalty-points"]

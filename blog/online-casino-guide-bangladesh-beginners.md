@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Casino Guide Bangladesh Beginners: account, game ও payment basics"
 description: "online casino guide নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-07-16
-lastUpdated: 2026-07-16
+date: 2026-08-04
+lastUpdated: 2026-08-04
 ogImage: "og-online-casino-guide-bangladesh-beginners-optimized.webp"
 ogImageAlt: "Online Casino Guide Bangladesh Beginners visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "beginner"]

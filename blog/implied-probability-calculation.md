@@ -2,8 +2,8 @@
 layout: post.njk
 title: "How to Calculate Implied Probability from Exchange Odds"
 description: "Odds are just percentages in disguise. Learn how to convert decimal odds to implied probability to find true value in bets."
-date: 2026-08-09
-lastUpdated: 2026-08-09
+date: 2026-10-04
+lastUpdated: 2026-10-04
 tags: 
   - post
   - math

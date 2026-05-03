@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Dragon Tiger Side Bets Explained: Tie ও suited bet-এর risk কত?"
 description: "Dragon Tiger Side Bets Explained rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-07-10
-lastUpdated: 2026-07-10
+date: 2026-09-06
+lastUpdated: 2026-09-06
 ogImage: "og-dragon-tiger-side-bets-explained-optimized.webp"
 ogImageAlt: "Dragon Tiger Side Bets Explained visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "dragon-tiger"]

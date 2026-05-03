@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Best Cricket Betting Odds in Bangladesh (2026 Analysis) | সেরা অডস"
 description: "Who has the best cricket odds? We compared Boro Jeet, Parimatch, and 1xBet for a standard India vs Bangladesh match. Find out where you win more money."
-date: 2026-06-20
-lastUpdated: 2026-06-20
+date: 2026-06-08
+lastUpdated: 2026-06-08
 ogImage: best-cricket-odds-hero.webp
 ogImageAlt: "Highest Cricket Betting Odds Comparison"
 tags: [post, comparison, review, cricket-betting, odds]

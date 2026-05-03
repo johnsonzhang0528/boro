@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Funky Time Rules Bangladesh: multiplier, bonus ও payout explained"
 description: "funky time rules নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-06-05
-lastUpdated: 2026-06-05
+date: 2026-08-25
+lastUpdated: 2026-08-25
 ogImage: "og-funky-time-rules-bangladesh-optimized.webp"
 ogImageAlt: "Funky Time Rules Bangladesh visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "funky-time"]

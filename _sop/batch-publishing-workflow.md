@@ -160,6 +160,7 @@ node scripts/generate-batch-articles.js
 - 預設 endpoint：`https://queue.fal.run/fal-ai/flux-2-flex`。
 - API 端每個 prompt 只產生 1 張來源圖。
 - 目前公開 Flux 2 endpoint 的 API `output_format` 支援 `png` / `jpeg`；腳本預設使用 `png` 取得最高品質來源，再立即於本地轉存為 source `.webp`。若指定模型支援 API 直接輸出 WebP，可在 `.env` 加上 `FAL_FLUX_OUTPUT_FORMAT=webp`。
+- 腳本預設使用 neutral safety wording，把 betting / gambling 等敏感詞轉為 digital gaming / sports analytics / probability / compliance risk 等中性描述，以降低 fal.ai content checker 退件與重試成本；除非 repository 擁有者要求，否則不要使用 `--raw-prompts`。
 - Blog source image：`assets/blog/<slug>-hero.webp`、`assets/blog/<slug>-detail.webp`，本地保存為 1600×900。
 - OG source image：`assets/og/og-<slug>.webp`，本地保存為 1200×630。
 - `-optimized.webp` 與 `-optimized.avif` 必須在本地由 source `.webp` 轉檔與壓縮，禁止為最佳化衍生檔再次呼叫 API。

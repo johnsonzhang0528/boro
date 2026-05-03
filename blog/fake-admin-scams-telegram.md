@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Exposed: Fake 'Admin' Scams on Telegram (সাবধান: টেলিগ্রাম ফেক অ্যাডমিন স্ক্যাম)"
 description: "That 'Boro Jeet Admin' messaging you on Telegram is likely a scammer. (টেলিগ্রাম এডমিন কি আপনাকে মেসেজ দিয়েছে?) Learn how to spot fake profiles, refund scams, and protect your account."
-date: 2026-07-27
-lastUpdated: 2026-07-27
+date: 2026-09-07
+lastUpdated: 2026-09-07
 tags: 
   - post
   - security

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide"
 description: "argentina brazil betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-05-24
-lastUpdated: 2026-05-24
+date: 2026-06-24
+lastUpdated: 2026-06-24
 ogImage: "og-world-cup-2026-argentina-brazil-betting-bd-optimized.webp"
 ogImageAlt: "Argentina Brazil World Cup 2026 Betting BD visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "argentina", "brazil"]

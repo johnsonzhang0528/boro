@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Clear App Storage Without Losing Account: data clear করলেও account থাকবে?"
 description: "Clear App Storage Without Losing Account সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-08-07
-lastUpdated: 2026-08-07
+date: 2026-10-02
+lastUpdated: 2026-10-02
 ogImage: "og-clear-app-storage-without-losing-account-optimized.webp"
 ogImageAlt: "Clear App Storage Without Losing Account visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "app"]

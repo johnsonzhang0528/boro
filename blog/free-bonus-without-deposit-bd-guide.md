@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Free Bonus Without Deposit BD Guide: ফ্রি বোনাসের real terms"
 description: "বিনামূল্যে বোনাস নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-06-28
-lastUpdated: 2026-06-28
+date: 2026-07-30
+lastUpdated: 2026-07-30
 ogImage: "og-free-bonus-without-deposit-bd-guide-optimized.webp"
 ogImageAlt: "Free Bonus Without Deposit BD Guide visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "free-bonus"]

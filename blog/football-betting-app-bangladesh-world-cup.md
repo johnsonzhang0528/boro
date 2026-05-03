@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Football Betting App Bangladesh World Cup: mobile setup ও safety guide"
 description: "football betting app bangladesh নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-05-29
-lastUpdated: 2026-05-29
+date: 2026-07-18
+lastUpdated: 2026-07-18
 ogImage: "og-football-betting-app-bangladesh-world-cup-optimized.webp"
 ogImageAlt: "Football Betting App Bangladesh World Cup visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "apps"]

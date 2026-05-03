@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting App Download BD Android 2026: নিরাপদ APK গাইড"
 description: "cricket betting app download নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-04
-lastUpdated: 2026-05-04
+date: 2026-05-23
+lastUpdated: 2026-05-23
 ogImage: "og-cricket-betting-app-download-bd-android-2026-optimized.webp"
 ogImageAlt: "Cricket Betting App Download BD Android 2026 visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "android"]

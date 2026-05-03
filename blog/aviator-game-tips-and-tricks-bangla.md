@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Game Tips and Tricks Bangla: auto cashout কীভাবে set করবেন"
 description: "aviator game tips and tricks নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-06-16
-lastUpdated: 2026-06-16
+date: 2026-08-14
+lastUpdated: 2026-08-14
 ogImage: "og-aviator-game-tips-and-tricks-bangla-optimized.webp"
 ogImageAlt: "Aviator Game Tips and Tricks Bangla visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide"]

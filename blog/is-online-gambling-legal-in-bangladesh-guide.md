@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Is Online Gambling Legal in Bangladesh? Practical risk guide"
 description: "is online gambling legal in bangladesh নিয়ে সহজ Bangla explanation: terms, turnover, legal risk, scam warning এবং responsible gambling checklist।"
-date: 2026-06-29
-lastUpdated: 2026-06-29
+date: 2026-09-08
+lastUpdated: 2026-09-08
 ogImage: "og-is-online-gambling-legal-in-bangladesh-guide-optimized.webp"
 ogImageAlt: "Is Online Gambling Legal in Bangladesh visual guide for Bangladesh users"
 tags: ["post", "bonus", "trust", "guide", "legal"]

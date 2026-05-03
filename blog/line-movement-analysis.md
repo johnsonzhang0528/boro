@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Line Movement Analysis: Why Do Odds Change?"
 description: "Why did the odds for India drop from 1.80 to 1.60 overnight? We explain the causes of 'Line Movement' and how to profit from it."
-date: 2026-08-12
-lastUpdated: 2026-08-12
+date: 2026-10-07
+lastUpdated: 2026-10-07
 tags: 
   - post
   - market-analysis

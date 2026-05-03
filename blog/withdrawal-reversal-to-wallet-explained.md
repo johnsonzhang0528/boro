@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Withdrawal Reversal to Wallet Explained: টাকা wallet-এ ফেরত এলে মানে কী?"
 description: "Withdrawal Reversal to Wallet Explained নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-08-22
-lastUpdated: 2026-08-22
+date: 2026-08-09
+lastUpdated: 2026-08-09
 ogImage: "og-withdrawal-reversal-to-wallet-explained-optimized.webp"
 ogImageAlt: "Withdrawal Reversal to Wallet Explained visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "withdrawal"]

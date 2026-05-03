@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide"
 description: "cricket betting apps for ios নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-09
-lastUpdated: 2026-05-09
+date: 2026-05-24
+lastUpdated: 2026-05-24
 ogImage: "og-cricket-betting-app-for-ios-bangladesh-optimized.webp"
 ogImageAlt: "Cricket Betting App for iOS Bangladesh visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "ios"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Monopoly Live 2 Rolls vs 4 Rolls: কোন bonus segment বেশি value?"
 description: "Monopoly Live 2 Rolls vs 4 Rolls rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-07-22
-lastUpdated: 2026-07-22
+date: 2026-09-11
+lastUpdated: 2026-09-11
 ogImage: "og-monopoly-live-2-rolls-vs-4-rolls-optimized.webp"
 ogImageAlt: "Monopoly Live 2 Rolls vs 4 Rolls visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "monopoly-live"]

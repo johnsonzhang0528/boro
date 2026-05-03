@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist"
 description: "live football betting tips নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-05-23
-lastUpdated: 2026-05-23
+date: 2026-07-17
+lastUpdated: 2026-07-17
 ogImage: "og-fifa-world-cup-live-betting-tips-bangladesh-optimized.webp"
 ogImageAlt: "FIFA World Cup Live Betting Tips Bangladesh visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "live-betting"]

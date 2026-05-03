@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Both Halves Over 0.5 Goals: market logic ও match selection"
 description: "Both Halves Over 0.5 Goals market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-05-25
-lastUpdated: 2026-05-25
+date: 2026-07-14
+lastUpdated: 2026-07-14
 ogImage: "og-both-halves-over-0-5-goals-optimized.webp"
 ogImageAlt: "Both Halves Over 0.5 Goals visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "goals"]

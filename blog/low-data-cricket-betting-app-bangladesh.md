@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Low Data Cricket Betting App Bangladesh: slow internet-এ smooth betting"
 description: "cricket betting software for android নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-14
-lastUpdated: 2026-05-14
+date: 2026-05-29
+lastUpdated: 2026-05-29
 ogImage: "og-low-data-cricket-betting-app-bangladesh-optimized.webp"
 ogImageAlt: "Low Data Cricket Betting App Bangladesh visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "performance"]

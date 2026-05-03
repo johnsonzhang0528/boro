@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Password Reset Link Expired Fix: link মেয়াদ শেষ হলে"
 description: "Password Reset Link Expired Fix সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-08-12
-lastUpdated: 2026-08-12
+date: 2026-10-08
+lastUpdated: 2026-10-08
 ogImage: "og-password-reset-link-expired-fix-optimized.webp"
 ogImageAlt: "Password Reset Link Expired Fix visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "password"]

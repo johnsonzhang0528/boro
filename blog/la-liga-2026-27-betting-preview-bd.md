@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide"
 description: "la liga betting guide নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-05-30
-lastUpdated: 2026-05-30
+date: 2026-07-18
+lastUpdated: 2026-07-18
 ogImage: "og-la-liga-2026-27-betting-preview-bd-optimized.webp"
 ogImageAlt: "La Liga 2026/27 Betting Preview BD visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "la-liga"]

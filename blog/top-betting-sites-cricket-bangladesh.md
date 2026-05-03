@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison"
 description: "top betting sites for cricket নিয়ে Bangladesh user guide: Android APK, safe login, payment methods, app speed এবং trust signals compare করুন।"
-date: 2026-05-21
-lastUpdated: 2026-05-21
+date: 2026-06-19
+lastUpdated: 2026-06-19
 ogImage: "og-top-betting-sites-cricket-bangladesh-optimized.webp"
 ogImageAlt: "Top Betting Sites for Cricket Bangladesh visual guide for Bangladesh users"
 tags: ["post", "betting-apps", "android", "guide", "cricket", "comparison"]

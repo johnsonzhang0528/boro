@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Blackjack Soft Hands Guide: soft 17 থেকে soft 20 decision chart"
 description: "Blackjack Soft Hands Guide rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-07-07
-lastUpdated: 2026-07-07
+date: 2026-09-02
+lastUpdated: 2026-09-02
 ogImage: "og-blackjack-soft-hands-guide-optimized.webp"
 ogImageAlt: "Blackjack Soft Hands Guide visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "blackjack"]
