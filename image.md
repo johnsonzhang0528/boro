@@ -1,28 +1,28 @@
-# Stability 圖片未完成清單
+# fal.ai Flux 圖片完成紀錄
 
 更新日期：2026-05-03
 
 ## 目前狀態
 
 - 圖片任務總數：300 張來源圖
-- 已完成並準備提交：250 張來源圖（含最佳化衍生檔共 750 個檔案）
-- 尚未完成：50 張來源圖（含最佳化衍生檔預估 150 個檔案）
-- 下一個續跑索引：251
-- 下一個任務：assets/blog/betting-app-with-bkash-nagad-bd-detail.webp
-- 估計所需 Stability 額度：200 credits（以每張 4 credits 計算）
-- 建議預留額度：220–240 credits，避免重試或失敗消耗造成再次中斷
+- 前次已完成：250 張來源圖（含最佳化衍生檔共 750 個檔案）
+- 本次使用 fal.ai Flux 2 完成：50 張來源圖（含最佳化衍生檔共 150 個檔案）
+- 尚未完成：0 張來源圖
+- 本次腳本：`scripts/generate-fal-flux-images.js`
+- API key 來源：`.env` 的 `FAL_AI_API_KEY`
+- 實際可用模型：`fal-ai/flux-2-flex`（目前 fal.ai 可用並已驗證的 Flux 2 text-to-image endpoint；若帳號開通 Dev Turbo endpoint，可用 `FAL_FLUX_MODEL` 覆寫）
+- API 端每個 prompt 只產生 1 張圖；source `.webp` 與 `-optimized.webp` / `-optimized.avif` 均由本地 `sharp` 轉檔與最佳化。
 
-## 續跑指令
+## 若需重新覆寫本批圖片
 
 ```bash
-node scripts/generate-images.js \
+node scripts/generate-fal-flux-images.js \
   --prompts-file data/publishing/gsc-expansion-2026-05-prompts.json \
-  --start 251 \
-  --overwrite \
-  --with-optimized
+  --image-md image.md \
+  --overwrite
 ```
 
-## 未完成圖片明細
+## 已完成圖片明細（原未完成清單）
 
 | 任務索引 | 文章 Slug | 圖片類型 | 檔案 | Core Concept |
 |---:|---|---|---|---|
@@ -77,7 +77,7 @@ node scripts/generate-images.js \
 | 299 | fake-betting-apps-bangladesh-warning | Detail/body image | assets/blog/fake-betting-apps-bangladesh-warning-detail.webp | Fake Betting Apps Bangladesh Warning, close-up decision checklist interface with safe payment, odds, and risk-control visual elements |
 | 300 | fake-betting-apps-bangladesh-warning | OG social image | assets/og/og-fake-betting-apps-bangladesh-warning.webp | Fake Betting Apps Bangladesh Warning, wide social sharing composition with one central symbolic object and clean negative space |
 
-## 依文章分組
+## 依文章分組（已完成）
 
 ### betting-app-with-bkash-nagad-bd
 
