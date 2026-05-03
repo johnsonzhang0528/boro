@@ -150,6 +150,8 @@ node scripts/generate-batch-articles.js
 
 所有正式環境的圖片產生都必須使用 Stability AI `v2beta/stable-image/generate/sd3`，模型為 `sd3.5-large-turbo`。
 
+**Production 硬性規則：**正式批次文章的最終圖片不得使用本地 fallback 產圖。若要產生可被 commit 的 production 圖片，必須執行 `scripts/generate-images.js`，並確認 log 中顯示 `Model: sd3.5-large-turbo`。`scripts/generate-local-prompt-images.js` 只能用於 repository 擁有者明確批准的 emergency placeholder，不得作為標準批次或修復批次的最終圖片來源。
+
 每一個圖片產生任務都必須套用下方固定的 positive prompt wrapper。請將每個圖片任務對應文章的 `coreConcept` / 原始 image prompt 插入 `[CORE_CONCEPT]`，再把完整展開後的 prompt 傳送給 Stability AI。
 
 Positive prompt：
@@ -170,7 +172,7 @@ bad anatomy, extra limbs, missing limbs, mutated hands, poorly drawn face, defor
 - `scripts/generate-images.js` 必須正規化較舊的 prompt manifest，並把完整包裝後的 positive prompt 加上固定的 negative prompt 傳送給 Stability AI。
 - Stability 請求必須使用 multipart form-data，而不是舊版 v1 JSON body。
 - Stability 請求必須設定 `model=sd3.5-large-turbo`、`aspect_ratio=16:9` 與 `output_format=webp`。
-- `scripts/generate-local-prompt-images.js` 在本地 fallback 產圖前，也必須先正規化較舊的 prompt manifest，同時保留原本的 `coreConcept` 供情境化場景選擇使用。
+- `scripts/generate-local-prompt-images.js` 在本地 fallback 產圖前，也必須先正規化較舊的 prompt manifest，同時保留原本的 `coreConcept` 供情境化場景選擇使用；但它預設會拒絕執行，必須明確傳入 `--allow-local-fallback`，避免誤把 placeholder 圖片當成 production 圖片 commit。
 - 模板不得被重複包裝兩次。如果某個 prompt 已經包裝完成，就直接重用。
 - 對於修復批次，必須先建立 task 清單，只產生第一張圖片供人工視覺確認，通過後再跑剩餘任務。
 
@@ -272,12 +274,21 @@ node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 
 執行器預設可續跑。如果某篇文章已經被 git track，重新執行時會自動跳過。
 
-## 當 Stability 額度不可用時的本地圖片 Fallback
+## 當 Stability 額度不可用時的本地圖片 Fallback（非標準流程）
 
-如果 Stability AI 沒有額度，可以從同一份 prompt manifest 在本地產生所需的原始 `.webp` 檔案。
+如果 Stability AI 沒有額度，標準處理方式是**停止 production 發布並等待額度恢復**。只有在 repository 擁有者明確批准 emergency placeholder 時，才可以從同一份 prompt manifest 在本地產生暫用 `.webp` 檔案。
+
+使用本地 fallback 的限制：
+
+- 不得用於正式 production batch 的最終圖片。
+- 不得在未告知 repository 擁有者的情況下 commit。
+- 必須在後續用 Stability AI `sd3.5-large-turbo` 重新覆寫。
+- 執行時必須明確傳入 `--allow-local-fallback`。
 
 ```bash
-node scripts/generate-local-prompt-images.js data/publishing/remaining-batch-selection.json
+node scripts/generate-local-prompt-images.js \
+  data/publishing/remaining-batch-selection.json \
+  --allow-local-fallback
 node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --skip-image-generation
 ```
 
@@ -295,6 +306,7 @@ node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --s
 node scripts/generate-local-prompt-images.js \
   --from-commit <start-commit-sha> \
   --prompts-file data/publishing/batch-prompts-100.json \
+  --allow-local-fallback \
   --overwrite \
   --with-optimized
 ```

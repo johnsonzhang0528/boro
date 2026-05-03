@@ -15,7 +15,8 @@ function parseArgs(argv) {
         overwrite: false,
         withOptimized: false,
         fromCommit: null,
-        promptsFile: null
+        promptsFile: null,
+        allowLocalFallback: false
     };
 
     for (let index = 0; index < argv.length; index += 1) {
@@ -25,6 +26,8 @@ function parseArgs(argv) {
             options.overwrite = true;
         } else if (arg === '--with-optimized') {
             options.withOptimized = true;
+        } else if (arg === '--allow-local-fallback') {
+            options.allowLocalFallback = true;
         } else if (arg === '--from-commit') {
             options.fromCommit = argv[index + 1];
             index += 1;
@@ -38,8 +41,12 @@ function parseArgs(argv) {
         }
     }
 
+    if (!options.allowLocalFallback) {
+        throw new Error('Local fallback image generation is disabled by default. Production batches must use Stability AI sd3.5-large-turbo via scripts/generate-images.js. Re-run with --allow-local-fallback only after explicit repository-owner approval for emergency placeholder images.');
+    }
+
     if (!options.manifestPath && !options.fromCommit) {
-        throw new Error('Usage: node scripts/generate-local-prompt-images.js <manifest.json> [--overwrite] [--with-optimized] OR --from-commit <sha> [--prompts-file <json>] [--overwrite] [--with-optimized]');
+        throw new Error('Usage: node scripts/generate-local-prompt-images.js <manifest.json> --allow-local-fallback [--overwrite] [--with-optimized] OR --from-commit <sha> --allow-local-fallback [--prompts-file <json>] [--overwrite] [--with-optimized]');
     }
 
     if (options.fromCommit && !/^[0-9a-f]{7,40}$/i.test(options.fromCommit)) {
