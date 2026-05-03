@@ -160,7 +160,7 @@ function main() {
             validateSourceImages(articleFile);
         }
 
-        console.log(`   - ${articleFile} (${needsImages ? 'generate-fal-flux-images -> publish' : 'publish'})`);
+        console.log(`   - ${articleFile} (${needsImages ? 'generate-images stability-sdxl -> publish' : 'publish'})`);
 
         if (options.dryRun) {
             continue;
@@ -169,7 +169,7 @@ function main() {
         try {
             if (needsImages) {
                 writeTempPrompts(promptLookup.get(slug));
-                runNodeScript('scripts/generate-fal-flux-images.js', [articleFile, '--overwrite']);
+                runNodeScript('scripts/generate-images.js', [articleFile, '--overwrite', '--with-optimized']);
             }
 
             runNodeScript('scripts/automate-publish.js', options.push ? [articleFile, '--push'] : [articleFile, '--no-push']);

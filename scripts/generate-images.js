@@ -17,12 +17,19 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const STABILITY_API_KEY = process.env.STABILITY_API_KEY;
 const BLOG_DIR = 'blog';
 const API_HOST = 'https://api.stability.ai';
-const STABILITY_ENDPOINT = `${API_HOST}/v2beta/stable-image/generate/sd3`;
 const DEFAULT_PROMPTS_FILE = path.join(ROOT_DIR, 'prompts.json');
-const DEFAULT_ASPECT_RATIO = '16:9';
+const DEFAULT_ASPECT_RATIO = '9:16';
+const DEFAULT_CFG_SCALE = 7;
+const DEFAULT_STEPS = 30;
+const DEFAULT_STYLE_PRESET = 'digital-art';
 const MAX_OPTIMIZED_WIDTH = 1536;
 const WEBP_QUALITY = 75;
 const AVIF_QUALITY = 50;
+const SOURCE_WEBP_QUALITY = 90;
+
+function stabilityEndpointForModel(model) {
+    return `${API_HOST}/v1/generation/${model}/text-to-image`;
+}
 
 function parseArgs(argv) {
     const options = {
@@ -35,7 +42,10 @@ function parseArgs(argv) {
         start: 1,
         model: STABILITY_MODEL,
         aspectRatio: DEFAULT_ASPECT_RATIO,
-        negativePrompt: DEFAULT_NEGATIVE_PROMPT
+        negativePrompt: DEFAULT_NEGATIVE_PROMPT,
+        cfgScale: DEFAULT_CFG_SCALE,
+        steps: DEFAULT_STEPS,
+        stylePreset: DEFAULT_STYLE_PRESET
     };
 
     for (let index = 0; index < argv.length; index += 1) {
@@ -65,6 +75,15 @@ function parseArgs(argv) {
         } else if (arg === '--negative-prompt') {
             options.negativePrompt = argv[index + 1];
             index += 1;
+        } else if (arg === '--cfg-scale') {
+            options.cfgScale = Number.parseFloat(argv[index + 1]);
+            index += 1;
+        } else if (arg === '--steps') {
+            options.steps = Number.parseInt(argv[index + 1], 10);
+            index += 1;
+        } else if (arg === '--style-preset') {
+            options.stylePreset = argv[index + 1];
+            index += 1;
         } else if (!options.targetFile) {
             options.targetFile = arg;
         } else {
@@ -82,6 +101,14 @@ function parseArgs(argv) {
 
     if (!options.promptsFile) {
         throw new Error('Missing prompts file.');
+    }
+
+    if (!Number.isFinite(options.cfgScale) || options.cfgScale < 1 || options.cfgScale > 35) {
+        throw new Error('--cfg-scale must be a number between 1 and 35.');
+    }
+
+    if (!Number.isInteger(options.steps) || options.steps < 10 || options.steps > 50) {
+        throw new Error('--steps must be an integer between 10 and 50.');
     }
 
     return options;
@@ -164,10 +191,20 @@ function normalizeFilename(filename) {
     return normalized;
 }
 
-function sourceSizeForFilename(filename) {
-    return filename.includes('/og/')
-        ? { width: 1200, height: 630 }
-        : { width: 1600, height: 900 };
+function generationSizeForAspectRatio(aspectRatio) {
+    if (aspectRatio !== '9:16') {
+        throw new Error(`Unsupported aspect ratio: ${aspectRatio}. Mobile SEO production images must use 9:16.`);
+    }
+
+    return { width: 768, height: 1344 };
+}
+
+function sourceSizeForAspectRatio(aspectRatio) {
+    if (aspectRatio !== '9:16') {
+        throw new Error(`Unsupported aspect ratio: ${aspectRatio}. Mobile SEO production images must use 9:16.`);
+    }
+
+    return { width: 1080, height: 1920 };
 }
 
 function optimizedPathsForSource(filename) {
@@ -216,25 +253,34 @@ async function generateStabilityImage(task, options) {
     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 
     const coreConcept = coreConceptFromTask(task);
-    const prompt = buildPremiumImagePrompt(coreConcept);
-    const sourceSize = sourceSizeForFilename(filename);
+    const prompt = buildPremiumImagePrompt(coreConcept, { task, filename });
+    const generationSize = generationSizeForAspectRatio(options.aspectRatio);
+    const sourceSize = sourceSizeForAspectRatio(options.aspectRatio);
+    const endpoint = stabilityEndpointForModel(options.model);
 
     console.log(`🎨 Generating: ${filename}`);
     console.log(`   Model: ${options.model}`);
+    console.log(`   Ratio: ${options.aspectRatio} (${sourceSize.width}x${sourceSize.height} source)`);
     console.log(`   Core concept: ${coreConcept.slice(0, 140)}${coreConcept.length > 140 ? '...' : ''}`);
 
-    const response = await fetch(STABILITY_ENDPOINT, {
+    const response = await fetch(endpoint, {
         method: 'POST',
         headers: {
-            Accept: 'image/*',
-            Authorization: `Bearer ${STABILITY_API_KEY}`
+            Accept: 'application/json',
+            Authorization: `Bearer ${STABILITY_API_KEY}`,
+            'Content-Type': 'application/json'
         },
-        body: buildFormData({
-            prompt,
-            negative_prompt: options.negativePrompt,
-            model: options.model,
-            aspect_ratio: options.aspectRatio,
-            output_format: 'webp'
+        body: JSON.stringify({
+            text_prompts: [
+                { text: prompt, weight: 1 },
+                { text: options.negativePrompt, weight: -1 }
+            ],
+            cfg_scale: options.cfgScale,
+            height: generationSize.height,
+            width: generationSize.width,
+            samples: 1,
+            steps: options.steps,
+            style_preset: options.stylePreset
         })
     });
 
@@ -242,11 +288,18 @@ async function generateStabilityImage(task, options) {
         throw new Error(`Non-200 response: ${await response.text()}`);
     }
 
-    const webpBuffer = Buffer.from(await response.arrayBuffer());
+    const payload = await response.json();
+    const base64Image = payload.artifacts && payload.artifacts[0] && payload.artifacts[0].base64;
 
-    await sharp(webpBuffer)
+    if (!base64Image) {
+        throw new Error(`Stability response did not include an image artifact: ${JSON.stringify(payload).slice(0, 500)}`);
+    }
+
+    const imageBuffer = Buffer.from(base64Image, 'base64');
+
+    await sharp(imageBuffer)
         .resize(sourceSize.width, sourceSize.height, { fit: 'cover', position: 'center' })
-        .webp({ quality: 90 })
+        .webp({ quality: SOURCE_WEBP_QUALITY })
         .toFile(outputPath);
 
     console.log(`   ✅ Saved source ${sourceSize.width}x${sourceSize.height}: ${filename}`);
@@ -269,7 +322,8 @@ async function main() {
 
     console.log('🚀 Starting image generation script (Stability AI)...');
     console.log(`🧠 Model: ${options.model}`);
-    console.log(`🌐 Endpoint: ${STABILITY_ENDPOINT}`);
+    console.log(`🌐 Endpoint: ${stabilityEndpointForModel(options.model)}`);
+    console.log(`📱 Forced mobile SEO aspect ratio: ${options.aspectRatio}`);
     if (resolvedTargetFile) {
         console.log(`📝 Context file: ${resolvedTargetFile}`);
     }

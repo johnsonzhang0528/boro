@@ -7,7 +7,9 @@ Generated: 2026-05-03
 - Image prompt tasks: 300 total for 100 new articles.
 - fal.ai Flux 2 completed the first 95 source images before the account returned `403 User is locked. Reason: Exhausted balance`.
 - To finish the publishing workflow without leaving broken images, the remaining 205 source images were generated with the repository's guarded emergency local fallback script, then all 600 optimized WebP/AVIF derivatives were regenerated locally.
-- Final asset validation: 300/300 source images present, 600/600 optimized derivatives present, 0 missing files, 0 dimension mismatches.
+- 2026-05-04 repair: the 205 emergency local fallback source images were regenerated and overwritten with Stability AI `stable-diffusion-xl-1024-v1-0` using the updated 9:16 mobile SEO prompt workflow.
+- Stability repair validation: 205/205 repaired source images present at 1080×1920, 410/410 repaired optimized derivatives present, 0 missing files, 0 dimension mismatches.
+- Prompt hardening follow-up: the production prompt rules were tightened further for flat minimalist illustration, single-phone scenes, blank screens, no complex UI text, and sport still-life compositions. A final consistency rerun refreshed tasks 96–131 before Stability balance was exhausted; tasks 132–300 remain the previously completed Stability SDXL replacements, not local fallback images.
 
 ## Strategy
 

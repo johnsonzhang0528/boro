@@ -1,6 +1,6 @@
 # Boro 批次發布工作流程
 
-這是一套可重複執行的端到端流程，用於處理 `前期分析與規劃 -> 現有內容優化與內鏈策略 -> 批次產生草稿 -> 新文章撰寫與實作 -> 去重 -> 建立 manifest -> 批次產生 fal.ai Flux 2 Dev Turbo 圖片 -> 依日期建立本地 commit -> 手動 push`。
+這是一套可重複執行的端到端流程，用於處理 `前期分析與規劃 -> 現有內容優化與內鏈策略 -> 批次產生草稿 -> 新文章撰寫與實作 -> 去重 -> 建立 manifest -> 批次產生 Stability AI SDXL 圖片 -> 依日期建立本地 commit -> 手動 push`。
 
 ## 此流程的前提假設
 
@@ -26,7 +26,7 @@
 3. 批次產生缺少的草稿。
 4. 逐篇完成新文章的 SEO、內容、語言與內鏈實作。
 5. 建立 publish manifest 並做 dry run。
-6. 批次產生 fal.ai Flux 2 Dev Turbo 圖片，建立本地 commits。
+6. 批次產生 Stability AI SDXL 圖片，建立本地 commits。
 7. 分批續跑直到 manifest 清空。
 8. 完成本地驗證後，由 repository 擁有者手動 push。
 
@@ -146,43 +146,38 @@ node scripts/generate-batch-articles.js
 - 新文章必須連回對應的 Pillar Page。
 - 若主題相關，Pillar Page 或其他舊文也必須補上回鏈到這篇新文章。
 
-## 必須遵守的 fal.ai Flux 2 Dev Turbo 圖片 Prompt 流程
+## 必須遵守的 Stability AI SDXL 圖片 Prompt 流程
 
-所有正式環境的圖片產生都必須優先使用 fal.ai Flux 2 Dev Turbo，執行入口為 `scripts/generate-fal-flux-images.js`，API key 必須放在 `.env` 的 `FAL_AI_API_KEY`。
+所有正式環境的圖片產生都必須使用 Stability AI 的 `stable-diffusion-xl-1024-v1-0`，執行入口為 `scripts/generate-images.js`，API key 必須放在 `.env` 的 `STABILITY_API_KEY`。
 
-**Production 硬性規則：**正式批次文章的最終圖片不得使用本地 fallback 產圖。若要產生可被 commit 的 production 圖片，必須執行 `scripts/generate-fal-flux-images.js`，並確認 log 中顯示 fal.ai Flux 2 模型（預設 `Model: fal-ai/flux-2-flex`，或 repository 擁有者明確指定的 `FAL_FLUX_MODEL`）。`scripts/generate-local-prompt-images.js` 只能用於 repository 擁有者明確批准的 emergency placeholder，不得作為標準批次或修復批次的最終圖片來源。
+**Production 硬性規則：**正式批次文章的最終圖片不得使用本地 fallback 產圖。若要產生可被 commit 的 production 圖片，必須執行 `scripts/generate-images.js`，並確認 log 中顯示 `Model: stable-diffusion-xl-1024-v1-0`。`scripts/generate-local-prompt-images.js` 只能用於 repository 擁有者明確批准的 emergency placeholder，不得作為標準批次或修復批次的最終圖片來源。
 
-### fal.ai 產圖規格
+### Stability SDXL 產圖規格
 
-- API key：`.env` 中的 `FAL_AI_API_KEY`。
-- 預設模型：`fal-ai/flux-2-flex`，這是目前可用並已驗證的 fal.ai Flux 2 text-to-image endpoint。
-- 若 fal.ai 帳號開通 `fal-ai/flux-2/dev/turbo` 或其他 Flux 2 Dev Turbo endpoint，可在 `.env` 加上 `FAL_FLUX_MODEL=<model-id>` 覆寫，不需要改腳本。
-- 預設 endpoint：`https://queue.fal.run/fal-ai/flux-2-flex`。
-- API 端每個 prompt 只產生 1 張來源圖。
-- 目前公開 Flux 2 endpoint 的 API `output_format` 支援 `png` / `jpeg`；腳本預設使用 `png` 取得最高品質來源，再立即於本地轉存為 source `.webp`。若指定模型支援 API 直接輸出 WebP，可在 `.env` 加上 `FAL_FLUX_OUTPUT_FORMAT=webp`。
-- 腳本預設使用 neutral safety wording，把 betting / gambling 等敏感詞轉為 digital gaming / sports analytics / probability / compliance risk 等中性描述，以降低 fal.ai content checker 退件與重試成本；除非 repository 擁有者要求，否則不要使用 `--raw-prompts`。
-- Blog source image：`assets/blog/<slug>-hero.webp`、`assets/blog/<slug>-detail.webp`，本地保存為 1600×900。
-- OG source image：`assets/og/og-<slug>.webp`，本地保存為 1200×630。
+- API key：`.env` 中的 `STABILITY_API_KEY`。
+- 預設模型：`stable-diffusion-xl-1024-v1-0`。
+- 預設 endpoint：`https://api.stability.ai/v1/generation/stable-diffusion-xl-1024-v1-0/text-to-image`。
+- API 端每個 prompt 只產生 1 張圖。
+- 針對手機端 SEO，最終 source `.webp` 一律輸出為 9:16 直式比例，尺寸為 1080×1920。
+- SDXL API 呼叫使用接近直式比例的生成尺寸，再由本地 `sharp` cover-resize 成 1080×1920。
 - `-optimized.webp` 與 `-optimized.avif` 必須在本地由 source `.webp` 轉檔與壓縮，禁止為最佳化衍生檔再次呼叫 API。
-- 若最終 prompt 完全相同，腳本只呼叫 API 產生一次，其他相同 prompt 直接重用該結果並在本地 resize / optimize。
 
 ### 內建主題提示詞策略
 
-`scripts/generate-fal-flux-images.js` 會根據檔名、文章 slug、`coreConcept`、文章 front matter 與 prompt 內容，自動選擇最適合的圖片主題 profile。後續任務不需要手動重寫 prompt wrapper。
+`scripts/generate-images.js` 透過 `scripts/premium-image-prompts.js` 根據檔名、`coreConcept` 與 prompt 內容自動選擇最適合的圖片主題 profile。後續任務不需要手動重寫 prompt wrapper。
 
 目前腳本內建的主題 profile 包含：
 
-- Aviator / crash-game education：航空感 multiplier dashboard、cash-out 控制、風險限制視覺。
-- Bangladesh mobile-wallet payments：bKash / Nagad 類型的安全付款流程，以泛用 mobile-wallet 圖塊呈現，禁止真實 logo。
-- App download / account access：下載、登入、註冊、帳號安全與驗證流程。
-- Cricket betting strategy：板球 pitch map、odds card、run-rate / wicket 類分析視覺。
-- Football betting strategy：足球 pitch geometry、goal / over-under / match odds 類分析視覺。
-- Basketball betting strategy：court geometry、spread / handicap / points-line 類分析視覺。
-- Slots and casino game selection：slot reels、RTP / volatility / bankroll control 類視覺。
-- Live casino table games：roulette、blackjack、baccarat、sic bo 類桌遊策略視覺。
-- Bonus, wagering, rebate, VIP rules：bonus requirement、turnover、rebate、VIP 規則 dashboard。
-- Legal, safety, scam-warning, responsible gambling：法規、安全、詐騙警示、KYC / AML、風險控管視覺。
-- Comparison, guide, and decision checklist：排行、比較、指南、平台選擇與決策 checklist。
+- Mobile app / APK / login / account access：漂浮手機或乾淨辦公桌上的手機、登入安全、更新與驗證視覺。
+- Mobile wallet payments：bKash / Nagad / Rocket 類型的泛用錢包流程，禁止真實 logo、QR code、帳號號碼與收據文字。
+- Cricket sports analytics：板球 pitch map、run-rate / wicket / toss / powerplay 類分析視覺。
+- Football sports analytics：足球 pitch geometry、goal / over-under / cards / World Cup 類分析視覺。
+- Basketball analytics：court geometry、spread / handicap / points-line 類分析視覺。
+- Slots and game mechanics：抽象 reels、RTP / volatility / free-spin / budget-control 類視覺。
+- Live table games：roulette、blackjack、baccarat、sic bo、teen patti 等桌遊機率與規則視覺。
+- Bonus, turnover, rebate, VIP rules：bonus terms、turnover、rebate、VIP 規則 dashboard。
+- Legal, safety, scam warning, responsible use：法規、安全、詐騙警示、KYC / AML、風險控管視覺。
+- Comparison, guide, checklist：排行、比較、指南、平台選擇與決策 checklist。
 
 每個 profile 都會自動套用：
 
@@ -191,60 +186,43 @@ node scripts/generate-batch-articles.js
 - 專屬 color palette。
 - 專屬 avoid list。
 - 依圖片類型自動調整構圖：`hero`、`detail`、`og`。
-- 通用品質規範：single unified scene、premium corporate editorial aesthetic、cinematic studio lighting、smooth realistic 3D materials、clean centered composition。
-- 通用禁用規範：no text、no readable letters or numbers、no watermark、no logo、no real brand marks、no real team emblems、no player likeness、no children、no collage、no split screen、no duplicated main object。
+- 通用品質規範：flat 2D minimalist modern illustration、premium editorial design、clean vertical 9:16 composition、subtle gradients、mobile-first readability。
+- 手機呈現規範：需要手機時，只能畫「單一正面手機漂浮」或「單一手機放在乾淨辦公桌上」；手機螢幕必須空白或純色，不可畫人手拿手機、可見手指、人物、迷你人物、多支手機、裝置網格或 app icon swarm。
+- 風格規範：若舊 prompt 要求 3D，需改為「極簡現代插畫」；不要使用複雜 3D、isometric、Unreal/Octane 風格字樣。
+- UI 規範：不得畫複雜介面文字；只允許空白卡片、幾何線條、抽象 dots、icon-like shapes；禁止 readable words、pseudo letters、tiny labels、numbers、dates、QR code。
+- 運動圖規範：以單一球體或單一抽象球類符號為主，不畫球員、球員 icon、戰術板、球場陣型、鞋子、球衣、比分板或多顆球。
+- 通用禁用規範：no watermark、no logo、no real brand marks、no real team emblems、no player likeness、no people、no children、no collage、no split screen、no duplicated main object。
 
 ### 標準產圖指令
 
 針對 prompt manifest 批次產圖：
 
 ```bash
-node scripts/generate-fal-flux-images.js \
-  --prompts-file data/publishing/batch-prompts-100.json \
-  --overwrite
-```
-
-針對 `image.md` 中記錄的未完成圖片續跑：
-
-```bash
-node scripts/generate-fal-flux-images.js \
-  --prompts-file data/publishing/gsc-expansion-2026-05-prompts.json \
-  --image-md image.md \
-  --overwrite
-```
-
-只產生第一張樣本圖片供人工視覺確認：
-
-```bash
-node scripts/generate-fal-flux-images.js \
-  --prompts-file data/publishing/gsc-expansion-2026-05-prompts.json \
-  --image-md image.md \
-  --first-only \
-  --overwrite
-```
-
-從 `image.md` 的第 2 個未完成 task 開始續跑：
-
-```bash
-node scripts/generate-fal-flux-images.js \
-  --prompts-file data/publishing/gsc-expansion-2026-05-prompts.json \
-  --image-md image.md \
-  --start 2 \
-  --overwrite
-```
-
-### 與 Stability AI 的關係
-
-舊有 `scripts/generate-images.js` 仍保留為 Stability AI 相容入口，但不再是標準批次流程的預設選項。若 repository 擁有者明確要求使用 Stability AI，可執行：
-
-```bash
-npm run generate-images:stability -- \
+node scripts/generate-images.js \
   --prompts-file data/publishing/batch-prompts-100.json \
   --overwrite \
   --with-optimized
 ```
 
-一般任務請使用 `npm run generate-images:fal` 或直接執行 `scripts/generate-fal-flux-images.js`。
+只產生第一張樣本圖片供人工視覺確認：
+
+```bash
+node scripts/generate-images.js \
+  --prompts-file data/publishing/batch-prompts-100.json \
+  --first-only \
+  --overwrite \
+  --with-optimized
+```
+
+從第 96 個 task 開始續跑或修復：
+
+```bash
+node scripts/generate-images.js \
+  --prompts-file data/publishing/gsc-expansion-2026-05-wave2-prompts.json \
+  --start 96 \
+  --overwrite \
+  --with-optimized
+```
 
 ## 步驟 5：從尚未發布的剩餘草稿建立 Publish Manifest
 
@@ -292,9 +270,9 @@ Dry run 會驗證：
 - 每篇由 prompt 驅動的文章都剛好有 3 個 prompt tasks。
 - 批次執行器能正確解析所需的產圖與發布步驟。
 
-## 步驟 7：批次產生 fal.ai Flux 圖片並建立依日期切分的本地 Commits
+## 步驟 7：批次產生 Stability SDXL 圖片並建立依日期切分的本地 Commits
 
-當 dry run 結果正確後，再執行正式批次。這個指令會為每篇文章產生 fal.ai Flux 2 Dev Turbo 圖片、最佳化圖片資產、安排文章日期，並建立該文章專屬的本地 commit。它不會 push。
+當 dry run 結果正確後，再執行正式批次。這個指令會為每篇文章產生 Stability AI SDXL 圖片、最佳化圖片資產、安排文章日期，並建立該文章專屬的本地 commit。它不會 push。
 
 ```bash
 node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
@@ -303,9 +281,9 @@ node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 每篇文章會依序發生以下事情：
 
 1. 為該篇文章寫出一份暫時性的 `prompts.json` 子集合。
-2. 使用 fal.ai Flux 2 Dev Turbo 執行 `scripts/generate-fal-flux-images.js`。
+2. 使用 Stability AI SDXL 執行 `scripts/generate-images.js --overwrite --with-optimized`。
 3. 依照文章主題自動套用腳本內建的最佳 prompt profile。
-4. API 只產生 1 張原始 `.webp` 圖片，最佳化後的 `.webp` 與 `.avif` 資產在本地轉檔產生。
+4. API 只產生 1 張來源圖，source `.webp` 會本地轉成 1080×1920 的 9:16 mobile SEO 圖片，最佳化後的 `.webp` 與 `.avif` 資產在本地轉檔產生。
 5. 執行 `scripts/automate-publish.js --no-push`。
 6. 依照每天最多 2 篇文章的規則安排文章日期。
 7. 為該文章與其相關資產建立一個本地 commit。
@@ -315,15 +293,15 @@ node scripts/publish-batch.js data/publishing/remaining-batch-selection.json
 
 執行器預設可續跑。如果某篇文章已經被 git track，重新執行時會自動跳過。
 
-## 當 fal.ai 額度或服務不可用時的本地圖片 Fallback（非標準流程）
+## 當 Stability AI 額度或服務不可用時的本地圖片 Fallback（非標準流程）
 
-如果 fal.ai 沒有額度或服務不可用，標準處理方式是**停止 production 發布並等待額度或服務恢復**。只有在 repository 擁有者明確批准 emergency placeholder 時，才可以從同一份 prompt manifest 在本地產生暫用 `.webp` 檔案。
+如果 Stability AI 沒有額度或服務不可用，標準處理方式是**停止 production 發布並等待額度或服務恢復**。只有在 repository 擁有者明確批准 emergency placeholder 時，才可以從同一份 prompt manifest 在本地產生暫用 `.webp` 檔案。
 
 使用本地 fallback 的限制：
 
 - 不得用於正式 production batch 的最終圖片。
 - 不得在未告知 repository 擁有者的情況下 commit。
-- 必須在後續用 fal.ai Flux 2 Dev Turbo 重新覆寫。
+- 必須在後續用 Stability AI `stable-diffusion-xl-1024-v1-0` 重新覆寫。
 - 執行時必須明確傳入 `--allow-local-fallback`。
 
 ```bash
@@ -341,13 +319,12 @@ node scripts/publish-batch.js data/publishing/remaining-batch-selection.json --s
 
 接著由 `scripts/automate-publish.js` 執行正常的最佳化步驟，產出發布文章所需的最終 `-optimized.webp` 與 `-optimized.avif` 檔案。
 
-若要修復並覆寫某個已發布的 commit 範圍，請直接根據受影響的文章檔案重建原始與最佳化圖片：
+若要修復並覆寫某個已發布的 commit 範圍，請直接根據受影響的 prompt task 用 Stability SDXL 重建原始與最佳化圖片：
 
 ```bash
-node scripts/generate-local-prompt-images.js \
-  --from-commit <start-commit-sha> \
+node scripts/generate-images.js \
   --prompts-file data/publishing/batch-prompts-100.json \
-  --allow-local-fallback \
+  --start <task-index> \
   --overwrite \
   --with-optimized
 ```
