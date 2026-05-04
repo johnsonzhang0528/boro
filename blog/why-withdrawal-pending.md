@@ -28,6 +28,7 @@ faq:
 
 ### 3. Banking Network Issues
 মাঝেমধ্যে ব্যাংক বা মোবাইল ব্যাংকিং (bKash/Nagad) সার্ভার ডাউন থাকে। আমাদের দিক থেকে টাকা পাঠানো হলেও ব্যাংকের সার্ভার সমস্যার কারণে তা আপনার ব্যালেন্সে যোগ হতে দেরি হতে পারে।
+যদি আপনার case-এ status already approved দেখায় কিন্তু bKash balance এখনো না আসে, তাহলে specific workflow-এর জন্য [bKash Withdrawal Pending After Approval](/blog/bkash-withdrawal-pending-after-approval/) দেখুন।
 
 <picture class="content-image">
   <img src="/assets/blog/turnover-status-check-optimized.webp" alt="Screenshot of Boro Jeet user profile showing the 'Turnover Requirement' progress bar" width="800" height="450" loading="lazy" decoding="async">
@@ -37,6 +38,7 @@ faq:
 1.  **৩০ মিনিট অপেক্ষা করুন:** বেশিরভাগ পেমেন্ট এই সময়ের মধ্যেই ক্লিয়ার হয়।
 2.  **Turnover চেক করুন:** যদি বাকি থাকে, তবে আরও কিছু গেম খেলুন।
 3.  **সাপোর্টে নক দিন:** ১ ঘণ্টার বেশি দেরি হলে কাস্টমার সার্ভিসে ট্রানজেকশন আইডি সহ যোগাযোগ করুন।
+4.  **Approved-but-not-received case আলাদা করুন:** platform-side approval complete হলেও wallet posting delay হতে পারে, তাই bKash-specific status check করুন।
 
 যদি আপনার request এখনো **Pending** থাকে কিন্তু amount, method, বা account details বদলাতে চান, তাহলে আমাদের **[Pending Withdrawal cancel guide](/blog/cancel-pending-withdrawal-borojeet/)** দেখে step-by-step পদ্ধতি অনুসরণ করুন.
 

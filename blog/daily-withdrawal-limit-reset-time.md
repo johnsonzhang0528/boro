@@ -39,11 +39,11 @@ howto:
 
 ## Daily Withdrawal Limit Reset Time কেন হয়
 
-Daily Withdrawal Limit Reset Time issue সাধারণত তিন ধরনের root cause থেকে আসে: payment method mismatch, queue delay, অথবা compliance check. এই তিনটা আলাদা না করলে user ভুল action নেয়, আর resolution time আরও বেড়ে যায়। [Common Deposit Issues & Solutions](/blog/common-deposit-issues-solutions-bangladesh/) আর [Transaction ID Guide](/blog/transaction-id-usage-guide/) আগে দেখলে workflow clearer হয়。
+Daily Withdrawal Limit Reset Time issue সাধারণত তিন ধরনের root cause থেকে আসে: payment method mismatch, queue delay, অথবা compliance check. এই তিনটা আলাদা না করলে user ভুল action নেয়, আর resolution time আরও বেড়ে যায়। [Common Deposit Issues & Solutions](/blog/common-deposit-issues-solutions-bangladesh/) আর [Transaction ID Guide](/blog/transaction-id-usage-guide/) আগে দেখলে workflow clearer হয়।
 
 ## কীভাবে দ্রুত diagnose করবেন
 
-প্রথমে status, amount, method, আর account name একসাথে মিলিয়ে দেখুন। অনেক সময় user শুধু pending বা failed label দেখে react করে, কিন্তু actual mismatch থাকে payment number, TrxID, বা method selection-এ। যদি withdrawal context হয়, তাহলে [How to Withdraw Winnings from BoroJeet](/blog/how-to-withdraw-winnings-from-borojeet/) related rules-ও check করুন。
+প্রথমে status, amount, method, আর account name একসাথে মিলিয়ে দেখুন। অনেক সময় user শুধু pending বা failed label দেখে react করে, কিন্তু actual mismatch থাকে payment number, TrxID, বা method selection-এ। যদি withdrawal context হয়, তাহলে [How to Withdraw Winnings from BoroJeet](/blog/how-to-withdraw-winnings-from-borojeet/) related rules-ও check করুন। আর যদি status approved হলেও bKash wallet-এ amount না আসে, তাহলে [bKash Withdrawal Pending After Approval](/blog/bkash-withdrawal-pending-after-approval/) article-এর checklist directly follow করুন।
 
 ## Step-by-step fix
 
@@ -61,7 +61,7 @@ Daily Withdrawal Limit Reset Time issue সাধারণত তিন ধর�
 
 ## কোন ভুলগুলো avoid করবেন
 
-সবচেয়ে common mistake হলো একই issue-র জন্য multiple requests পাঠানো। দ্বিতীয় ভুল হলো incomplete support message। তৃতীয় ভুল হলো অপেক্ষা না করে নতুন payment attempt দিয়ে আরও conflict তৈরি করা。
+সবচেয়ে common mistake হলো একই issue-র জন্য multiple requests পাঠানো। দ্বিতীয় ভুল হলো incomplete support message। তৃতীয় ভুল হলো অপেক্ষা না করে নতুন payment attempt দিয়ে আরও conflict তৈরি করা।
 
 ## Final takeaway
 
