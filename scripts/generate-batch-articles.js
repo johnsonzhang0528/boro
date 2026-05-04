@@ -5,6 +5,7 @@ const { buildPremiumImagePrompt } = require('./premium-image-prompts');
 const ROOT_DIR = path.resolve(__dirname, '..');
 const BLOG_DIR = path.join(ROOT_DIR, 'blog');
 const PUBLISHING_DATA_DIR = path.join(ROOT_DIR, 'data', 'publishing');
+const TOPICS_FILE = path.join(PUBLISHING_DATA_DIR, 'batch-topics-100.json');
 const PROMPTS_FILE = path.join(PUBLISHING_DATA_DIR, 'batch-prompts-100.json');
 const BASE_DATE = '2026-05-02';
 
@@ -43,6 +44,16 @@ const clusterLinks = {
         { title: 'BoroJeet vs JeetBuzz Comparison', url: '/blog/borojeet-vs-jeetbuzz-comparison/' },
         { title: 'Boro Jeet vs Nagad88 Review', url: '/blog/boro-jeet-vs-nagad88-review/' },
         { title: 'Boro Jeet vs Betvisa Bonus Reviews', url: '/blog/boro-jeet-vs-betvisa-bonus-reviews/' }
+    ],
+    safety: [
+        { title: 'Legal Online Casino Bangladesh Guide', url: '/blog/legal-online-casino-bangladesh-guide/' },
+        { title: 'Safe Online Gaming Bangladesh Checklist', url: '/blog/safe-online-gaming-bangladesh-checklist/' },
+        { title: 'Fake Betting Apps Bangladesh Warning', url: '/blog/fake-betting-apps-bangladesh-warning/' }
+    ],
+    crash: [
+        { title: 'Crash Betting Game Bangladesh Safe Guide', url: '/blog/crash-betting-game-bangladesh-safe-guide/' },
+        { title: 'Understanding Crash Multipliers Probability', url: '/blog/understanding-crash-multipliers-probability/' },
+        { title: 'Bankroll Management for Crash Games', url: '/blog/bankroll-management-crash-games/' }
     ]
 };
 
@@ -53,7 +64,9 @@ const clusterTags = {
     live: ['live-casino', 'guide', 'strategy'],
     bonus: ['bonus', 'guide', 'borojeet'],
     slots: ['slots', 'guide', 'strategy'],
-    comparison: ['comparison', 'review', 'borojeet']
+    comparison: ['comparison', 'review', 'borojeet'],
+    safety: ['legal', 'safety', 'guide'],
+    crash: ['crash-game', 'guide', 'strategy']
 };
 
 function topic(slug, title, cluster, tags = []) {
@@ -178,7 +191,9 @@ function buildDescription(topic) {
         live: `${label} rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।`,
         bonus: `${label} claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।`,
         slots: `${label} mechanic কী, RTP বা volatility-এর সাথে এর সম্পর্ক কী, আর bankroll কীভাবে manage করবেন তা জানুন।`,
-        comparison: `${label} comparison-এ bonus, payments, trust, support এবং user fit বিশ্লেষণ করা হয়েছে যাতে choice নেওয়া সহজ হয়।`
+        comparison: `${label} comparison-এ bonus, payments, trust, support এবং user fit বিশ্লেষণ করা হয়েছে যাতে choice নেওয়া সহজ হয়।`,
+        safety: `${label} নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।`,
+        crash: `${label} কীভাবে কাজ করে, cashout timing, multiplier risk, এবং bankroll control কীভাবে রাখবেন তা এই Bengali guide-এ জানুন।`
     };
 
     return map[topic.cluster];
@@ -225,6 +240,16 @@ function buildFaq(topic) {
             [`${label} comparison-এ শুধু bonus দেখলেই হবে?`, 'না। Withdrawal speed, limits, support quality, এবং trust signals একসাথে দেখা উচিত।'],
             ['সব user-এর জন্য একই winner হবে?', 'না। Low-stakes user, bonus hunter, high-volume bettor, আর fast-cashout user-এর চাহিদা আলাদা।'],
             ['Payment speed verify করার best way কী?', 'Published limits, user reports, pending rules, এবং support response quality একসাথে compare করুন।']
+        ],
+        safety: [
+            [`${label} topic-এ সবচেয়ে বড় risk কী?`, 'ভুল site, fake app, unclear terms, বা legal uncertainty না বুঝে action নেওয়াই সবচেয়ে বড় risk।'],
+            ['Safe decision নিতে আগে কী check করব?', 'Official link, payment proof, KYC request, support channel, এবং responsible budget limit একসাথে check করুন।'],
+            ['এই guide কি legal advice?', 'না। এটি educational risk checklist, legal advice নয়। Local rules নিয়ে doubt থাকলে professional advice নেওয়া ভালো।']
+        ],
+        crash: [
+            [`${label} game কি predict করা যায়?`, 'না। Crash multiplier outcome reliably predict করা যায় না; safe approach হলো cashout discipline আর bankroll control।'],
+            ['সবচেয়ে common mistake কী?', 'Signal group, martingale chase, বা last round pattern দেখে high-risk bet নেওয়া সবচেয়ে common mistake।'],
+            ['Session limit কতটা জরুরি?', 'খুব জরুরি। Crash game fast-paced হওয়ায় loss limit আগে না দিলে session দ্রুত uncontrolled হতে পারে।']
         ]
     };
 
@@ -275,6 +300,18 @@ function buildHowTo(topic) {
             ['Hard data compare করুন', 'Published limits, waiting times, and promo terms compare করুন।'],
             ['User fit ভাবুন', 'আপনি fast payout, low turnover, নাকি better app চান তা আগে ঠিক করুন।'],
             ['Decision lock করুন', 'One-size-fits-all answer না ধরে আপনার use case অনুযায়ী final choice নিন।']
+        ],
+        safety: [
+            ['Official source verify করুন', 'Search result বা social link দেখেই trust করবেন না; official domain, SSL, এবং support path মিলিয়ে দেখুন।'],
+            ['Risk signals note করুন', 'Fake bonus, impossible guarantee, hidden KYC, বা pressure message থাকলে সতর্ক হন।'],
+            ['Budget boundary দিন', 'Legal uncertainty বা scam risk থাকলে small test ছাড়া large amount ব্যবহার করবেন না।'],
+            ['Support proof রাখুন', 'Screenshots, transaction time, এবং chat history save করলে dispute easier হয়।']
+        ],
+        crash: [
+            ['Game rule পড়ুন', `${label} game-এর multiplier, cashout, এবং round history কী বোঝায় তা আগে বুঝুন।`],
+            ['Cashout plan লিখুন', 'Manual বা auto cashout level আগে ঠিক করুন, round চলাকালীন impulsive change করবেন না।'],
+            ['Stake cap দিন', 'Fast rounds-এর জন্য low fixed stake এবং strict loss cap ব্যবহার করুন।'],
+            ['Signal avoid করুন', 'Prediction group বা guaranteed trick claim এড়িয়ে চলুন।']
         ]
     };
 
@@ -500,6 +537,65 @@ Comparison article-এর biggest mistake হলো only one metric দেখে
 ## Final takeaway
 
 ${label} comparison-এ best answer universal না। আপনার priority যদি speed, safety, bonus simplicity, বা app experience হয়, verdict সেটার উপর depend করবে।`
+                ,
+                safety: `## ${label} কেন এখন গুরুত্বপূর্ণ
+
+Bangladesh search traffic-এ legal, safe app, fake site, এবং payment trust queries দ্রুত বাড়ছে। ${label} topic বুঝতে হলে শুধু headline claim নয়, official source, payment safety, KYC, এবং responsible budget context একসাথে দেখতে হবে। ${firstLink}, ${secondLink}, এবং ${thirdLink} এই safety cluster-এর core reference।
+
+## Risk checklist
+
+প্রথমে official domain, SSL, support channel, payment method, এবং realistic bonus terms মিলিয়ে দেখুন। যদি কোনো site guaranteed win, no-risk income, বা pressure message দিয়ে deposit করাতে চায়, সেটি strong red flag। Legal uncertainty থাকলে extra caution দরকার।
+
+## Practical safety workflow
+
+1. Official source verify করুন
+2. Payment proof এবং support path check করুন
+3. Bonus বা app permission claim cross-check করুন
+4. Small test ছাড়া large deposit করবেন না
+5. Responsible budget limit আগে সেট করুন
+
+<picture class="content-image">
+    <source srcset="/assets/blog/${images.detailBase}.avif" type="image/avif">
+    <source srcset="/assets/blog/${images.detailBase}.webp" type="image/webp">
+    <img src="/assets/blog/${images.detailBase}.webp" alt="A safety checklist interface representing ${label}" width="800" height="450" loading="lazy" decoding="async">
+</picture>
+
+## Common red flags
+
+Fake logo, copied APK, no clear withdrawal rule, hidden KYC, Telegram-only support, এবং impossible bonus promise সবগুলোই avoid signal। Search result-এ ranking দেখেই trust করবেন না।
+
+## Final takeaway
+
+${label} নিয়ে smart approach হলো first verify, then test small, then scale only if rules clear. Safety-first decision long-term traffic user-এর জন্যও বেশি valuable।`,
+                crash: `## ${label} কীভাবে কাজ করে
+
+Crash game বা cash game fast-paced হওয়ায় user খুব দ্রুত decision নেয়। Multiplier উঠতে থাকে, কিন্তু কখন crash হবে তা reliably জানা যায় না। তাই strategy মানে prediction না, বরং exposure control। ${firstLink}, ${secondLink}, এবং ${thirdLink} এই cluster-এ useful foundation।
+
+## Cashout logic
+
+Low multiplier cashout frequent small win দিতে পারে, কিন্তু long-term result still house edge-এর মধ্যে থাকে। High multiplier chase exciting, কিন্তু variance অনেক বেশি। Auto cashout ব্যবহার করলে emotion কমে, তবে সেটিও guaranteed profit দেয় না।
+
+## Practical session plan
+
+1. Fixed stake বেছে নিন
+2. Auto cashout বা manual target আগে ঠিক করুন
+3. Stop-loss এবং stop-win লিখে রাখুন
+4. Signal group বা predictor claim avoid করুন
+5. Session শেষে result review করুন
+
+<picture class="content-image">
+    <source srcset="/assets/blog/${images.detailBase}.avif" type="image/avif">
+    <source srcset="/assets/blog/${images.detailBase}.webp" type="image/webp">
+    <img src="/assets/blog/${images.detailBase}.webp" alt="A crash game analysis interface representing ${label}" width="800" height="450" loading="lazy" decoding="async">
+</picture>
+
+## Biggest mistakes
+
+Last round দেখে next round predict করা, loss chase করা, এবং martingale use করা সবচেয়ে dangerous trap। Fast game হওয়ায় ছোট ভুলও দ্রুত বড় loss বানাতে পারে।
+
+## Final takeaway
+
+${label} খেললে goal হওয়া উচিত controlled entertainment, not guaranteed income. Cashout discipline, low stake, and strict session limit ছাড়া crash game avoid করাই better।`
     };
 
     return `---
@@ -570,15 +666,33 @@ function ensureUniqueSlugs(topicList) {
     }
 }
 
+function loadTopics() {
+    if (!fs.existsSync(TOPICS_FILE)) {
+        return topics;
+    }
+
+    const parsed = JSON.parse(fs.readFileSync(TOPICS_FILE, 'utf8'));
+    if (!Array.isArray(parsed)) {
+        throw new Error(`${path.relative(ROOT_DIR, TOPICS_FILE)} must be an array.`);
+    }
+
+    return parsed.map(item => topic(item.slug, item.title, item.cluster, item.tags || []));
+}
+
+function normalizeArticleText(value) {
+    return value.replace(/。/g, '।');
+}
+
 function main() {
-    ensureUniqueSlugs(topics);
+    const activeTopics = loadTopics();
+    ensureUniqueSlugs(activeTopics);
     fs.mkdirSync(PUBLISHING_DATA_DIR, { recursive: true });
 
     const prompts = [];
     let created = 0;
     let skipped = 0;
 
-    for (const item of topics) {
+    for (const item of activeTopics) {
         const targetPath = path.join(BLOG_DIR, `${item.slug}.md`);
         if (fs.existsSync(targetPath)) {
             skipped += 1;
@@ -586,7 +700,7 @@ function main() {
         }
 
         const images = imageNames(item.slug);
-        const body = bodyTemplate(item, images);
+        const body = normalizeArticleText(bodyTemplate(item, images));
         fs.writeFileSync(targetPath, body, 'utf8');
 
         prompts.push(buildPrompt(item, `assets/blog/${images.heroFile}`, 'hero'));

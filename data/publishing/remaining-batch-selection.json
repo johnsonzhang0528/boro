@@ -1,5 +1,5 @@
 {
-  "publishBatchName": "remaining-batch-000",
+  "publishBatchName": "wave3-gsc-100-postcheck-000",
   "promptsFile": "data/publishing/batch-prompts-100.json",
   "articleFiles": [],
   "promptBackedArticles": [],

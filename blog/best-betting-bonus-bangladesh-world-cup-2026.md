@@ -69,6 +69,19 @@ world cup betting bonus bangladesh নিয়ে decision নেওয়ার স�
 
 প্রথম mistake হলো viral trick, signal, বা guaranteed return claim বিশ্বাস করা। Betting এবং casino-style game probability-based entertainment; long-term profit guarantee নয়। দ্বিতীয় mistake হলো payment বা bonus terms না পড়ে deposit করা। তৃতীয় mistake হলো wrong app source বা fake logo দেখে trust ধরে নেওয়া।
 
+## ২০২৬ bonus ও seasonal promo cluster
+
+World Cup বা festival bonus নেওয়ার আগে এই related guide-গুলোও compare করুন:
+
+*   **[World Cup 2026 Bonus Offer Bangladesh](/blog/world-cup-2026-bonus-offer-bangladesh/)** — tournament promo timing ও terms।
+*   **[World Cup 2026 Betting Bonuses BD](/blog/world-cup-2026-betting-bonuses-bd/)** — sports bonus comparison checklist।
+*   **[BoroJeet Welcome Bonus Terms Bangla 2026](/blog/borojeet-welcome-bonus-terms-bangla-2026/)** — new user bonus wording।
+*   **[Best Welcome Bonuses BD 2026](/blog/best-welcome-bonuses-bd-2026/)** — welcome offer compare করার framework।
+*   **[Bonus Turnover Bangla Calculator 2026](/blog/bonus-turnover-bangla-calculator-2026/)** — turnover calculation আগে বোঝা।
+*   **[No Deposit Bonus BD Risk Checklist](/blog/no-deposit-bonus-bd-risk-checklist/)** — free bonus claim-এর hidden risk।
+*   **[Eid Bonus Betting Bangladesh 2026](/blog/eid-bonus-betting-bangladesh-2026/)** — Eid seasonal demand timing।
+*   **[Durga Puja Betting Bonus Bangladesh 2026](/blog/durga-puja-betting-bonus-bangladesh-2026/)** — Puja-season promo planning।
+
 ## When to publish / use this guide
 
 এই topic Bonus/wagering/seasonal trust cluster-এর অংশ। Upcoming events, app updates, seasonal bonuses, World Cup football, Asia Cup cricket, এবং local wallet maintenance window-এর আগে এই page organic search traffic capture করতে সাহায্য করবে।

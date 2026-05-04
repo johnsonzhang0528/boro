@@ -2,7 +2,19 @@
 lastUpdated: 2025-12-18
 description: "বাংলাদেশে ফুটবল বেটিং শুরু করতে চান? আমাদের এই গাইডটি আপনাকে জনপ্রিয় লিগ (EPL, World Cup), বেটিং মার্কেট (1X2, Over/Under) এবং জেতার কৌশল সম্পর্কে বিস্তারিত জানাবে।"
 title: "Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)"
-layout: post.njklang: bn-BDdate: 2025-11-27ogImage: football-betting-guide-bangladesh-optimized.webpogImageAlt: "একটি ফুটবল স্টেডিয়ামের পটভূমিতে একটি ফুটবল এবং বেটিং অডস চার্ট, যা ফুটবল বেটিং গাইডকে নির্দেশ করছে।"tags: [post, football, betting, guide]faq:  - question: "What are the most popular football leagues for betting in Bangladesh?"    answer: "বাংলাদেশের বেটরদের মধ্যে সবচেয়ে জনপ্রিয় লিগগুলো হলো ইংলিশ প্রিমিয়ার লিগ (EPL), উয়েফা চ্যাম্পিয়ন্স লিগ, লা লিগা এবং ফিফা বিশ্বকাপ। এই টুর্নামেন্টগুলোতে প্রচুর বেটিং মার্কেট এবং ভালো অডস পাওয়া যায়।"  - question: "What does 1X2 mean in football betting?"    answer: "1X2 হলো ফুটবল বেটিংয়ের সবচেয়ে সাধারণ মার্কেট। এখানে '1' মানে হোম টিমের জয়, 'X' মানে ড্র, এবং '2' মানে অ্যাওয়ে টিমের জয়। আপনি এই তিনটির যেকোনো একটি ফলাফলের উপর বাজি ধরতে পারেন।"  - question: "Can I bet on football matches live?"    answer: "হ্যাঁ, BoroJeet-এ আপনি লাইভ বা ইন-প্লে বেটিং করতে পারেন। এর মানে হলো ম্যাচ চলাকালীন সময়েই আপনি গোল, কর্নার বা পরবর্তী ঘটনার উপর বাজি ধরতে পারবেন, যা খেলা দেখার উত্তেজনা আরও বাড়িয়ে দেয়।"
+layout: post.njk
+lang: bn-BD
+date: 2025-11-27
+ogImage: football-betting-guide-bangladesh-optimized.webp
+ogImageAlt: "একটি ফুটবল স্টেডিয়ামের পটভূমিতে একটি ফুটবল এবং বেটিং অডস চার্ট, যা ফুটবল বেটিং গাইডকে নির্দেশ করছে।"
+tags: [post, football, betting, guide]
+faq:
+  - question: "What are the most popular football leagues for betting in Bangladesh?"
+    answer: "বাংলাদেশের বেটরদের মধ্যে সবচেয়ে জনপ্রিয় লিগগুলো হলো ইংলিশ প্রিমিয়ার লিগ (EPL), উয়েফা চ্যাম্পিয়ন্স লিগ, লা লিগা এবং ফিফা বিশ্বকাপ। এই টুর্নামেন্টগুলোতে প্রচুর বেটিং মার্কেট এবং ভালো অডস পাওয়া যায়।"
+  - question: "What does 1X2 mean in football betting?"
+    answer: "1X2 হলো ফুটবল বেটিংয়ের সবচেয়ে সাধারণ মার্কেট। এখানে '1' মানে হোম টিমের জয়, 'X' মানে ড্র, এবং '2' মানে অ্যাওয়ে টিমের জয়। আপনি এই তিনটির যেকোনো একটি ফলাফলের উপর বাজি ধরতে পারেন।"
+  - question: "Can I bet on football matches live?"
+    answer: "হ্যাঁ, BoroJeet-এ আপনি লাইভ বা ইন-প্লে বেটিং করতে পারেন। এর মানে হলো ম্যাচ চলাকালীন সময়েই আপনি গোল, কর্নার বা পরবর্তী ঘটনার উপর বাজি ধরতে পারবেন, যা খেলা দেখার উত্তেজনা আরও বাড়িয়ে দেয়।"
 ---
 
 <p class="lead">ক্রিকেটের পরেই বাংলাদেশে ফুটবলের জনপ্রিয়তা আকাশচুম্বী। ইংলিশ প্রিমিয়ার লিগ থেকে শুরু করে বিশ্বকাপ পর্যন্ত, ফুটবল ভক্তরা প্রতিটি ম্যাচের উত্তেজনা উপভোগ করেন। কিন্তু আপনি কি জানেন যে আপনার ফুটবল জ্ঞানকে কাজে লাগিয়ে আপনি BoroJeet-এ অর্থ উপার্জন করতে পারেন? এই গাইডটি আপনাকে <strong>ফুটবল বেটিং (Football Betting)</strong>-এর জগতে স্বাগত জানাবে।</p>
@@ -77,6 +89,19 @@ BoroJeet-এ আপনি বিশ্বের প্রায় সব প্
 বেটিং করার সময় কিছু বিশেষ নিয়ম জানা থাকলে বিভ্রান্তি এড়ানো যায়। যেমন, ৯০ মিনিটের পর গোল হলে কী হবে? বা ম্যাচ বাতিল হলে কী হবে?
 *   **৯০ মিনিটের নিয়ম:** ফুটবলে সাধারণত বাজি শুধুমাত্র নির্ধারিত ৯০ মিনিট (প্লাস ইনজুরি টাইম) পর্যন্ত গণ্য হয়। অতিরিক্ত সময় (Extra Time) বা পেনাল্টি শুটআউট এর অন্তর্ভুক্ত নয়।
 *   **আরও জানুন:** **[Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম](/blog/borojeet-sports-betting-rules-explained/)**।
+
+## World Cup 2026 ও football cluster-এর নতুন গাইড
+
+২০২৬ সালের বড় football traffic ধরতে এই pillar page থেকে নিচের focused guide-গুলোতে যেতে পারেন:
+
+*   **[World Cup 2026 Football Betting App Bangladesh](/blog/world-cup-2026-football-betting-app-bangladesh/)** — mobile-first setup ও safe app flow।
+*   **[FIFA World Cup 2026 App Bangladesh Safe Install](/blog/fifa-world-cup-2026-app-bangladesh-safe-install/)** — APK source, permissions এবং update check।
+*   **[World Cup 2026 Live Betting App Checklist](/blog/world-cup-2026-live-betting-app-checklist/)** — live odds, momentum ও cashout discipline।
+*   **[World Cup 2026 Group Stage Odds Bangla](/blog/world-cup-2026-group-stage-odds-bangla/)** — 1X2-style group stage market logic।
+*   **[World Cup 2026 Goals Market Bangladesh](/blog/world-cup-2026-goals-market-bangladesh/)** — totals market এবং goal expectation।
+*   **[World Cup 2026 Corners Card Live Guide](/blog/world-cup-2026-corners-card-live-guide/)** — corners ও cards market data checklist।
+*   **[World Cup 2026 Half Time Markets Bangla](/blog/world-cup-2026-half-time-markets-bangla/)** — first-half এবং half-time angle।
+*   **[World Cup 2026 Final Week Betting Plan BD](/blog/world-cup-2026-final-week-betting-plan-bd/)** — knockout/final week special planning।
 
 ## BoroJeet-এ কীভাবে ফুটবল বেটিং শুরু করবেন?
 

@@ -24,6 +24,9 @@ const DEFAULT_STEPS = 30;
 const DEFAULT_STYLE_PRESET = 'digital-art';
 const MAX_OPTIMIZED_WIDTH = 1536;
 const WEBP_QUALITY = 75;
+const MAX_STABILITY_ATTEMPTS = 3;
+const DEFAULT_RETRY_DELAY_MS = 30000;
+const MAX_RETRY_DELAY_MS = 120000;
 const AVIF_QUALITY = 50;
 const SOURCE_WEBP_QUALITY = 90;
 
@@ -127,6 +130,28 @@ function buildFormData(fields) {
     }
 
     return formData;
+}
+
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function retryDelayFromErrorText(errorText) {
+    try {
+        const parsed = JSON.parse(errorText);
+        const retryAfter = Number(parsed.retry_after);
+        if (Number.isFinite(retryAfter) && retryAfter > 0) {
+            return Math.min(retryAfter * 1000, MAX_RETRY_DELAY_MS);
+        }
+    } catch (_error) {
+        // Fall through to default retry delay.
+    }
+
+    return DEFAULT_RETRY_DELAY_MS;
+}
+
+function isRetryableStabilityStatus(status) {
+    return status === 429 || (status >= 500 && status <= 599);
 }
 
 function resolveTargetFile(targetFile) {
@@ -263,32 +288,45 @@ async function generateStabilityImage(task, options) {
     console.log(`   Ratio: ${options.aspectRatio} (${sourceSize.width}x${sourceSize.height} source)`);
     console.log(`   Core concept: ${coreConcept.slice(0, 140)}${coreConcept.length > 140 ? '...' : ''}`);
 
-    const response = await fetch(endpoint, {
-        method: 'POST',
-        headers: {
-            Accept: 'application/json',
-            Authorization: `Bearer ${STABILITY_API_KEY}`,
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-            text_prompts: [
-                { text: prompt, weight: 1 },
-                { text: options.negativePrompt, weight: -1 }
-            ],
-            cfg_scale: options.cfgScale,
-            height: generationSize.height,
-            width: generationSize.width,
-            samples: 1,
-            steps: options.steps,
-            style_preset: options.stylePreset
-        })
-    });
+    let payload;
+    for (let attempt = 1; attempt <= MAX_STABILITY_ATTEMPTS; attempt += 1) {
+        const response = await fetch(endpoint, {
+            method: 'POST',
+            headers: {
+                Accept: 'application/json',
+                Authorization: `Bearer ${STABILITY_API_KEY}`,
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                text_prompts: [
+                    { text: prompt, weight: 1 },
+                    { text: options.negativePrompt, weight: -1 }
+                ],
+                cfg_scale: options.cfgScale,
+                height: generationSize.height,
+                width: generationSize.width,
+                samples: 1,
+                steps: options.steps,
+                style_preset: options.stylePreset
+            })
+        });
+        const responseText = await response.text();
 
-    if (!response.ok) {
-        throw new Error(`Non-200 response: ${await response.text()}`);
+        if (response.ok) {
+            payload = JSON.parse(responseText);
+            break;
+        }
+
+        if (isRetryableStabilityStatus(response.status) && attempt < MAX_STABILITY_ATTEMPTS) {
+            const waitMs = retryDelayFromErrorText(responseText);
+            console.warn(`   ⚠️  Stability API ${response.status}; retry ${attempt + 1}/${MAX_STABILITY_ATTEMPTS} in ${Math.round(waitMs / 1000)}s.`);
+            await delay(waitMs);
+            continue;
+        }
+
+        throw new Error(`Non-200 response after ${attempt} attempt${attempt === 1 ? '' : 's'}: ${responseText}`);
     }
 
-    const payload = await response.json();
     const base64Image = payload.artifacts && payload.artifacts[0] && payload.artifacts[0].base64;
 
     if (!base64Image) {

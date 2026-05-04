@@ -76,6 +76,19 @@ High impression legal keyword near page one. এই angle থেকে decision 
 
 ## Responsible play reminder
 
+## ২০২৬ legal ও safety cluster-এর related guide
+
+Legal uncertainty, fake app, এবং payment trust query বাড়ার কারণে নিচের guide-গুলোও এই page-এর সাথে related:
+
+*   **[Online Gambling in Bangladesh 2026 Law](/blog/online-gambling-in-bangladesh-2026-law/)** — law, risk ও reality checklist।
+*   **[Online Jua Ain Bangladesh Bangla 2026](/blog/online-jua-ain-bangladesh-bangla-2026/)** — Bengali legal-intent query-এর সহজ ব্যাখ্যা।
+*   **[Legal Betting Sites Bangladesh Myths](/blog/legal-betting-sites-bangladesh-myths/)** — common misconception ও grey-area warning।
+*   **[Fake Betting Apps BD Red Flags 2026](/blog/fake-betting-apps-bd-red-flags-2026/)** — copied APK, fake logo ও Telegram scam signal।
+*   **[Best Betting Apps Bangladesh Safe List 2026](/blog/best-betting-apps-bangladesh-safe-list-2026/)** — app source, KYC ও payment proof check।
+*   **[KYC AML Online Gaming Bangladesh](/blog/kyc-aml-online-gaming-bangladesh/)** — document upload risk কমানোর checklist।
+*   **[Mobile Wallet Logo Check Betting Sites BD](/blog/mobile-wallet-logo-check-betting-sites-bd/)** — fake MFS badge থেকে সতর্কতা।
+*   **[Bonus Abuse Warning Bangladesh](/blog/bonus-abuse-warning-bangladesh/)** — account risk এবং terms violation avoid করা।
+
 Betting এবং casino game entertainment হিসেবে দেখা উচিত, guaranteed income হিসেবে নয়। ১৮+ user ছাড়া কেউ খেলবেন না। Loss chase করবেন না, ধার করা টাকা ব্যবহার করবেন না, এবং session limit আগে নির্ধারণ করুন।
 
 <p style="margin-top: 2em; text-align: center;">
