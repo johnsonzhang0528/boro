@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Group Winner Outright Guide: futures market explained"
 description: "world cup group winner betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-04
-lastUpdated: 2026-07-04
+date: 2026-06-11
+lastUpdated: 2026-06-11
 ogImage: "og-world-cup-2026-group-winner-outright-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Group Winner Outright Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "outright"]

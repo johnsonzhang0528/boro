@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crazy Time খেলার নিয়ম Bangla: bonus wheel সহজ guide"
 description: "crazy time খেলার নিয়ম নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-24
-lastUpdated: 2026-08-24
+date: 2026-10-29
+lastUpdated: 2026-10-29
 ogImage: "og-crazy-time-khelar-niyom-bangla-optimized.webp"
 ogImageAlt: "Crazy Time খেলার নিয়ম Bangla visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "crazy-time"]

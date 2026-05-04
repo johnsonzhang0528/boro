@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Asia Cup 2026 Bangladesh Cricket Betting Guide: match plan ও risk"
 description: "asia cup 2026 betting guide নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-07
-lastUpdated: 2026-06-07
+date: 2026-08-09
+lastUpdated: 2026-08-09
 ogImage: "og-asia-cup-2026-bangladesh-cricket-betting-guide-optimized.webp"
 ogImageAlt: "Asia Cup 2026 Bangladesh Cricket Betting Guide visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "asia-cup"]

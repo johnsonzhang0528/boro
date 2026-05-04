@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use"
 description: "BoroJeetBD Lightweight App Low Data Guide সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-20
-lastUpdated: 2026-10-20
+date: 2026-06-23
+lastUpdated: 2026-06-23
 ogImage: "og-borojeetbd-lightweight-app-low-data-optimized.webp"
 ogImageAlt: "BoroJeetBD Lightweight App Low Data Guide visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "app", "low-data"]

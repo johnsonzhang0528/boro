@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Fake Betting Apps BD Red Flags 2026: fake APK চিনবেন কীভাবে"
 description: "Fake Betting Apps BD Red Flags 2026 নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-21
-lastUpdated: 2026-11-21
+date: 2026-06-26
+lastUpdated: 2026-06-26
 ogImage: "og-fake-betting-apps-bd-red-flags-2026-optimized.webp"
 ogImageAlt: "Fake Betting Apps BD Red Flags 2026 visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "fake-app", "apk", "scam"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Casino Bonus Bangladesh bKash Nagad: deposit bonus terms checklist"
 description: "Online Casino Bonus Bangladesh bKash Nagad claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-12-05
-lastUpdated: 2026-12-05
+date: 2026-09-03
+lastUpdated: 2026-09-03
 ogImage: "og-online-casino-bonus-bangladesh-bkash-nagad-optimized.webp"
 ogImageAlt: "Online Casino Bonus Bangladesh bKash Nagad visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "casino-bonus", "bkash", "nagad"]

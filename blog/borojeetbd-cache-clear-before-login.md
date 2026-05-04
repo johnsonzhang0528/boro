@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন"
 description: "BoroJeetBD Cache Clear Before Login সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-22
-lastUpdated: 2026-10-22
+date: 2026-06-24
+lastUpdated: 2026-06-24
 ogImage: "og-borojeetbd-cache-clear-before-login-optimized.webp"
 ogImageAlt: "BoroJeetBD Cache Clear Before Login visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "cache", "login"]

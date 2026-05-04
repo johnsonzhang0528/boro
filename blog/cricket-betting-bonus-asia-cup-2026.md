@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting Bonus Asia Cup 2026: bonus terms আগে পড়ুন"
 description: "cricket betting bonus asia cup নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-10
-lastUpdated: 2026-06-10
+date: 2026-08-12
+lastUpdated: 2026-08-12
 ogImage: "og-cricket-betting-bonus-asia-cup-2026-optimized.webp"
 ogImageAlt: "Cricket Betting Bonus Asia Cup 2026 visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "asia-cup", "bonus"]

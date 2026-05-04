@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Outright Winner Bangladesh: long-term market guide"
 description: "World Cup 2026 Outright Winner Bangladesh market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-09
-lastUpdated: 2026-11-09
+date: 2026-05-30
+lastUpdated: 2026-05-30
 ogImage: "og-world-cup-2026-outright-winner-bangladesh-optimized.webp"
 ogImageAlt: "World Cup 2026 Outright Winner Bangladesh visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "outright"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "FIFA World Cup 2026 App Bangladesh Safe Install: APK ও alert setup"
 description: "FIFA World Cup 2026 App Bangladesh Safe Install সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-11-10
-lastUpdated: 2026-11-10
+date: 2026-05-30
+lastUpdated: 2026-05-30
 ogImage: "og-fifa-world-cup-2026-app-bangladesh-safe-install-optimized.webp"
 ogImageAlt: "FIFA World Cup 2026 App Bangladesh Safe Install visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "world-cup-2026", "app", "safe-install"]

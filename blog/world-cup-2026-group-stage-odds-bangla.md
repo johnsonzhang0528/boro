@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Group Stage Odds Bangla: group stage market guide"
 description: "World Cup 2026 Group Stage Odds Bangla market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-03
-lastUpdated: 2026-11-03
+date: 2026-05-24
+lastUpdated: 2026-05-24
 ogImage: "og-world-cup-2026-group-stage-odds-bangla-optimized.webp"
 ogImageAlt: "World Cup 2026 Group Stage Odds Bangla visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "odds"]

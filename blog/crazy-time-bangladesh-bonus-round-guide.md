@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt"
 description: "crazy time bonus round bangladesh নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-23
-lastUpdated: 2026-08-23
+date: 2026-10-29
+lastUpdated: 2026-10-29
 ogImage: "og-crazy-time-bangladesh-bonus-round-guide-optimized.webp"
 ogImageAlt: "Crazy Time Bangladesh Bonus Round Guide visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "crazy-time"]

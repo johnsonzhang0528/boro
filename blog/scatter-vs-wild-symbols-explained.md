@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Scatter vs Wild Symbols Explained: slot symbol mechanics সহজ ভাষায়"
 description: "Scatter vs Wild Symbols Explained mechanic কী, RTP বা volatility-এর সাথে এর সম্পর্ক কী, আর bankroll কীভাবে manage করবেন তা জানুন।"
-date: 2026-09-17
-lastUpdated: 2026-09-17
+date: 2026-11-20
+lastUpdated: 2026-11-20
 ogImage: "og-scatter-vs-wild-symbols-explained-optimized.webp"
 ogImageAlt: "Scatter vs Wild Symbols Explained visual for BoroJeet readers"
 tags: ["post", "slots", "guide", "strategy", "slot-mechanics"]

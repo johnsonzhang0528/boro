@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "অনলাইন জুয়া আইন Bangladesh Guide: কী জানা জরুরি?"
 description: "অনলাইন জুয়া আইন নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-09-21
-lastUpdated: 2026-09-21
+date: 2026-10-13
+lastUpdated: 2026-10-13
 ogImage: "og-online-jua-ain-bangladesh-guide-optimized.webp"
 ogImageAlt: "অনলাইন জুয়া আইন Bangladesh Guide visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "bangla", "law"]

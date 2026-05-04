@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Trusted Betting Sites BD Payment Checklist: payout ও support আগে দেখুন"
 description: "Trusted Betting Sites BD Payment Checklist comparison-এ bonus, payments, trust, support এবং user fit বিশ্লেষণ করা হয়েছে যাতে choice নেওয়া সহজ হয়।"
-date: 2026-12-02
-lastUpdated: 2026-12-02
+date: 2026-09-01
+lastUpdated: 2026-09-01
 ogImage: "og-trusted-betting-sites-bd-payment-checklist-optimized.webp"
 ogImageAlt: "Trusted Betting Sites BD Payment Checklist visual for BoroJeet readers"
 tags: ["post", "comparison", "review", "borojeet", "trusted-sites", "payments"]

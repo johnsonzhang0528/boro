@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Mobile Wallet Name Mismatch Bangladesh: bKash Nagad Rocket name issue"
 description: "Mobile Wallet Name Mismatch Bangladesh নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-15
-lastUpdated: 2026-11-15
+date: 2026-08-28
+lastUpdated: 2026-08-28
 ogImage: "og-mobile-wallet-name-mismatch-bangladesh-optimized.webp"
 ogImageAlt: "Mobile Wallet Name Mismatch Bangladesh visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "wallet", "name-mismatch", "kyc"]

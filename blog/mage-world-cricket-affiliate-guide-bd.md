@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Mage World Cricket Affiliate Guide BD: search intent ও safe betting context"
 description: "Mage World Cricket Affiliate Guide BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-02
-lastUpdated: 2026-11-02
+date: 2026-07-30
+lastUpdated: 2026-07-30
 ogImage: "og-mage-world-cricket-affiliate-guide-bd-optimized.webp"
 ogImageAlt: "Mage World Cricket Affiliate Guide BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "affiliate", "search-intent"]

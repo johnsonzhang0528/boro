@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?"
 description: "Suspicious Login Alert সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-06-05
-lastUpdated: 2026-06-05
+date: 2026-07-11
+lastUpdated: 2026-07-11
 ogImage: "og-suspicious-login-alert-what-to-do-optimized.webp"
 ogImageAlt: "Suspicious Login Alert visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "alert"]

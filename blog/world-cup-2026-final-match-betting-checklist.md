@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Final Match Betting Checklist: final day market plan"
 description: "world cup final betting checklist নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-03
-lastUpdated: 2026-07-03
+date: 2026-06-10
+lastUpdated: 2026-06-10
 ogImage: "og-world-cup-2026-final-match-betting-checklist-optimized.webp"
 ogImageAlt: "World Cup 2026 Final Match Betting Checklist visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "final"]

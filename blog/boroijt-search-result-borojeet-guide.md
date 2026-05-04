@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Boroijt Search Result Guide: ভুল spelling থেকেও official BoroJeet খুঁজুন"
 description: "boroijt নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-14
-lastUpdated: 2026-05-14
+date: 2026-05-10
+lastUpdated: 2026-05-10
 ogImage: "og-boroijt-search-result-borojeet-guide-optimized.webp"
 ogImageAlt: "Boroijt Search Result Guide visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "misspelling"]

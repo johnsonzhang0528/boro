@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Half-Time Full-Time Guide: HT/FT market explained"
 description: "world cup half time full time নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-05
-lastUpdated: 2026-07-05
+date: 2026-06-12
+lastUpdated: 2026-06-12
 ogImage: "og-world-cup-2026-half-time-full-time-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Half-Time Full-Time Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "ht-ft"]

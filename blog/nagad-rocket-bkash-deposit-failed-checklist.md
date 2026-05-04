@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Nagad Rocket bKash Deposit Failed Checklist: proof ও support steps"
 description: "deposit failed bkash nagad rocket নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-08-03
-lastUpdated: 2026-08-03
+date: 2026-09-13
+lastUpdated: 2026-09-13
 ogImage: "og-nagad-rocket-bkash-deposit-failed-checklist-optimized.webp"
 ogImageAlt: "Nagad Rocket bKash Deposit Failed Checklist visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "rocket", "troubleshooting"]

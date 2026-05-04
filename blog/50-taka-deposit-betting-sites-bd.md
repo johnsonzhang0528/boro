@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "50 Taka Deposit Betting Sites BD: low deposit site বাছাইয়ের checklist"
 description: "50 Taka Deposit Betting Sites BD নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-11
-lastUpdated: 2026-11-11
+date: 2026-05-13
+lastUpdated: 2026-05-13
 ogImage: "og-50-taka-deposit-betting-sites-bd-optimized.webp"
 ogImageAlt: "50 Taka Deposit Betting Sites BD visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "low-deposit", "50-taka"]

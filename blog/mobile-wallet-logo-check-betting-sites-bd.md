@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Mobile Wallet Logo Check on Betting Sites BD: fake logo warning"
 description: "mobile wallet logo betting sites নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-08-01
-lastUpdated: 2026-08-01
+date: 2026-09-11
+lastUpdated: 2026-09-11
 ogImage: "og-mobile-wallet-logo-check-betting-sites-bd-optimized.webp"
 ogImageAlt: "Mobile Wallet Logo Check on Betting Sites BD visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "logo", "security"]

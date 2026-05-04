@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Bangladesh Fixture Time BD: match timing আগে থেকে plan করুন"
 description: "World Cup 2026 Bangladesh Fixture Time BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-02
-lastUpdated: 2026-11-02
+date: 2026-05-23
+lastUpdated: 2026-05-23
 ogImage: "og-world-cup-2026-bangladesh-fixture-time-bd-optimized.webp"
 ogImageAlt: "World Cup 2026 Bangladesh Fixture Time BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "fixtures"]

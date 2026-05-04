@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Email OTP Not Received on BoroJeet: mail না এলে fix কী?"
 description: "Email OTP Not Received on BoroJeet সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-05-27
-lastUpdated: 2026-05-27
+date: 2026-07-07
+lastUpdated: 2026-07-07
 ogImage: "og-email-otp-not-received-borojeet-optimized.webp"
 ogImageAlt: "Email OTP Not Received on BoroJeet visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "otp", "email"]

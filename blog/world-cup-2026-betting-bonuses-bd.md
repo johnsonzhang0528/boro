@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Betting Bonuses BD: bonus claim করার আগে terms দেখুন"
 description: "world cup betting bonus নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-29
-lastUpdated: 2026-06-29
+date: 2026-06-06
+lastUpdated: 2026-06-06
 ogImage: "og-world-cup-2026-betting-bonuses-bd-optimized.webp"
 ogImageAlt: "World Cup 2026 Betting Bonuses BD visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "bonus"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Nagad Rocket Withdrawal Time BD: pending হলে কী করবেন?"
 description: "bkash nagad rocket withdrawal time নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-07-24
-lastUpdated: 2026-07-24
+date: 2026-05-19
+lastUpdated: 2026-05-19
 ogImage: "og-bkash-nagad-rocket-withdrawal-time-bd-optimized.webp"
 ogImageAlt: "bKash Nagad Rocket Withdrawal Time BD visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "rocket", "withdrawal"]

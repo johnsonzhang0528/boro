@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Nagad Deposit Pending After Successful Payment: payment success কিন্তু balance pending"
 description: "Nagad Deposit Pending After Successful Payment নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-14
-lastUpdated: 2026-11-14
+date: 2026-08-27
+lastUpdated: 2026-08-27
 ogImage: "og-nagad-deposit-pending-after-successful-payment-optimized.webp"
 ogImageAlt: "Nagad Deposit Pending After Successful Payment visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "nagad", "deposit", "pending"]

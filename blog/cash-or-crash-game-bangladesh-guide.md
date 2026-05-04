@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cash or Crash Game Bangladesh Guide: collect নাকি cashout?"
 description: "cash or crash game নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-16
-lastUpdated: 2026-08-16
+date: 2026-09-21
+lastUpdated: 2026-09-21
 ogImage: "og-cash-or-crash-game-bangladesh-guide-optimized.webp"
 ogImageAlt: "Cash or Crash Game Bangladesh Guide visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "cash-or-crash"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Game App Bangladesh Low Data: fast rounds-এ stable connection"
 description: "Crash Game App Bangladesh Low Data কীভাবে কাজ করে, cashout timing, multiplier risk, এবং bankroll control কীভাবে রাখবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-27
-lastUpdated: 2026-11-27
+date: 2026-06-27
+lastUpdated: 2026-06-27
 ogImage: "og-crash-game-app-bangladesh-low-data-optimized.webp"
 ogImageAlt: "Crash Game App Bangladesh Low Data visual for BoroJeet readers"
 tags: ["post", "crash-game", "guide", "strategy", "app", "low-data"]

@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Smart Money vs Public Money: How to Follow the Pros"
 description: "Why do odds suddenly drop moments before a match? That's the 'Smart Money'. Learn how to distinguish between public hype and professional syndicates."
-date: 2026-10-10
-lastUpdated: 2026-10-10
+date: 2026-11-30
+lastUpdated: 2026-11-30
 tags: 
   - post
   - strategy

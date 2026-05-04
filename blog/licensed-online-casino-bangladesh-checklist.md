@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Licensed Online Casino Bangladesh Checklist: license claim verify করুন"
 description: "licensed online casino bangladesh নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-09-09
-lastUpdated: 2026-09-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 ogImage: "og-licensed-online-casino-bangladesh-checklist-optimized.webp"
 ogImageAlt: "Licensed Online Casino Bangladesh Checklist visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "license", "trust"]

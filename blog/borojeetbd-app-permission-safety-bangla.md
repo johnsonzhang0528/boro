@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD App Permission Safety Bangla: কোন permission normal?"
 description: "BoroJeetBD App Permission Safety Bangla সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-23
-lastUpdated: 2026-10-23
+date: 2026-06-25
+lastUpdated: 2026-06-25
 ogImage: "og-borojeetbd-app-permission-safety-bangla-optimized.webp"
 ogImageAlt: "BoroJeetBD App Permission Safety Bangla visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "app", "permissions"]

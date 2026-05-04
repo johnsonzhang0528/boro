@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bangladesh Cricket Market Guide 2026: runs, wickets ও innings market"
 description: "Bangladesh cricket betting markets নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-08
-lastUpdated: 2026-06-08
+date: 2026-08-10
+lastUpdated: 2026-08-10
 ogImage: "og-bangladesh-cricket-market-guide-2026-optimized.webp"
 ogImageAlt: "Bangladesh Cricket Market Guide 2026 visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "markets"]

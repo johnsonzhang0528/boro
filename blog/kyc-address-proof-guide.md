@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "KYC Address Proof Guide: address proof হিসেবে কী accepted?"
 description: "KYC Address Proof Guide সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-06
-lastUpdated: 2026-10-06
+date: 2026-10-15
+lastUpdated: 2026-10-15
 ogImage: "og-kyc-address-proof-guide-optimized.webp"
 ogImageAlt: "KYC Address Proof Guide visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "kyc"]

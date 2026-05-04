@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?"
 description: "Extra Time Betting Rules Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-07-16
-lastUpdated: 2026-07-16
+date: 2026-11-11
+lastUpdated: 2026-11-11
 ogImage: "og-extra-time-betting-rules-guide-optimized.webp"
 ogImageAlt: "Extra Time Betting Rules Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "rules"]

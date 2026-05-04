@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Favorites Accumulator Risk Guide: safe combo thinking"
 description: "world cup accumulator favorites নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-03
-lastUpdated: 2026-07-03
+date: 2026-06-10
+lastUpdated: 2026-06-10
 ogImage: "og-world-cup-2026-favorites-accumulator-risk-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Favorites Accumulator Risk Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "accumulator"]

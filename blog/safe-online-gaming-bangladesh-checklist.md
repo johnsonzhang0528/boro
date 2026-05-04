@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Safe Online Gaming Bangladesh Checklist: responsible play first"
 description: "safe online gaming bangladesh নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-09-17
-lastUpdated: 2026-09-17
+date: 2026-10-12
+lastUpdated: 2026-10-12
 ogImage: "og-safe-online-gaming-bangladesh-checklist-optimized.webp"
 ogImageAlt: "Safe Online Gaming Bangladesh Checklist visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "responsible-gaming"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে"
 description: "Cricket Player Runs Market Bangladesh market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-01
-lastUpdated: 2026-11-01
+date: 2026-07-29
+lastUpdated: 2026-07-29
 ogImage: "og-cricket-player-runs-market-bangladesh-optimized.webp"
 ogImageAlt: "Cricket Player Runs Market Bangladesh visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "player-props"]

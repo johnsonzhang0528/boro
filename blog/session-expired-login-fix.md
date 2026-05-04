@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Session Expired Login Fix: বারবার logout হলে সমাধান"
 description: "Session Expired Login Fix সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-06-04
-lastUpdated: 2026-06-04
+date: 2026-07-10
+lastUpdated: 2026-07-10
 ogImage: "og-session-expired-login-fix-optimized.webp"
 ogImageAlt: "Session Expired Login Fix visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "login"]

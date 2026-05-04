@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Knockout Bracket Betting Guide: draw থেকে final"
 description: "world cup knockout betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-05
-lastUpdated: 2026-07-05
+date: 2026-06-12
+lastUpdated: 2026-06-12
 ogImage: "og-world-cup-2026-knockout-bracket-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Knockout Bracket Betting Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "knockout"]

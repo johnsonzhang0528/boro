@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crazy Time Bangla Bet Sizing Guide: low-risk stake plan"
 description: "crazy time bet sizing নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-23
-lastUpdated: 2026-08-23
+date: 2026-10-04
+lastUpdated: 2026-10-04
 ogImage: "og-crazy-time-bangla-bet-sizing-guide-optimized.webp"
 ogImageAlt: "Crazy Time Bangla Bet Sizing Guide visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "crazy-time", "bankroll"]

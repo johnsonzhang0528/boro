@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet Welcome Bonus Terms Bangla 2026: wagering আগে বুঝুন"
 description: "borojeet welcome bonus terms নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-05-21
-lastUpdated: 2026-05-21
+date: 2026-07-06
+lastUpdated: 2026-07-06
 ogImage: "og-borojeet-welcome-bonus-terms-bangla-2026-optimized.webp"
 ogImageAlt: "BoroJeet Welcome Bonus Terms Bangla 2026 visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "borojeet", "welcome-bonus"]

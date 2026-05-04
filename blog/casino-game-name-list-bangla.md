@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Game Name List Bangla: কোন game কীভাবে খেলা হয়?"
 description: "casino game name list নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-09-04
-lastUpdated: 2026-09-04
+date: 2026-10-24
+lastUpdated: 2026-10-24
 ogImage: "og-casino-game-name-list-bangla-optimized.webp"
 ogImageAlt: "Casino Game Name List Bangla visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "games-list"]

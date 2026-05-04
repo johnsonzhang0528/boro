@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Crash Game খেলার নিয়ম: multiplier, cashout ও risk"
 description: "ক্যাসিনো ক্রাশ গেম নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-17
-lastUpdated: 2026-08-17
+date: 2026-08-23
+lastUpdated: 2026-08-23
 ogImage: "og-casino-crash-game-khelar-niyom-optimized.webp"
 ogImageAlt: "Casino Crash Game খেলার নিয়ম visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "rules"]

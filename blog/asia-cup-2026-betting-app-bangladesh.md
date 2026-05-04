@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন"
 description: "Asia Cup 2026 Betting App Bangladesh market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-28
-lastUpdated: 2026-10-28
+date: 2026-07-26
+lastUpdated: 2026-07-26
 ogImage: "og-asia-cup-2026-betting-app-bangladesh-optimized.webp"
 ogImageAlt: "Asia Cup 2026 Betting App Bangladesh visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "asia-cup", "2026"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 bKash Nagad Deposit Timing: match আগে payment plan"
 description: "world cup bkash nagad deposit নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-06-30
-lastUpdated: 2026-06-30
+date: 2026-06-07
+lastUpdated: 2026-06-07
 ogImage: "og-world-cup-2026-bkash-nagad-deposit-timing-optimized.webp"
 ogImageAlt: "World Cup 2026 bKash Nagad Deposit Timing visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "payments", "bkash", "nagad"]

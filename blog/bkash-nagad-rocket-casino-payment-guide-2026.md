@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Nagad Rocket Casino Payment Guide 2026: safe deposit ও withdrawal"
 description: "bKash Nagad Rocket Casino Payment Guide 2026 নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-13
-lastUpdated: 2026-11-13
+date: 2026-05-14
+lastUpdated: 2026-05-14
 ogImage: "og-bkash-nagad-rocket-casino-payment-guide-2026-optimized.webp"
 ogImageAlt: "bKash Nagad Rocket Casino Payment Guide 2026 visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "nagad", "rocket"]

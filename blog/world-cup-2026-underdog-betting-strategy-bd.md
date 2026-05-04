@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম"
 description: "world cup underdog betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-12
-lastUpdated: 2026-07-12
+date: 2026-06-19
+lastUpdated: 2026-06-19
 ogImage: "og-world-cup-2026-underdog-betting-strategy-bd-optimized.webp"
 ogImageAlt: "World Cup 2026 Underdog Betting Strategy BD visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "underdog"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bonus Turnover Bangla Calculator 2026: wagering amount বুঝবেন কীভাবে"
 description: "Bonus Turnover Bangla Calculator 2026 claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-12-04
-lastUpdated: 2026-12-04
+date: 2026-10-27
+lastUpdated: 2026-10-27
 ogImage: "og-bonus-turnover-bangla-calculator-2026-optimized.webp"
 ogImageAlt: "Bonus Turnover Bangla Calculator 2026 visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "turnover", "calculator"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide"
 description: "সর্বনিম্ন ডিপোজিট বেটিং সাইট নিয়ে local payment guide: bKash/Nagad deposit, limits, screenshot proof, safety এবং support checklist।"
-date: 2026-08-10
-lastUpdated: 2026-08-10
+date: 2026-05-21
+lastUpdated: 2026-05-21
 ogImage: "og-low-deposit-betting-sites-bangladesh-optimized.webp"
 ogImageAlt: "সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh visual guide for Bangladesh users"
 tags: ["post", "payments", "bkash", "nagad", "guide", "low-deposit"]

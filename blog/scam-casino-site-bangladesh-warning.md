@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Scam Casino Site Bangladesh Warning: deposit করার আগে red flags"
 description: "Scam Casino Site Bangladesh Warning নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-21
-lastUpdated: 2026-11-21
+date: 2026-08-31
+lastUpdated: 2026-08-31
 ogImage: "og-scam-casino-site-bangladesh-warning-optimized.webp"
 ogImageAlt: "Scam Casino Site Bangladesh Warning visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "scam", "casino", "warning"]

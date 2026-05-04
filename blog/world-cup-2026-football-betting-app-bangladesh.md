@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Football Betting App Bangladesh: safe mobile setup"
 description: "World Cup 2026 Football Betting App Bangladesh market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-03
-lastUpdated: 2026-11-03
+date: 2026-05-23
+lastUpdated: 2026-05-23
 ogImage: "og-world-cup-2026-football-betting-app-bangladesh-optimized.webp"
 ogImageAlt: "World Cup 2026 Football Betting App Bangladesh visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "app"]

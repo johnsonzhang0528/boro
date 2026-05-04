@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Night Match BD Strategy: late kickoff betting checklist"
 description: "World Cup 2026 Night Match BD Strategy market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-08
-lastUpdated: 2026-11-08
+date: 2026-05-29
+lastUpdated: 2026-05-29
 ogImage: "og-world-cup-2026-night-match-bd-strategy-optimized.webp"
 ogImageAlt: "World Cup 2026 Night Match BD Strategy visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "night-match"]

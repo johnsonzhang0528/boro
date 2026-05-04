@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Crash Game BD Cashout Plan: auto cashout না manual?"
 description: "Aviator Crash Game BD Cashout Plan কীভাবে কাজ করে, cashout timing, multiplier risk, এবং bankroll control কীভাবে রাখবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-26
-lastUpdated: 2026-11-26
+date: 2026-08-31
+lastUpdated: 2026-08-31
 ogImage: "og-aviator-crash-game-bd-cashout-plan-optimized.webp"
 ogImageAlt: "Aviator Crash Game BD Cashout Plan visual for BoroJeet readers"
 tags: ["post", "crash-game", "guide", "strategy", "aviator", "cashout"]

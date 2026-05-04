@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bangladeshi Online Casino Game List 2026: beginners কোন category দেখবেন"
 description: "Bangladeshi Online Casino Game List 2026 rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-28
-lastUpdated: 2026-11-28
+date: 2026-10-16
+lastUpdated: 2026-10-16
 ogImage: "og-bangladeshi-online-casino-game-list-2026-optimized.webp"
 ogImageAlt: "Bangladeshi Online Casino Game List 2026 visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "casino-games", "bangladesh", "2026"]

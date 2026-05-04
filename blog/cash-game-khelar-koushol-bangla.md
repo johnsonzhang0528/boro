@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "ক্যাশ গেম খেলার কৌশল Bangla: realistic strategy ও stop-loss"
 description: "ক্যাশ গেম খেলার কৌশল নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-28
-lastUpdated: 2026-08-28
+date: 2026-10-23
+lastUpdated: 2026-10-23
 ogImage: "og-cash-game-khelar-koushol-bangla-optimized.webp"
 ogImageAlt: "ক্যাশ গেম খেলার কৌশল Bangla visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "cash-game"]

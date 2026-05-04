@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Mobile Wallet Proof Screenshot Betting BD: support-এ কী পাঠাবেন?"
 description: "mobile wallet proof screenshot নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-08-01
-lastUpdated: 2026-08-01
+date: 2026-09-12
+lastUpdated: 2026-09-12
 ogImage: "og-mobile-wallet-proof-screenshot-betting-bd-optimized.webp"
 ogImageAlt: "Mobile Wallet Proof Screenshot Betting BD visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "support", "safety"]

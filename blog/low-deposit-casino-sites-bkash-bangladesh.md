@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Low Deposit Casino Sites bKash Bangladesh: small budget payment guide"
 description: "Low Deposit Casino Sites bKash Bangladesh নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-12
-lastUpdated: 2026-11-12
+date: 2026-05-14
+lastUpdated: 2026-05-14
 ogImage: "og-low-deposit-casino-sites-bkash-bangladesh-optimized.webp"
 ogImageAlt: "Low Deposit Casino Sites bKash Bangladesh visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "low-deposit", "bkash", "casino"]

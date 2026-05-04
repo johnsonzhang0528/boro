@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Clean Sheet Market Guide: defence stats কীভাবে পড়বেন"
 description: "clean sheet betting world cup নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-01
-lastUpdated: 2026-07-01
+date: 2026-06-08
+lastUpdated: 2026-06-08
 ogImage: "og-world-cup-2026-clean-sheet-market-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Clean Sheet Market Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "clean-sheet"]

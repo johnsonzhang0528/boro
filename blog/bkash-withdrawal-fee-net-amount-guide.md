@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Withdrawal Fee Net Amount Guide: হাতে কত টাকা পাবেন"
 description: "bKash Withdrawal Fee Net Amount Guide নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-16
-lastUpdated: 2026-11-16
+date: 2026-08-29
+lastUpdated: 2026-08-29
 ogImage: "og-bkash-withdrawal-fee-net-amount-guide-optimized.webp"
 ogImageAlt: "bKash Withdrawal Fee Net Amount Guide visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "fee", "withdrawal"]

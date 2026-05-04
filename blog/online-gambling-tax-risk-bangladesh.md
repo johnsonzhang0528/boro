@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Gambling Tax Risk Bangladesh: withdrawal record রাখবেন কেন?"
 description: "online gambling tax bangladesh নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-08-05
-lastUpdated: 2026-08-05
+date: 2026-09-14
+lastUpdated: 2026-09-14
 ogImage: "og-online-gambling-tax-risk-bangladesh-optimized.webp"
 ogImageAlt: "Online Gambling Tax Risk Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "tax", "risk"]

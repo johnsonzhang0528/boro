@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan"
 description: "Cricket Powerplay Live Betting BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-31
-lastUpdated: 2026-10-31
+date: 2026-07-28
+lastUpdated: 2026-07-28
 ogImage: "og-cricket-powerplay-live-betting-bd-optimized.webp"
 ogImageAlt: "Cricket Powerplay Live Betting BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "powerplay", "live-betting"]

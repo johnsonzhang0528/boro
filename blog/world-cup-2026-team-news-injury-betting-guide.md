@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Team News Injury Betting Guide: lineup impact বুঝুন"
 description: "world cup team news betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-11
-lastUpdated: 2026-07-11
+date: 2026-06-18
+lastUpdated: 2026-06-18
 ogImage: "og-world-cup-2026-team-news-injury-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Team News Injury Betting Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "team-news"]

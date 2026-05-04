@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Game Name List Bangladesh Bangla: popular game category explained"
 description: "Casino Game Name List Bangladesh Bangla rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-29
-lastUpdated: 2026-11-29
+date: 2026-10-17
+lastUpdated: 2026-10-17
 ogImage: "og-casino-game-name-list-bangladesh-bangla-optimized.webp"
 ogImageAlt: "Casino Game Name List Bangladesh Bangla visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "casino-games", "game-list"]

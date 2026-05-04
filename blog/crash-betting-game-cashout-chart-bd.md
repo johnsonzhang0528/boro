@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Betting Game Cashout Chart BD: 1.3x, 1.5x, 2x risk map"
 description: "crash betting cashout chart নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-18
-lastUpdated: 2026-08-18
+date: 2026-09-22
+lastUpdated: 2026-09-22
 ogImage: "og-crash-betting-game-cashout-chart-bd-optimized.webp"
 ogImageAlt: "Crash Betting Game Cashout Chart BD visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "cashout"]

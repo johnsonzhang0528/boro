@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Payment Screenshot Proof bKash Nagad: support-এ কোন screenshot দেবেন"
 description: "Payment Screenshot Proof bKash Nagad নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-18
-lastUpdated: 2026-11-18
+date: 2026-08-30
+lastUpdated: 2026-08-30
 ogImage: "og-payment-screenshot-proof-bkash-nagad-optimized.webp"
 ogImageAlt: "Payment Screenshot Proof bKash Nagad visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "screenshot", "bkash", "nagad"]

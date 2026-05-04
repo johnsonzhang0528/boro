@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Payment Method Hidden After Login: Deposit Option হঠাৎ উধাও হলে"
 description: "Payment Method Hidden After Login নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-06-01
-lastUpdated: 2026-06-01
+date: 2026-05-16
+lastUpdated: 2026-05-16
 ogImage: "og-payment-method-hidden-after-login-optimized.webp"
 ogImageAlt: "Payment Method Hidden After Login visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "deposit"]

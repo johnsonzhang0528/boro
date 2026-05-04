@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়"
 description: "football odds explained নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-07-08
-lastUpdated: 2026-07-08
+date: 2026-06-15
+lastUpdated: 2026-06-15
 ogImage: "og-world-cup-2026-odds-explained-bangla-optimized.webp"
 ogImageAlt: "World Cup 2026 Odds Explained Bangla visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "odds"]

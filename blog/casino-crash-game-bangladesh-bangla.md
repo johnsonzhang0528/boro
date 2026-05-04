@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Crash Game Bangladesh Bangla: crash game কীভাবে কাজ করে"
 description: "Casino Crash Game Bangladesh Bangla কীভাবে কাজ করে, cashout timing, multiplier risk, এবং bankroll control কীভাবে রাখবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-25
-lastUpdated: 2026-11-25
+date: 2026-10-16
+lastUpdated: 2026-10-16
 ogImage: "og-casino-crash-game-bangladesh-bangla-optimized.webp"
 ogImageAlt: "Casino Crash Game Bangladesh Bangla visual for BoroJeet readers"
 tags: ["post", "crash-game", "guide", "strategy", "casino", "bangla"]

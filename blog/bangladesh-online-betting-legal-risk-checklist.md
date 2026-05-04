@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bangladesh Online Betting Legal Risk Checklist: safe decision framework"
 description: "Bangladesh Online Betting Legal Risk Checklist নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-20
-lastUpdated: 2026-11-20
+date: 2026-09-25
+lastUpdated: 2026-09-25
 ogImage: "og-bangladesh-online-betting-legal-risk-checklist-optimized.webp"
 ogImageAlt: "Bangladesh Online Betting Legal Risk Checklist visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "online-betting", "legal-risk"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Games List with Pictures BD: slot, table ও live game guide"
 description: "casino games list with pictures নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-09-05
-lastUpdated: 2026-09-05
+date: 2026-10-24
+lastUpdated: 2026-10-24
 ogImage: "og-casino-games-list-with-pictures-bd-optimized.webp"
 ogImageAlt: "Casino Games List with Pictures BD visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "games-list"]

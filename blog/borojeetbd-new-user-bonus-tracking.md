@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD New User Bonus Tracking: registration আগে না পরে?"
 description: "BoroJeetBD New User Bonus Tracking claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-10-24
-lastUpdated: 2026-10-24
+date: 2026-06-25
+lastUpdated: 2026-06-25
 ogImage: "og-borojeetbd-new-user-bonus-tracking-optimized.webp"
 ogImageAlt: "BoroJeetBD New User Bonus Tracking visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "borojeetbd", "registration"]

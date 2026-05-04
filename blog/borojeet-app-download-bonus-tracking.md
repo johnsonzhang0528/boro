@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet App Download Bonus Tracking: register first কেন জরুরি?"
 description: "borojeet app bonus নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-16
-lastUpdated: 2026-05-16
+date: 2026-05-11
+lastUpdated: 2026-05-11
 ogImage: "og-borojeet-app-download-bonus-tracking-optimized.webp"
 ogImageAlt: "BoroJeet App Download Bonus Tracking visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "bonus", "download"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting Site Bangladesh bKash Nagad: payment-ready checklist"
 description: "Cricket Betting Site Bangladesh bKash Nagad market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-26
-lastUpdated: 2026-10-26
+date: 2026-07-24
+lastUpdated: 2026-07-24
 ogImage: "og-cricket-betting-site-bangladesh-bkash-nagad-optimized.webp"
 ogImageAlt: "Cricket Betting Site Bangladesh bKash Nagad visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "payments", "bkash", "nagad"]

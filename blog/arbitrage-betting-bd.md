@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Arbitrage Betting in Bangladesh: Is it Possible?"
 description: "Can you guarantee a profit by betting on all outcomes? We explain 'Arbing', if it works in Bangladesh, and the risks involved."
-date: 2026-09-29
-lastUpdated: 2026-09-29
+date: 2026-11-24
+lastUpdated: 2026-11-24
 tags: 
   - post
   - arbitrage

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket বাজি করার নিয়ম Bangla: beginner rules explained"
 description: "cricket বাজি করার নিয়ম নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-13
-lastUpdated: 2026-06-13
+date: 2026-08-15
+lastUpdated: 2026-08-15
 ogImage: "og-cricket-baji-korar-niyom-bangla-optimized.webp"
 ogImageAlt: "Cricket বাজি করার নিয়ম Bangla visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "beginner", "rules"]

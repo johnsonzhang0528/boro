@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "সেরা Cricket Betting Site in Bangladesh: কোন criteria দেখবেন?"
 description: "সেরা ক্রিকেট betting site in bangladesh নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-22
-lastUpdated: 2026-06-22
+date: 2026-08-22
+lastUpdated: 2026-08-22
 ogImage: "og-sera-cricket-betting-site-bangladesh-optimized.webp"
 ogImageAlt: "সেরা Cricket Betting Site in Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "sites", "comparison"]

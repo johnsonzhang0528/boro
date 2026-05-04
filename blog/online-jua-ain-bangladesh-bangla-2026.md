@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Jua Ain Bangladesh Bangla 2026: অনলাইন জুয়া আইন সহজ ভাষায়"
 description: "Online Jua Ain Bangladesh Bangla 2026 নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-19
-lastUpdated: 2026-11-19
+date: 2026-09-24
+lastUpdated: 2026-09-24
 ogImage: "og-online-jua-ain-bangladesh-bangla-2026-optimized.webp"
 ogImageAlt: "Online Jua Ain Bangladesh Bangla 2026 visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "online-jua", "law", "bangla"]

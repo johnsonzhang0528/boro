@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts"
 description: "world cup mobile betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-07
-lastUpdated: 2026-07-07
+date: 2026-06-14
+lastUpdated: 2026-06-14
 ogImage: "og-world-cup-2026-mobile-betting-checklist-bd-optimized.webp"
 ogImageAlt: "World Cup 2026 Mobile Betting Checklist BD visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "mobile", "apps"]

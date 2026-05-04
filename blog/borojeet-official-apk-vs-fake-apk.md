@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet Official APK vs Fake APK: কীভাবে চিনবেন?"
 description: "borojeet official apk নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-19
-lastUpdated: 2026-05-19
+date: 2026-05-12
+lastUpdated: 2026-05-12
 ogImage: "og-borojeet-official-apk-vs-fake-apk-optimized.webp"
 ogImageAlt: "BoroJeet Official APK vs Fake APK visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "security", "scam-alert"]

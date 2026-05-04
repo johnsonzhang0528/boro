@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Durga Puja Betting Bonus Bangladesh 2026: October promo checklist"
 description: "durga puja betting bonus নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-09-24
-lastUpdated: 2026-09-24
+date: 2026-09-23
+lastUpdated: 2026-09-23
 ogImage: "og-durga-puja-betting-bonus-bangladesh-2026-optimized.webp"
 ogImageAlt: "Durga Puja Betting Bonus Bangladesh 2026 visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "durga-puja", "seasonal"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet App Low Storage Install Fix: space কম থাকলে solution"
 description: "borojeet app install problem নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-17
-lastUpdated: 2026-05-17
+date: 2026-07-03
+lastUpdated: 2026-07-03
 ogImage: "og-borojeet-app-low-storage-install-fix-optimized.webp"
 ogImageAlt: "BoroJeet App Low Storage Install Fix visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "install", "troubleshooting"]

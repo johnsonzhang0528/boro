@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Tax Risk Online Gambling Bangladesh 2026: payout record কেন রাখবেন"
 description: "Tax Risk Online Gambling Bangladesh 2026 নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-24
-lastUpdated: 2026-11-24
+date: 2026-09-28
+lastUpdated: 2026-09-28
 ogImage: "og-tax-risk-online-gambling-bangladesh-2026-optimized.webp"
 ogImageAlt: "Tax Risk Online Gambling Bangladesh 2026 visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "tax-risk", "records"]

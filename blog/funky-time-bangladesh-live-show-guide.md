@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained"
 description: "funky time bangladesh নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-25
-lastUpdated: 2026-08-25
+date: 2026-08-24
+lastUpdated: 2026-08-24
 ogImage: "og-funky-time-bangladesh-live-show-guide-optimized.webp"
 ogImageAlt: "Funky Time Bangladesh Live Show Guide visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "funky-time"]

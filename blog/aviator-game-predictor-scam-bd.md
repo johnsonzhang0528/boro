@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Game Predictor Scam BD: predictor app সত্যি নাকি ফাঁদ?"
 description: "aviator predictor app নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-14
-lastUpdated: 2026-08-14
+date: 2026-07-16
+lastUpdated: 2026-07-16
 ogImage: "og-aviator-game-predictor-scam-bd-optimized.webp"
 ogImageAlt: "Aviator Game Predictor Scam BD visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "scam-alert"]

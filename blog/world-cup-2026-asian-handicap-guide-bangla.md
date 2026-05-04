@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Asian Handicap Guide Bangla: line বুঝুন সহজে"
 description: "world cup asian handicap নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-06-26
-lastUpdated: 2026-06-26
+date: 2026-06-03
+lastUpdated: 2026-06-03
 ogImage: "og-world-cup-2026-asian-handicap-guide-bangla-optimized.webp"
 ogImageAlt: "World Cup 2026 Asian Handicap Guide Bangla visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "asian-handicap"]

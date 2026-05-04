@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে"
 description: "borojeet apk update নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-15
-lastUpdated: 2026-05-15
+date: 2026-07-01
+lastUpdated: 2026-07-01
 ogImage: "og-borojeet-apk-update-checklist-2026-optimized.webp"
 ogImageAlt: "BoroJeet APK Update Checklist 2026 visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "update"]

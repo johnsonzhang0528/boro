@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Gambling in Bangladesh 2026 Law: risk ও reality explained"
 description: "Online Gambling in Bangladesh 2026 Law নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-19
-lastUpdated: 2026-11-19
+date: 2026-09-24
+lastUpdated: 2026-09-24
 ogImage: "og-online-gambling-in-bangladesh-2026-law-optimized.webp"
 ogImageAlt: "Online Gambling in Bangladesh 2026 Law visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "online-gambling", "law", "bangladesh"]

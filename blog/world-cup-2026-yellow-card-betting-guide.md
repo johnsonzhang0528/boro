@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Yellow Card Betting Guide: referee trend ও risk"
 description: "yellow card betting world cup নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-13
-lastUpdated: 2026-07-13
+date: 2026-06-20
+lastUpdated: 2026-06-20
 ogImage: "og-world-cup-2026-yellow-card-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Yellow Card Betting Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "cards"]

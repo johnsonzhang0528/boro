@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Nagad Deposit Limit Betting BD: limit বুঝে deposit plan"
 description: "bKash Nagad Deposit Limit Betting BD নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-16
-lastUpdated: 2026-11-16
+date: 2026-05-15
+lastUpdated: 2026-05-15
 ogImage: "og-bkash-nagad-deposit-limit-betting-bd-optimized.webp"
 ogImageAlt: "bKash Nagad Deposit Limit Betting BD visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "nagad", "deposit-limit"]

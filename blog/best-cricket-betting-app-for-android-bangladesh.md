@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?"
 description: "best cricket betting app নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-06
-lastUpdated: 2026-05-06
+date: 2026-07-31
+lastUpdated: 2026-07-31
 ogImage: "og-best-cricket-betting-app-for-android-bangladesh-optimized.webp"
 ogImageAlt: "Best Cricket Betting App for Android Bangladesh visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "android", "comparison"]

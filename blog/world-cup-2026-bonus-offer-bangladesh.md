@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Bonus Offer Bangladesh: promo claim করার আগে terms দেখুন"
 description: "World Cup 2026 Bonus Offer Bangladesh claim, terms, turnover impact এবং common errors সম্পর্কে Bengali dominant explanation এখানে পাবেন।"
-date: 2026-11-11
-lastUpdated: 2026-11-11
+date: 2026-05-31
+lastUpdated: 2026-05-31
 ogImage: "og-world-cup-2026-bonus-offer-bangladesh-optimized.webp"
 ogImageAlt: "World Cup 2026 Bonus Offer Bangladesh visual for BoroJeet readers"
 tags: ["post", "bonus", "guide", "borojeet", "world-cup-2026", "football"]

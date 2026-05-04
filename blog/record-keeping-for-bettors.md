@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking"
 description: "If you don't measure it, you can't improve it. Learn why every professional bettor keeps a spreadsheet and what columns you need."
-date: 2026-10-16
-lastUpdated: 2026-10-16
+date: 2026-12-05
+lastUpdated: 2026-12-05
 tags: 
   - post
   - advice

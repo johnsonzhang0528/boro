@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Over-by-Over Betting Bangladesh: live over market guide"
 description: "over by over cricket betting নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-12
-lastUpdated: 2026-06-12
+date: 2026-08-14
+lastUpdated: 2026-08-14
 ogImage: "og-cricket-over-by-over-betting-bangladesh-optimized.webp"
 ogImageAlt: "Cricket Over-by-Over Betting Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "live-betting", "markets"]

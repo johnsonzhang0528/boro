@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cash Game Khelar Koushol Bangladesh 2026: safe session plan"
 description: "Cash Game Khelar Koushol Bangladesh 2026 কীভাবে কাজ করে, cashout timing, multiplier risk, এবং bankroll control কীভাবে রাখবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-26
-lastUpdated: 2026-11-26
+date: 2026-09-29
+lastUpdated: 2026-09-29
 ogImage: "og-cash-game-khelar-koushol-bangladesh-2026-optimized.webp"
 ogImageAlt: "Cash Game Khelar Koushol Bangladesh 2026 visual for BoroJeet readers"
 tags: ["post", "crash-game", "guide", "strategy", "cash-game", "bangla"]

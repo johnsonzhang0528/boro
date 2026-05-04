@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Quarter Final Betting Strategy: knockout match plan"
 description: "world cup quarter final betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-07-11
-lastUpdated: 2026-07-11
+date: 2026-06-18
+lastUpdated: 2026-06-18
 ogImage: "og-world-cup-2026-quarter-final-betting-strategy-optimized.webp"
 ogImageAlt: "World Cup 2026 Quarter Final Betting Strategy visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "knockout"]

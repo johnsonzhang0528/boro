@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist"
 description: "legal online casino bangladesh নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-09-09
-lastUpdated: 2026-09-09
+date: 2026-10-09
+lastUpdated: 2026-10-09
 ogImage: "og-legal-online-casino-bangladesh-guide-optimized.webp"
 ogImageAlt: "Legal Online Casino Bangladesh Guide visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "legal"]

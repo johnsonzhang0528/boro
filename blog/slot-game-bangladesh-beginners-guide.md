@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins"
 description: "slot game bangladesh নিয়ে Bangladesh-focused guide: game types, legal risk, payment safety, RTP basics এবং responsible play checklist।"
-date: 2026-09-18
-lastUpdated: 2026-09-18
+date: 2026-11-20
+lastUpdated: 2026-11-20
 ogImage: "og-slot-game-bangladesh-beginners-guide-optimized.webp"
 ogImageAlt: "Slot Game Bangladesh Beginners Guide visual guide for Bangladesh users"
 tags: ["post", "casino", "online-casino", "guide", "slots", "beginner"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Rocket Nagad Logo Safe Check: fake logo ও payment scam এড়ান"
 description: "bKash Rocket Nagad Logo Safe Check নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-12
-lastUpdated: 2026-11-12
+date: 2026-05-13
+lastUpdated: 2026-05-13
 ogImage: "og-bkash-rocket-nagad-logo-safe-check-optimized.webp"
 ogImageAlt: "bKash Rocket Nagad Logo Safe Check visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "bkash", "nagad", "rocket", "logo"]

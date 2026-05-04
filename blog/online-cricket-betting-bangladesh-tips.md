@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Cricket Betting Bangladesh Tips: data দেখে decision নিন"
 description: "online cricket betting bangladesh tips নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-14
-lastUpdated: 2026-06-14
+date: 2026-08-16
+lastUpdated: 2026-08-16
 ogImage: "og-online-cricket-betting-bangladesh-tips-optimized.webp"
 ogImageAlt: "Online Cricket Betting Bangladesh Tips visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "tips"]

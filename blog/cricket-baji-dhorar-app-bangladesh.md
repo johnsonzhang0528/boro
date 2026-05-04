@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide"
 description: "ক্রিকেট বাজি ধরার অ্যাপ নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-22
-lastUpdated: 2026-06-22
+date: 2026-08-22
+lastUpdated: 2026-08-22
 ogImage: "og-cricket-baji-dhorar-app-bangladesh-optimized.webp"
 ogImageAlt: "ক্রিকেট বাজি ধরার অ্যাপ Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "bengali-intent"]

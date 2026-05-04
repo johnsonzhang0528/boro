@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Rocket Withdrawal Fee Net Amount Guide: payout থেকে fee বাদ দিলে কত"
 description: "Rocket Withdrawal Fee Net Amount Guide নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-17
-lastUpdated: 2026-11-17
+date: 2026-08-30
+lastUpdated: 2026-08-30
 ogImage: "og-rocket-withdrawal-fee-net-amount-guide-optimized.webp"
 ogImageAlt: "Rocket Withdrawal Fee Net Amount Guide visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "rocket", "fee", "withdrawal"]

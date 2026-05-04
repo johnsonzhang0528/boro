@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন"
 description: "Cricket Toss Pitch Report Betting BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-31
-lastUpdated: 2026-10-31
+date: 2026-07-29
+lastUpdated: 2026-07-29
 ogImage: "og-cricket-toss-pitch-report-betting-bd-optimized.webp"
 ogImageAlt: "Cricket Toss Pitch Report Betting BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "toss", "pitch"]

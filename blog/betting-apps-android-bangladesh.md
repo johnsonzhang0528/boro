@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?"
 description: "betting apps android নিয়ে Bangladesh user guide: Android APK, safe login, payment methods, app speed এবং trust signals compare করুন।"
-date: 2026-09-30
-lastUpdated: 2026-09-30
+date: 2026-07-18
+lastUpdated: 2026-07-18
 ogImage: "og-betting-apps-android-bangladesh-optimized.webp"
 ogImageAlt: "Betting Apps Android Bangladesh visual guide for Bangladesh users"
 tags: ["post", "betting-apps", "android", "guide"]

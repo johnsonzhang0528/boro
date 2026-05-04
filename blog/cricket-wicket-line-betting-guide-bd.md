@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Wicket Line Betting Guide BD: bowler wicket market analysis"
 description: "Cricket Wicket Line Betting Guide BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-01
-lastUpdated: 2026-11-01
+date: 2026-07-30
+lastUpdated: 2026-07-30
 ogImage: "og-cricket-wicket-line-betting-guide-bd-optimized.webp"
 ogImageAlt: "Cricket Wicket Line Betting Guide BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "wicket", "props"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম"
 description: "Cricket Session Betting Bangla Strategy 2026 market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-30
-lastUpdated: 2026-10-30
+date: 2026-07-27
+lastUpdated: 2026-07-27
 ogImage: "og-cricket-session-betting-bangla-strategy-2026-optimized.webp"
 ogImageAlt: "Cricket Session Betting Bangla Strategy 2026 visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "session-betting"]

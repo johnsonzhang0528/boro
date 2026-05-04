@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Nagad Online Casino Bangladesh Guide: deposit, cashout ও limits"
 description: "best nagad online casino নিয়ে local payment guide: bKash/Nagad deposit, limits, screenshot proof, safety এবং support checklist।"
-date: 2026-08-03
-lastUpdated: 2026-08-03
+date: 2026-05-20
+lastUpdated: 2026-05-20
 ogImage: "og-nagad-online-casino-guide-bangladesh-optimized.webp"
 ogImageAlt: "Nagad Online Casino Bangladesh Guide visual guide for Bangladesh users"
 tags: ["post", "payments", "bkash", "nagad", "guide", "casino"]

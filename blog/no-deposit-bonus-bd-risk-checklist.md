@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "No Deposit Bonus BD Risk Checklist: free bonus সত্যি free?"
 description: "no deposit bonus bd নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-08-04
-lastUpdated: 2026-08-04
+date: 2026-09-13
+lastUpdated: 2026-09-13
 ogImage: "og-no-deposit-bonus-bd-risk-checklist-optimized.webp"
 ogImageAlt: "No Deposit Bonus BD Risk Checklist visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "no-deposit"]

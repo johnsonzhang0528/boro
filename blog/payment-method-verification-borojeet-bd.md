@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Payment Method Verification BoroJeet BD: wallet name, number ও KYC"
 description: "borojeet payment verification নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-06-01
-lastUpdated: 2026-06-01
+date: 2026-05-17
+lastUpdated: 2026-05-17
 ogImage: "og-payment-method-verification-borojeet-bd-optimized.webp"
 ogImageAlt: "Payment Method Verification BoroJeet BD visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "borojeet", "verification"]

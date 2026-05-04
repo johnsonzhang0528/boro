@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD Login OTP Delay Fix: OTP দেরি হলে সমাধান"
 description: "BoroJeetBD Login OTP Delay Fix সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-19
-lastUpdated: 2026-10-19
+date: 2026-06-22
+lastUpdated: 2026-06-22
 ogImage: "og-borojeetbd-login-otp-delay-fix-optimized.webp"
 ogImageAlt: "BoroJeetBD Login OTP Delay Fix visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "otp", "login"]

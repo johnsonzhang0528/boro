@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Nagad Deposit Limit Online Gaming BD: daily limit ও pending risk"
 description: "nagad deposit limit online gaming নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-08-02
-lastUpdated: 2026-08-02
+date: 2026-05-20
+lastUpdated: 2026-05-20
 ogImage: "og-nagad-deposit-limit-online-gaming-bd-optimized.webp"
 ogImageAlt: "Nagad Deposit Limit Online Gaming BD visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "limits"]

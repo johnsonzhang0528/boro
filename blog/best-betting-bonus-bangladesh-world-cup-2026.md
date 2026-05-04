@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন"
 description: "world cup betting bonus bangladesh নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-06-24
-lastUpdated: 2026-06-24
+date: 2026-06-01
+lastUpdated: 2026-06-01
 ogImage: "og-best-betting-bonus-bangladesh-world-cup-2026-optimized.webp"
 ogImageAlt: "Best Betting Bonus Bangladesh World Cup 2026 visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "world-cup"]

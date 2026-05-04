@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Deposit Minimum Maximum Betting Guide: limit আগে জানুন"
 description: "bkash deposit minimum maximum betting নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-07-24
-lastUpdated: 2026-07-24
+date: 2026-05-18
+lastUpdated: 2026-05-18
 ogImage: "og-bkash-deposit-minimum-maximum-betting-guide-optimized.webp"
 ogImageAlt: "bKash Deposit Minimum Maximum Betting Guide visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "limits"]

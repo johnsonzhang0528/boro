@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Eid Bonus Betting Bangladesh 2026: claim করার আগে terms পড়ুন"
 description: "eid betting bonus bangladesh নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-09-24
-lastUpdated: 2026-09-24
+date: 2026-05-05
+lastUpdated: 2026-05-05
 ogImage: "og-eid-bonus-betting-bangladesh-2026-optimized.webp"
 ogImageAlt: "Eid Bonus Betting Bangladesh 2026 visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "eid", "seasonal"]

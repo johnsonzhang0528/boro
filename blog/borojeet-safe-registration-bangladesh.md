@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet Safe Registration Bangladesh: account খোলার আগে checklist"
 description: "borojeet registration নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-20
-lastUpdated: 2026-05-20
+date: 2026-07-04
+lastUpdated: 2026-07-04
 ogImage: "og-borojeet-safe-registration-bangladesh-optimized.webp"
 ogImageAlt: "BoroJeet Safe Registration Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "registration", "kyc"]

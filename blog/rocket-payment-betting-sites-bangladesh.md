@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Rocket Payment Betting Sites Bangladesh: supported হলে কী check করবেন?"
 description: "rocket payment betting sites নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-08-07
-lastUpdated: 2026-08-07
+date: 2026-09-17
+lastUpdated: 2026-09-17
 ogImage: "og-rocket-payment-betting-sites-bangladesh-optimized.webp"
 ogImageAlt: "Rocket Payment Betting Sites Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "rocket"]

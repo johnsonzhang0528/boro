@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Account Under Review: কতক্ষণ লাগে এবং কী প্রস্তুত রাখবেন?"
 description: "Account Under Review সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-09-28
-lastUpdated: 2026-09-28
+date: 2026-11-23
+lastUpdated: 2026-11-23
 ogImage: "og-account-under-review-how-long-optimized.webp"
 ogImageAlt: "Account Under Review visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "review"]

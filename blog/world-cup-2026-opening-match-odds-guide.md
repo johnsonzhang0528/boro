@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Opening Match Odds Guide: first game market explained"
 description: "world cup opening match odds নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-08
-lastUpdated: 2026-07-08
+date: 2026-06-15
+lastUpdated: 2026-06-15
 ogImage: "og-world-cup-2026-opening-match-odds-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Opening Match Odds Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "odds", "opening-match"]

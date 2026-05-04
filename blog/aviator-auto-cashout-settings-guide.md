@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Auto Cashout Settings Guide: low-risk multiplier plan"
 description: "aviator auto cashout নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-12
-lastUpdated: 2026-08-12
+date: 2026-08-23
+lastUpdated: 2026-08-23
 ogImage: "og-aviator-auto-cashout-settings-guide-optimized.webp"
 ogImageAlt: "Aviator Auto Cashout Settings Guide visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "auto-cashout"]

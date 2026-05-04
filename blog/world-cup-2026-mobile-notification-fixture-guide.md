@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Mobile Notification Fixture Guide: match alert setup"
 description: "World Cup 2026 Mobile Notification Fixture Guide সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-11-07
-lastUpdated: 2026-11-07
+date: 2026-05-28
+lastUpdated: 2026-05-28
 ogImage: "og-world-cup-2026-mobile-notification-fixture-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Mobile Notification Fixture Guide visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "world-cup-2026", "notifications", "app"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Game Mobile Data Saving Guide: slow internet-এ smooth play"
 description: "crash game mobile data নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-20
-lastUpdated: 2026-08-20
+date: 2026-10-20
+lastUpdated: 2026-10-20
 ogImage: "og-crash-game-mobile-data-saving-guide-optimized.webp"
 ogImageAlt: "Crash Game Mobile Data Saving Guide visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "mobile", "performance"]

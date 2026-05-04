@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD Account Location Alert BD: location mismatch কেন আসে?"
 description: "BoroJeetBD Account Location Alert BD সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-20
-lastUpdated: 2026-10-20
+date: 2026-06-22
+lastUpdated: 2026-06-22
 ogImage: "og-borojeetbd-account-location-alert-bd-optimized.webp"
 ogImageAlt: "BoroJeetBD Account Location Alert BD visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "login"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Rocket Deposit Wrong Reference Fix: reference ভুল হলে কী করবেন"
 description: "Rocket Deposit Wrong Reference Fix নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-14
-lastUpdated: 2026-11-14
+date: 2026-08-28
+lastUpdated: 2026-08-28
 ogImage: "og-rocket-deposit-wrong-reference-fix-optimized.webp"
 ogImageAlt: "Rocket Deposit Wrong Reference Fix visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "rocket", "deposit", "reference"]

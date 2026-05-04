@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Live Casino Bangladesh Mobile Guide: low latency ও safe play checklist"
 description: "Live Casino Bangladesh Mobile Guide rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-30
-lastUpdated: 2026-11-30
+date: 2026-09-30
+lastUpdated: 2026-09-30
 ogImage: "og-live-casino-bangladesh-mobile-guide-optimized.webp"
 ogImageAlt: "Live Casino Bangladesh Mobile Guide visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "mobile"]

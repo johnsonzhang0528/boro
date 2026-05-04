@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD Register First App Install: bonus tracking হারাবেন না"
 description: "BoroJeetBD Register First App Install সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-18
-lastUpdated: 2026-10-18
+date: 2026-06-21
+lastUpdated: 2026-06-21
 ogImage: "og-borojeetbd-register-first-app-install-optimized.webp"
 ogImageAlt: "BoroJeetBD Register First App Install visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "registration", "app"]

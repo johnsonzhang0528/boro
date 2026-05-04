@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Betting App Bangladesh Guide: app, cashout ও safety"
 description: "aviator betting app bangladesh নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-12
-lastUpdated: 2026-08-12
+date: 2026-07-16
+lastUpdated: 2026-07-16
 ogImage: "og-aviator-betting-app-bangladesh-guide-optimized.webp"
 ogImageAlt: "Aviator Betting App Bangladesh Guide visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "aviator", "apps"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting App Bangla Review: speed, market ও payment compare"
 description: "cricket betting app bangla নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-10
-lastUpdated: 2026-06-10
+date: 2026-08-12
+lastUpdated: 2026-08-12
 ogImage: "og-cricket-betting-app-bangla-review-optimized.webp"
 ogImageAlt: "Cricket Betting App Bangla Review visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "review", "apps"]

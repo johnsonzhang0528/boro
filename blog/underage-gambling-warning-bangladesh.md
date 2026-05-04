@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Underage Gambling Warning Bangladesh: age rule ও account safety"
 description: "Underage Gambling Warning Bangladesh নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-23
-lastUpdated: 2026-11-23
+date: 2026-09-27
+lastUpdated: 2026-09-27
 ogImage: "og-underage-gambling-warning-bangladesh-optimized.webp"
 ogImageAlt: "Underage Gambling Warning Bangladesh visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "underage", "policy"]

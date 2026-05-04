@@ -3,8 +3,8 @@ layout: post.njk
 lang: bn-BD
 title: "Boro Jeet vs Glory Casino: Who Pays Faster? | টাকা উত্তোলনের গতি"
 description: "Review of withdrawal speeds: Boro Jeet vs Glory Casino. We tested bKash and Nagad cashouts to see which online casino in Bangladesh pays out instantly."
-date: 2026-05-11
-lastUpdated: 2026-05-11
+date: 2026-09-03
+lastUpdated: 2026-09-03
 ogImage: boro-vs-glory-hero-optimized.webp
 ogImageAlt: "Boro Jeet vs Glory Casino Withdrawal Speed Comparison"
 tags: [post, comparison, review, competitors, withdrawal]

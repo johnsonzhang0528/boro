@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bangladesh Online Gambling Risk Checklist: legal, payment ও scam"
 description: "bangladesh online gambling নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-07-21
-lastUpdated: 2026-07-21
+date: 2026-09-05
+lastUpdated: 2026-09-05
 ogImage: "og-bangladesh-online-gambling-risk-checklist-optimized.webp"
 ogImageAlt: "Bangladesh Online Gambling Risk Checklist visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "risk", "checklist"]

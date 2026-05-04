@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Bet Builder Bangla Guide: same match combo safe way"
 description: "World Cup 2026 Bet Builder Bangla Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-07
-lastUpdated: 2026-11-07
+date: 2026-05-27
+lastUpdated: 2026-05-27
 ogImage: "og-world-cup-2026-bet-builder-bangla-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Bet Builder Bangla Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "bet-builder"]

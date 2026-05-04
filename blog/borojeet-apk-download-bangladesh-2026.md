@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeet APK Download Bangladesh 2026: safe install checklist"
 description: "borojeet apk নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"
-date: 2026-05-14
-lastUpdated: 2026-05-14
+date: 2026-05-11
+lastUpdated: 2026-05-11
 ogImage: "og-borojeet-apk-download-bangladesh-2026-optimized.webp"
 ogImageAlt: "BoroJeet APK Download Bangladesh 2026 visual guide for Bangladesh readers"
 tags: ["post", "borojeet", "app", "apk", "guide", "download", "security"]

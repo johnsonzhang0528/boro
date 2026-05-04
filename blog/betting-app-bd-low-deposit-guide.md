@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Betting App BD Low Deposit Guide: ছোট বাজেটে safe start"
 description: "bd betting app নিয়ে Bangladesh user guide: Android APK, safe login, payment methods, app speed এবং trust signals compare করুন।"
-date: 2026-07-22
-lastUpdated: 2026-07-22
+date: 2026-05-18
+lastUpdated: 2026-05-18
 ogImage: "og-betting-app-bd-low-deposit-guide-optimized.webp"
 ogImageAlt: "Betting App BD Low Deposit Guide visual guide for Bangladesh users"
 tags: ["post", "betting-apps", "android", "guide", "low-deposit"]

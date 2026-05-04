@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Final Week Betting Plan BD: semi-final থেকে final পর্যন্ত"
 description: "World Cup 2026 Final Week Betting Plan BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-08
-lastUpdated: 2026-11-08
+date: 2026-05-28
+lastUpdated: 2026-05-28
 ogImage: "og-world-cup-2026-final-week-betting-plan-bd-optimized.webp"
 ogImageAlt: "World Cup 2026 Final Week Betting Plan BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "final"]

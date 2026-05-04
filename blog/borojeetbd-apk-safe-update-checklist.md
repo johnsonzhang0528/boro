@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD APK Safe Update Checklist: update করার আগে কী দেখবেন"
 description: "BoroJeetBD APK Safe Update Checklist সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-19
-lastUpdated: 2026-10-19
+date: 2026-05-06
+lastUpdated: 2026-05-06
 ogImage: "og-borojeetbd-apk-safe-update-checklist-optimized.webp"
 ogImageAlt: "BoroJeetBD APK Safe Update Checklist visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "apk"]

@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Bankroll Growth Strategy: From 1000 BDT to 1 Lakh"
 description: "Stop trying to get rich overnight. Follow this consistent, mathematical plan to grow a small bankroll into a fortune using compound interest."
-date: 2026-09-29
-lastUpdated: 2026-09-29
+date: 2026-11-25
+lastUpdated: 2026-11-25
 tags: 
   - post
   - strategy

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "KYC AML Online Gaming Bangladesh: verification কেন চাওয়া হয়"
 description: "KYC AML Online Gaming Bangladesh নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-22
-lastUpdated: 2026-11-22
+date: 2026-09-26
+lastUpdated: 2026-09-26
 ogImage: "og-kyc-aml-online-gaming-bangladesh-optimized.webp"
 ogImageAlt: "KYC AML Online Gaming Bangladesh visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "kyc", "aml", "compliance"]

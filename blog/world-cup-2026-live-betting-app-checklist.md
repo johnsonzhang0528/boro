@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Live Betting App Checklist: live match-এর আগে setup"
 description: "World Cup 2026 Live Betting App Checklist market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-04
-lastUpdated: 2026-11-04
+date: 2026-05-25
+lastUpdated: 2026-05-25
 ogImage: "og-world-cup-2026-live-betting-app-checklist-optimized.webp"
 ogImageAlt: "World Cup 2026 Live Betting App Checklist visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "live-betting"]

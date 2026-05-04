@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন"
 description: "world cup bet builder নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-28
-lastUpdated: 2026-06-28
+date: 2026-06-05
+lastUpdated: 2026-06-05
 ogImage: "og-world-cup-2026-bet-builder-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Bet Builder Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "bet-builder"]

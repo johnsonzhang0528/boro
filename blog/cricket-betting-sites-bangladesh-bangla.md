@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting Sites Bangladesh Bangla Guide: site বাছার checklist"
 description: "betting sites in bangladesh cricket নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-11
-lastUpdated: 2026-06-11
+date: 2026-08-13
+lastUpdated: 2026-08-13
 ogImage: "og-cricket-betting-sites-bangladesh-bangla-optimized.webp"
 ogImageAlt: "Cricket Betting Sites Bangladesh Bangla Guide visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "sites", "comparison"]

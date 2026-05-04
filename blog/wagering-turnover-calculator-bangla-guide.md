@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Wagering Turnover Calculator Bangla Guide: কত খেলতে হবে?"
 description: "wagering turnover calculator নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-09-27
-lastUpdated: 2026-09-27
+date: 2026-11-05
+lastUpdated: 2026-11-05
 ogImage: "og-wagering-turnover-calculator-bangla-guide-optimized.webp"
 ogImageAlt: "Wagering Turnover Calculator Bangla Guide visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "turnover"]

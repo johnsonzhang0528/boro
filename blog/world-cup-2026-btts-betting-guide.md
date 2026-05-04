@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 BTTS Betting Guide: both teams to score market"
 description: "world cup btts betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-30
-lastUpdated: 2026-06-30
+date: 2026-06-07
+lastUpdated: 2026-06-07
 ogImage: "og-world-cup-2026-btts-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 BTTS Betting Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "btts"]

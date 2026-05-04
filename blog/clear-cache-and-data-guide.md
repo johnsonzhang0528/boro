@@ -2,8 +2,8 @@
 layout: post.njk
 title: "App Crashing? How to Clear Cache and Data"
 description: "Is the Boro Jeet app freezing or crashing? You probably have corrupted cache files. Here is the step-by-step fix for Android users."
-date: 2026-08-11
-lastUpdated: 2026-08-11
+date: 2026-07-15
+lastUpdated: 2026-07-15
 tags: 
   - post
   - troubleshooting

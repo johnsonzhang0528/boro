@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Game App BD Guide: mobile-এ crash game খেলার নিয়ম"
 description: "crash game app নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-19
-lastUpdated: 2026-08-19
+date: 2026-07-17
+lastUpdated: 2026-07-17
 ogImage: "og-crash-game-app-bd-guide-optimized.webp"
 ogImageAlt: "Crash Game App BD Guide visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "apps"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Online Casino Games Bangladesh Bangla 2026: slots, live, crash overview"
 description: "Online Casino Games Bangladesh Bangla 2026 rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-28
-lastUpdated: 2026-11-28
+date: 2026-10-17
+lastUpdated: 2026-10-17
 ogImage: "og-online-casino-games-bangladesh-bangla-2026-optimized.webp"
 ogImageAlt: "Online Casino Games Bangladesh Bangla 2026 visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "casino-games", "bangla", "2026"]

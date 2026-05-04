@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম"
 description: "match winner betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-07-06
-lastUpdated: 2026-07-06
+date: 2026-06-13
+lastUpdated: 2026-06-13
 ogImage: "og-world-cup-2026-match-winner-market-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Match Winner Market Guide visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "match-winner"]

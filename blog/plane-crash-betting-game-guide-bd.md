@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Plane Crash Betting Game Guide BD: plane game কীভাবে কাজ করে?"
 description: "plane crash betting game নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-27
-lastUpdated: 2026-08-27
+date: 2026-10-22
+lastUpdated: 2026-10-22
 ogImage: "og-plane-crash-betting-game-guide-bd-optimized.webp"
 ogImageAlt: "Plane Crash Betting Game Guide BD visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "plane-game"]

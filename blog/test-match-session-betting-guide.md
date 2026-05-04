@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Test Match Session Betting Guide: session বাজারে value খোঁজার নিয়ম"
 description: "Test Match Session Betting Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-18
-lastUpdated: 2026-06-18
+date: 2026-11-07
+lastUpdated: 2026-11-07
 ogImage: "og-test-match-session-betting-guide-optimized.webp"
 ogImageAlt: "Test Match Session Betting Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "session-betting"]

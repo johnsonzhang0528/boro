@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Crash Game Bangladesh Guide: crash market ও safe cashout"
 description: "ক্যাসিনো ক্রাশ গেম নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-08-17
-lastUpdated: 2026-08-17
+date: 2026-09-21
+lastUpdated: 2026-09-21
 ogImage: "og-casino-crash-game-bangladesh-guide-optimized.webp"
 ogImageAlt: "Casino Crash Game Bangladesh Guide visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "crash-games"]

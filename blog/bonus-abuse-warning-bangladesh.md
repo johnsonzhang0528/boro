@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Bonus Abuse Warning Bangladesh: কোন কাজ account risk বাড়ায়?"
 description: "bonus abuse warning নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-09-22
-lastUpdated: 2026-09-22
+date: 2026-10-14
+lastUpdated: 2026-10-14
 ogImage: "og-bonus-abuse-warning-bangladesh-optimized.webp"
 ogImageAlt: "Bonus Abuse Warning Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "warning"]

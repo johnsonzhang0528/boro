@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?"
 description: "world cup 2026 betting calendar নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-06-27
-lastUpdated: 2026-06-27
+date: 2026-06-04
+lastUpdated: 2026-06-04
 ogImage: "og-world-cup-2026-bangladesh-betting-calendar-optimized.webp"
 ogImageAlt: "World Cup 2026 Bangladesh Betting Calendar visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "calendar"]

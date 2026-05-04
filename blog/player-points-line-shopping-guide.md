@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Player Points Line Shopping Guide: NBA props-এ line compare কেন জরুরি"
 description: "Player Points Line Shopping Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-09
-lastUpdated: 2026-10-09
+date: 2026-11-29
+lastUpdated: 2026-11-29
 ogImage: "og-player-points-line-shopping-guide-optimized.webp"
 ogImageAlt: "Player Points Line Shopping Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "basketball", "player-props"]

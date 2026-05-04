@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BD Cricket Betting App Download Guide: safe APK ও browser option"
 description: "BD Cricket Betting App Download Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-27
-lastUpdated: 2026-10-27
+date: 2026-07-25
+lastUpdated: 2026-07-25
 ogImage: "og-bd-cricket-betting-app-download-guide-optimized.webp"
 ogImageAlt: "BD Cricket Betting App Download Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "app", "download"]

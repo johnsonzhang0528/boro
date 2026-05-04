@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Responsible Betting Checklist: tournament budget control"
 description: "World Cup 2026 Responsible Betting Checklist নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-10
-lastUpdated: 2026-11-10
+date: 2026-05-31
+lastUpdated: 2026-05-31
 ogImage: "og-world-cup-2026-responsible-betting-checklist-optimized.webp"
 ogImageAlt: "World Cup 2026 Responsible Betting Checklist visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "football", "world-cup-2026", "responsible-gaming"]

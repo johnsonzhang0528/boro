@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "T20 World Cup 2026 Cricket App BD: fixtures, odds, এবং alert setup"
 description: "T20 World Cup 2026 Cricket App BD market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-29
-lastUpdated: 2026-10-29
+date: 2026-05-22
+lastUpdated: 2026-05-22
 ogImage: "og-t20-world-cup-2026-cricket-app-bd-optimized.webp"
 ogImageAlt: "T20 World Cup 2026 Cricket App BD visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "t20-world-cup", "app"]

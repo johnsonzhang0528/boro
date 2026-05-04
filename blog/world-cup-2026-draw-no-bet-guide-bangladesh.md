@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market"
 description: "world cup draw no bet নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-02
-lastUpdated: 2026-07-02
+date: 2026-06-09
+lastUpdated: 2026-06-09
 ogImage: "og-world-cup-2026-draw-no-bet-guide-bangladesh-optimized.webp"
 ogImageAlt: "World Cup 2026 Draw No Bet Guide Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "draw-no-bet"]

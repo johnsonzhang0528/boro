@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Site Verification Bangladesh: HTTPS, KYC ও payment proof"
 description: "casino site verification bangladesh নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-07-26
-lastUpdated: 2026-07-26
+date: 2026-09-07
+lastUpdated: 2026-09-07
 ogImage: "og-casino-site-verification-bangladesh-optimized.webp"
 ogImageAlt: "Casino Site Verification Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "verification"]

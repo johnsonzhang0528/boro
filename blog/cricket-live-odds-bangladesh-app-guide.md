@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Live Odds Bangladesh App Guide: live odds বুঝবেন কীভাবে"
 description: "Cricket Live Odds Bangladesh App Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-27
-lastUpdated: 2026-10-27
+date: 2026-07-25
+lastUpdated: 2026-07-25
 ogImage: "og-cricket-live-odds-bangladesh-app-guide-optimized.webp"
 ogImageAlt: "Cricket Live Odds Bangladesh App Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "live-odds", "app"]

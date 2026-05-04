@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?"
 description: "Lightning Roulette Multiplier Risk Guide rules, payout logic, risk points এবং practical strategy এই guide-এ সহজ ভাষায় ব্যাখ্যা করা হয়েছে।"
-date: 2026-09-10
-lastUpdated: 2026-09-10
+date: 2026-08-25
+lastUpdated: 2026-08-25
 ogImage: "og-lightning-roulette-multiplier-risk-guide-optimized.webp"
 ogImageAlt: "Lightning Roulette Multiplier Risk Guide visual for BoroJeet readers"
 tags: ["post", "live-casino", "guide", "strategy", "roulette", "lightning-roulette"]

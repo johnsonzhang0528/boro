@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cash Game Bangladesh Strategy Guide: bankroll, timing ও risk"
 description: "cash game bangladesh নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-08-15
-lastUpdated: 2026-08-15
+date: 2026-10-03
+lastUpdated: 2026-10-03
 ogImage: "og-cash-game-bangladesh-strategy-guide-optimized.webp"
 ogImageAlt: "Cash Game Bangladesh Strategy Guide visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "cash-game"]

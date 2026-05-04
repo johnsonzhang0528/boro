@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Responsible Gaming Bangladesh Budget Limit: safe bankroll boundary"
 description: "Responsible Gaming Bangladesh Budget Limit নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-22
-lastUpdated: 2026-11-22
+date: 2026-09-26
+lastUpdated: 2026-09-26
 ogImage: "og-responsible-gaming-bangladesh-budget-limit-optimized.webp"
 ogImageAlt: "Responsible Gaming Bangladesh Budget Limit visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "responsible-gaming", "budget"]

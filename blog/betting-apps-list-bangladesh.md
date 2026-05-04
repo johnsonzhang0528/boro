@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে"
 description: "betting apps list নিয়ে Bangladesh user guide: Android APK, safe login, payment methods, app speed এবং trust signals compare করুন।"
-date: 2026-06-09
-lastUpdated: 2026-06-09
+date: 2026-08-11
+lastUpdated: 2026-08-11
 ogImage: "og-betting-apps-list-bangladesh-optimized.webp"
 ogImageAlt: "Betting Apps List Bangladesh visual guide for Bangladesh users"
 tags: ["post", "betting-apps", "android", "guide", "top-list"]

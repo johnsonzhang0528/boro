@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Push Notifications Not Working on BoroJeet: notification fix guide"
 description: "Push Notifications Not Working on BoroJeet সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-06-02
-lastUpdated: 2026-06-02
+date: 2026-07-09
+lastUpdated: 2026-07-09
 ogImage: "og-push-notifications-not-working-borojeet-optimized.webp"
 ogImageAlt: "Push Notifications Not Working on BoroJeet visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "notifications", "app"]

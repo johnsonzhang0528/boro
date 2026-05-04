@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Sixes Market Cricket Betting Guide: total sixes market বোঝার নিয়ম"
 description: "Sixes Market Cricket Betting Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-06-17
-lastUpdated: 2026-06-17
+date: 2026-08-18
+lastUpdated: 2026-08-18
 ogImage: "og-sixes-market-cricket-betting-guide-optimized.webp"
 ogImageAlt: "Sixes Market Cricket Betting Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "cricket", "totals"]

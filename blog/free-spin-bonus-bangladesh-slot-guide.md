@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering"
 description: "free spin bonus bangladesh নিয়ে Bangla bonus guide: wagering, turnover, reward terms, seasonal promo, account risk এবং responsible gambling checklist।"
-date: 2026-09-08
-lastUpdated: 2026-09-08
+date: 2026-10-30
+lastUpdated: 2026-10-30
 ogImage: "og-free-spin-bonus-bangladesh-slot-guide-optimized.webp"
 ogImageAlt: "Free Spin Bonus Bangladesh Slot Guide visual guide for Bangladesh readers"
 tags: ["post", "bonus", "wagering", "trust", "guide", "slots", "free-spins"]

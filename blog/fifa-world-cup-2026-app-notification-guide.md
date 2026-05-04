@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন"
 description: "world cup app notification নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-06-25
-lastUpdated: 2026-06-25
+date: 2026-06-02
+lastUpdated: 2026-06-02
 ogImage: "og-fifa-world-cup-2026-app-notification-guide-optimized.webp"
 ogImageAlt: "FIFA World Cup 2026 App Notification Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "apps", "alerts"]

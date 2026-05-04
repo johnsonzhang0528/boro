@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?"
 description: "world cup live odds নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-06
-lastUpdated: 2026-07-06
+date: 2026-06-13
+lastUpdated: 2026-06-13
 ogImage: "og-world-cup-2026-live-odds-movement-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Live Odds Movement Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "live-betting", "odds"]

@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Account Hacked? Immediate Recovery Steps (অ্যাকাউন্ট হ্যাক হয়েছে? পুনরুদ্ধারের উপায়)"
 description: "Can't log in? Balance missing? Your Boro Jeet account might be hacked. (লগইন হচ্ছে না? ব্যালেন্স গায়েব?) Follow these 3 emergency steps immediately to save your money."
-date: 2026-09-27
-lastUpdated: 2026-09-27
+date: 2026-11-23
+lastUpdated: 2026-11-23
 tags: 
   - post
   - security

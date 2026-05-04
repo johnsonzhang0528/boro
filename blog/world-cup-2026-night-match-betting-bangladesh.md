@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll"
 description: "world cup night match betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-07
-lastUpdated: 2026-07-07
+date: 2026-06-14
+lastUpdated: 2026-06-14
 ogImage: "og-world-cup-2026-night-match-betting-bangladesh-optimized.webp"
 ogImageAlt: "World Cup 2026 Night Match Betting Bangladesh visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "time-zone"]

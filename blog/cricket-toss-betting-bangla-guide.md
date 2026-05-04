@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Toss Betting Bangla Guide: toss market কি worth it?"
 description: "cricket toss betting নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
-date: 2026-06-13
-lastUpdated: 2026-06-13
+date: 2026-08-15
+lastUpdated: 2026-08-15
 ogImage: "og-cricket-toss-betting-bangla-guide-optimized.webp"
 ogImageAlt: "Cricket Toss Betting Bangla Guide visual guide for Bangladesh readers"
 tags: ["post", "cricket", "betting-apps", "bangla", "guide", "toss", "markets"]

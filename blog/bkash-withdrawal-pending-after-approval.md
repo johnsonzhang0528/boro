@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?"
 description: "bKash Withdrawal Pending After Approval issue কেন হয়, কতক্ষণ wait করবেন, কোন proof লাগবে, আর support-এ কী message পাঠাবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-10-16
-lastUpdated: 2026-10-16
+date: 2026-07-22
+lastUpdated: 2026-07-22
 ogImage: "og-bkash-withdrawal-pending-after-approval-optimized.webp"
 ogImageAlt: "bKash Withdrawal Pending After Approval visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "withdrawal"]

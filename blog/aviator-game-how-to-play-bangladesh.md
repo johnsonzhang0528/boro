@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Game How to Play Bangladesh: beginner rule guide"
 description: "aviator game how to play নিয়ে Bangla guide: rules, cashout timing, scam warning, bankroll plan এবং realistic crash game strategy।"
-date: 2026-08-13
-lastUpdated: 2026-08-13
+date: 2026-10-18
+lastUpdated: 2026-10-18
 ogImage: "og-aviator-game-how-to-play-bangladesh-optimized.webp"
 ogImageAlt: "Aviator Game How to Play Bangladesh visual guide for Bangladesh users"
 tags: ["post", "crash-games", "aviator", "strategy", "guide", "how-to"]

@@ -2,8 +2,8 @@
 layout: post.njk
 title: "How to Check Your Bonus Wagering Progress (বোনাস ওয়েজারিং প্রগ্রেস কিভাবে চেক করবেন)"
 description: "Can't withdraw your winnings? You probably haven't met the wagering requirements. (টাকা তুলতে পারছেন না?) Here is how to check your remaining turnover on Boro Jeet, JeetBuzz, and MCW."
-date: 2026-09-25
-lastUpdated: 2026-09-25
+date: 2026-11-03
+lastUpdated: 2026-11-03
 tags: 
   - post
   - bonuses

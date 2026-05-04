@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Chasing Losses: The Psychology of the Death Spiral"
 description: "Lost money today? Thinking about doubling your next bet to get it back? Stop. Read this before you lose everything."
-date: 2026-10-02
-lastUpdated: 2026-10-02
+date: 2026-11-26
+lastUpdated: 2026-11-26
 tags: 
   - post
   - psychology

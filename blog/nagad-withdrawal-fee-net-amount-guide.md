@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Nagad Withdrawal Fee Net Amount Guide: net cashout বুঝবেন কীভাবে"
 description: "Nagad Withdrawal Fee Net Amount Guide নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-17
-lastUpdated: 2026-11-17
+date: 2026-08-29
+lastUpdated: 2026-08-29
 ogImage: "og-nagad-withdrawal-fee-net-amount-guide-optimized.webp"
 ogImageAlt: "Nagad Withdrawal Fee Net Amount Guide visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "nagad", "fee", "withdrawal"]

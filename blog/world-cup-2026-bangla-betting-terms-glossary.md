@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Bangla Betting Terms Glossary: odds, line, market"
 description: "world cup betting terms bangla নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-06-27
-lastUpdated: 2026-06-27
+date: 2026-06-04
+lastUpdated: 2026-06-04
 ogImage: "og-world-cup-2026-bangla-betting-terms-glossary-optimized.webp"
 ogImageAlt: "World Cup 2026 Bangla Betting Terms Glossary visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "glossary", "beginner"]

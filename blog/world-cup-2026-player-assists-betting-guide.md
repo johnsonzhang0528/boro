@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Player Assists Betting Guide: creator stats explained"
 description: "player assists betting world cup নিয়ে FIFA World Cup 2026-এর আগে Bangladesh readers-এর জন্য football markets, app setup, payment timing এবং risk-control guide।"
-date: 2026-07-10
-lastUpdated: 2026-07-10
+date: 2026-06-17
+lastUpdated: 2026-06-17
 ogImage: "og-world-cup-2026-player-assists-betting-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Player Assists Betting Guide visual guide for Bangladesh readers"
 tags: ["post", "football", "world-cup", "strategy", "guide", "player-props"]

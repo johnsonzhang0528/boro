@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Corners Card Live Guide: corner ও card market setup"
 description: "World Cup 2026 Corners Card Live Guide market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-06
-lastUpdated: 2026-11-06
+date: 2026-05-26
+lastUpdated: 2026-05-26
 ogImage: "og-world-cup-2026-corners-card-live-guide-optimized.webp"
 ogImageAlt: "World Cup 2026 Corners Card Live Guide visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "cards", "corners"]

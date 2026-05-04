@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Goals Market Bangladesh: over/under goals plan"
 description: "World Cup 2026 Goals Market Bangladesh market কীভাবে কাজ করে, কোন data analyse করবেন, এবং কোন mistakes avoid করবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-06
-lastUpdated: 2026-11-06
+date: 2026-05-27
+lastUpdated: 2026-05-27
 ogImage: "og-world-cup-2026-goals-market-bangladesh-optimized.webp"
 ogImageAlt: "World Cup 2026 Goals Market Bangladesh visual for BoroJeet readers"
 tags: ["post", "sports-betting", "guide", "strategy", "football", "world-cup-2026", "goals"]

@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "BoroJeetBD App Not Installing Android: install error fix"
 description: "BoroJeetBD App Not Installing Android সমস্যা কীভাবে সমাধান করবেন, কোন security check normal, আর কখন support-এ যেতে হবে তা এই guide-এ explained।"
-date: 2026-10-21
-lastUpdated: 2026-10-21
+date: 2026-06-23
+lastUpdated: 2026-06-23
 ogImage: "og-borojeetbd-app-not-installing-android-optimized.webp"
 ogImageAlt: "BoroJeetBD App Not Installing Android visual for BoroJeet readers"
 tags: ["post", "account", "security", "guide", "borojeetbd", "android", "apk"]

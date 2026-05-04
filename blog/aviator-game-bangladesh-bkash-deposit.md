@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Game Bangladesh bKash Deposit: payment আগে checklist"
 description: "aviator game bkash deposit নিয়ে Bangla crash/cash-game guide: rules, cashout, bankroll, prediction myth এবং responsible play checklist।"
-date: 2026-07-20
-lastUpdated: 2026-07-20
+date: 2026-09-04
+lastUpdated: 2026-09-04
 ogImage: "og-aviator-game-bangladesh-bkash-deposit-optimized.webp"
 ogImageAlt: "Aviator Game Bangladesh bKash Deposit visual guide for Bangladesh readers"
 tags: ["post", "crash-games", "strategy", "bangla", "guide", "aviator", "bkash"]

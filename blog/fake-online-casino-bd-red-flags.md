@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Fake Online Casino BD Red Flags: deposit করার আগে warning signs"
 description: "fake online casino bd নিয়ে Bangladesh online gaming context: legal risk, site trust, casino game basics, payment safety এবং scam warning।"
-date: 2026-07-29
-lastUpdated: 2026-07-29
+date: 2026-09-10
+lastUpdated: 2026-09-10
 ogImage: "og-fake-online-casino-bd-red-flags-optimized.webp"
 ogImageAlt: "Fake Online Casino BD Red Flags visual guide for Bangladesh readers"
 tags: ["post", "casino", "legal", "safety", "guide", "scam-alert"]

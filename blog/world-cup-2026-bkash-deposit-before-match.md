@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 bKash Deposit Before Match: kickoff-এর আগে payment plan"
 description: "World Cup 2026 bKash Deposit Before Match নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-04
-lastUpdated: 2026-11-04
+date: 2026-05-24
+lastUpdated: 2026-05-24
 ogImage: "og-world-cup-2026-bkash-deposit-before-match-optimized.webp"
 ogImageAlt: "World Cup 2026 bKash Deposit Before Match visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "world-cup-2026", "bkash", "deposit"]

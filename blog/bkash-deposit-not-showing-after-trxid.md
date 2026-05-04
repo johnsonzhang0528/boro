@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Deposit Not Showing After TrxID: TrxID দিলেও balance না এলে"
 description: "bKash Deposit Not Showing After TrxID নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-13
-lastUpdated: 2026-11-13
+date: 2026-08-27
+lastUpdated: 2026-08-27
 ogImage: "og-bkash-deposit-not-showing-after-trxid-optimized.webp"
 ogImageAlt: "bKash Deposit Not Showing After TrxID visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "trxid", "deposit"]

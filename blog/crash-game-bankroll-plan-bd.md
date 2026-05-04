@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Game Bankroll Plan BD: fast game-এর জন্য strict budget"
 description: "Crash Game Bankroll Plan BD কীভাবে কাজ করে, cashout timing, multiplier risk, এবং bankroll control কীভাবে রাখবেন তা এই Bengali guide-এ জানুন।"
-date: 2026-11-30
-lastUpdated: 2026-11-30
+date: 2026-10-18
+lastUpdated: 2026-10-18
 ogImage: "og-crash-game-bankroll-plan-bd-optimized.webp"
 ogImageAlt: "Crash Game Bankroll Plan BD visual for BoroJeet readers"
 tags: ["post", "crash-game", "guide", "strategy", "bankroll"]

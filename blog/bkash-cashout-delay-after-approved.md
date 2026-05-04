@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Cashout Delay After Approved: approved status-এর পরে wait time"
 description: "bKash Cashout Delay After Approved নিয়ে সমস্যায় আছেন? এই Bengali guide-এ reasons, fix steps, waiting time, এবং support message template জানুন।"
-date: 2026-11-15
-lastUpdated: 2026-11-15
+date: 2026-06-26
+lastUpdated: 2026-06-26
 ogImage: "og-bkash-cashout-delay-after-approved-optimized.webp"
 ogImageAlt: "bKash Cashout Delay After Approved visual for BoroJeet readers"
 tags: ["post", "payments", "troubleshooting", "guide", "bkash", "withdrawal", "cashout"]

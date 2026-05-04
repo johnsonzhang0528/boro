@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Cricket Betting App APK Bangladesh: safe install করার checklist"
 description: "cricket betting app apk নিয়ে Bangladesh users-এর জন্য app download, APK safety, bKash/Nagad payment এবং live cricket betting setup explained।"
-date: 2026-05-23
-lastUpdated: 2026-05-23
+date: 2026-08-02
+lastUpdated: 2026-08-02
 ogImage: "og-cricket-betting-app-apk-bangladesh-safe-install-optimized.webp"
 ogImageAlt: "Cricket Betting App APK Bangladesh visual guide for Bangladesh users"
 tags: ["post", "cricket", "apps", "apk", "guide", "security"]

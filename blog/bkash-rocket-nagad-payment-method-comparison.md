@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "bKash Rocket Nagad Payment Method Comparison: deposit কোনটা fast?"
 description: "bkash rocket nagad payment নিয়ে local wallet payment guide: bKash, Nagad, Rocket, verification, failed deposit, withdrawal timing এবং safety proof।"
-date: 2026-07-25
-lastUpdated: 2026-07-25
+date: 2026-05-19
+lastUpdated: 2026-05-19
 ogImage: "og-bkash-rocket-nagad-payment-method-comparison-optimized.webp"
 ogImageAlt: "bKash Rocket Nagad Payment Method Comparison visual guide for Bangladesh readers"
 tags: ["post", "payments", "bkash", "nagad", "guide", "rocket", "comparison"]

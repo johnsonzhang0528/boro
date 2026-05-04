@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "Champions League Final 2026 Betting Guide BD: May final market checklist"
 description: "champions league final betting নিয়ে FIFA World Cup 2026-এর আগে Bangladesh bettor-দের জন্য odds, market rules, bankroll এবং live betting checklist।"
-date: 2026-06-23
-lastUpdated: 2026-06-23
+date: 2026-05-21
+lastUpdated: 2026-05-21
 ogImage: "og-champions-league-final-2026-betting-guide-bd-optimized.webp"
 ogImageAlt: "Champions League Final 2026 Betting Guide BD visual guide for Bangladesh users"
 tags: ["post", "football", "world-cup", "guide", "strategy", "champions-league"]

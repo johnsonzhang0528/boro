@@ -3,8 +3,8 @@ layout: "post.njk"
 lang: "bn-BD"
 title: "World Cup 2026 Safe Betting Sites BD: fake site এড়ানোর checklist"
 description: "World Cup 2026 Safe Betting Sites BD নিয়ে Bangladesh context, legal risk, scam warning, এবং safer decision checklist এই Bengali guide-এ ব্যাখ্যা করা হয়েছে।"
-date: 2026-11-05
-lastUpdated: 2026-11-05
+date: 2026-05-25
+lastUpdated: 2026-05-25
 ogImage: "og-world-cup-2026-safe-betting-sites-bd-optimized.webp"
 ogImageAlt: "World Cup 2026 Safe Betting Sites BD visual for BoroJeet readers"
 tags: ["post", "legal", "safety", "guide", "world-cup-2026", "safe-sites", "football"]
