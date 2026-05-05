@@ -37,3 +37,17 @@ Look for these scenarios:
 BTTS is the most exciting market because your bet is alive until the last minute. Even if a team is losing 5-0, one consolation goal can win you money!
 
 [Find BTTS Odds (বিটিটিএস অডস দেখুন)](/promotions/)
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [Best Sports Betting App Bangladesh 2026: football ও cricket market guide](/blog/best-sports-betting-app-bangladesh-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে](/blog/betting-apps-list-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist](/blog/fifa-world-cup-live-betting-tips-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Yellow Card Betting Guide: referee trend ও risk](/blog/world-cup-2026-yellow-card-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Top Goalscorer Betting Guide: outright market explained](/blog/world-cup-2026-top-goalscorer-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

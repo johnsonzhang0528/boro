@@ -107,3 +107,17 @@ BoroJeet প্ল্যাটফর্ম সম্পর্কে আরও �
 এখনই আপনার অ্যাকাউন্ট ভেরিফাই করে একটি নিরাপদ গেমিং যাত্রা শুরু করুন!
 
 <a href="/go/borojeet" class="cta" rel="sponsored nofollow" target="_blank" style="margin-top: 16px;">Verify Your Account Now</a>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC Address Proof Guide: address proof হিসেবে কী accepted?](/blog/kyc-address-proof-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)](/blog/multi-accounting-risks/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bonus Abuse Warning Bangladesh: কোন কাজ account risk বাড়ায়?](/blog/bonus-abuse-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [How to Use a VPN for Gambling: Safe Servers for Bangladesh](/blog/how-to-use-a-vpn-for-gambling/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

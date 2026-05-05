@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Aviator Crash Game BD Cashout Plan: auto cashout না manual?](/blog/aviator-crash-game-bd-cashout-plan/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Scam Casino Site Bangladesh Warning: deposit করার আগে red flags](/blog/scam-casino-site-bangladesh-warning/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Screenshot Proof bKash Nagad: support-এ কোন screenshot দেবেন](/blog/payment-screenshot-proof-bkash-nagad/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Withdrawal Fee Net Amount Guide: payout থেকে fee বাদ দিলে কত](/blog/rocket-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Fee Net Amount Guide: হাতে কত টাকা পাবেন](/blog/bkash-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Withdrawal Fee Net Amount Guide: net cashout বুঝবেন কীভাবে](/blog/nagad-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

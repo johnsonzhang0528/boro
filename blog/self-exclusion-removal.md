@@ -53,3 +53,15 @@ Many players try to open a new account with a different phone number.
 
 1.  **Wait it out.** Respect the time you set.
 2.  **Withdraw Funds**: If you have money stuck, email support. They can usually manually withdraw your balance to your bKash, even if the account is locked for play.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [What is Tilt in Betting? How to Stop Emotional Decisions](/blog/betting-psychology-tilt/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Chasing Losses: The Psychology of the Death Spiral](/blog/chasing-losses/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Slot Volatility Explained: High vs Low Variance (স্লটের ভোলাটিলিটি কি?)](/blog/slot-volatility-explained/) — Responsible gambling support সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

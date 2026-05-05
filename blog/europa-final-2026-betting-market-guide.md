@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [World Cup 2026 Knockout Bracket Betting Guide: draw থেকে final](/blog/world-cup-2026-knockout-bracket-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Stage Betting Strategy: early matches কীভাবে পড়বেন](/blog/world-cup-2026-group-stage-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Winner Outright Guide: futures market explained](/blog/world-cup-2026-group-winner-outright-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Favorites Accumulator Risk Guide: safe combo thinking](/blog/world-cup-2026-favorites-accumulator-risk-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

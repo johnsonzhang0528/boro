@@ -45,3 +45,16 @@ In simple terms: **Volatility = Risk Level** (ঝুঁকির মাত্র
 Don't just look at the theme or graphics. **Check the volatility** before you bet. If you only have 500 BDT, don't play a High Volatility game or you might lose it all in 5 minutes!
 
 [Find Low Volatility Games (কম ঝুঁকির গেমস)](/promotions/)
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Guide to Responsible Gaming: দায়িত্বশীল গেমিং এবং নিরাপদ থাকার উপায়](/blog/guide-to-responsible-gaming-bangladesh/) — Legal, safety, scam ও responsible play pillar context।
+- [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [What is Tilt in Betting? How to Stop Emotional Decisions](/blog/betting-psychology-tilt/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Chasing Losses: The Psychology of the Death Spiral](/blog/chasing-losses/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

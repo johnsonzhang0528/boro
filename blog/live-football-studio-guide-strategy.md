@@ -49,3 +49,17 @@ Live Football Studio একটি অত্যন্ত দ্রুত গত�
 Live Football Studio একটি সহজ এবং বিনোদনমূলক গেম। আপনি যদি জটিল নিয়ম ছাড়াই দ্রুত বাজি ধরতে চান, তবে এটি আপনার জন্য সেরা।
 
 আপনি যদি ফুটবলের উপর বাজি ধরতে চান, তবে আমাদের **[ফুটবল বেটিং গাইড](/blog/football-betting-guide-bangladesh/)** দেখতে পারেন। Register on the website first to claim your bonus, then download the app for the best experience.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [World Cup 2026 bKash Deposit Before Match: kickoff-এর আগে payment plan](/blog/world-cup-2026-bkash-deposit-before-match/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Stage Odds Bangla: group stage market guide](/blog/world-cup-2026-group-stage-odds-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangladesh Fixture Time BD: match timing আগে থেকে plan করুন](/blog/world-cup-2026-bangladesh-fixture-time-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Football Betting App Bangladesh: safe mobile setup](/blog/world-cup-2026-football-betting-app-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Europa Final 2026 Betting Market Guide: totals, corners ও cards](/blog/europa-final-2026-betting-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [T20 World Cup 2026 Cricket App BD: fixtures, odds, এবং alert setup](/blog/t20-world-cup-2026-cricket-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -76,3 +76,17 @@ bonus abuse warning নিয়ে decision নেওয়ার সময় তিন
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crazy Time জেতার কৌশল Bangla: risk control ও bonus round plan](/blog/crazy-time-jetar-koushol-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Megapari Crash Game Alternatives BD: safe comparison checklist](/blog/megapari-crash-game-alternatives-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Signal Scam Alert Bangladesh: paid signal কেন risky](/blog/crash-game-signal-scam-alert-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crazy Time Bangla Bet Sizing Guide: low-risk stake plan](/blog/crazy-time-bangla-bet-sizing-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

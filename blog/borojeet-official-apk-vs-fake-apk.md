@@ -76,3 +76,17 @@ borojeet official apk নিয়ে decision নেওয়ার সময় তি�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Aviator Game Predictor Scam BD: predictor app সত্যি নাকি ফাঁদ?](/blog/aviator-game-predictor-scam-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Secure Shared Phone Login Guide: shared phone-এ safe login কীভাবে করবেন?](/blog/secure-shared-phone-login-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভেরিফিকেশন সমস্যা: OTP আসছে না?)](/blog/email-verification-issues/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet Safe Registration Bangladesh: account খোলার আগে checklist](/blog/borojeet-safe-registration-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

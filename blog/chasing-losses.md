@@ -47,3 +47,16 @@ Consider it the cost of doing business. Tomorrow is a new day. A fresh start.
 The money is gone. Do not try to resurrect it.
 
 Smart money moves the market. Read how to follow them in [Smart Money vs Public Money](/blog/smart-money-vs-public-money/).
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Guide to Responsible Gaming: দায়িত্বশীল গেমিং এবং নিরাপদ থাকার উপায়](/blog/guide-to-responsible-gaming-bangladesh/) — Legal, safety, scam ও responsible play pillar context।
+- [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [What is Tilt in Betting? How to Stop Emotional Decisions](/blog/betting-psychology-tilt/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Slot Volatility Explained: High vs Low Variance (স্লটের ভোলাটিলিটি কি?)](/blog/slot-volatility-explained/) — Responsible gambling support সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

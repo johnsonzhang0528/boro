@@ -69,3 +69,17 @@ Who will qualify for the Champions League? This is safer than picking the winner
 Outright betting is like buying stocks. Do your research on transfers and managers, place your bet on BoroJeet, and sit back for the long ride.
 
 BoroJeet-এ আপনার ভবিষ্যৎবাণী কাজে লাগান। দীর্ঘমেয়াদী বিনিয়োগ করে জিতে নিন আকর্ষণীয় সব পুরস্কার।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist](/blog/fifa-world-cup-live-betting-tips-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Yellow Card Betting Guide: referee trend ও risk](/blog/world-cup-2026-yellow-card-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Top Goalscorer Betting Guide: outright market explained](/blog/world-cup-2026-top-goalscorer-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম](/blog/world-cup-2026-underdog-betting-strategy-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Quarter Final Betting Strategy: knockout match plan](/blog/world-cup-2026-quarter-final-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

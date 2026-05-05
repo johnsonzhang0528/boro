@@ -53,3 +53,17 @@ You won too much, too fast. The Risk Team is manually checking your bets for che
 *   **Fix**: Be patient. This can take 24 hours. Do not contact support every 5 minutes—it resets the queue.
 
 If your request is still not rejected and only shows **Pending**, read **[how to cancel a pending withdrawal on BoroJeet](/blog/cancel-pending-withdrawal-borojeet/)** before submitting a second request.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Payment Method Hidden After Login: Deposit Option হঠাৎ উধাও হলে](/blog/payment-method-hidden-after-login/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Nagad Deposit Limit Betting BD: limit বুঝে deposit plan](/blog/bkash-nagad-deposit-limit-betting-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino Payment Method Comparison BD 2026: bKash vs Nagad vs Rocket](/blog/casino-payment-method-comparison-bd-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Nagad Rocket Casino Payment Guide 2026: safe deposit ও withdrawal](/blog/bkash-nagad-rocket-casino-payment-guide-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Low Deposit Casino Sites bKash Bangladesh: small budget payment guide](/blog/low-deposit-casino-sites-bkash-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [50 Taka Deposit Betting Sites BD: low deposit site বাছাইয়ের checklist](/blog/50-taka-deposit-betting-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

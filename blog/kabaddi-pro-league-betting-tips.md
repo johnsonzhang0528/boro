@@ -46,3 +46,17 @@ layout: post.njklang: bn-BDdate: 2026-01-02ogImage: og-kabaddi-betting-tips-o
 Pro Kabaddi লিগ বেটিং-এর জন্য একটি রোমাঞ্চকর প্ল্যাটফর্ম। আপনার জ্ঞান এবং আমাদের টিপস কাজে লাগিয়ে [Borojeet](/)-এ বাজি ধরুন এবং জিতুন।
 
 আরও জানতে আমাদের [Kabaddi Betting Guide](/blog/kabaddi-betting-guide-bangladesh/) পড়ুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [What is Value Betting? How to Spot Overpriced Odds](/blog/value-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [What is a Lay Bet? How to Be the Bookmaker](/blog/lay-bet-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding ROI and Yield: Measuring Your Betting Success](/blog/understanding-roi-and-yield/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Kelly Criterion: How Much Money Should You Bet?](/blog/kelly-criterion-for-beginners/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

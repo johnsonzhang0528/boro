@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Daily Withdrawal Limit Reset Time: limit কখন reset হয়?](/blog/daily-withdrawal-limit-reset-time/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino bKash Deposit Guide Bangladesh: step-by-step payment safety](/blog/casino-bkash-deposit-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino Site Verification Bangladesh: HTTPS, KYC ও payment proof](/blog/casino-site-verification-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Casino Sites Bangladesh Guide: deposit করার আগে কী দেখবেন](/blog/bkash-casino-sites-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Bonus Balance vs Cash Balance Withdrawal: কোন টাকা আগে withdraw হবে?](/blog/bonus-balance-vs-cash-balance-withdrawal/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Bangladesh Online Gambling Risk Checklist: legal, payment ও scam](/blog/bangladesh-online-gambling-risk-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

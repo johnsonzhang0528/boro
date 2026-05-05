@@ -39,3 +39,17 @@ faq:
 
 ## Conclusion
 যদি আপনি ক্যাশ আউট চার্জ বাঁচাতে চান, তবে আজই একটি Upay একাউন্ট খুলুন। কাছের যেকোনো UCB ব্রাঞ্চ বা এজেন্ট পয়েন্টে এটি খোলা যায়।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Trusted Betting Sites BD Payment Checklist: payout ও support আগে দেখুন](/blog/trusted-betting-sites-bd-payment-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Crash Game BD Cashout Plan: auto cashout না manual?](/blog/aviator-crash-game-bd-cashout-plan/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Scam Casino Site Bangladesh Warning: deposit করার আগে red flags](/blog/scam-casino-site-bangladesh-warning/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Screenshot Proof bKash Nagad: support-এ কোন screenshot দেবেন](/blog/payment-screenshot-proof-bkash-nagad/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Withdrawal Fee Net Amount Guide: payout থেকে fee বাদ দিলে কত](/blog/rocket-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Fee Net Amount Guide: হাতে কত টাকা পাবেন](/blog/bkash-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

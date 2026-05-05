@@ -75,3 +75,17 @@ When Mohun Bagan plays East Bengal, expect high intensity, cards, and drama. Loo
 The Indian Super League offers a localized football betting experience with global standards. Use your knowledge of the teams and conditions to win big on BoroJeet.
 
 ISL-এর প্রতিটি ম্যাচের আপডেটেড অডস এবং লাইভ বেটিং উপভোগ করতে আজই BoroJeet-এ যোগ দিন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [Goalscorers Market Guide: First, Last & Anytime Scorer (গোলস্কোরার বেটিং নির্দেশিকা)](/blog/goalscorers-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Dragon Hatch Gameplay: Awakening the Dragon Queen (ড্রাগন হ্যাচ গেমপ্লে)](/blog/dragon-hatch-gameplay/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Online Rummy Guide: Rules & Winning Tips](/blog/online-rummy-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Poker Hands Ranking: The Ultimate Cheat Sheet](/blog/poker-hands-ranking-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Super Andar Bahar: 4000x Side Bets Strategy](/blog/super-andar-bahar-live-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [ক্যাশ গেম খেলার কৌশল Bangla: realistic strategy ও stop-loss](/blog/cash-game-khelar-koushol-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Strategy for Beginners BD: 1.5x, 2x ও stop-loss plan](/blog/crash-game-strategy-for-beginners-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Aviator Game How to Play Bangladesh: beginner rule guide](/blog/aviator-game-how-to-play-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Bankroll Plan BD: fast game-এর জন্য strict budget](/blog/crash-game-bankroll-plan-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Casino Crash Game Bangladesh Bangla: crash game কীভাবে কাজ করে](/blog/casino-crash-game-bangladesh-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

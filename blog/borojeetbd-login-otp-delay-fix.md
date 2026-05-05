@@ -66,3 +66,17 @@ Account বা app-related সমস্যা সবসময় serious breach ন
 ## Final takeaway
 
 BoroJeetBD Login OTP Delay Fix issue fix করার সময় blind retry না করে context collect করুন। এতে account safe থাকে এবং resolution faster হয়।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [What is a Lay Bet? How to Be the Bookmaker](/blog/lay-bet-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding ROI and Yield: Measuring Your Betting Success](/blog/understanding-roi-and-yield/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Kelly Criterion: How Much Money Should You Bet?](/blog/kelly-criterion-for-beginners/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Gambler's Fallacy: Why You Are Not 'Due' for a Win](/blog/gamblers-fallacy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

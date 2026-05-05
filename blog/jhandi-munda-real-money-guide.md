@@ -83,3 +83,17 @@ While Jhandi Munda is a game of luck, some strategies can help manage your bankr
 Jhandi Munda brings the nostalgia of traditional Bangladeshi gaming to your screen. It's fast, simple, and offers great winning potential.
 
 Ready to roll the dice? **[Register on BoroJeet](/go/borojeet)** today and start playing Jhandi Munda for real money!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Ganesha Gold Strategy: Collecting Wilds for Big Wins (গণেশ গোল্ড স্ট্র্যাটেজি)](/blog/ganesha-gold-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Fan Tan Strategy Guide: Mastering the Beads](/blog/fan-tan-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Sic Bo Patterns & Strategy: Mastering the Dice](/blog/sic-bo-patterns-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Live Roulette Strategy: Lightning Roulette Tricks](/blog/lightning-roulette-strategy/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

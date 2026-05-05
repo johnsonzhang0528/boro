@@ -66,3 +66,17 @@ howto:
 *   **RTP ফলো করুন**: গেমের উচ্চ RTP-এর সুবিধা নিতে দীর্ঘমেয়াদী খেলার পরিকল্পনা করুন।
 
 Cash or Crash আপনার বুদ্ধিমত্তা এবং ভাগ্যের পরীক্ষা নেয়। আজই [Borojeet](/blog/beginners-guide-to-borojeet/) এ খেলা শুরু করুন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
+- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Winning Tricks 2026 - BoroJeet & Aviator Secret Tips](/blog/crash-game-winning-tricks-2026/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Funky Time Strategy Bangla: bonus rounds ও bet sizing guide](/blog/funky-time-strategy-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt](/blog/crazy-time-bangladesh-bonus-round-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [ক্যাশ গেম খেলার কৌশল Bangla: realistic strategy ও stop-loss](/blog/cash-game-khelar-koushol-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

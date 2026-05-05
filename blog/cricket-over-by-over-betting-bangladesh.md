@@ -76,3 +76,17 @@ over by over cricket betting নিয়ে decision নেওয়ার সময় 
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Mahjong Ways 2 Winning Tricks: Unlocking the x10 Multiplier (মাহজং ওয়েজ ২ ট্রিকস)](/blog/mahjong-ways-2-winning-tricks/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mahjong Ways 1 Winning Strategy: How to Hit That x5 Multiplier (জয়ের কৌশল)](/blog/mahjong-ways-1-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [XXXTreme Lightning Roulette: 2000x Multiplier Strategy](/blog/xxxtreme-lightning-roulette-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [ODI Betting Strategy: Mastering the 50-Over Format](/blog/odi-cricket-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Test Cricket Betting: The Ultimate Strategy Guide](/blog/test-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Virtual Cricket Betting: 24/7 Action Explained](/blog/virtual-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

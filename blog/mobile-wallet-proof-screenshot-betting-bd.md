@@ -76,3 +76,17 @@ mobile wallet proof screenshot নিয়ে decision নেওয়ার সম�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Withdrawal Under Review Meaning: এই status আসলে কী বোঝায়?](/blog/withdrawal-under-review-meaning/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Withdrawal Rejected? Understanding Error Codes (টাকা উত্তোলন বাতিল? এর কারণ ও সমাধান)](/blog/withdrawal-rejected-reasons/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Withdrawal Reversal to Wallet Explained: টাকা wallet-এ ফেরত এলে মানে কী?](/blog/withdrawal-reversal-to-wallet-explained/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Payment Betting Sites Bangladesh: supported হলে কী check করবেন?](/blog/rocket-payment-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Screenshot Proof for Payment Support: support-এ কী screenshot পাঠাবেন?](/blog/screenshot-proof-for-payment-support/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Pending Deposit After TrxID Submission: TrxID দেওয়ার পরেও pending কেন?](/blog/pending-deposit-after-trxid-submission/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

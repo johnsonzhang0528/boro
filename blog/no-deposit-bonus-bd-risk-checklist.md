@@ -76,3 +76,17 @@ no deposit bonus bd নিয়ে decision নেওয়ার সময় তিন
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
+- [Manual Deposit Verification Time: manual approve হতে কতক্ষণ লাগে?](/blog/manual-deposit-verification-time/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Safest Betting App for Bangladesh: license, KYC ও payment signal](/blog/safest-betting-app-for-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?](/blog/international-betting-apps-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [BoroJeet Pending Withdrawal Cancel করার নিয়ম: Step-by-Step Guide](/blog/cancel-pending-withdrawal-borojeet/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

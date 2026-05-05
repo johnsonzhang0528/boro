@@ -68,3 +68,17 @@ Crazy Time একটি মানি হুইল গেম যা ড্রি�
 *   **ধৈর্য ধরুন**: Crazy Time একটি হাই ভোল্যাটিলিটি গেম। বড় জয়ের জন্য ধৈর্য ধরা প্রয়োজন।
 
 Crazy Time-এর জাদুকরী দুনিয়ায় হারিয়ে যেতে আজই [Borojeet App](/blog/boro-jeet-app-download-official/) ডাউনলোড করুন এবং খেলা শুরু করুন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Medusa II Slot Guide: The Curse of Athena (মেডুসা ২ গাইড)](/blog/medusa-ii-slot-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Ganesha Gold Strategy: Collecting Wilds for Big Wins (গণেশ গোল্ড স্ট্র্যাটেজি)](/blog/ganesha-gold-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Fan Tan Strategy Guide: Mastering the Beads](/blog/fan-tan-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Sic Bo Patterns & Strategy: Mastering the Dice](/blog/sic-bo-patterns-strategy/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

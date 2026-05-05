@@ -54,3 +54,17 @@ faq:
 *   **Space:** ১০০ এমবি খালি জায়গা।
 
 উপরের ধাপগুলো অনুসরণ করার পরও সমস্যা হলে, মোবাইল রিস্টার্ট দিয়ে আবার চেষ্টা করুন অথবা কাস্টমার কেয়ারে যোগাযোগ করুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [CS:GO (CS2) Betting Guide: Map Winners and Handicaps](/blog/esports-csgo-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet App System Requirements (2026): Android & iOS Specs](/blog/boro-jeet-system-requirements/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet iOS App Download Guide (2026): iPhone & iPad Installation](/blog/downloading-boro-jeet-on-ios/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -64,3 +64,17 @@ faq:
 Boro Jeet-এ নিরাপদ এবং ঝামেলামুক্ত গেমিং অভিজ্ঞতার জন্য **KYC Verification** অপরিহার্য। এটি কেবল আপনার টাকাই সুরক্ষিত রাখে না, বরং প্ল্যাটফর্মের বিশ্বাসযোগ্যতাও বজায় রাখে। তাই দেরি না করে আজই আপনার ডকুমেন্ট সাবমিট করুন।
 
 যদি ভেরিফিকেশন নিয়ে কোনো সমস্যায় পড়েন, তবে সরাসরি **Customer Support**-এ যোগাযোগ করুন। They are available 24/7 to assist you.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet Casino Login Guide: safe login, OTP ও account security](/blog/borojeet-casino-login-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Best Online Casino Game BD Beginners: risk কম রেখে শুরু করবেন কীভাবে](/blog/best-online-casino-game-bd-beginners/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Live Casino Bangladesh Mobile Guide: low latency ও safe play checklist](/blog/live-casino-bangladesh-mobile-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Signal Scam BD Warning: predictor group কেন risky](/blog/crash-game-signal-scam-bd-warning/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

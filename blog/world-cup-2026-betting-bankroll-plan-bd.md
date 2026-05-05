@@ -76,3 +76,17 @@ world cup betting bankroll নিয়ে decision নেওয়ার সময় �
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন](/blog/world-cup-2026-bet-builder-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 App Bangladesh Safe Install: APK ও alert setup](/blog/fifa-world-cup-2026-app-bangladesh-safe-install/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Final Week Betting Plan BD: semi-final থেকে final পর্যন্ত](/blog/world-cup-2026-final-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Mobile Notification Fixture Guide: match alert setup](/blog/world-cup-2026-mobile-notification-fixture-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Goals Market Bangladesh: over/under goals plan](/blog/world-cup-2026-goals-market-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Corners Card Live Guide: corner ও card market setup](/blog/world-cup-2026-corners-card-live-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

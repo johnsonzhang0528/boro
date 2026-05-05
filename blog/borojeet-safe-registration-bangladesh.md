@@ -76,3 +76,17 @@ borojeet registration নিয়ে decision নেওয়ার সময় তি�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet App Permissions Bangladesh: কোন permission safe?](/blog/borojeet-app-permissions-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Boro Jeet vs Parimatch BD: Which App is Better? | সেরা অ্যাপ তুলনা](/blog/boro-jeet-vs-parimatch-app-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Boro Jeet vs Linebet: Better Agent Support? | এজেন্ট সাপোর্ট পর্যালোচনা](/blog/boro-jeet-vs-linebet-agent-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Betting App Comparison Bangladesh: BoroJeet vs others কীভাবে compare করবেন](/blog/betting-app-comparison-bangladesh-borojeet-vs-others/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

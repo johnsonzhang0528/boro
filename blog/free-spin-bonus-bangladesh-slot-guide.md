@@ -76,3 +76,17 @@ free spin bonus bangladesh নিয়ে decision নেওয়ার সময় �
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [BoroJeet App Download Bonus Tracking: register first কেন জরুরি?](/blog/borojeet-app-download-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Eid Bonus Betting Bangladesh 2026: claim করার আগে terms পড়ুন](/blog/eid-bonus-betting-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Buy vs Normal Spin: Is It Worth It? (বোনাস কেনা কি লাভজনক?)](/blog/bonus-buy-vs-normal-spin/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Crazy Time Bonus Rounds Explained: Pachinko, Cash Hunt & More](/blog/crazy-time-bonus-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

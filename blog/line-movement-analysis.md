@@ -57,3 +57,17 @@ If the line is moving against you, ask yourself: "What do they know that I don't
 Usually, the market is right.
 
 Now, let's talk about the goal of all this: [Bankroll Growth Strategy](/blog/bankroll-growth-strategy/).
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [How to Calculate Implied Probability from Exchange Odds](/blog/implied-probability-calculation/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Play Without App on Mobile Browser: app ছাড়াই full site ব্যবহার](/blog/play-without-app-mobile-browser/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Change Your Registered Phone Number (কিভাবে রেজিস্টার্ড ফোন নম্বর পরিবর্তন করবেন)](/blog/changing-registered-phone-number/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা](/blog/new-betting-apps-2026-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Clear App Storage Without Losing Account: data clear করলেও account থাকবে?](/blog/clear-app-storage-without-losing-account/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

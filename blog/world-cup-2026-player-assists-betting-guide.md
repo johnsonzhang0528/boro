@@ -76,3 +76,17 @@ player assists betting world cup নিয়ে decision নেওয়ার সম
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [World Cup 2026 Final Week Betting Plan BD: semi-final থেকে final পর্যন্ত](/blog/world-cup-2026-final-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Mobile Notification Fixture Guide: match alert setup](/blog/world-cup-2026-mobile-notification-fixture-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bet Builder Bangla Guide: same match combo safe way](/blog/world-cup-2026-bet-builder-bangla-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Goals Market Bangladesh: over/under goals plan](/blog/world-cup-2026-goals-market-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Corners Card Live Guide: corner ও card market setup](/blog/world-cup-2026-corners-card-live-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Top Teams Betting Preview Bangla: favourites বুঝবেন কীভাবে](/blog/world-cup-2026-top-teams-betting-preview-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

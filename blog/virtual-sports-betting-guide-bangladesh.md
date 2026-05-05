@@ -61,3 +61,17 @@ BoroJeet-এ আপনি বিভিন্ন ধরণের ভার্চ�
 আপনি যদি ভিডিও গেমের ভক্ত হন কিন্তু মানুষের খেলা দেখতে পছন্দ করেন, তবে আমাদের **[Esports Betting Guide](/blog/esports-betting-guide-bangladesh/)** দেখুন, যেখানে ডোটা ২ এবং সিএস:জিও-এর মতো গেম নিয়ে আলোচনা করা হয়েছে।
 
 আপনি কি ভার্চুয়াল মাঠে নামতে প্রস্তুত? আজই <a href="/go/borojeet" rel="sponsored nofollow" target="_blank"><strong>BoroJeet-এ যোগ দিন</strong></a> এবং আপনার প্রথম ভার্চুয়াল বাজি ধরুন! আরও জানতে আমাদের **[ক্রিকেট বেটিং গাইড](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/)** পড়ুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [Both Halves Over 0.5 Goals: market logic ও match selection](/blog/both-halves-over-0-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Corners Over/Under Live Betting: live match-এ corner market analysis](/blog/corners-over-under-live-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Asian Total Goals Betting Guide: Over/Under-এর advanced version](/blog/asian-total-goals-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Mega Ball Bonus Ticket Explained: bonus card ও payout কীভাবে কাজ করে](/blog/mega-ball-bonus-ticket-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Football Betting App Bangladesh World Cup: mobile setup ও safety guide](/blog/football-betting-app-bangladesh-world-cup/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

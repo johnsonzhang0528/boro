@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও](/blog/live-football-studio-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গেম](/blog/boro-jeet-poker-games-online/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Teen Patti Real Money App: অ্যাপ ডাউনলোড এবং খেলার নিয়ম](/blog/teen-patti-real-money-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Virtual Sports Betting Guide Bangladesh: Play 24/7 (ভার্চুয়াল স্পোর্টস বেটিং)](/blog/virtual-sports-betting-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Dragon Tiger গেম গাইড: নিয়ম, কৌশল এবং জেতার টিপস](/blog/dragon-tiger-game-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Andar Bahar First Card Probability: first card দেখে edge পাওয়া যায়?](/blog/andar-bahar-first-card-probability/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -61,3 +61,17 @@ Toss Betting হলো এমন একটি বাজি যেখানে �
 Toss Betting আপনার ক্রিকেট বেটিং অভিজ্ঞতায় বাড়তি উত্তেজনা যোগ করতে পারে। তবে মনে রাখবেন, এটি অনিশ্চিত। বুদ্ধিমানের সাথে খেলুন এবং [Borojeet](/)-এ আপনার প্রিয় দলের উপর বাজি ধরুন।
 
 আরও জানতে আমাদের [Ultimate Cricket Betting Guide](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) পড়ুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Player Props Cricket Betting Guide: batter ও bowler props কীভাবে ধরবেন](/blog/player-props-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis](/blog/powerplay-betting-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Online Cricket Betting Bangladesh Tips: data দেখে decision নিন](/blog/online-cricket-betting-bangladesh-tips/) — Cricket betting সম্পর্কিত practical checklist।
+- [How to Trade a T20 Cricket Match: A Step-by-Step Guide](/blog/trading-a-t20-match/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket বাজি করার নিয়ম Bangla: beginner rules explained](/blog/cricket-baji-korar-niyom-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

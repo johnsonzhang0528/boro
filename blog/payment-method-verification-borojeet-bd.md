@@ -76,3 +76,17 @@ borojeet payment verification নিয়ে decision নেওয়ার সময়
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [USDT Crypto Deposit Guide: Binance & Boro Jeet](/blog/usdt-crypto-deposit-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Payment Guide: How to Deposit on Boro Jeet](/blog/rocket-payment-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Upay Betting Deposits: Zero Charge Offers](/blog/upay-betting-deposits/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Deposit Failed? Solution & Fixes](/blog/bkash-deposit-failed-solutions/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Cash Out Limits 2025: Daily & Monthly Caps](/blog/nagad-cash-out-limits/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Cash Out Strategy: Control Your Destiny in Betting](/blog/cash-out-feature-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

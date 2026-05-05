@@ -123,3 +123,17 @@ Pending withdrawal cancel করার পর balance অনেক সময় স
 ## Final takeaway
 
 BoroJeet-এ <strong>Pending Withdrawal cancel</strong> করার সেরা সময় হলো request submit করার পর যত দ্রুত সম্ভব, যখন status এখনো <strong>Pending</strong> থাকে। যদি cancel button visible থাকে, wallet history থেকে সেটা ব্যবহার করুন। যদি visible না থাকে, duplicate request না দিয়ে support-এ structured message পাঠান। এই disciplined approach আপনাকে unnecessary delay, rejection, আর wallet confusion থেকে বাঁচাবে।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [bKash Deposit Minimum Maximum Betting Guide: limit আগে জানুন](/blog/bkash-deposit-minimum-maximum-betting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [৫০ টাকা ডিপোজিট Casino Sites BD: low deposit খেললে কী risk?](/blog/50-taka-deposit-casino-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Method Verification BoroJeet BD: wallet name, number ও KYC](/blog/payment-method-verification-borojeet-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Rocket Nagad Logo PNG Search: official logo চিনবেন কীভাবে?](/blog/bkash-rocket-nagad-logo-png-safe-use-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [50 Taka Deposit Betting Sites BD: low deposit site বাছাইয়ের checklist](/blog/50-taka-deposit-betting-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Rocket Nagad Logo Safe Check: fake logo ও payment scam এড়ান](/blog/bkash-rocket-nagad-logo-safe-check/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

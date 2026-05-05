@@ -2,7 +2,22 @@
 lastUpdated: 2026-01-03
 description: "Cricket betting odds কীভাবে কাজ করে তা শিখুন। আমাদের গাইড Decimal, Fractional এবং American odds ব্যাখ্যা করে, যা আপনাকে আরও স্মার্ট বেট করতে এবং আপনার..."
 title: "ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড"
-date: 2025-11-02layout: "post.njk"ogImage: "cricket-betting-odds-guide-optimized.webp"ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে ক্রিকেট বল এবং ব্যাটের সাথে বিভিন্ন বেটিং অডস (ডেসিমাল, ফ্র্যাকশনাল) দেখানো একটি গ্রাফিক।"tags: ["post", "cricket", "odds"]faq:  - question: "What are betting odds?"    answer: "বেটিং অডস হলো একটি নির্দিষ্ট ফলাফলের সম্ভাবনার সংখ্যাসূচক প্রকাশ। এটি দুটি জিনিস নির্দেশ করে: (১) আপনি জিতলে কত টাকা পাবেন, এবং (২) বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।"  - question: "What are the main types of betting odds?"    answer: "বেটিং অডস-এর তিনটি প্রধান ফরম্যাট রয়েছে:\n<ul>\n<li><strong>ডেসিমাল অডস (যেমন ২.৫০):</strong> এটি আপনার আসল বাজি সহ মোট ফেরতের পরিমাণ দেখায়।</li>\n<li><strong>ফ্র্যাকশনাল অডস (যেমন ৫/১):</strong> এটি শুধুমাত্র আপনার লাভের পরিমাণ দেখায়।</li>\n<li><strong>আমেরিকান অডস (যেমন +১৫০):</strong> এটি প্লাস বা মাইনাস চিহ্ন দিয়ে দেখানো হয় এবং ১০০ টাকার উপর ভিত্তি করে লাভ বা বাজি নির্ধারণ করে।</li>\n</ul>"  - question: "How do I calculate my winnings with Decimal odds?"    answer: "ডেসিমাল অডস ব্যবহার করে জয় গণনা করা সবচেয়ে সহজ। আপনার বাজির পরিমাণকে ডেসিমাল অডস দিয়ে গুণ করলেই মোট ফেরত পাওয়া যাবে। উদাহরণস্বরূপ, ২.৫০ অডস-এ ৳১০০ বাজি ধরলে আপনি মোট ফেরত পাবেন `৳১০০ × ২.৫০ = ৳২৫০`।"  - question: "What is \"implied probability\" in betting?"    answer: "অন্তর্নিহিত সম্ভাবনা (Implied Probability) হলো বেটিং অডস দ্বারা নির্দেশিত একটি ফলাফলের সম্ভাবনা। এটি আপনাকে বুঝতে সাহায্য করে যে বুকমেকার একটি দলের জয়ের সম্ভাবনা কত শতাংশ নির্ধারণ করেছে। ডেসিমাল অডস-এর জন্য সূত্রটি হলো: `(১ / অডস) × ১০০`।"  - question: "What is a \"value bet\"?"    answer: "একটি \"ভ্যালু বেট\" হলো এমন একটি বাজি যেখানে আপনার বিশ্লেষণ অনুযায়ী কোনো ফলাফলের সম্ভাবনা বুকমেকারের দেওয়া অডস-এর অন্তর্নিহিত সম্ভাবনার চেয়ে বেশি। স্মার্ট বেটররা সবসময় ভ্যালু বেট খোঁজার চেষ্টা করেন।"
+date: 2025-11-02
+layout: "post.njk"
+ogImage: "cricket-betting-odds-guide-optimized.webp"
+ogImageAlt: "একটি ক্রিকেট স্টেডিয়ামের পটভূমিতে ক্রিকেট বল এবং ব্যাটের সাথে বিভিন্ন বেটিং অডস (ডেসিমাল, ফ্র্যাকশনাল) দেখানো একটি গ্রাফিক।"
+tags: ["post", "cricket", "odds"]
+faq:
+  - question: "What are betting odds?"
+    answer: "বেটিং অডস হলো একটি নির্দিষ্ট ফলাফলের সম্ভাবনার সংখ্যাসূচক প্রকাশ। এটি দুটি জিনিস নির্দেশ করে: (১) আপনি জিতলে কত টাকা পাবেন, এবং (২) বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।"
+  - question: "What are the main types of betting odds?"
+    answer: "বেটিং অডস-এর তিনটি প্রধান ফরম্যাট রয়েছে:\n<ul>\n<li><strong>ডেসিমাল অডস (যেমন ২.৫০):</strong> এটি আপনার আসল বাজি সহ মোট ফেরতের পরিমাণ দেখায়।</li>\n<li><strong>ফ্র্যাকশনাল অডস (যেমন ৫/১):</strong> এটি শুধুমাত্র আপনার লাভের পরিমাণ দেখায়।</li>\n<li><strong>আমেরিকান অডস (যেমন +১৫০):</strong> এটি প্লাস বা মাইনাস চিহ্ন দিয়ে দেখানো হয় এবং ১০০ টাকার উপর ভিত্তি করে লাভ বা বাজি নির্ধারণ করে।</li>\n</ul>"
+  - question: "How do I calculate my winnings with Decimal odds?"
+    answer: "ডেসিমাল অডস ব্যবহার করে জয় গণনা করা সবচেয়ে সহজ। আপনার বাজির পরিমাণকে ডেসিমাল অডস দিয়ে গুণ করলেই মোট ফেরত পাওয়া যাবে। উদাহরণস্বরূপ, ২.৫০ অডস-এ ৳১০০ বাজি ধরলে আপনি মোট ফেরত পাবেন `৳১০০ × ২.৫০ = ৳২৫০`।"
+  - question: "What is \"implied probability\" in betting?"
+    answer: "অন্তর্নিহিত সম্ভাবনা (Implied Probability) হলো বেটিং অডস দ্বারা নির্দেশিত একটি ফলাফলের সম্ভাবনা। এটি আপনাকে বুঝতে সাহায্য করে যে বুকমেকার একটি দলের জয়ের সম্ভাবনা কত শতাংশ নির্ধারণ করেছে। ডেসিমাল অডস-এর জন্য সূত্রটি হলো: `(১ / অডস) × ১০০`।"
+  - question: "What is a \"value bet\"?"
+    answer: "একটি \"ভ্যালু বেট\" হলো এমন একটি বাজি যেখানে আপনার বিশ্লেষণ অনুযায়ী কোনো ফলাফলের সম্ভাবনা বুকমেকারের দেওয়া অডস-এর অন্তর্নিহিত সম্ভাবনার চেয়ে বেশি। স্মার্ট বেটররা সবসময় ভ্যালু বেট খোঁজার চেষ্টা করেন।"
 ---
 
 **Cricket betting odds** বোঝা একটি সফল বাজির চাবিকাঠি। আরও ব্যাপক কৌশলের জন্য, **[আমাদের ক্রিকেট বেটিং এর চূড়ান্ত গাইডটি দেখুন](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/)**।
@@ -24,7 +39,7 @@ date: 2025-11-02layout: "post.njk"ogImage: "cricket-betting-odds-guide-optimiz
        width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
 </picture>
 
-ক্রিকেট বেটিংয়ে তিন ধরনের প্রধান অডস ফরম্যাট দেখা যায়: ডেসিমাল (Decimal), ফ্র্যাকশনাল (Fractional), এবং আমেরিকান (American)। বাংলাদেশের [সেরা বেটিং অ্যাপগুলোতে](/blog/best-cricket-betting-apps-bangladesh-2025/) সাধারণত ডেসিমাল ফরম্যাট সবচেয়ে বেশি ব্যবহৃত হয়।
+ক্রিকেট বেটিংয়ে তিন ধরনের প্রধান অডস ফরম্যাট দেখা যায়: ডেসিমাল (Decimal), ফ্র্যাকশনাল (Fractional), এবং আমেরিকান (American)। বাংলাদেশের [সেরা বেটিং অ্যাপগুলোতে](/blog/best-cricket-betting-apps-bangladesh-2026/) সাধারণত ডেসিমাল ফরম্যাট সবচেয়ে বেশি ব্যবহৃত হয়।
 
 ### ১. ডেসিমাল অডস (Decimal Odds)
 
@@ -83,3 +98,17 @@ date: 2025-11-02layout: "post.njk"ogImage: "cricket-betting-odds-guide-optimiz
 ## উপসংহার
 
 ক্রিকেট বেটিং অডস বোঝা সফল বেটিংয়ের প্রথম ধাপ। ডেসিমাল, ফ্র্যাকশনাল এবং আমেরিকান অডস-এর মধ্যে পার্থক্য জানা এবং অন্তর্নিহিত সম্ভাবনা গণনা করার ক্ষমতা আপনাকে আরও তথ্যভিত্তিক এবং কৌশলগত সিদ্ধান্ত নিতে সাহায্য করবে। সর্বদা মনে রাখবেন, দায়িত্বশীলভাবে বেটিং করুন এবং আপনার বাজেট অতিক্রম করবেন না। বোনাসের শর্তাবলী বুঝতে, আমাদের [ওয়েজারিং রিকোয়ারমেন্টস-এর গাইডটি](/blog/understanding-wagering-requirements/) পড়ুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)](/blog/cricket-toss-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল](/blog/advanced-cricket-betting-strategies/) — Cricket betting সম্পর্কিত practical checklist।
+- [Wicket Method Betting Explained: caught, bowled, lbw market কী?](/blog/wicket-method-betting-explained/) — Cricket betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -53,3 +53,17 @@ Prevention is better than cure.
 Once you recover your account (it may take 24-48 hours), enable **2FA** immediately.
 
 Also, be aware of scammers pretending to be support. Read: [Fake Admin Scams on Telegram](/blog/fake-admin-scams-telegram/).
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD Download Without Play Store BD: APK install safe way](/blog/borojeetbd-download-without-play-store-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD Official Link Google Search: fake result এড়াবেন কীভাবে](/blog/borojeetbd-official-link-google-search/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD APK Safe Update Checklist: update করার আগে কী দেখবেন](/blog/borojeetbd-apk-safe-update-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD App Download APK Bangla: safe install checklist](/blog/borojeetbd-app-download-apk-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

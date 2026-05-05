@@ -64,3 +64,17 @@ layout: post.njklang: bn-BDdate: 2025-12-09ogImage: og-kabaddi-betting-tips-o
 4.  **বাজি ধরুন:** আপনার পছন্দের টিমের উপর বাজি ধরুন এবং খেলা উপভোগ করুন!
 
 কাবাডি বেটিং আপনার স্পোর্টস জ্ঞানকে কাজে লাগানোর একটি দুর্দান্ত উপায়। আজই BoroJeet-এ যোগ দিন এবং মাটির খেলার উত্তেজনা অনুভব করুন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়](/blog/borojeet-password-reset-recovery-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু](/blog/esports-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Login Guide: পাসওয়ার্ড ভুলে গেছেন? সমাধান এখানে](/blog/borojeet-login-troubleshooting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking](/blog/record-keeping-for-bettors/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -97,3 +97,17 @@ Often overlooked, this market is great for matches where late drama is expected.
 Whether you want the high risk of a **First Goalscorer** bet or the safety of **Anytime Goalscorer**, BoroJeet provides the best odds for Bangladeshi fans.
 
 আজই BoroJeet-এ আপনার প্রিয় গোলস্কোরার বেছে নিন এবং জয়ের উত্তেজনা অনুভব করুন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [Draw Prediction Strategies: Betting on the 'X' (কিভাবে ড্র ম্যাচের ভবিষ্যদ্বাণী করবেন)](/blog/draw-prediction-strategies/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Asian Handicap in Football: A Simple Guide (এশিয়ান হ্যান্ডিক্যাপ নির্দেশিকা)](/blog/asian-handicap-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Half-Time/Full-Time (HT/FT) Ways to Win Big (হাফ টাইম/ফুল টাইম গাইড)](/blog/ht-ft-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Card Betting Strategy: Predicting Yellow & Red Cards (কার্ড বাজি গাইড)](/blog/card-and-booking-points-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Corner Betting Strategy: The Underrated Market (কর্নার বেটিং কৌশল)](/blog/corner-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -60,3 +60,17 @@ Never guess your stake size. Use Kelly (or Half Kelly) to be disciplined.
 If you bet randomly, you will eventually hit zero.
 
 Ready to spot those overpriced odds? Read our [Value Betting Guide](/blog/value-betting-guide/).
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [The Gambler's Fallacy: Why You Are Not 'Due' for a Win](/blog/gamblers-fallacy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Slow Internet? Change DNS Settings for Faster Betting](/blog/dns-settings-for-better-speed/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Password Reset Link Expired Fix: link মেয়াদ শেষ হলে](/blog/password-reset-link-expired-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Line Movement Analysis: Why Do Odds Change?](/blog/line-movement-analysis/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)](/blog/contacting-licensing-authorities/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

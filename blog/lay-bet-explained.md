@@ -70,3 +70,17 @@ Risk 9000 to win 1000. Be careful!
 
 Laying is risky if you don't understand Liability. Always check your "What If" figure before confirming the bet.
 Now that you know Back and Lay, let's learn about **Commission** in the next guide.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Official Social Media Groups: Telegram, Facebook & WhatsApp](/blog/official-social-media-communities/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet iOS App Download Guide (2026): iPhone & iPad Installation](/blog/downloading-boro-jeet-on-ios/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Account Suspended? Reasons & How to Restore (2026)](/blog/boro-jeet-account-suspended-reasons-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

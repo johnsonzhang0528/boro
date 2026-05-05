@@ -49,3 +49,17 @@ Dragon Tiger-এ প্রধানত তিন ধরণের বাজি �
 *   **শুধুমাত্র ড্রাগন বা টাইগারের উপর বাজি ধরুন:** এই বাজিগুলিতে হাউজ এজ সবচেয়ে কম (৩.৭৩%)。
 *   **স্ট্রিক অনুসরণ করুন:** অনেক খেলোয়াড় বিশ্বাস করেন যে ড্রাগন বা টাইগার যদি পরপর কয়েকবার জিতে, তবে সেই স্ট্রিকটি অনুসরণ করা উচিত。
 *   **ব্যাঙ্করোল ম্যানেজমেন্ট:** আপনার বাজেট ঠিক করুন এবং কখনোই লস রিকভার করার চেষ্টা করবেন না।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে](/blog/betting-apps-list-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist](/blog/fifa-world-cup-live-betting-tips-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Yellow Card Betting Guide: referee trend ও risk](/blog/world-cup-2026-yellow-card-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Top Goalscorer Betting Guide: outright market explained](/blog/world-cup-2026-top-goalscorer-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম](/blog/world-cup-2026-underdog-betting-strategy-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
+- [English Premier League (EPL) 2026 Preview: Favorites and Dark Horses (ইংলিশ প্রিমিয়ার লিগ)](/blog/english-premier-league-2026-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 Betting Guide: Early Predictions (ফিফা বিশ্বকাপ ২০২৬)](/blog/fifa-world-cup-2026-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Dragon Hatch Gameplay: Awakening the Dragon Queen (ড্রাগন হ্যাচ গেমপ্লে)](/blog/dragon-hatch-gameplay/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Poker Hands Ranking: The Ultimate Cheat Sheet](/blog/poker-hands-ranking-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Super Andar Bahar: 4000x Side Bets Strategy](/blog/super-andar-bahar-live-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -77,3 +77,17 @@ Funky Time-এর আসল মজা এর বোনাস রাউন্ড�
 *   **দায়িত্বশীল গেমিং**: মনে রাখবেন, এটি একটি ভাগ্যের খেলা। [Responsible Gaming](/blog/guide-to-responsible-gaming-bangladesh/) মেনে চলুন।
 
 Register on the website first to claim your bonus, then download the app for the best experience. আজই Borojeet-এ যোগ দিন এবং ডিস্কো পার্টিতে অংশ নিন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Fan Tan খেলার নিয়ম এবং জয়ের কৌশল (Fan Tan Game Guide & Strategy)](/blog/fan-tan-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)](/blog/super-sic-bo-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Bac Bo Game Guide: ব্যাক বো খেলার নিয়ম ও কৌশল](/blog/bac-bo-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Common Online Casino Myths Debunked: অনলাইন ক্যাসিনো সম্পর্কে ভুল ধারণা](/blog/common-online-casino-myths-debunked/) — Online casino games সম্পর্কিত practical checklist।
+- [Mega Ball 100x Strategy & Winning Tips (Mega Ball গাইড)](/blog/mega-ball-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

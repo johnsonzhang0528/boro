@@ -65,3 +65,17 @@ BoroJeet সাধারণত মাসিক ভিত্তিতে কম�
 আপনি যদি অনলাইনে প্যাসিভ ইনকাম (Passive Income) করতে চান, তবে **BoroJeet Affiliate Program** একটি দুর্দান্ত সুযোগ। সঠিক পরিকল্পনা এবং প্রচেষ্টার মাধ্যমে আপনি এটিকে একটি পূর্ণকালীন আয়ের উৎসে পরিণত করতে পারেন।
 
 আর দেরি কেন? আজই <a href="/go/borojeet" rel="sponsored nofollow" target="_blank"><strong>BoroJeet অ্যাফিলিয়েট প্রোগ্রামে যোগ দিন</strong></a> এবং আপনার আয়ের যাত্রা শুরু করুন! নতুন খেলোয়াড়দের জন্য আমাদের **[BoroJeet নতুনদের গাইড](/blog/beginners-guide-to-borojeet/)** শেয়ার করতে ভুলবেন না।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -81,3 +81,17 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Cash or Crash Live Strategy & Guide (Cash or Crash গাইড)](/blog/cash-or-crash-live-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Mines Game Guide: How to Play & Win (মাইনস গেম গাইড: কিভাবে খেলবেন এবং জিতবেন)](/blog/mines-game-guide-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Top 5 Crash Games on BoroJeet: Beyond Aviator (সেরা ৫টি ক্র্যাশ গেম)](/blog/top-5-crash-games-on-borojeet/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Plinko Game Guide: How to Play & Win in Bangladesh (2025)](/blog/plinko-game-guide-strategy-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Funky Time Strategy Bangla: bonus rounds ও bet sizing guide](/blog/funky-time-strategy-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -66,3 +66,17 @@ Account বা app-related সমস্যা সবসময় serious breach ন
 ## Final takeaway
 
 BoroJeetBD Cache Clear Before Login issue fix করার সময় blind retry না করে context collect করুন। এতে account safe থাকে এবং resolution faster হয়।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়](/blog/borojeet-password-reset-recovery-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম](/blog/borojeet-sports-betting-rules-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু](/blog/esports-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

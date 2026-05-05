@@ -62,7 +62,7 @@ faq:
 
 ## ৩. 1xBet
 
-আপনি যদি **High Odds** এবং প্রচুর বেটিং অপশন খোঁজেন, তবে 1xBet একটি ভালো বিকল্প। এদের অ্যাপে **Cricket Betting** এর জন্য বিশেষ ফিচার রয়েছে। এছাড়াও, আপনি **[ফুটবল](/blog/football-betting-guide-bangladesh/)**, **[টেনিস](/blog/tennis-betting-guide-bangladesh/)**, **[ভলিবল](/blog/volleyball-betting-guide-bangladesh/)**, **[হ্যান্ডবল](/blog/handball-betting-guide-bangladesh/)** এবং **[ঘোড়দৌড় (Horse Racing)](/blog/horse-racing-betting-guide-bangladesh/)** এর মতো খেলাতেও বাজি ধরতে পারেন। আরও জানতে আমাদের **[ক্রিকেট বেটিং অ্যাপ গাইড](/blog/best-cricket-betting-apps-bangladesh-2025/)** পড়ুন।
+আপনি যদি **High Odds** এবং প্রচুর বেটিং অপশন খোঁজেন, তবে 1xBet একটি ভালো বিকল্প। এদের অ্যাপে **Cricket Betting** এর জন্য বিশেষ ফিচার রয়েছে। এছাড়াও, আপনি **[ফুটবল](/blog/football-betting-guide-bangladesh/)**, **[টেনিস](/blog/tennis-betting-guide-bangladesh/)**, **[ভলিবল](/blog/volleyball-betting-guide-bangladesh/)**, **[হ্যান্ডবল](/blog/handball-betting-guide-bangladesh/)** এবং **[ঘোড়দৌড় (Horse Racing)](/blog/horse-racing-betting-guide-bangladesh/)** এর মতো খেলাতেও বাজি ধরতে পারেন। আরও জানতে আমাদের **[ক্রিকেট বেটিং অ্যাপ গাইড](/blog/best-cricket-betting-apps-bangladesh-2026/)** পড়ুন।
 
 <picture class="content-image">
   <source srcset="/assets/blog/sports-betting-app-interface-example-optimized.avif" type="image/avif">
@@ -82,3 +82,17 @@ faq:
 সব দিক বিবেচনা করে, **BoroJeet** বাংলাদেশী খেলোয়াড়দের জন্য সেরা প্যাকেজ অফার করে। এটি নিরাপদ, দ্রুত এবং স্থানীয় পেমেন্ট সমর্থন করে।
 
 আজই আপনার পছন্দের অ্যাপটি ডাউনলোড করুন এবং খেলা শুরু করুন! মনে রাখবেন, দায়িত্বশীলভাবে খেলা জরুরি। আমাদের **[দায়িত্বশীল গেমিং গাইড](/blog/guide-to-responsible-gaming-bangladesh/)** পড়ে নিরাপদ থাকার উপায়গুলো জেনে নিন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম](/blog/borojeet-sports-betting-rules-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু](/blog/esports-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Kabaddi Betting Guide: কাবাডি বেটিং গাইড এবং টিপস](/blog/kabaddi-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

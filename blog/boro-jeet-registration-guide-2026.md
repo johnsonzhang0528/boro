@@ -56,3 +56,17 @@ faq:
 মাঝেমধ্যে সার্ভার জ্যামের কারণে ওটিপি আসতে দেরি হতে পারে। সেক্ষেত্রে ৫ মিনিট অপেক্ষা করে "Resend Code" এ ক্লিক করুন। এরপরও সমস্যা হলে **Customer Support** এ লাইভ চ্যাট করতে পারেন।
 
 এখনই রেজিস্ট্রেশন সম্পন্ন করুন এবং Boro Jeet এর রোমাঞ্চকর জগতে প্রবেশ করুন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্যাডমিন্টন বেটিং গাইড](/blog/badminton-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)](/blog/kabaddi-pro-league-betting-tips/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)](/blog/table-tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking](/blog/record-keeping-for-bettors/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

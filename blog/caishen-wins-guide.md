@@ -40,3 +40,17 @@ When you land 4 Scatters, you don't just start the bonus. You are presented with
 Aside from the gamble, the base game uses the popular **Wilds-on-the-Way** mechanic, ensuring that even standard spins can pay out big wins via cascading combos (বড় জয়).
 
 [Play Caishen Wins (এখনই খেলুন)](/promotions/)
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Baccarat Shoe Length Explained: shoe count result-এ effect ফেলে?](/blog/baccarat-shoe-length-explained/) — Online casino games সম্পর্কিত practical checklist।
+- [Live Casino Latency Fairness Guide: delay মানেই unfair নাকি network issue?](/blog/live-casino-latency-fairness-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Slot Tournaments Guide: How to Win Top Prizes (স্লট টুর্নামেন্ট গাইড)](/blog/slot-tournaments-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Megaways Mechanics Explained: 117,649 Ways to Win (মেগাওয়েজ এর রহস্য)](/blog/megaways-slots-mechanics/) — Online casino games সম্পর্কিত practical checklist।
+- [Best Chinese New Year Slots 2026: Try Your Luck! (চীনা নববর্ষের স্লট)](/blog/chinese-new-year-slots/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

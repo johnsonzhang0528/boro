@@ -42,3 +42,17 @@ faq:
 Boro Jeet আন্তর্জাতিক **GDPR** (General Data Protection Regulation) এর নীতি মেনে চলে। তারা আপনার ফোন নম্বর বা ইমেইল তৃতীয় পক্ষের কাছে বিক্রি করে না।
 
 নিশ্চিন্তে গেম উপভোগ করুন, কারণ আপনার ডিজিটাল নিরাপত্তা Boro Jeet এর সর্বোচ্চ অগ্রাধিকার।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safest Betting Apps in Bangladesh (2026 Security Ranking) | নিরাপদ অ্যাপ](/blog/safest-betting-apps-bd-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Best Betting Apps in Bangladesh Bangla Version: app compare সহজে](/blog/best-betting-apps-in-bangladesh-bangla-version/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Aviator Game Predictor Scam BD: predictor app সত্যি নাকি ফাঁদ?](/blog/aviator-game-predictor-scam-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভেরিফিকেশন সমস্যা: OTP আসছে না?)](/blog/email-verification-issues/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

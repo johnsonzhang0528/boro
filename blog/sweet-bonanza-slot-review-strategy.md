@@ -82,3 +82,17 @@ Sweet Bonanza একটি অত্যন্ত বিনোদনমূলক 
   <p>BoroJeet-এ আজই Sweet Bonanza খেলুন এবং ২১,১০০ গুণ পর্যন্ত জেতার সুযোগ নিন!</p>
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">Play Sweet Bonanza Now</a>
 </div>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Exposed: Fake 'Admin' Scams on Telegram (সাবধান: টেলিগ্রাম ফেক অ্যাডমিন স্ক্যাম)](/blog/fake-admin-scams-telegram/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Casino Games Online Real Money BD: safe play ও bankroll basics](/blog/casino-games-online-real-money-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Dragon Tiger Side Bets Explained: Tie ও suited bet-এর risk কত?](/blog/dragon-tiger-side-bets-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladeshi Online Casino Game Guide: popular game ও safety basics](/blog/bangladeshi-online-casino-game-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

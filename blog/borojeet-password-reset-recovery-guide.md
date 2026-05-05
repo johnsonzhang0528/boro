@@ -44,3 +44,17 @@ layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-password-recovery
 *   প্রতি ৩ মাস পর পর পাসওয়ার্ড পরিবর্তন করার চেষ্টা করুন।
 
 Register on the website first to claim your bonus, then download the app for the best experience.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Slow Internet? Change DNS Settings for Faster Betting](/blog/dns-settings-for-better-speed/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Password Reset Link Expired Fix: link মেয়াদ শেষ হলে](/blog/password-reset-link-expired-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Line Movement Analysis: Why Do Odds Change?](/blog/line-movement-analysis/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)](/blog/contacting-licensing-authorities/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Calculate Implied Probability from Exchange Odds](/blog/implied-probability-calculation/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

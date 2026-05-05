@@ -61,3 +61,17 @@ Fan Tan-এ বিভিন্ন ধরণের বাজি ধরার স�
 Fan Tan একটি রোমাঞ্চকর এবং ধীর গতির গেম যা আপনাকে দীর্ঘ সময় বিনোদন দিতে পারে। আপনি যদি [Live Casino Games](/blog/live-casino-guide-blackjack-roulette-bangladesh/) পছন্দ করেন, তবে Fan Tan অবশ্যই ট্রাই করা উচিত। আজই [Borojeet](/)-এ যোগ দিন এবং এই ক্লাসিক গেমটি উপভোগ করুন।
 
 আরও জানতে আমাদের [Borojeet Mobile App](/blog/borojeet-mobile-app-lightweight-secure-design/) গাইডটি পড়ুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Peek Baccarat খেলার নিয়ম ও কৌশল (Peek Baccarat Game Guide & Strategy)](/blog/peek-baccarat-game-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Speed Baccarat খেলার নিয়ম ও সুবিধা (Speed Baccarat Game Guide & Strategy)](/blog/speed-baccarat-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম](/blog/live-dealer-blackjack-side-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Online Poker Guide for Beginners: বাংলাদেশে অনলাইন পোকার খেলার গাইড](/blog/online-poker-guide-for-beginners-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
+- [Limbo Game Guide & Strategy (লিম্বো গেম গাইড এবং কৌশল)](/blog/limbo-game-guide-strategy-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

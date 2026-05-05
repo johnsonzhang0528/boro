@@ -46,3 +46,17 @@ If your Google Drive/Gmail storage is full (15GB limit), you **cannot receive ne
 Add `support@borojeet.com` (or the relevant site email) to your Contacts. This forces Google to accept their messages.
 
 **Pro Tip**: Always use a primary Gmail account. Yahoo and Outlook are slower with betting OTPs.
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Best Betting Sites in Bangladesh Bangla: site বাছার 10 signal](/blog/best-betting-sites-in-bangladesh-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Game Bangladesh Bangla: slot, table, live game explained](/blog/online-casino-game-bangladesh-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Bangla Prediction Myth: pattern কি সত্যি কাজ করে?](/blog/crash-game-bangla-prediction-myth/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC Address Proof Guide: address proof হিসেবে কী accepted?](/blog/kyc-address-proof-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

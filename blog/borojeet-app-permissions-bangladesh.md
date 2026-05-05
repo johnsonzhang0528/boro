@@ -76,3 +76,17 @@ borojeet app নিয়ে decision নেওয়ার সময় তিনটি 
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [VPN Online Gambling Bangladesh Risk: VPN use করলে কী সমস্যা হতে পারে](/blog/vpn-online-gambling-bangladesh-risk/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC AML Online Gaming Bangladesh: verification কেন চাওয়া হয়](/blog/kyc-aml-online-gaming-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladesh Online Betting Legal Risk Checklist: safe decision framework](/blog/bangladesh-online-betting-legal-risk-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safe Online Casino Bangladesh Licensed Check: trust signal কীভাবে দেখবেন](/blog/safe-online-casino-bangladesh-licensed-check/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

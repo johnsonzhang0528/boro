@@ -45,3 +45,17 @@ faq:
 ## Conclusion
 
 শুরুতে **Decimal Odds** ব্যবহার করাই সবচেয়ে বুদ্ধিমানের কাজ। এটি হিসাব করা সহজ এবং Boro Jeet সহ সব এশিয়ান সাইটে এটিই ডিফল্ট থাকে।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্যাডমিন্টন বেটিং গাইড](/blog/badminton-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)](/blog/kabaddi-pro-league-betting-tips/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)](/blog/table-tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়](/blog/borojeet-password-reset-recovery-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

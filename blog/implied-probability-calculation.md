@@ -59,3 +59,17 @@ Stop looking at the potential payout. Start looking at the probability.
 If you can consistently find bets where the real chance is higher than the implied chance, you **will** make money in the long run.
 
 Now that you know how to find value, you need to know how much to bet. Read our [Kelly Criterion Guide](/blog/kelly-criterion-for-beginners/).
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল বেটিং](/blog/handball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Volleyball Betting Guide BD: Rules, Markets & Tips | ভলিবল বেটিং](/blog/volleyball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Best Sports Betting Apps in Bangladesh 2025: সেরা ৫টি অ্যাপের তালিকা](/blog/best-sports-betting-apps-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)](/blog/table-tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

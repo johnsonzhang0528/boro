@@ -76,3 +76,17 @@ bkash deposit minimum maximum betting নিয়ে decision নেওয়ার �
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Mobile Wallet Name Mismatch Bangladesh: bKash Nagad Rocket name issue](/blog/mobile-wallet-name-mismatch-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Deposit Wrong Reference Fix: reference ভুল হলে কী করবেন](/blog/rocket-deposit-wrong-reference-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Deposit Not Showing After TrxID: TrxID দিলেও balance না এলে](/blog/bkash-deposit-not-showing-after-trxid/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Deposit Pending After Successful Payment: payment success কিন্তু balance pending](/blog/nagad-deposit-pending-after-successful-payment/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?](/blog/bkash-withdrawal-pending-after-approval/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Betting App Bangladesh Guide: app, cashout ও safety](/blog/aviator-betting-app-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

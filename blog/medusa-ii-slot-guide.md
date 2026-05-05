@@ -45,3 +45,17 @@ This is a "Collection" style slot.
 Medusa II is perfect for players who enjoy a storyline and progressive gameplay. The battle animations between Perseus and Medusa add a layer of excitement rarely seen in mobile slots (রোমাঞ্চকর অ্যানিমেশন).
 
 [Play Medusa II (এখনই খেলুন)](/promotions/)
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Common Online Casino Myths Debunked: অনলাইন ক্যাসিনো সম্পর্কে ভুল ধারণা](/blog/common-online-casino-myths-debunked/) — Online casino games সম্পর্কিত practical checklist।
+- [Dream Catcher গেম গাইড: নিয়ম, কৌশল এবং বড় জয়ের টিপস](/blog/dream-catcher-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?](/blog/slot-hit-frequency-check-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins](/blog/slot-game-bangladesh-beginners-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Roulette Neighbor Bets Guide: racetrack bet বোঝার সহজ নিয়ম](/blog/roulette-neighbor-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

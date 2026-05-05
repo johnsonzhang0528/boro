@@ -76,3 +76,17 @@ nagad deposit limit online gaming নিয়ে decision নেওয়ার স�
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Nagad Rocket bKash Deposit Failed Checklist: proof ও support steps](/blog/nagad-rocket-bkash-deposit-failed-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [No Deposit Bonus BD Risk Checklist: free bonus সত্যি free?](/blog/no-deposit-bonus-bd-risk-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Mobile Wallet Proof Screenshot Betting BD: support-এ কী পাঠাবেন?](/blog/mobile-wallet-proof-screenshot-betting-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Cash Out Fee Calculator Guide: payout হাতে কত পাবেন?](/blog/nagad-cash-out-fee-calculator-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Missing Bonus After First Deposit: বোনাস না এলে কোথায় দেখবেন?](/blog/missing-bonus-after-first-deposit/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Mobile Wallet Logo Check on Betting Sites BD: fake logo warning](/blog/mobile-wallet-logo-check-betting-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

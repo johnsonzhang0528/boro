@@ -72,3 +72,17 @@ BoroJeet প্ল্যাটফর্মে আপনি নিচের গ�
 > **বিঃদ্রঃ** জুয়া বা বেটিং আর্থিক ঝুঁকির সাথে জড়িত। শুধুমাত্র ১৮+ বয়সীদের জন্য এবং নিজ দায়িত্বে খেলুন।
 
 [সম্পর্কিত পোস্ট: Aviator vs JetX তুলনা](/blog/aviator-vs-jetx-comparison/) | [অ্যাপ ডাউনলোড গাইড](/blog/borojeet-app-download-install-guide/)
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
+- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Fibonacci Betting Sequence in Aviator: Valid Math or Myth? (2026)](/blog/fibonacci-betting-sequence-aviator/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Best Time to Play Crash Games (2026): Is There a Lucky Hour?](/blog/best-time-to-play-crash-games/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Post-Crash Analysis (2026): How to Read Round History for Wins](/blog/post-crash-analysis-round-history/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [JetX vs Aviator (2026): Which Crash Game is Best for You?](/blog/jetx-vs-aviator-comparison-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

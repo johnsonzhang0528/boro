@@ -76,3 +76,17 @@ online gambling in bangladesh নিয়ে decision নেওয়ার সময়
 <p style="margin-top: 2em; text-align: center;">
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Betting App APK Bangladesh: safe install করার আগে ৭টি checklist](/blog/betting-app-apk-bangladesh-safe-install/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD Download Without Play Store BD: APK install safe way](/blog/borojeetbd-download-without-play-store-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD Official Link Google Search: fake result এড়াবেন কীভাবে](/blog/borojeetbd-official-link-google-search/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD APK Safe Update Checklist: update করার আগে কী দেখবেন](/blog/borojeetbd-apk-safe-update-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD App Download APK Bangla: safe install checklist](/blog/borojeetbd-app-download-apk-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

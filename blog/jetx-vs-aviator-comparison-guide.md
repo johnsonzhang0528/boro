@@ -53,3 +53,17 @@ JetX গেমে **Galaxy Jackpot** নামে একটি প্রগ্�
 *   যদি আপনি **ভালো গ্রাফিক্স** এবং ** জ্যাকপট** এর আশা করেন, তবে **JetX** আপনার জন্য উপযুক্ত।
 
 Boro Jeet প্ল্যাটফর্মে দুটি গেমই উপলব্ধ। আপনি চাইলে দুটিই ট্রাই করে দেখতে পারেন কোনটি আপনার লাকি চার্ম!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
+- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Cash or Crash Live Strategy (2026): Evolution Gaming's Best Tricks](/blog/cash-or-crash-live-strategy-evolution/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Spaceman Strategy Guide: প্র্যাগম্যাটিক প্লে-এর ক্র্যাশ গেমে জেতার উপায়](/blog/spaceman-pragmatic-play-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Funky Time Strategy Bangla: bonus rounds ও bet sizing guide](/blog/funky-time-strategy-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt](/blog/crazy-time-bangladesh-bonus-round-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

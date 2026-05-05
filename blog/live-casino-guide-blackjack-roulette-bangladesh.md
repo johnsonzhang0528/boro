@@ -166,3 +166,17 @@ faq:
 *   **[Boro Jeet Sic Bo Strategy Guide](/blog/boro-jeet-sic-bo-winning-strategy/)**
 
 এখন আপনি নিয়মগুলি জানেন, Borojeet-এর লাইভ ক্যাসিনো বিভাগে যান এবং আপনার ভাগ্য পরীক্ষা করুন!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Honey Trap of Diao Chan Strategy: 3 Free Spin Modes Explained (হানিত ট্র্যাপ গাইড)](/blog/honey-trap-of-diao-chan/) — Online casino games সম্পর্কিত practical checklist।
+- [Medusa II Slot Guide: The Curse of Athena (মেডুসা ২ গাইড)](/blog/medusa-ii-slot-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Caishen Wins Guide: How to Gamble for Free Spins (কাইশেন উইনস)](/blog/caishen-wins-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Ways of the Qilin Strategy: Mastering High Volatility (ওয়েস অফ দ্য কিলিন)](/blog/ways-of-the-qilin-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Ganesha Gold Strategy: Collecting Wilds for Big Wins (গণেশ গোল্ড স্ট্র্যাটেজি)](/blog/ganesha-gold-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

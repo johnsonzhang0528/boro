@@ -67,3 +67,17 @@ This is where Legacy of Dead shines.
 Legacy of Dead takes a proven formula and makes it more exciting. The possibility of having multiple expanding symbols creates heart-pounding moments that few other slots can match.
 
 Ready to open the tomb? **[Play Legacy of Dead on BoroJeet](/go/borojeet)** now!
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
+- [bKash Nagad Rocket Withdrawal Time BD: pending হলে কী করবেন?](/blog/bkash-nagad-rocket-withdrawal-time-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Rocket Nagad Payment Method Comparison: deposit কোনটা fast?](/blog/bkash-rocket-nagad-payment-method-comparison/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Betting App BD Low Deposit Guide: ছোট বাজেটে safe start](/blog/betting-app-bd-low-deposit-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Deposit Minimum Maximum Betting Guide: limit আগে জানুন](/blog/bkash-deposit-minimum-maximum-betting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [৫০ টাকা ডিপোজিট Casino Sites BD: low deposit খেললে কী risk?](/blog/50-taka-deposit-casino-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -66,3 +66,17 @@ Account বা app-related সমস্যা সবসময় serious breach ন
 ## Final takeaway
 
 Uninstall and Reinstall BoroJeet App issue fix করার সময় blind retry না করে context collect করুন। এতে account safe থাকে এবং resolution faster হয়।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Betting Meaning in Bengali: Beginner's Guide to Online Betting | বেটিং কি?](/blog/betting-meaning-in-bengali-beginners-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Horse Racing Betting in Bangladesh: A Complete Guide for Beginners (ঘোড়দৌড় বাজি)](/blog/horse-racing-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল বেটিং](/blog/handball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Volleyball Betting Guide BD: Rules, Markets & Tips | ভলিবল বেটিং](/blog/volleyball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়](/blog/borojeet-affiliate-program-guide-earn-money/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

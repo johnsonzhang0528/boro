@@ -74,3 +74,17 @@ If a big favorite plays an underdog, bet on the underdog with a +5.5 game handic
 Each Grand Slam has its own personality. By understanding the court surface and player strengths, you can find value bets that others miss.
 
 BoroJeet-এ টেনিস বেটিং উপভোগ করুন এবং গ্র্যান্ড স্ল্যাম টুর্নামেন্টগুলোর প্রতিটি ম্যাচের লাইভ আপডেট পান।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking](/blog/record-keeping-for-bettors/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [What is Value Betting? How to Spot Overpriced Odds](/blog/value-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [What is a Lay Bet? How to Be the Bookmaker](/blog/lay-bet-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->

@@ -47,3 +47,17 @@ Borojeet খেলোয়াড়দের নিরাপত্তার ব
 নিরাপদ ক্যাসিনো নির্বাচন করা আপনার দায়িত্ব। সর্বদা যাচাই-বাছাই করে খেলুন। <a href="/go/borojeet" rel="sponsored nofollow" target="_blank">Borojeet</a>-এ আমরা আপনার নিরাপত্তা নিশ্চিত করতে প্রতিশ্রুতিবদ্ধ।
 
 দায়িত্বশীল গেমিং সম্পর্কে জানতে <a href="/responsible-gaming">Responsible Gaming</a> পেজটি দেখুন।
+
+<!-- internal-links:fullmode:start -->
+## আরও পড়ুন: related guide
+
+এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
+
+- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
+- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Betting Legal Bangladesh Explained: law, risk ও safe behavior](/blog/online-betting-legal-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Signal Scam Alert Bangladesh: paid signal কেন risky](/blog/crash-game-signal-scam-alert-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crazy Time Bangla Bet Sizing Guide: low-risk stake plan](/blog/crazy-time-bangla-bet-sizing-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Cash Game Bangladesh Strategy Guide: bankroll, timing ও risk](/blog/cash-game-bangladesh-strategy-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+
+<!-- internal-links:fullmode:end -->
