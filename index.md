@@ -44,6 +44,12 @@ faq:
       <p>
         <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">Boro Jeet অ্যাপ ডাউনলোড করুন (APK)</a>
       </p>
+      <p class="note" style="display: flex; flex-wrap: wrap; gap: 8px 16px;">
+        <span>দ্রুত সহায়তা:</span>
+        <a href="/borojeet-login/">Login গাইড</a>
+        <a href="/borojeet-apk-download/">APK Download</a>
+        <a href="/borojeet-bkash-deposit/">bKash Deposit</a>
+      </p>
     </div>
     <div class="img-frame">
       <picture class="hero-image" data-critical="true">

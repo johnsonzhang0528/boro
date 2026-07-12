@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [{ "type": "host", "value": "www.borojeetbd.com" }],
-      "destination": "https://borojeetbd.com/:path*",
+      "destination": "https://borojeetbd.com/$1",
       "statusCode": 301
     },
     {
