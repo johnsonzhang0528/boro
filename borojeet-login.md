@@ -43,6 +43,11 @@ faq:
       <li><strong>OTP verify করুন (প্রয়োজনে):</strong> নতুন device থেকে login করলে SMS-এ OTP আসবে — ২ মিনিটের মধ্যে দিন।</li>
     </ol>
     <p>এখনও account নেই? <a href="/blog/borojeet-safe-registration-bangladesh/">নিরাপদ registration গাইড</a> দেখে ২ মিনিটে account খুলুন এবং <a href="/promotions/newbie/">নতুন প্লেয়ার বোনাস</a> claim করুন।</p>
+    <picture class="content-image">
+      <source srcset="/assets/blog/borojeet-casino-login-guide-hero-optimized.avif" type="image/avif">
+      <source srcset="/assets/blog/borojeet-casino-login-guide-hero-optimized.webp" type="image/webp">
+      <img src="/assets/blog/borojeet-casino-login-guide-hero-optimized.webp" alt="BoroJeet login guide — smartphone login screen for Bangladesh players" width="800" height="450" loading="lazy" decoding="async">
+    </picture>
   </section>
 
   <section class="card" aria-labelledby="problems">

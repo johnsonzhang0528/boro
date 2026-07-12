@@ -72,7 +72,7 @@ Boro Jeet-এ নিরাপদ এবং ঝামেলামুক্ত গ
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet Casino Login Guide: safe login, OTP ও account security](/blog/borojeet-casino-login-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet Login Guide: লগইন সমস্যার সমাধান ও নিরাপদ গাইড](/borojeet-login/) — Login, OTP ও account security-র সম্পূর্ণ hub guide।
 - [Best Online Casino Game BD Beginners: risk কম রেখে শুরু করবেন কীভাবে](/blog/best-online-casino-game-bd-beginners/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Live Casino Bangladesh Mobile Guide: low latency ও safe play checklist](/blog/live-casino-bangladesh-mobile-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Crash Game Signal Scam BD Warning: predictor group কেন risky](/blog/crash-game-signal-scam-bd-warning/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।

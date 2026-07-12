@@ -121,7 +121,7 @@ faq:
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Cash Game Bangladesh Strategy Guide: bankroll, timing ও risk](/blog/cash-game-bangladesh-strategy-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Best Betting Sites Bangladesh Bangla 2026: low-risk comparison guide](/blog/best-betting-sites-bangladesh-bangla-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet Casino Login Guide: safe login, OTP ও account security](/blog/borojeet-casino-login-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet Login Guide: লগইন সমস্যার সমাধান ও নিরাপদ গাইড](/borojeet-login/) — Login, OTP ও account security-র সম্পূর্ণ hub guide।
 - [Best Online Casino Game BD Beginners: risk কম রেখে শুরু করবেন কীভাবে](/blog/best-online-casino-game-bd-beginners/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->
