@@ -1,6 +1,12 @@
 {
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.borojeetbd.com" }],
+      "destination": "https://borojeetbd.com/:path*",
+      "statusCode": 301
+    },
+    {
       "source": "/promotions/special/deposit-boost-bonus(/)?",
       "destination": "/promotions/daily/deposit-boost-bonus/",
       "permanent": true

@@ -841,6 +841,16 @@
     </p>
   </footer>
 
+  {# --- Sticky conversion CTA (money bar) — activates the existing .sticky-cta styles; shown site-wide, dismissible --- #}
+  <div class="sticky-cta" id="stickyCta" role="complementary" aria-label="BoroJeet registration offer">
+    <span class="note" style="color: var(--text); flex: 1; min-width: 0;">🎁 <strong>400% Welcome Bonus</strong> — নতুন প্লেয়ারদের জন্য</span>
+    <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank" style="white-space: nowrap;">রেজিস্টার করুন</a>
+    <button type="button" aria-label="Close" onclick="var e=document.getElementById('stickyCta'); if(e){e.classList.add('hide');} try{localStorage.setItem('stickyCtaClosed','1');}catch(_){}" style="background: none; border: 0; color: var(--muted); font-size: 20px; line-height: 1; cursor: pointer; padding: 0 4px;">&times;</button>
+  </div>
+  <script>
+    (function(){ try{ if(localStorage.getItem('stickyCtaClosed')==='1'){ var e=document.getElementById('stickyCta'); if(e){ e.classList.add('hide'); } } }catch(_){} })();
+  </script>
+
   <script src="/assets/universal-performance.js" defer></script>
   <script>
     // Optimized DOM updates to prevent forced reflow
