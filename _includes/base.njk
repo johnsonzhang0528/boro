@@ -808,6 +808,8 @@
           <li><a href="/borojeet-login/">BoroJeet Login Guide</a></li>
           <li><a href="/borojeet-apk-download/">BoroJeet APK Download</a></li>
           <li><a href="/borojeet-bkash-deposit/">bKash Deposit Guide</a></li>
+          <li><a href="/tools/cash-out-charge-calculator/">Cash Out Charge Calculator</a></li>
+          <li><a href="/tools/wagering-calculator/">Wagering Calculator</a></li>
           <li><a href="/blog/best-cricket-betting-apps-bangladesh-2026/">Best Betting Apps (APK)</a></li>
           <li><a href="/blog/guide-to-crash-games-bangladesh/">Crash Games Strategy</a></li>
           <li><a href="/blog/ultimate-guide-to-cricket-betting-in-bangladesh/">Cricket Betting Guide</a></li>
@@ -830,6 +832,7 @@
           <li><a href="/privacy/">Privacy Policy</a></li>
           <li><a href="/kyc/">KYC Policy</a></li>
           <li><a href="/responsible-gaming/">Responsible Gaming</a></li>
+          <li><a href="/bangladesh-gambling-law-2026/">জুয়া প্রতিরোধ আইন ২০২৬</a></li>
           <li><a href="/underage-gaming/">Underage Gaming</a></li>
           <li><a href="/anti-money-laundering/">AML Policy</a></li>
         </ul>
@@ -844,7 +847,8 @@
     </p>
   </footer>
 
-  {# --- Sticky conversion CTA (money bar) — activates the existing .sticky-cta styles; shown site-wide, dismissible --- #}
+  {# --- Sticky conversion CTA (money bar) — activates the existing .sticky-cta styles; shown site-wide, dismissible. Pages can opt out with hideStickyCta: true --- #}
+  {% if not hideStickyCta %}
   <div class="sticky-cta" id="stickyCta" role="complementary" aria-label="BoroJeet registration offer">
     <span class="note" style="color: var(--text); flex: 1; min-width: 0;">🎁 <strong>400% Welcome Bonus</strong> — নতুন প্লেয়ারদের জন্য</span>
     <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank" style="white-space: nowrap;">রেজিস্টার করুন</a>
@@ -853,6 +857,7 @@
   <script>
     (function(){ try{ if(localStorage.getItem('stickyCtaClosed')==='1'){ var e=document.getElementById('stickyCta'); if(e){ e.classList.add('hide'); } } }catch(_){} })();
   </script>
+  {% endif %}
 
   <script src="/assets/universal-performance.js" defer></script>
   <script>

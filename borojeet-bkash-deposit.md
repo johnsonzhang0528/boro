@@ -54,6 +54,7 @@ faq:
       <li><strong>Payment-এর screenshot রাখুন:</strong> সমস্যা হলে support-এ প্রমাণ হিসেবে কাজে লাগবে।</li>
       <li><strong>Deposit bonus চেক করুন:</strong> deposit-এর আগে <a href="/promotions/">চলমান promotion</a> দেখে নিন — অনেক সময় deposit boost অফার থাকে।</li>
       <li><strong>Wallet limit মাথায় রাখুন:</strong> bKash-এর নিজস্ব daily/monthly limit আছে — <a href="/blog/bkash-deposit-minimum-maximum-betting-guide/">bKash limit গাইড</a> দেখুন।</li>
+      <li><strong>Cash out চার্জ আগে হিসাব করুন:</strong> জেতার টাকা তুলতে কত কাটবে জানতে আমাদের <a href="/tools/cash-out-charge-calculator/">bKash/Nagad চার্জ ক্যালকুলেটর</a> ব্যবহার করুন।</li>
     </ul>
   </section>
 
