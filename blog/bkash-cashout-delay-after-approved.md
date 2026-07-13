@@ -67,6 +67,9 @@ bKash Cashout Delay After Approved issue সাধারণত তিন ধর�
 
 bKash Cashout Delay After Approved issue resolve করতে speed-এর চেয়ে clarity বেশি গুরুত্বপূর্ণ। Exact status, proof, আর context একসাথে দিলে support resolution অনেক দ্রুত হয়।
 
+
+<p>&#128161; <strong>টিপ:</strong> Cash out করার আগে কত চার্জ কাটবে জেনে নিন আমাদের ফ্রি <a href="/tools/cash-out-charge-calculator/">bKash/Nagad চার্জ ক্যালকুলেটর</a> দিয়ে।</p>
+
 <!-- internal-links:fullmode:start -->
 ## আরও পড়ুন: related guide
 

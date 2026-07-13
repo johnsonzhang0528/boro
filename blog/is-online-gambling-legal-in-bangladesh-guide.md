@@ -31,6 +31,11 @@ howto:
 
 <p class="lead">Is Online Gambling Legal in Bangladesh নিয়ে Bangladesh search demand বাড়ছে, কিন্তু অনেক user শুধু headline দেখে decision নেয়। এই guide-এ is online gambling legal in bangladesh topic-কে practical, Bengali-dominant এবং risk-awareভাবে explain করা হয়েছে, যাতে আপনি blind guess না করে informed action নিতে পারেন।</p>
 
+<div class="law-update-box" style="background: rgba(220, 38, 38, 0.08); border: 1px solid #7f1d1d; border-radius: 12px; padding: 16px 20px; margin: 24px 0;">
+  <strong>&#9878;&#65039; আইন আপডেট (১ জুলাই ২০২৬):</strong> <a href="/bangladesh-gambling-law-2026/">জুয়া প্রতিরোধ আইন, ২০২৬</a> কার্যকর হয়েছে — অনলাইন জুয়ায় অংশগ্রহণ এখন স্পষ্টভাবে ফৌজদারি অপরাধ (সর্বোচ্চ ৫ বছরের কারাদণ্ড বা ১ কোটি টাকা জরিমানা), VPN ব্যবহারেও ছাড় নেই এবং MFS লেনদেন মানি লন্ডারিং আইনের আওতায় পড়ে। এই আর্টিকেলের যেকোনো তথ্যের আগে নতুন আইনটি জেনে নিন।
+</div>
+
+
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/is-online-gambling-legal-in-bangladesh-guide-hero-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/is-online-gambling-legal-in-bangladesh-guide-hero-optimized.webp" type="image/webp">
@@ -91,7 +96,7 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)](/blog/multi-accounting-risks/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Bonus Abuse Warning Bangladesh: কোন কাজ account risk বাড়ায়?](/blog/bonus-abuse-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [How to Use a VPN for Gambling: Safe Servers for Bangladesh](/blog/how-to-use-a-vpn-for-gambling/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [জুয়া প্রতিরোধ আইন ২০২৬: অনলাইন জুয়ার নতুন আইন ব্যাখ্যা](/bangladesh-gambling-law-2026/) — Legal, safety ও responsible play-র সম্পূর্ণ আইনি প্রেক্ষাপট।
 - [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

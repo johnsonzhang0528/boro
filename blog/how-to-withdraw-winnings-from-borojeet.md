@@ -126,6 +126,9 @@ BoroJeet থেকে টাকা তোলা একটি সহজ এবং
 
 মনে রাখবেন, দায়িত্বশীলভাবে খেলুন এবং আপনার আর্থিক সীমার মধ্যে থাকুন। আপনার জেতার জন্য আবারও অভিনন্দন!
 
+
+<p>&#128161; <strong>টিপ:</strong> Cash out করার আগে কত চার্জ কাটবে জেনে নিন আমাদের ফ্রি <a href="/tools/cash-out-charge-calculator/">bKash/Nagad চার্জ ক্যালকুলেটর</a> দিয়ে।</p>
+
 <!-- internal-links:fullmode:start -->
 ## আরও পড়ুন: related guide
 

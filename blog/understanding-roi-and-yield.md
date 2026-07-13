@@ -58,7 +58,7 @@ A positive Yield over 1000 bets proves you have an **Edge**.
 Stop bragging about your "Big Win". Show me your Yield over 500 bets.
 That number tells me if you are a gambler or an investor.
 
-This concludes our Pro Trading Pillar. Next, we tackle the technical headaches in Pillar 5, starting with [How to Use a VPN for Gambling](/blog/how-to-use-a-vpn-for-gambling/).
+This concludes our Pro Trading Pillar. Before you continue, make sure you understand the [current legal landscape in Bangladesh](/bangladesh-gambling-law-2026/).
 
 <!-- internal-links:fullmode:start -->
 ## আরও পড়ুন: related guide

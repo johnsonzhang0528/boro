@@ -77,6 +77,9 @@ borojeet welcome bonus terms নিয়ে decision নেওয়ার সময় 
   <a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank">BoroJeet official page দেখুন</a>
 </p>
 
+
+<p>&#128161; <strong>টিপ:</strong> বোনাস নেওয়ার আগে turnover requirement আসলে কত টাকার bet দাঁড়ায় — হিসাব করে নিন আমাদের ফ্রি <a href="/tools/wagering-calculator/">Wagering Calculator</a> দিয়ে।</p>
+
 <!-- internal-links:fullmode:start -->
 ## আরও পড়ুন: related guide
 

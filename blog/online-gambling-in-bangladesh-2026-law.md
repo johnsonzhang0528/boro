@@ -31,6 +31,11 @@ howto:
 
 <p class="lead">Online Gambling in Bangladesh 2026 Law নিয়ে confusion থাকা স্বাভাবিক, কারণ এই topic-এ rule, risk, timing, আর expectation একসাথে কাজ করে। এই guide-এর লক্ষ্য হলো jargon কমিয়ে practical decision framework দেওয়া, যাতে আপনি blind guess না করে informed action নিতে পারেন।</p>
 
+<div class="law-update-box" style="background: rgba(220, 38, 38, 0.08); border: 1px solid #7f1d1d; border-radius: 12px; padding: 16px 20px; margin: 24px 0;">
+  <strong>&#9878;&#65039; আইন আপডেট (১ জুলাই ২০২৬):</strong> <a href="/bangladesh-gambling-law-2026/">জুয়া প্রতিরোধ আইন, ২০২৬</a> কার্যকর হয়েছে — অনলাইন জুয়ায় অংশগ্রহণ এখন স্পষ্টভাবে ফৌজদারি অপরাধ (সর্বোচ্চ ৫ বছরের কারাদণ্ড বা ১ কোটি টাকা জরিমানা), VPN ব্যবহারেও ছাড় নেই এবং MFS লেনদেন মানি লন্ডারিং আইনের আওতায় পড়ে। এই আর্টিকেলের যেকোনো তথ্যের আগে নতুন আইনটি জেনে নিন।
+</div>
+
+
 <picture class="content-image" data-critical="true">
   <source srcset="/assets/blog/online-gambling-in-bangladesh-2026-law-hero-optimized.avif" type="image/avif">
   <source srcset="/assets/blog/online-gambling-in-bangladesh-2026-law-hero-optimized.webp" type="image/webp">

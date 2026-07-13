@@ -118,6 +118,6 @@ BoroJeet প্ল্যাটফর্ম সম্পর্কে আরও �
 - [KYC Address Proof Guide: address proof হিসেবে কী accepted?](/blog/kyc-address-proof-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)](/blog/multi-accounting-risks/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Bonus Abuse Warning Bangladesh: কোন কাজ account risk বাড়ায়?](/blog/bonus-abuse-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [How to Use a VPN for Gambling: Safe Servers for Bangladesh](/blog/how-to-use-a-vpn-for-gambling/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [জুয়া প্রতিরোধ আইন ২০২৬: অনলাইন জুয়ার নতুন আইন ব্যাখ্যা](/bangladesh-gambling-law-2026/) — Legal, safety ও responsible play-র সম্পূর্ণ আইনি প্রেক্ষাপট।
 
 <!-- internal-links:fullmode:end -->

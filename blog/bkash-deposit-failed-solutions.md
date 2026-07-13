@@ -43,6 +43,9 @@ faq:
 ## Conclusion
 সবসময় পেমেন্ট পেজে দেওয়া নির্দেশাবলী হুবহু অনুসরণ করুন। 'Send Money' করবেন না, সবসময় **'Cash Out'** অপশন ব্যবহার করুন যদি না অন্য কিছু বলা থাকে।
 
+
+<p>&#128161; <strong>টিপ:</strong> Cash out করার আগে কত চার্জ কাটবে জেনে নিন আমাদের ফ্রি <a href="/tools/cash-out-charge-calculator/">bKash/Nagad চার্জ ক্যালকুলেটর</a> দিয়ে।</p>
+
 <!-- internal-links:fullmode:start -->
 ## আরও পড়ুন: related guide
 
