@@ -72,11 +72,11 @@ Toss Winner vs Match Winner Correlation profitable হতে পারে, ক�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Handicap Betting in Cricket: How to Bet on Mismatched Games](/blog/handicap-betting-cricket-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket X Game Winning Tips (2026): Strategy for Boro Jeet Players](/blog/cricket-x-winning-tips-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL Betting Bangladesh 2026: সেরা অ্যাপ ও জয়ের কৌশল | Ultimate Guide](/blog/ipl-betting-guide-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Fire Joker Slot Review: Wheel of Multipliers (ফায়ার জোকার স্লট)](/blog/fire-joker-slot-review-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [Fruit Party Slot Review: Cluster Pays & Multipliers | ফ্রুট পার্টি স্লট](/blog/fruit-party-slot-review/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল ২০২৬ বেটিং](/blog/ipl-2026-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Test Match Session Betting Guide: session বাজারে value খোঁজার নিয়ম](/blog/test-match-session-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?](/blog/rain-affected-match-betting-rules/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cash Game Khelar Koushol Bangladesh 2026: safe session plan](/blog/cash-game-khelar-koushol-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [সেরা Cricket Betting Site in Bangladesh: কোন criteria দেখবেন?](/blog/sera-cricket-betting-site-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?](/blog/lightning-roulette-multiplier-risk-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Player Assists Betting Guide: creator stats explained](/blog/world-cup-2026-player-assists-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Opening Week Betting Plan BD: first matches strategy](/blog/world-cup-2026-opening-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts](/blog/world-cup-2026-mobile-betting-checklist-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll](/blog/world-cup-2026-night-match-betting-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?](/blog/world-cup-2026-live-odds-movement-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Clean Sheet Betting Strategy: Defensive Masterclass (ক্লিন শিট বেটিং)](/blog/clean-sheet-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Virtual Football League Tips: Winning at Non-Stop Soccer (ভার্চুয়াল ফুটবল বেটিং টিপস)](/blog/virtual-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw Prediction Strategies: Betting on the 'X' (কিভাবে ড্র ম্যাচের ভবিষ্যদ্বাণী করবেন)](/blog/draw-prediction-strategies/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Goalscorers Market Guide: First, Last & Anytime Scorer (গোলস্কোরার বেটিং নির্দেশিকা)](/blog/goalscorers-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Half-Time/Full-Time (HT/FT) Ways to Win Big (হাফ টাইম/ফুল টাইম গাইড)](/blog/ht-ft-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Card Betting Strategy: Predicting Yellow & Red Cards (কার্ড বাজি গাইড)](/blog/card-and-booking-points-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

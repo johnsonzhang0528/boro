@@ -42,6 +42,9 @@ howto:
 
 Crazy Time একটি মানি হুইল গেম যা ড্রিম ক্যাচার (Dream Catcher) কনসেপ্টের উপর ভিত্তি করে তৈরি। এতে ৫৪টি সেগমেন্ট আছে এবং প্রতিটি স্পিনে একটি "Top Slot" ফিচার থাকে যা জয়ের পরিমাণ বাড়িয়ে দিতে পারে।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="crazy_time_live_game_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 খেলার নিয়ম খুবই সহজ। আপনাকে শুধু বাজি ধরতে হবে যে চাকাটি কোথায় থামবে।
@@ -75,7 +78,7 @@ Crazy Time-এর জাদুকরী দুনিয়ায় হারি
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Medusa II Slot Guide: The Curse of Athena (মেডুসা ২ গাইড)](/blog/medusa-ii-slot-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Honey Trap of Diao Chan Strategy: 3 Free Spin Modes Explained (হানিত ট্র্যাপ গাইড)](/blog/honey-trap-of-diao-chan/) — Online casino games সম্পর্কিত practical checklist।
 - [Ganesha Gold Strategy: Collecting Wilds for Big Wins (গণেশ গোল্ড স্ট্র্যাটেজি)](/blog/ganesha-gold-strategy/) — Online casino games সম্পর্কিত practical checklist।
 - [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
 - [Fan Tan Strategy Guide: Mastering the Beads](/blog/fan-tan-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।

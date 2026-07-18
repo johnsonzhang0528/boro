@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained](/blog/funky-time-bangladesh-live-show-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Funky Time Rules Bangladesh: multiplier, bonus ও payout explained](/blog/funky-time-rules-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Aviator Auto Cashout Settings Guide: low-risk multiplier plan](/blog/aviator-auto-cashout-settings-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Casino Crash Game খেলার নিয়ম: multiplier, cashout ও risk](/blog/casino-crash-game-khelar-niyom/) — Cricket betting সম্পর্কিত practical checklist।
-- [What is Liquidity in Cricket Betting? Why It Matters](/blog/liquidity-in-cricket-markets/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App APK Bangladesh: safe install করার checklist](/blog/cricket-betting-app-apk-bangladesh-safe-install/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং](/blog/boro-jeet-vs-bjbaji-cricket-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই](/blog/boro-jeet-vs-mcw-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

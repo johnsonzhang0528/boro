@@ -59,11 +59,11 @@ Usually, the moment they see a formal Curacao complaint, they will contact *you*
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [BoroJeet Official Link Bookmark Guide: mirror confusion avoid করুন](/blog/borojeet-official-link-bookmark-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet App Download without Play Store: Android user guide](/blog/boro-jeet-app-download-without-play-store/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boroijt Search Result Guide: ভুল spelling থেকেও official BoroJeet খুঁজুন](/blog/boroijt-search-result-borojeet-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Official Site Login Guide: সঠিক site থেকে login করবেন কীভাবে](/blog/borojeetbd-official-site-login-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [How to Calculate Implied Probability from Exchange Odds](/blog/implied-probability-calculation/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Arbitrage Betting in Bangladesh: Is it Possible?](/blog/arbitrage-betting-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Play Without App on Mobile Browser: app ছাড়াই full site ব্যবহার](/blog/play-without-app-mobile-browser/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Change Your Registered Phone Number (কিভাবে রেজিস্টার্ড ফোন নম্বর পরিবর্তন করবেন)](/blog/changing-registered-phone-number/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Volleyball Betting Guide BD: Rules, Markets & Tips | ভলিবল বেটিং](/blog/volleyball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

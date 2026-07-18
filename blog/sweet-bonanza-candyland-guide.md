@@ -40,6 +40,9 @@ howto:
 
 এটি একটি মানি হুইল গেম যেখানে ৫৪টি সেগমেন্ট আছে। গেমটির স্টুডিওটি একটি ক্যান্ডি ল্যান্ডের মতো সাজানো হয়েছে, যেখানে ললিপপ, ক্যান্ডি এবং চকোলেটের ছড়াছড়ি।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="sweet_bonanza_candyland_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 1.  **বাজি ধরা**: আপনি ১, ২, ৫, ১০ নম্বরে বাজি ধরতে পারেন। এছাড়াও ৩টি বোনাস গেম আছে: Sweet Spins, Candy Drop, এবং Bubble Surprise।
@@ -70,10 +73,10 @@ howto:
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Boro Jeet Andar Bahar: Winning Tricks & Strategy | অন্দর বাহার](/blog/boro-jeet-andar-bahar-winning-tricks/) — Online casino games সম্পর্কিত practical checklist।
-- [Boro Jeet Sic Bo: Dice Game Strategy & Tips | সিক বো](/blog/boro-jeet-sic-bo-winning-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Boro Jeet Blackjack: Winning Tips & Strategy Guide | ব্ল্যাকজ্যাক](/blog/boro-jeet-blackjack-winning-tips/) — Online casino games সম্পর্কিত practical checklist।
-- [Boro Jeet Dragon Tiger: Simple Winning Tricks | ড্রাগন টাইগার](/blog/boro-jeet-dragon-tiger-game-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Boro Jeet Baccarat: Winning Strategies & Live Dealer Guide | ব্যাকারাত গেম](/blog/boro-jeet-baccarat-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)](/blog/roulette-outside-bets-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Speed Baccarat খেলার নিয়ম ও সুবিধা (Speed Baccarat Game Guide & Strategy)](/blog/speed-baccarat-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Fan Tan খেলার নিয়ম এবং জয়ের কৌশল (Fan Tan Game Guide & Strategy)](/blog/fan-tan-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)](/blog/super-sic-bo-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম](/blog/live-dealer-blackjack-side-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

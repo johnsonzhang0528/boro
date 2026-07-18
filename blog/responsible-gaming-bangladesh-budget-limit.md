@@ -73,10 +73,10 @@ Responsible Gaming Bangladesh Budget Limit নিয়ে smart approach হলো
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Tax Risk Online Gambling Bangladesh 2026: payout record কেন রাখবেন](/blog/tax-risk-online-gambling-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Early Cashout vs Full-Time Value: cash out করলে value হারাচ্ছেন?](/blog/early-cashout-vs-full-time-value/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Crash Betting Game Cashout Chart BD: 1.3x, 1.5x, 2x risk map](/blog/crash-betting-game-cashout-chart-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Crash Game Bangladesh Real Money Guide: safe cashout ও bankroll plan](/blog/crash-game-bangladesh-real-money-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Cash or Crash Game Bangladesh Guide: collect নাকি cashout?](/blog/cash-or-crash-game-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino Crash Game Bangladesh Guide: crash market ও safe cashout](/blog/casino-crash-game-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Game Tips and Tricks Bangla: auto cashout কীভাবে set করবেন](/blog/aviator-game-tips-and-tricks-bangla/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

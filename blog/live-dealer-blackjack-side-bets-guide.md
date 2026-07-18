@@ -2,7 +2,17 @@
 lastUpdated: 2025-12-28
 description: "Blackjack খেলায় Side Bets কী? Perfect Pairs এবং 21+3 এর নিয়ম, পে-আউট এবং জেতার সম্ভাবনা সম্পর্কে বিস্তারিত জানুন। কখন সাইড বেট ধরা উচিত?"
 title: "Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম"
-layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-blackjack-side-bets-optimized.webp"ogImageAlt: "ব্ল্যাকজ্যাক টেবিলের সাইড বেট অপশনগুলো হাইলাইট করা হয়েছে।"tags: ["post", "guide", "blackjack", "live-casino"]faq:  - question: "What is the payout for Perfect Pairs?"    answer: "Perfect Pairs এর পে-আউট সাধারণত ২৫:১ পর্যন্ত হতে পারে, যদি আপনি একই সুট এবং একই মানের দুটি কার্ড পান।"  - question: "Is 21+3 a good bet?"    answer: "21+3 সাইড বেটটি পোকার হ্যান্ডের উপর ভিত্তি করে এবং এটি ১০০:১ পর্যন্ত পে-আউট দিতে পারে (Suited Trips এর জন্য)।"
+layout: "post.njk"
+lang: "bn-BD"
+date: 2025-12-28
+ogImage: "og-blackjack-side-bets-optimized.webp"
+ogImageAlt: "ব্ল্যাকজ্যাক টেবিলের সাইড বেট অপশনগুলো হাইলাইট করা হয়েছে।"
+tags: ["post", "guide", "blackjack", "live-casino"]
+faq:
+  - question: "What is the payout for Perfect Pairs?"
+    answer: "Perfect Pairs এর পে-আউট সাধারণত ২৫:১ পর্যন্ত হতে পারে, যদি আপনি একই সুট এবং একই মানের দুটি কার্ড পান।"
+  - question: "Is 21+3 a good bet?"
+    answer: "21+3 সাইড বেটটি পোকার হ্যান্ডের উপর ভিত্তি করে এবং এটি ১০০:১ পর্যন্ত পে-আউট দিতে পারে (Suited Trips এর জন্য)।"
 ---
 
 <p class="lead">লাইভ ব্ল্যাকজ্যাক খেলার সময় আপনি কি কখনো টেবিলের পাশে ছোট ছোট গোল ঘরগুলো লক্ষ্য করেছেন? এগুলোই হলো <strong>Side Bets</strong>। এগুলো আপনার সাধারণ ব্ল্যাকজ্যাক খেলাকে আরও রোমাঞ্চকর এবং লাভজনক করে তুলতে পারে।</p>
@@ -18,6 +28,9 @@ layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-blackjack-side-be
 </picture>
 
 সাইড বেট হলো মূল খেলার ফলাফলের বাইরে অতিরিক্ত বাজি। আপনি মূল বাজি (Main Bet) না ধরে সাইড বেট ধরতে পারবেন না। তবে, আপনি মূল বাজিতে হেরে গেলেও সাইড বেটে জিততে পারেন।
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="live_dealer_blackjack_side_bets_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## ১. Perfect Pairs (পারফেক্ট পেয়ারস)
 
@@ -49,9 +62,9 @@ layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-blackjack-side-be
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
 - [Limbo Game Guide & Strategy (লিম্বো গেম গাইড এবং কৌশল)](/blog/limbo-game-guide-strategy-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
+- [Top 5 Live Casino Games on BoroJeet: Real Dealer Experience (সেরা ৫টি লাইভ ক্যাসিনো গেম)](/blog/top-5-live-casino-games-on-borojeet/) — Online casino games সম্পর্কিত practical checklist।
 - [Dream Catcher গেম গাইড: নিয়ম, কৌশল এবং বড় জয়ের টিপস](/blog/dream-catcher-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
 - [Andar Bahar Game Rules: অন্দর বাহার খেলার নিয়ম ও কৌশল](/blog/andar-bahar-guide-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
 - [মাছ ধরার খেলা (Fishing Game) গাইড: নতুনদের জন্য নিয়ম ও কৌশল](/blog/fishing-game-guide-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
-- [Borojeet-এ Highest RTP সহ সেরা ৫টি Slot Games (2025)](/blog/top-5-high-rtp-slots-borojeet/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

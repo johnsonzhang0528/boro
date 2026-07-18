@@ -72,11 +72,11 @@ Cricket Powerplay Live Betting BD profitable হতে পারে, কিন�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড](/blog/ultimate-guide-to-cricket-betting-odds/) — Cricket betting সম্পর্কিত practical checklist।
-- [Wicket Method Betting Explained: caught, bowled, lbw market কী?](/blog/wicket-method-betting-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Test Match Session Betting Guide: session বাজারে value খোঁজার নিয়ম](/blog/test-match-session-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Toss Winner vs Match Winner Correlation: correlation কতটা real?](/blog/toss-winner-vs-match-winner-correlation/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Live Odds Bangladesh App Guide: live odds বুঝবেন কীভাবে](/blog/cricket-live-odds-bangladesh-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম](/blog/cricket-session-betting-bangla-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

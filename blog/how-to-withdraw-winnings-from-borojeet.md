@@ -85,7 +85,7 @@ BoroJeet-এ যোগ দিন এবং দ্রুত ও নিরাপ�
 
 **ধাপ ২:** "উইথড্র" বা "ক্যাশিয়ার" সেকশনে যান। আপনার প্রোফাইল বা মেন্যু থেকে "Withdraw", "Cashier" বা "টাকা তোলা" অপশনটি খুঁজে বের করুন।
 
-**ধাপ ৩:** আপনার পছন্দের পেমেন্ট পদ্ধতি বেছে নিন (bKash, Nagad, [Rocket](/blog/rocket-payment-guide-for-betting-bangladesh/) বা ব্যাংক ট্রান্সফার)।
+**ধাপ ৩:** আপনার পছন্দের পেমেন্ট পদ্ধতি বেছে নিন (bKash, Nagad, [Rocket](/blog/rocket-payment-guide/) বা ব্যাংক ট্রান্সফার)।
 
 **ধাপ ৪:** টাকার পরিমাণ লিখুন। মনে রাখবেন, প্রতিটি প্ল্যাটফর্মের সর্বনিম্ন ও সর্বোচ্চ সীমা রয়েছে।
 
@@ -134,11 +134,11 @@ BoroJeet থেকে টাকা তোলা একটি সহজ এবং
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Rocket Payment Failed? How to Troubleshoot Casino Deposits](/blog/rocket-payment-failed-troubleshooting/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Wrong Agent Number? How to Fix Casino Deposit Mistakes](/blog/wrong-agent-number-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Nagad System Maintenance? How to Fix Deposit Delays](/blog/nagad-maintenance-troubleshooting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Nagad Casino Deposit & Withdrawal Guide: নগদ দিয়ে ক্যাসিনোতে লেনদেন](/blog/nagad-casino-deposit-withdrawal-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Agent Banking Deposit Guide: Bkash, Nagad & Rocket | এজেন্ট ব্যাংকিং ডিপোজিট গাইড](/blog/agent-banking-deposit-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Transaction ID (TrxID) যাচাই করার নিয়ম: ডিপোজিট সমস্যা সমাধান](/blog/how-to-verify-bkash-transaction-id/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Sic Bo Game Guide: Rules, Payouts & Strategy | সিক বো খেলার নিয়ম](/blog/sic-bo-game-guide-strategy/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [বাংলাদেশে ক্রিপ্টোকারেন্সি ক্যাসিনো ডিপোজিট গাইড: Bitcoin, USDT এবং আরও অনেক কিছু](/blog/cryptocurrency-deposit-guide-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Betting App Bangladesh Guide: app, cashout ও safety](/blog/aviator-betting-app-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Safest Betting App for Bangladesh: license, KYC ও payment signal](/blog/safest-betting-app-for-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

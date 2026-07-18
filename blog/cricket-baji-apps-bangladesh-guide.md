@@ -82,11 +82,11 @@ Google Search Console signal অনুযায়ী এই cluster-এ opportunit
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম](/blog/cricket-session-betting-bangla-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Scalping Strategy in Cricket Betting: Small Profits, Big Gains](/blog/scalping-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Sixes Market Cricket Betting Guide: total sixes market বোঝার নিয়ম](/blog/sixes-market-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Player Props Cricket Betting Guide: batter ও bowler props কীভাবে ধরবেন](/blog/player-props-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis](/blog/powerplay-betting-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Online Cricket Betting Bangladesh Tips: data দেখে decision নিন](/blog/online-cricket-betting-bangladesh-tips/) — Cricket betting সম্পর্কিত practical checklist।
+- [How to Trade a T20 Cricket Match: A Step-by-Step Guide](/blog/trading-a-t20-match/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

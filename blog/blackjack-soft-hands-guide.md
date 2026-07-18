@@ -73,10 +73,10 @@ Blackjack Soft Hands Guide উপভোগ করতে চাইলে rules fi
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Bombing Fishing Strategy Guide: Explosive Wins in Bangladesh](/blog/bombing-fishing-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Dinosaur Tycoon Fishing Game Guide: Hunt Big Wins in Bangladesh](/blog/dinosaur-tycoon-fishing-game-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Royal Fishing Winning Tricks: How to Catch the Dragon King](/blog/royal-fishing-winning-tricks-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
-- [Sweet Bonanza CandyLand Strategy & Guide (Sweet Bonanza CandyLand গাইড)](/blog/sweet-bonanza-candyland-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Funky Time Live Game Guide & Strategy (Funky Time লাইভ গেম গাইড)](/blog/funky-time-live-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Blackjack Surrender Guide: surrender option কবে ব্যবহার করবেন?](/blog/blackjack-surrender-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Best Casino Slots to Play Online BD: beginner slot selection guide](/blog/best-casino-slots-to-play-online-bd/) — Online casino games সম্পর্কিত practical checklist।
+- [Banker Player Commission Explained: Baccarat-এ commission কেন কাটা হয়?](/blog/banker-player-commission-explained/) — Online casino games সম্পর্কিত practical checklist।
+- [Baccarat Shoe Length Explained: shoe count result-এ effect ফেলে?](/blog/baccarat-shoe-length-explained/) — Online casino games সম্পর্কিত practical checklist।
+- [Live Casino Latency Fairness Guide: delay মানেই unfair নাকি network issue?](/blog/live-casino-latency-fairness-guide/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -72,11 +72,11 @@ Lightning Roulette Multiplier Risk Guide উপভোগ করতে চাই�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained](/blog/funky-time-bangladesh-live-show-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Funky Time Rules Bangladesh: multiplier, bonus ও payout explained](/blog/funky-time-rules-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [What is a Back Bet? The Traditional Way to Bet on Cricket](/blog/back-bet-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison](/blog/top-betting-sites-cricket-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

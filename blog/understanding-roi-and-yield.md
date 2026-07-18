@@ -65,11 +65,11 @@ This concludes our Pro Trading Pillar. Before you continue, make sure you unders
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [How to Change Your Registered Phone Number (কিভাবে রেজিস্টার্ড ফোন নম্বর পরিবর্তন করবেন)](/blog/changing-registered-phone-number/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা](/blog/new-betting-apps-2026-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Kelly Criterion: How Much Money Should You Bet?](/blog/kelly-criterion-for-beginners/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Gambler's Fallacy: Why You Are Not 'Due' for a Win](/blog/gamblers-fallacy/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

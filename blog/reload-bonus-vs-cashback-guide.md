@@ -74,9 +74,9 @@ Reload Bonus vs Cashback Guide useful হতে পারে, যদি terms �
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?](/blog/bonus-abuse-what-counts/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?](/blog/birthday-bonus-eligibility-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Bonus Turnover Bangla Calculator 2026: wagering amount বুঝবেন কীভাবে](/blog/bonus-turnover-bangla-calculator-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Best Betting Bonus Bangladesh New Users: welcome offer claim checklist](/blog/best-betting-bonus-bangladesh-new-users/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Durga Puja Betting Bonus Bangladesh 2026: October promo checklist](/blog/durga-puja-betting-bonus-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

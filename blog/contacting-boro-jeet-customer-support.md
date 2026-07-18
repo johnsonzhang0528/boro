@@ -21,7 +21,7 @@ Facing an issue with your deposit, login, or withdrawal? **Boro Jeet** provides 
 
 This guide lists the verified methods to get help instantly.
 
-> **⚠️ SCAM ALERT:** Beware of fake admins on Telegram requesting money. Read our guide on **[How to Spot Fake Admin Scams](/blog/fake-admin-scams-telegram/)** before contacting anyone on social media.
+> **⚠️ SCAM ALERT:** Beware of fake admins on Telegram requesting money. Read our guide on **How to Spot Fake Admin Scams** before contacting anyone on social media.
 
 ## 1. Live Chat (Fastest Method)
 The quickest way to resolve 90% of issues is via the in-app Live Chat.
@@ -33,6 +33,9 @@ The quickest way to resolve 90% of issues is via the in-app Live Chat.
     2.  Click the "Headset" icon (usually bottom right).
     3.  Select your issue category (Deposit, Withdrawal, etc.).
     4.  Connect with a human agent.
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="contacting_boro_jeet_customer_support_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## 2. Official Email Support
 For complex issues requiring document submission (like KYC verification or account unlocking), email is best.
@@ -70,11 +73,11 @@ By using these official channels, you can solve your problems quickly and safely
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use](/blog/borojeetbd-lightweight-app-low-data/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
 - [BoroJeetBD Account Location Alert BD: location mismatch কেন আসে?](/blog/borojeetbd-account-location-alert-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [BoroJeetBD Login OTP Delay Fix: OTP দেরি হলে সমাধান](/blog/borojeetbd-login-otp-delay-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Official Link Bookmark Guide: mirror confusion avoid করুন](/blog/borojeet-official-link-bookmark-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet App Download without Play Store: Android user guide](/blog/boro-jeet-app-download-without-play-store/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boroijt Search Result Guide: ভুল spelling থেকেও official BoroJeet খুঁজুন](/blog/boroijt-search-result-borojeet-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

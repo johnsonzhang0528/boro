@@ -25,7 +25,7 @@ faq:
 **Online casinos**-এর সবচেয়ে আকর্ষণীয় দিক হলো তাদের লোভনীয় **bonus offers**, যা বিভিন্ন [অনলাইন ক্যাসিনো গেমে](/blog/ultimate-guide-to-online-casino-games-bangladesh/) ব্যবহার করা যায়। কিন্তু প্রায়ই এই বোনাসের সাথে এমন কিছু শর্তাবলী যুক্ত থাকে যা নতুন খেলোয়াড়দের জন্য বোঝা কঠিন হয়ে পড়ে। এর মধ্যে সবচেয়ে গুরুত্বপূর্ণ এবং বিভ্রান্তিকর শব্দটি হলো **"Wagering Requirement"** (ওয়েজারিং রিকোয়ারমেন্ট), যা অনেক সময় "**Turnover**" নামেও পরিচিত।
 
 এই গাইডে, আমরা সহজ ভাষায় ব্যাখ্যা করব ওয়েজারিং রিকোয়ারমেন্ট কী, এটি কীভাবে কাজ করে এবং কেন ক্যাসিনোগুলো এই শর্ত আরোপ করে। 
-(আপনার বর্তমান বোনাস প্রগ্রেস চেক করতে চান? আমাদের **[বোনাস ট্র্যাকিং গাইড](/blog/bonus-wagering-verification/)** দেখুন।)
+(আপনার বর্তমান বোনাস প্রগ্রেস চেক করতে চান? আমাদের **বোনাস ট্র্যাকিং গাইড** দেখুন।)
 
 ## Wagering Requirement কী?
 
@@ -132,18 +132,18 @@ faq:
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering](/blog/free-spin-bonus-bangladesh-slot-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?](/blog/bonus-abuse-what-counts/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Reload Bonus vs Cashback Guide: কোন reward model বেশি useful?](/blog/reload-bonus-vs-cashback-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?](/blog/birthday-bonus-eligibility-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Bonus Turnover Bangla Calculator 2026: wagering amount বুঝবেন কীভাবে](/blog/bonus-turnover-bangla-calculator-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Best Betting Bonus Bangladesh New Users: welcome offer claim checklist](/blog/best-betting-bonus-bangladesh-new-users/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Durga Puja Betting Bonus Bangladesh 2026: October promo checklist](/blog/durga-puja-betting-bonus-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeet Welcome Bonus Terms Bangla 2026: wagering আগে বুঝুন](/blog/borojeet-welcome-bonus-terms-bangla-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [BoroJeetBD Register First App Install: bonus tracking হারাবেন না](/blog/borojeetbd-register-first-app-install/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [BoroJeet App Download Bonus Tracking: register first কেন জরুরি?](/blog/borojeet-app-download-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Eid Bonus Betting Bangladesh 2026: claim করার আগে terms পড়ুন](/blog/eid-bonus-betting-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Buy vs Normal Spin: Is It Worth It? (বোনাস কেনা কি লাভজনক?)](/blog/bonus-buy-vs-normal-spin/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Crazy Time Bonus Rounds Explained: Pachinko, Cash Hunt & More](/blog/crazy-time-bonus-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet VIP Program Explained: সুবিধা এবং স্তরসমূহ](/blog/boro-jeet-vip-program-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Crazy Time Stats & Trackers: How to Predict the Next Bonus? | ক্রেজি টাইম স্ট্যাটিসটিক্স](/blog/crazy-time-stats-tracker-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Crazy Time বোনাস রাউন্ড বিস্তারিত: Pachinko, Cash Hunt, Coin Flip ও Crazy Time](/blog/crazy-time-bonus-rounds-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeet Cashback Bonus: লস হলেও টাকা ফেরত!](/blog/borojeet-cashback-bonus-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeet Best Bonus Guide: কোন অফারটি সবচেয়ে লাভজনক?](/blog/best-value-borojeet-promotions-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeet Welcome Bonus Terms Bangla 2026: wagering আগে বুঝুন](/blog/borojeet-welcome-bonus-terms-bangla-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -72,11 +72,11 @@ Online Cricket Betting Bangladesh Tips 2026 profitable হতে পারে, �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained](/blog/funky-time-bangladesh-live-show-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Funky Time Rules Bangladesh: multiplier, bonus ও payout explained](/blog/funky-time-rules-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Aviator Auto Cashout Settings Guide: low-risk multiplier plan](/blog/aviator-auto-cashout-settings-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Casino Crash Game খেলার নিয়ম: multiplier, cashout ও risk](/blog/casino-crash-game-khelar-niyom/) — Cricket betting সম্পর্কিত practical checklist।
-- [ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide](/blog/cricket-baji-dhorar-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Toss Prediction: How Pitch Reports Decide the Match](/blog/ipl-2026-toss-prediction-pitch-report/) — Cricket betting সম্পর্কিত practical checklist।
+- [High Risk, High Reward: Strategy for Hunting 100x Multipliers (2026)](/blog/high-risk-high-reward-crash-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket X Game Winning Tips (2026): Strategy for Boro Jeet Players](/blog/cricket-x-winning-tips-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL Betting Bangladesh 2026: সেরা অ্যাপ ও জয়ের কৌশল | Ultimate Guide](/blog/ipl-betting-guide-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Fire Joker Slot Review: Wheel of Multipliers (ফায়ার জোকার স্লট)](/blog/fire-joker-slot-review-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Fruit Party Slot Review: Cluster Pays & Multipliers | ফ্রুট পার্টি স্লট](/blog/fruit-party-slot-review/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

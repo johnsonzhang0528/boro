@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?](/blog/rain-affected-match-betting-rules/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cash Game Khelar Koushol Bangladesh 2026: safe session plan](/blog/cash-game-khelar-koushol-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?](/blog/lightning-roulette-multiplier-risk-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained](/blog/funky-time-bangladesh-live-show-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Funky Time Rules Bangladesh: multiplier, bonus ও payout explained](/blog/funky-time-rules-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Tips App BD: কোন data দেখে mobile bet নেবেন?](/blog/cricket-betting-tips-app-bd-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App with bKash Nagad BD: deposit-friendly app guide](/blog/cricket-betting-app-with-bkash-nagad-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide](/blog/cricket-betting-apps-real-money-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং](/blog/boro-jeet-vs-bjbaji-cricket-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই](/blog/boro-jeet-vs-mcw-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

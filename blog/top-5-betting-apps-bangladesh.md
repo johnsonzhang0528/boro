@@ -88,10 +88,10 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Both Halves Over 0.5 Goals: market logic ও match selection](/blog/both-halves-over-0-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Corners Over/Under Live Betting: live match-এ corner market analysis](/blog/corners-over-under-live-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Asian Total Goals Betting Guide: Over/Under-এর advanced version](/blog/asian-total-goals-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Mega Ball Bonus Ticket Explained: bonus card ও payout কীভাবে কাজ করে](/blog/mega-ball-bonus-ticket-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Favorites Accumulator Risk Guide: safe combo thinking](/blog/world-cup-2026-favorites-accumulator-risk-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market](/blog/world-cup-2026-draw-no-bet-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Clean Sheet Market Guide: defence stats কীভাবে পড়বেন](/blog/world-cup-2026-clean-sheet-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

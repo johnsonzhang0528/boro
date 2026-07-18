@@ -73,10 +73,10 @@ bKash Deposit Not Showing After TrxID issue resolve করতে speed-এর �
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Manual Deposit Verification Time: manual approve হতে কতক্ষণ লাগে?](/blog/manual-deposit-verification-time/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Safest Betting App for Bangladesh: license, KYC ও payment signal](/blog/safest-betting-app-for-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?](/blog/international-betting-apps-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Deposit Pending After Successful Payment: payment success কিন্তু balance pending](/blog/nagad-deposit-pending-after-successful-payment/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?](/blog/bkash-withdrawal-pending-after-approval/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Rocket Nagad Payment Method Comparison: deposit কোনটা fast?](/blog/bkash-rocket-nagad-payment-method-comparison/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Betting App BD Low Deposit Guide: ছোট বাজেটে safe start](/blog/betting-app-bd-low-deposit-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Deposit Minimum Maximum Betting Guide: limit আগে জানুন](/blog/bkash-deposit-minimum-maximum-betting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

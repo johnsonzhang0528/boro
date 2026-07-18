@@ -77,11 +77,11 @@ Underage Gambling Warning Bangladesh নিয়ে smart approach হলো first
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Fortune Gems Slot Review: ফরচুন জেমস স্লট রিভিউ এবং কৌশল](/blog/fortune-gems-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Golden Empire Slot Review: গোল্ডেন এম্পায়ার স্লট রিভিউ এবং কৌশল](/blog/golden-empire-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Super Ace Slot Review: সুপার এস স্লট রিভিউ এবং কৌশল](/blog/super-ace-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Money Coming Slot Review & Strategy: High RTP Guide (মানি কামিং স্লট রিভিউ)](/blog/money-coming-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Top 10 Betting Sites in Bangladesh 2026 | বাংলাদেশের সেরা ১০টি বেটিং সাইট](/blog/top-10-betting-sites-bangladesh-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Account Hacked? Immediate Recovery Steps (অ্যাকাউন্ট হ্যাক হয়েছে? পুনরুদ্ধারের উপায়)](/blog/account-hacked-recovery/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [VPN Online Gambling Bangladesh Risk: VPN use করলে কী সমস্যা হতে পারে](/blog/vpn-online-gambling-bangladesh-risk/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC AML Online Gaming Bangladesh: verification কেন চাওয়া হয়](/blog/kyc-aml-online-gaming-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safe Online Casino Bangladesh Licensed Check: trust signal কীভাবে দেখবেন](/blog/safe-online-casino-bangladesh-licensed-check/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladesh Online Betting Legal Risk Checklist: safe decision framework](/blog/bangladesh-online-betting-legal-risk-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD APK Safe Update Checklist: update করার আগে কী দেখবেন](/blog/borojeetbd-apk-safe-update-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD App Download APK Bangla: safe install checklist](/blog/borojeetbd-app-download-apk-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ boro jeet app download নিয়ে decision নেওয়ার সময় তি
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?](/blog/betting-apps-android-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Accumulator (Multibet) Betting Guide: High Odds, High Reward](/blog/accumulator-multibet-strategy-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [CS:GO (CS2) Betting Guide: Map Winners and Handicaps](/blog/esports-csgo-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Official Social Media Groups: Telegram, Facebook & WhatsApp](/blog/official-social-media-communities/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -72,11 +72,11 @@ Cricket Wicket Line Betting Guide BD profitable হতে পারে, কি�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Player Performance Market Bangla: runs, wickets, catches](/blog/cricket-player-performance-market-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Live Score Odds Bangladesh: score দেখে odds পড়ার নিয়ম](/blog/cricket-live-score-odds-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App Bangla Review: speed, market ও payment compare](/blog/cricket-betting-app-bangla-review/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Bonus Asia Cup 2026: bonus terms আগে পড়ুন](/blog/cricket-betting-bonus-asia-cup-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Bangladesh Cricket Market Guide 2026: runs, wickets ও innings market](/blog/bangladesh-cricket-market-guide-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Best Cricket Betting Odds in Bangladesh (2026 Analysis) | সেরা অডস](/blog/best-cricket-betting-odds-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [BD Cricket Betting App Download Guide: safe APK ও browser option](/blog/bd-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Live Odds Bangladesh App Guide: live odds বুঝবেন কীভাবে](/blog/cricket-live-odds-bangladesh-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

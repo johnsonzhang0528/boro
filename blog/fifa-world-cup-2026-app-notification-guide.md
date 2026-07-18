@@ -82,11 +82,11 @@ world cup app notification নিয়ে decision নেওয়ার সময় �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Asian Handicap Guide Bangla: line বুঝুন সহজে](/blog/world-cup-2026-asian-handicap-guide-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [England France World Cup 2026 Betting Preview: odds, squad ও market](/blog/world-cup-2026-england-france-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide](/blog/world-cup-2026-argentina-brazil-betting-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bonus Offer Bangladesh: promo claim করার আগে terms দেখুন](/blog/world-cup-2026-bonus-offer-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Responsible Betting Checklist: tournament budget control](/blog/world-cup-2026-responsible-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [FIFA World Cup 2026 App Bangladesh Safe Install: APK ও alert setup](/blog/fifa-world-cup-2026-app-bangladesh-safe-install/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Clean Sheet Betting Strategy: Defensive Masterclass (ক্লিন শিট বেটিং)](/blog/clean-sheet-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Virtual Football League Tips: Winning at Non-Stop Soccer (ভার্চুয়াল ফুটবল বেটিং টিপস)](/blog/virtual-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [ISL (Indian Super League) Betting Guide for Bangladesh (বাংলাদেশি ভক্তদের জন্য ISL বেটিং)](/blog/isl-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw Prediction Strategies: Betting on the 'X' (কিভাবে ড্র ম্যাচের ভবিষ্যদ্বাণী করবেন)](/blog/draw-prediction-strategies/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Goalscorers Market Guide: First, Last & Anytime Scorer (গোলস্কোরার বেটিং নির্দেশিকা)](/blog/goalscorers-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Asian Handicap in Football: A Simple Guide (এশিয়ান হ্যান্ডিক্যাপ নির্দেশিকা)](/blog/asian-handicap-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

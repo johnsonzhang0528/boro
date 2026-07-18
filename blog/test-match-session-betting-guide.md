@@ -72,11 +72,11 @@ Test Match Session Betting Guide profitable হতে পারে, কিন্
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BD Cricket Betting App Download Guide: safe APK ও browser option](/blog/bd-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Site Bangladesh bKash Nagad: payment-ready checklist](/blog/cricket-betting-site-bangladesh-bkash-nagad/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Baji App Bangladesh Safe Choice: app বাছাইয়ের practical guide](/blog/cricket-baji-app-bangladesh-safe-choice/) — Cricket betting সম্পর্কিত practical checklist।
-- [Online Cricket Betting Bangladesh Tips 2026: beginner থেকে structured plan](/blog/online-cricket-betting-bangladesh-tips-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [সেরা Cricket Betting Sites Bangladesh Bangla: safe choice checklist](/blog/sera-cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Session Expired Login Fix: বারবার logout হলে সমাধান](/blog/session-expired-login-fix/) — Cricket betting সম্পর্কিত practical checklist।
+- [Toss Winner vs Match Winner Correlation: correlation কতটা real?](/blog/toss-winner-vs-match-winner-correlation/) — Cricket betting সম্পর্কিত practical checklist।
+- [Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?](/blog/rain-affected-match-betting-rules/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cash Game Khelar Koushol Bangladesh 2026: safe session plan](/blog/cash-game-khelar-koushol-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?](/blog/lightning-roulette-multiplier-risk-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Casino Crash Game খেলার নিয়ম: multiplier, cashout ও risk](/blog/casino-crash-game-khelar-niyom/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

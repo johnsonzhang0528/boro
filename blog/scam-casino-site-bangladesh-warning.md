@@ -73,10 +73,10 @@ Scam Casino Site Bangladesh Warning নিয়ে smart approach হলো first 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [No Deposit Bonus BD Risk Checklist: free bonus সত্যি free?](/blog/no-deposit-bonus-bd-risk-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Fake Online Casino BD Red Flags: deposit করার আগে warning signs](/blog/fake-online-casino-bd-red-flags/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Free Bonus Without Deposit BD Guide: ফ্রি বোনাসের real terms](/blog/free-bonus-without-deposit-bd-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Duplicate Deposit Request Problem: একই ডিপোজিট দুইবার গেলে কী করবেন?](/blog/duplicate-deposit-request-problem/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Failed Payment After Network Timeout: টাকা কাটা গেলেও update না এলে](/blog/failed-payment-after-network-timeout/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Crash Game BD Cashout Plan: auto cashout না manual?](/blog/aviator-crash-game-bd-cashout-plan/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Screenshot Proof bKash Nagad: support-এ কোন screenshot দেবেন](/blog/payment-screenshot-proof-bkash-nagad/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Withdrawal Fee Net Amount Guide: payout থেকে fee বাদ দিলে কত](/blog/rocket-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Deposit Pending After Successful Payment: payment success কিন্তু balance pending](/blog/nagad-deposit-pending-after-successful-payment/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?](/blog/bkash-withdrawal-pending-after-approval/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

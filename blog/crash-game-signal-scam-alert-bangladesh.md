@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Reactoonz Slot Review: Cluster Pays & Gargantoon (রিয়্যাক্টুনজ স্লট)](/blog/reactoonz-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Wolf Gold Slot Review: Money Respin & Jackpots (উলফ গোল্ড স্লট)](/blog/wolf-gold-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Gonzo's Quest Slot Review: Avalanche Feature & Free Falls (গনজোস কোয়েস্ট)](/blog/gonzos-quest-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Starburst Slot Review: Low Volatility & Frequent Wins (স্টারবার্স্ট স্লট)](/blog/starburst-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Cash Game Bangladesh Strategy Guide: bankroll, timing ও risk](/blog/cash-game-bangladesh-strategy-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling in Bangladesh 2026 Law: risk ও reality explained](/blog/online-gambling-in-bangladesh-2026-law/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Jua Ain Bangladesh Bangla 2026: অনলাইন জুয়া আইন সহজ ভাষায়](/blog/online-jua-ain-bangladesh-bangla-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safest Betting Apps in Bangladesh (2026 Security Ranking) | নিরাপদ অ্যাপ](/blog/safest-betting-apps-bd-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crazy Time Bangla Bet Sizing Guide: low-risk stake plan](/blog/crazy-time-bangla-bet-sizing-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Best Betting Sites Bangladesh Bangla 2026: low-risk comparison guide](/blog/best-betting-sites-bangladesh-bangla-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -89,9 +89,9 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন](/blog/wagering-requirement-bonus-guide-bd/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা](/blog/wagering-requirements-meaning-bangla/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [VIP Cashback vs Rebate Bangladesh: কোন reward বেশি useful?](/blog/vip-cashback-vs-rebate-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Monopoly Live 2 Rolls vs 4 Rolls: কোন bonus segment বেশি value?](/blog/monopoly-live-2-rolls-vs-4-rolls/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering](/blog/free-spin-bonus-bangladesh-slot-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Turnover Bangla Calculator 2026: wagering amount বুঝবেন কীভাবে](/blog/bonus-turnover-bangla-calculator-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Durga Puja Betting Bonus Bangladesh 2026: October promo checklist](/blog/durga-puja-betting-bonus-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

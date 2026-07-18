@@ -19,6 +19,9 @@ faq:
 
 **Sic Bo** (মানে "মূল্যবান ডাইস") এশিয়ার ক্যাসিনোগুলোতে অত্যন্ত জনপ্রিয়। সহজ নিয়ম এবং দ্রুত গেমপ্লে একে অনন্য করে তুলেছে।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="sic_bo_patterns_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Understanding the Bets
 
 ### 1. Small & Big (ছোট ও বড়)
@@ -51,10 +54,10 @@ Sic Bo একটি পিওর লাক গেম, কিন্তু আপ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Caishen Wins Guide: How to Gamble for Free Spins (কাইশেন উইনস)](/blog/caishen-wins-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Honey Trap of Diao Chan Strategy: 3 Free Spin Modes Explained (হানিত ট্র্যাপ গাইড)](/blog/honey-trap-of-diao-chan/) — Online casino games সম্পর্কিত practical checklist।
+- [Medusa II Slot Guide: The Curse of Athena (মেডুসা ২ গাইড)](/blog/medusa-ii-slot-guide/) — Online casino games সম্পর্কিত practical checklist।
 - [Ways of the Qilin Strategy: Mastering High Volatility (ওয়েস অফ দ্য কিলিন)](/blog/ways-of-the-qilin-strategy/) — Online casino games সম্পর্কিত practical checklist।
 - [Ganesha Gold Strategy: Collecting Wilds for Big Wins (গণেশ গোল্ড স্ট্র্যাটেজি)](/blog/ganesha-gold-strategy/) — Online casino games সম্পর্কিত practical checklist।
 - [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Live Roulette Strategy: Lightning Roulette Tricks](/blog/lightning-roulette-strategy/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

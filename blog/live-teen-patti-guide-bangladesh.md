@@ -73,10 +73,10 @@ faq:
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [Corners Over/Under Live Betting: live match-এ corner market analysis](/blog/corners-over-under-live-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Asian Total Goals Betting Guide: Over/Under-এর advanced version](/blog/asian-total-goals-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Mega Ball Bonus Ticket Explained: bonus card ও payout কীভাবে কাজ করে](/blog/mega-ball-bonus-ticket-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Football Betting App Bangladesh World Cup: mobile setup ও safety guide](/blog/football-betting-app-bangladesh-world-cup/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?](/blog/over-1-5-goals-vs-over-2-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Corners & Cards Market Guide: stats কীভাবে পড়বেন](/blog/world-cup-2026-corners-card-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 bKash Nagad Deposit Timing: match আগে payment plan](/blog/world-cup-2026-bkash-nagad-deposit-timing/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 BTTS Betting Guide: both teams to score market](/blog/world-cup-2026-btts-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting Bankroll Plan BD: 39-day tournament budget](/blog/world-cup-2026-betting-bankroll-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting Bonuses BD: bonus claim করার আগে terms দেখুন](/blog/world-cup-2026-betting-bonuses-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

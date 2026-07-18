@@ -82,11 +82,11 @@ borojeet app not opening নিয়ে decision নেওয়ার সময় ত�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use](/blog/borojeetbd-lightweight-app-low-data/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Account Location Alert BD: location mismatch কেন আসে?](/blog/borojeetbd-account-location-alert-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Login OTP Delay Fix: OTP দেরি হলে সমাধান](/blog/borojeetbd-login-otp-delay-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Official Link Bookmark Guide: mirror confusion avoid করুন](/blog/borojeet-official-link-bookmark-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Tennis Grand Slam Betting Guide: Wimbledon to US Open (টেনিস গ্র্যান্ড স্ল্যাম বেটিং)](/blog/tennis-grand-slam-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Account Suspended? Reasons & How to Restore (2026)](/blog/boro-jeet-account-suspended-reasons-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Contact Boro Jeet Customer Support: Live Chat, Email & WhatsApp](/blog/contacting-boro-jeet-customer-support/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting Meaning in Bengali: Beginner's Guide to Online Betting | বেটিং কি?](/blog/betting-meaning-in-bengali-beginners-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Horse Racing Betting in Bangladesh: A Complete Guide for Beginners (ঘোড়দৌড় বাজি)](/blog/horse-racing-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল বেটিং](/blog/handball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

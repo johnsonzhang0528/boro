@@ -34,6 +34,9 @@ Bombing Fishing is all about area-of-effect (AOE) damage. Instead of just shooti
   <img src="/assets/blog/bombing-fishing-gameplay-optimized.webp" alt="Bombing Fishing gameplay showing a torpedo explosion" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="bombing_fishing_strategy_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## The Torpedo System
 
 In Bombing Fishing, you have access to three types of torpedoes, each with different costs and blast radii. Using the right torpedo for the right situation is key to winning.
@@ -76,10 +79,10 @@ For a more traditional experience, try [Royal Fishing](/blog/royal-fishing-winni
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Blackjack বেসিক স্ট্র্যাটেজি: নতুনদের জন্য গাইড (Blackjack Basic Strategy Guide)](/blog/blackjack-basic-strategy-guide-beginners/) — Online casino games সম্পর্কিত practical checklist।
+- [Speed Baccarat খেলার নিয়ম ও সুবিধা (Speed Baccarat Game Guide & Strategy)](/blog/speed-baccarat-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Fan Tan খেলার নিয়ম এবং জয়ের কৌশল (Fan Tan Game Guide & Strategy)](/blog/fan-tan-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)](/blog/super-sic-bo-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
 - [Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম](/blog/live-dealer-blackjack-side-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Top 5 Live Casino Games on BoroJeet: Real Dealer Experience (সেরা ৫টি লাইভ ক্যাসিনো গেম)](/blog/top-5-live-casino-games-on-borojeet/) — Online casino games সম্পর্কিত practical checklist।
-- [Dream Catcher গেম গাইড: নিয়ম, কৌশল এবং বড় জয়ের টিপস](/blog/dream-catcher-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?](/blog/slot-hit-frequency-check-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins](/blog/slot-game-bangladesh-beginners-guide/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -80,11 +80,11 @@ Ready for an alien invasion? **[Play Reactoonz on BoroJeet](/go/borojeet)** now!
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Best Betting App Bangladesh Download: Android APK safe setup](/blog/best-betting-app-bangladesh-download/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Download Without Play Store BD: APK install safe way](/blog/borojeetbd-download-without-play-store-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Official Link Google Search: fake result এড়াবেন কীভাবে](/blog/borojeetbd-official-link-google-search/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD APK Safe Update Checklist: update করার আগে কী দেখবেন](/blog/borojeetbd-apk-safe-update-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Boro Jeet vs Parimatch BD: Which App is Better? | সেরা অ্যাপ তুলনা](/blog/boro-jeet-vs-parimatch-app-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD App Permission Safety Bangla: কোন permission normal?](/blog/borojeetbd-app-permission-safety-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeetBD Secure Shared Device Login: shared phone safety guide](/blog/borojeetbd-secure-shared-device-login/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet Official APK vs Fake APK: কীভাবে চিনবেন?](/blog/borojeet-official-apk-vs-fake-apk/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Betting App APK Bangladesh: safe install করার আগে ৭টি checklist](/blog/betting-app-apk-bangladesh-safe-install/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Boro Jeet App Download APK Safe Guide: website first, app second](/blog/boro-jeet-app-download-apk-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

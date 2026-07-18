@@ -19,6 +19,9 @@ faq:
 
 Boro Jeet-এর অভিজ্ঞতার পূর্ণাঙ্গ স্বাদ পেতে হলে আপনাকে আমাদের সোশ্যাল মিডিয়া কমিউনিটির অংশ হতে হবে। এখানে কেবল আপডেটই দেওয়া হয় না, বরং **Exclusive Promo Codes** এবং **Daily Predictions** সম্পূর্ণ ফ্রিতে শেয়ার করা হয়।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="official_social_media_communities_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## 1. Official Telegram Channel (টেলিগ্রাম চ্যানেল)
 
 আমাদের সবচেয়ে সক্রিয় এবং গুরুত্বপূর্ণ প্ল্যাটফর্ম হলো টেলিগ্রাম।
@@ -55,11 +58,11 @@ Boro Jeet-এর অভিজ্ঞতার পূর্ণাঙ্গ স্�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Boro Jeet Alternative Links: Official Mirror Sites (2026 Updated)](/blog/boro-jeet-alternative-links-official-mirror/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Horse Racing Betting in Bangladesh: A Complete Guide for Beginners (ঘোড়দৌড় বাজি)](/blog/horse-racing-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল বেটিং](/blog/handball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়](/blog/borojeet-affiliate-program-guide-earn-money/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

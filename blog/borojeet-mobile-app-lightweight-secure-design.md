@@ -85,11 +85,11 @@ BoroJeet মোবাইল অ্যাপটি গতি, নিরাপত�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crazy Time জেতার কৌশল Bangla: risk control ও bonus round plan](/blog/crazy-time-jetar-koushol-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Megapari Crash Game Alternatives BD: safe comparison checklist](/blog/megapari-crash-game-alternatives-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crash Game Signal Scam Alert Bangladesh: paid signal কেন risky](/blog/crash-game-signal-scam-alert-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crazy Time Bangla Bet Sizing Guide: low-risk stake plan](/blog/crazy-time-bangla-bet-sizing-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Gonzo's Quest Slot Review: Avalanche Feature & Free Falls (গনজোস কোয়েস্ট)](/blog/gonzos-quest-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Starburst Slot Review: Low Volatility & Frequent Wins (স্টারবার্স্ট স্লট)](/blog/starburst-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Book of Dead Slot Review: RTP, Volatility & Winning Tips (বুক অফ ডেড স্লট)](/blog/book-of-dead-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Rise of Olympus Slot Review: Hand of God Feature (রাইজ অফ অলিম্পাস)](/blog/rise-of-olympus-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC Verification Failed? How to Fix Identity Check Issues](/blog/kyc-verification-fix-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Jili Jackpot Fishing Review: Winning Strategies & Features](/blog/jili-jackpot-fishing-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

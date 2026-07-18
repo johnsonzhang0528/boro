@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BPL 2026 Prediction: Team Squads, Favorites & Betting Odds](/blog/bpl-2026-team-squads-odds-analysis/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Toss Prediction: How Pitch Reports Decide the Match](/blog/ipl-2026-toss-prediction-pitch-report/) — Cricket betting সম্পর্কিত practical checklist।
-- [High Risk, High Reward: Strategy for Hunting 100x Multipliers (2026)](/blog/high-risk-high-reward-crash-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket X Game Winning Tips (2026): Strategy for Boro Jeet Players](/blog/cricket-x-winning-tips-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL Betting Bangladesh 2026: সেরা অ্যাপ ও জয়ের কৌশল | Ultimate Guide](/blog/ipl-betting-guide-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Fire Joker Slot Review: Wheel of Multipliers (ফায়ার জোকার স্লট)](/blog/fire-joker-slot-review-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং](/blog/boro-jeet-vs-bjbaji-cricket-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই](/blog/boro-jeet-vs-mcw-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Crash Betting Game Bangladesh Strategy 2026: cashout discipline guide](/blog/crash-betting-game-bangladesh-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

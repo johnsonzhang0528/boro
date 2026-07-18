@@ -75,10 +75,10 @@ faq:
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
-- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [App Crashing? How to Clear Cache and Data](/blog/clear-cache-and-data-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Crash Game App Bangladesh Low Data: fast rounds-এ stable connection](/blog/crash-game-app-bangladesh-low-data/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [5 Common Mistakes in Aviator Game: Why You Are Losing (2026)](/blog/5-common-mistakes-aviator-game/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Playing Crash Games with Bonus Money: The Hidden Rules (2026)](/blog/playing-crash-games-with-bonus-money/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Spaceman Strategy Guide: প্র্যাগম্যাটিক প্লে-এর ক্র্যাশ গেমে জেতার উপায়](/blog/spaceman-pragmatic-play-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Aviator বনাম JetX: কোনটি সেরা ক্র্যাশ গেম? (তুলনামূলক আলোচনা)](/blog/aviator-vs-jetx-comparison/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Mines Game Guide: How to Play & Win (মাইনস গেম গাইড: কিভাবে খেলবেন এবং জিতবেন)](/blog/mines-game-guide-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Top 5 Crash Games on BoroJeet: Beyond Aviator (সেরা ৫টি ক্র্যাশ গেম)](/blog/top-5-crash-games-on-borojeet/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Plinko Game Guide: How to Play & Win in Bangladesh (2025)](/blog/plinko-game-guide-strategy-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

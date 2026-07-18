@@ -34,6 +34,9 @@ KYC ভেরিফিকেশনের সময় যদি আপনি মি
   <img src="/assets/blog/boro-jeet-suspended-message-optimized.webp" alt="Account Suspended Error Message on Mobile Screen" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="boro_jeet_account_suspended_reasons_solutions_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How to Restore Your Account (কিভাবে একাউন্ট ফিরিয়ে আনবেন)
 
 যদি আপনি মনে করেন যে কোনো ভুল বোঝাবুঝির কারণে আপনার একাউন্ট সাসপেন্ড হয়েছে, তবে নিচের পদক্ষেপগুলো অনুসরণ করুন:
@@ -63,11 +66,11 @@ KYC ভেরিফিকেশনের সময় যদি আপনি মি
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Account Location Alert BD: location mismatch কেন আসে?](/blog/borojeetbd-account-location-alert-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Official Link Bookmark Guide: mirror confusion avoid করুন](/blog/borojeet-official-link-bookmark-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Boroijt Search Result Guide: ভুল spelling থেকেও official BoroJeet খুঁজুন](/blog/boroijt-search-result-borojeet-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

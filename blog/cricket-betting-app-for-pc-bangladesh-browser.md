@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Scalping Strategy in Cricket Betting: Small Profits, Big Gains](/blog/scalping-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [Sixes Market Cricket Betting Guide: total sixes market বোঝার নিয়ম](/blog/sixes-market-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Player Props Cricket Betting Guide: batter ও bowler props কীভাবে ধরবেন](/blog/player-props-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis](/blog/powerplay-betting-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Online Cricket Betting Bangladesh Tips: data দেখে decision নিন](/blog/online-cricket-betting-bangladesh-tips/) — Cricket betting সম্পর্কিত practical checklist।
-- [How to Trade a T20 Cricket Match: A Step-by-Step Guide](/blog/trading-a-t20-match/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide](/blog/cricket-betting-app-for-ios-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Crash Betting Game Bangladesh Strategy 2026: cashout discipline guide](/blog/crash-betting-game-bangladesh-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Wicket Line Betting Guide BD: bowler wicket market analysis](/blog/cricket-wicket-line-betting-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

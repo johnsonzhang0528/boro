@@ -82,11 +82,11 @@ penalty shootout betting rules নিয়ে decision নেওয়ার সম�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?](/blog/world-cup-2026-bangladesh-betting-calendar/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Asian Handicap Guide Bangla: line বুঝুন সহজে](/blog/world-cup-2026-asian-handicap-guide-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন](/blog/fifa-world-cup-2026-app-notification-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Outright Winner Bangladesh: long-term market guide](/blog/world-cup-2026-outright-winner-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Half-Time Markets Bangla: HT result, HT/FT, এবং goals](/blog/world-cup-2026-half-time-markets-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Night Match BD Strategy: late kickoff betting checklist](/blog/world-cup-2026-night-match-bd-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Yellow Card Betting Guide: referee trend ও risk](/blog/world-cup-2026-yellow-card-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম](/blog/world-cup-2026-underdog-betting-strategy-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Team News Injury Betting Guide: lineup impact বুঝুন](/blog/world-cup-2026-team-news-injury-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Player Assists Betting Guide: creator stats explained](/blog/world-cup-2026-player-assists-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Opening Week Betting Plan BD: first matches strategy](/blog/world-cup-2026-opening-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়](/blog/world-cup-2026-odds-explained-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

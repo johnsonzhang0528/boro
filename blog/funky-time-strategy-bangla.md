@@ -88,10 +88,10 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crash Game Winning Tricks 2026 - BoroJeet & Aviator Secret Tips](/blog/crash-game-winning-tricks-2026/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Spaceman Game Guide & Winning Tricks (Spaceman গেম গাইড)](/blog/spaceman-game-guide-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্যাশ গেম টিপস](/blog/boro-jeet-crash-games-aviator-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Martingale Strategy Guide: How to Win at Roulette & Crash Games | মার্টিনগেল স্ট্র্যাটেজি গাইড](/blog/martingale-betting-strategy-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Aviator বনাম JetX: কোনটি সেরা ক্র্যাশ গেম? (তুলনামূলক আলোচনা)](/blog/aviator-vs-jetx-comparison/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt](/blog/crazy-time-bangladesh-bonus-round-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [ক্যাশ গেম খেলার কৌশল Bangla: realistic strategy ও stop-loss](/blog/cash-game-khelar-koushol-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Lucky Jet Crash Game Guide Bangladesh: Aviator alternative explained](/blog/lucky-jet-crash-game-guide-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Plane Crash Betting Game Guide BD: plane game কীভাবে কাজ করে?](/blog/plane-crash-betting-game-guide-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Strategy for Beginners BD: 1.5x, 2x ও stop-loss plan](/blog/crash-game-strategy-for-beginners-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

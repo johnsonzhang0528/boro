@@ -82,11 +82,11 @@ world cup draw no bet নিয়ে decision নেওয়ার সময় তি�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?](/blog/over-1-5-goals-vs-over-2-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন](/blog/epl-2026-27-season-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide](/blog/la-liga-2026-27-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison](/blog/top-5-betting-apps-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Best Sports Betting App Bangladesh 2026: football ও cricket market guide](/blog/best-sports-betting-app-bangladesh-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে](/blog/betting-apps-list-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Responsible Betting Checklist: tournament budget control](/blog/world-cup-2026-responsible-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 App Bangladesh Safe Install: APK ও alert setup](/blog/fifa-world-cup-2026-app-bangladesh-safe-install/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Outright Winner Bangladesh: long-term market guide](/blog/world-cup-2026-outright-winner-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Half-Time Markets Bangla: HT result, HT/FT, এবং goals](/blog/world-cup-2026-half-time-markets-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Night Match BD Strategy: late kickoff betting checklist](/blog/world-cup-2026-night-match-bd-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Final Week Betting Plan BD: semi-final থেকে final পর্যন্ত](/blog/world-cup-2026-final-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

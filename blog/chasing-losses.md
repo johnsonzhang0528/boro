@@ -54,9 +54,10 @@ Smart money moves the market. Read how to follow them in [Smart Money vs Public 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Guide to Responsible Gaming: দায়িত্বশীল গেমিং এবং নিরাপদ থাকার উপায়](/blog/guide-to-responsible-gaming-bangladesh/) — Legal, safety, scam ও responsible play pillar context।
-- [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
-- [What is Tilt in Betting? How to Stop Emotional Decisions](/blog/betting-psychology-tilt/) — Responsible gambling support সম্পর্কিত practical checklist।
 - [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
 - [Slot Volatility Explained: High vs Low Variance (স্লটের ভোলাটিলিটি কি?)](/blog/slot-volatility-explained/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Funky Time Strategy Bangla: bonus rounds ও bet sizing guide](/blog/funky-time-strategy-bangla/) — Crash / Aviator / cash game cluster-এর কম-linked guide।
+- [Wicket Method Betting Explained: caught, bowled, lbw market কী?](/blog/wicket-method-betting-explained/) — Cricket betting cluster-এর কম-linked guide।
 
 <!-- internal-links:fullmode:end -->

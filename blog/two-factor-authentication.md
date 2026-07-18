@@ -52,11 +52,11 @@ What if you *were* hacked? Read [Account Hacked Recovery Steps](/blog/account-ha
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Official Link Bookmark Guide: mirror confusion avoid করুন](/blog/borojeet-official-link-bookmark-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Boro Jeet App Download without Play Store: Android user guide](/blog/boro-jeet-app-download-without-play-store/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boroijt Search Result Guide: ভুল spelling থেকেও official BoroJeet খুঁজুন](/blog/boroijt-search-result-borojeet-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Official Site Login Guide: সঠিক site থেকে login করবেন কীভাবে](/blog/borojeetbd-official-site-login-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

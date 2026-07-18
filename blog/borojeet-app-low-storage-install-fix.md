@@ -82,11 +82,11 @@ borojeet app install problem নিয়ে decision নেওয়ার সময় 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Boro Jeet App Download without Play Store: Android user guide](/blog/boro-jeet-app-download-without-play-store/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Official Site Login Guide: সঠিক site থেকে login করবেন কীভাবে](/blog/borojeetbd-official-site-login-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Volleyball Betting Guide BD: Rules, Markets & Tips | ভলিবল বেটিং](/blog/volleyball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়](/blog/borojeet-affiliate-program-guide-earn-money/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Best Sports Betting Apps in Bangladesh 2025: সেরা ৫টি অ্যাপের তালিকা](/blog/best-sports-betting-apps-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)](/blog/table-tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম](/blog/borojeet-sports-betting-rules-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

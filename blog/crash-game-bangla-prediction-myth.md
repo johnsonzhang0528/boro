@@ -84,9 +84,9 @@ crash game prediction bangla নিয়ে decision নেওয়ার সময় 
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Big Bass Crash Review (2026): A New Way to Fish for Wins](/blog/big-bass-crash-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet KYC Verification: Documents & Steps for Instant Approval](/blog/boro-jeet-account-verification-kyc-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet কি বাংলাদেশে বৈধ? Legal Status & License Analysis 2026](/blog/is-boro-jeet-legal-bangladesh-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Top 5 JILI Slots Games on BoroJeet: সেরা জিলি স্লট গেম গাইড](/blog/top-5-jili-slots-games-on-borojeet/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling in Bangladesh Explained: কী legal, কী risky?](/blog/online-gambling-in-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Betting Legal Bangladesh Explained: law, risk ও safe behavior](/blog/online-betting-legal-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?](/blog/online-casino-legit-check-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Licensed Online Casino Bangladesh Checklist: license claim verify করুন](/blog/licensed-online-casino-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [How to Trade a T20 Cricket Match: A Step-by-Step Guide](/blog/trading-a-t20-match/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket বাজি করার নিয়ম Bangla: beginner rules explained](/blog/cricket-baji-korar-niyom-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Over-by-Over Betting Bangladesh: live over market guide](/blog/cricket-over-by-over-betting-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Performance Market Bangla: runs, wickets, catches](/blog/cricket-player-performance-market-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Sites Bangladesh Bangla Guide: site বাছার checklist](/blog/cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Crash Betting Game Bangladesh Strategy 2026: cashout discipline guide](/blog/crash-betting-game-bangladesh-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Wicket Line Betting Guide BD: bowler wicket market analysis](/blog/cricket-wicket-line-betting-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

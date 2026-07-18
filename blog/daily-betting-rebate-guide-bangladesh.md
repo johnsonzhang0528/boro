@@ -92,6 +92,6 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 - [Online Slots Bangladesh Guide: RTP, volatility ও bonus feature](/blog/online-slots-bangladesh-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Monopoly Live 2 Rolls vs 4 Rolls: কোন bonus segment বেশি value?](/blog/monopoly-live-2-rolls-vs-4-rolls/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?](/blog/bonus-abuse-what-counts/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Reload Bonus vs Cashback Guide: কোন reward model বেশি useful?](/blog/reload-bonus-vs-cashback-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering](/blog/free-spin-bonus-bangladesh-slot-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

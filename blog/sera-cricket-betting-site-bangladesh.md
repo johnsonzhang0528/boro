@@ -82,11 +82,11 @@ Google Search Console signal অনুযায়ী এই cluster-এ opportunit
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Betting Bonus Asia Cup 2026: bonus terms আগে পড়ুন](/blog/cricket-betting-bonus-asia-cup-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?](/blog/safest-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [No 1 Cricket Betting App BD: কোন criteria দিয়ে সেরা app বাছবেন?](/blog/no-1-cricket-betting-app-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Online Cricket Betting App Download Guide: Bangladesh user checklist](/blog/online-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Live Cricket Betting App Bangladesh 2026: in-play market guide](/blog/live-cricket-betting-app-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Low Data Cricket Betting App Bangladesh: slow internet-এ smooth betting](/blog/low-data-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide](/blog/cricket-baji-dhorar-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বাজি অ্যাপস Bangladesh: top features ও safety signals](/blog/cricket-baji-apps-bangladesh-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [What is Liquidity in Cricket Betting? Why It Matters](/blog/liquidity-in-cricket-markets/) — Cricket betting সম্পর্কিত practical checklist।
+- [What is a Back Bet? The Traditional Way to Bet on Cricket](/blog/back-bet-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison](/blog/top-betting-sites-cricket-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Team Total Runs Cricket Guide: innings line পড়ার সহজ পদ্ধতি](/blog/team-total-runs-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

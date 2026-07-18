@@ -72,11 +72,11 @@ Team Total Runs Cricket Guide profitable হতে পারে, কিন্ত
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম](/blog/cricket-session-betting-bangla-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Live Odds Bangladesh App Guide: live odds বুঝবেন কীভাবে](/blog/cricket-live-odds-bangladesh-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App BD Low Data: slow internet-এ match follow করবেন কীভাবে](/blog/cricket-betting-app-bd-low-data/) — Cricket betting সম্পর্কিত practical checklist।
+- [Sixes Market Cricket Betting Guide: total sixes market বোঝার নিয়ম](/blog/sixes-market-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Scalping Strategy in Cricket Betting: Small Profits, Big Gains](/blog/scalping-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis](/blog/powerplay-betting-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Asia Cup 2026 Cricket Betting Apps BD: tournament আগে setup](/blog/asia-cup-2026-cricket-betting-apps-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?](/blog/safest-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Player Props Cricket Betting Guide: batter ও bowler props কীভাবে ধরবেন](/blog/player-props-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

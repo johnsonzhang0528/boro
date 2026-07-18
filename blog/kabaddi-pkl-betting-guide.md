@@ -52,6 +52,9 @@ Predicting which defender will get a "High 5" (5 tackle points).
 
 ---
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="kabaddi_pkl_betting_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Live Betting Strategy: The "All-Out" Effect
 
 An **All-Out** occurs when all 7 players of a team are ruled out. The opposing team gets 2 extra points, and the wiped-out team all return to the mat.
@@ -71,11 +74,11 @@ BoroJeet-এর সাথে মেতে উঠুন কাবাডি উৎ
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Tennis Set Betting Strategy: Predicting Correct Scores (টেনিস সেট বেটিং কৌশল)](/blog/tennis-set-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Basketball Quarter Betting: Fast-Paced Wins (বাস্কেটবল কোয়ার্টার বেটিং)](/blog/basketball-quarter-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Tennis Grand Slam Betting Guide: Wimbledon to US Open (টেনিস গ্র্যান্ড স্ল্যাম বেটিং)](/blog/tennis-grand-slam-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Accumulator (Multibet) Betting Guide: High Odds, High Reward](/blog/accumulator-multibet-strategy-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [CS:GO (CS2) Betting Guide: Map Winners and Handicaps](/blog/esports-csgo-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Horse Racing Betting in Bangladesh: A Complete Guide for Beginners (ঘোড়দৌড় বাজি)](/blog/horse-racing-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Clear App Storage Without Losing Account: data clear করলেও account থাকবে?](/blog/clear-app-storage-without-losing-account/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?](/blog/betting-apps-android-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

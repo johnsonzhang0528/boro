@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Betting App Bangla Review: speed, market ও payment compare](/blog/cricket-betting-app-bangla-review/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Bonus Asia Cup 2026: bonus terms আগে পড়ুন](/blog/cricket-betting-bonus-asia-cup-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Bangladesh Cricket Market Guide 2026: runs, wickets ও innings market](/blog/bangladesh-cricket-market-guide-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Best Cricket Betting Odds in Bangladesh (2026 Analysis) | সেরা অডস](/blog/best-cricket-betting-odds-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Bangladesh Cricket Betting Guide: match plan ও risk](/blog/asia-cup-2026-bangladesh-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Cricket Betting Apps BD: tournament আগে setup](/blog/asia-cup-2026-cricket-betting-apps-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App with bKash Nagad BD: deposit-friendly app guide](/blog/cricket-betting-app-with-bkash-nagad-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম](/blog/cricket-session-betting-bangla-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
+- [BD Cricket Betting App Download Guide: safe APK ও browser option](/blog/bd-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

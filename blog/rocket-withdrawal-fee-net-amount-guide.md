@@ -73,10 +73,10 @@ Rocket Withdrawal Fee Net Amount Guide issue resolve করতে speed-এর �
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Rocket Payment Betting Sites Bangladesh: supported হলে কী check করবেন?](/blog/rocket-payment-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?](/blog/payment-history-not-showing-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Payment Name Mismatch Fix: account name না মিললে সমাধান](/blog/payment-name-mismatch-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Online Casino Guide Bangladesh Beginners: account, game ও payment basics](/blog/online-casino-guide-bangladesh-beginners/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Online Gambling Tax Risk Bangladesh: withdrawal record রাখবেন কেন?](/blog/online-gambling-tax-risk-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Screenshot Proof bKash Nagad: support-এ কোন screenshot দেবেন](/blog/payment-screenshot-proof-bkash-nagad/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Fee Net Amount Guide: হাতে কত টাকা পাবেন](/blog/bkash-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Withdrawal Fee Net Amount Guide: net cashout বুঝবেন কীভাবে](/blog/nagad-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Mobile Wallet Name Mismatch Bangladesh: bKash Nagad Rocket name issue](/blog/mobile-wallet-name-mismatch-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Deposit Wrong Reference Fix: reference ভুল হলে কী করবেন](/blog/rocket-deposit-wrong-reference-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -83,10 +83,10 @@ wagering turnover calculator নিয়ে decision নেওয়ার সময় 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Promo Code Not Working Fix: code invalid দেখালে কী করবেন?](/blog/promo-code-not-working-fix/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Loyalty Points Conversion Guide: points কখন cash এ convert করবেন?](/blog/loyalty-points-conversion-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন](/blog/wagering-requirement-bonus-guide-bd/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা](/blog/wagering-requirements-meaning-bangla/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [VIP Cashback vs Rebate Bangladesh: কোন reward বেশি useful?](/blog/vip-cashback-vs-rebate-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন](/blog/bonus-turnover-calculation-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

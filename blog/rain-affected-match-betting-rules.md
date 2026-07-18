@@ -72,11 +72,11 @@ Rain-Affected Match Betting Rules profitable হতে পারে, কিন�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis](/blog/powerplay-betting-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Over-by-Over Betting Bangladesh: live over market guide](/blog/cricket-over-by-over-betting-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Performance Market Bangla: runs, wickets, catches](/blog/cricket-player-performance-market-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Sites Bangladesh Bangla Guide: site বাছার checklist](/blog/cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Live Score Odds Bangladesh: score দেখে odds পড়ার নিয়ম](/blog/cricket-live-score-odds-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cash Game Khelar Koushol Bangladesh 2026: safe session plan](/blog/cash-game-khelar-koushol-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?](/blog/lightning-roulette-multiplier-risk-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Multiplier Wilds Explained: wild multiplier effect কতটা strong?](/blog/multiplier-wilds-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained](/blog/funky-time-bangladesh-live-show-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Funky Time Rules Bangladesh: multiplier, bonus ও payout explained](/blog/funky-time-rules-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Aviator Auto Cashout Settings Guide: low-risk multiplier plan](/blog/aviator-auto-cashout-settings-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

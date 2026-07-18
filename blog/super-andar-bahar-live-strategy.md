@@ -19,6 +19,9 @@ faq:
 
 **Andar Bahar** বাংলাদেশের অন্যতম জনপ্রিয় কার্ড গেম। Evolution Gaming এতে যোগ করেছে "Super" এলিমেন্ট—মাল্টিপ্লায়ার। গেমটি আগের মতোই সহজ: জোকাস কার্ড (Joker Card) আন্দার (Andar) নাকি বাহার (Bahar) পাশে আসবে?
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="super_andar_bahar_live_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## The Super Multipliers
 
 সাধারণ জয়ে আপনি ০.৯:১ বা ১:১ পান। তবে **Side Bets** হলো আসল আকর্ষণ।
@@ -51,10 +54,10 @@ Super Andar Bahar হলো ভাগ্যের খেলা। সাইড �
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market](/blog/world-cup-2026-draw-no-bet-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Clean Sheet Market Guide: defence stats কীভাবে পড়বেন](/blog/world-cup-2026-clean-sheet-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Corners & Cards Market Guide: stats কীভাবে পড়বেন](/blog/world-cup-2026-corners-card-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Stage Odds Bangla: group stage market guide](/blog/world-cup-2026-group-stage-odds-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangladesh Fixture Time BD: match timing আগে থেকে plan করুন](/blog/world-cup-2026-bangladesh-fixture-time-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Football Betting App Bangladesh: safe mobile setup](/blog/world-cup-2026-football-betting-app-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [T20 World Cup 2026 Cricket App BD: fixtures, odds, এবং alert setup](/blog/t20-world-cup-2026-cricket-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Accumulator Insurance Guide: How to Save Your Money | অ্যাকিউমুলেটর ইনস্যুরেন্স কি?](/blog/accumulator-insurance-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

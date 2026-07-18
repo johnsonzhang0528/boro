@@ -65,11 +65,11 @@ To understand the metrics in your sheet, read: [Understanding ROI & Yield](/blog
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Arbitrage Betting in Bangladesh: Is it Possible?](/blog/arbitrage-betting-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?](/blog/betting-apps-android-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [What is a Lay Bet? How to Be the Bookmaker](/blog/lay-bet-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [What is Value Betting? How to Spot Overpriced Odds](/blog/value-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Kelly Criterion: How Much Money Should You Bet?](/blog/kelly-criterion-for-beginners/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Official Link Bookmark Guide: mirror confusion avoid করুন](/blog/borojeet-official-link-bookmark-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

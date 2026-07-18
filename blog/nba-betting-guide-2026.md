@@ -39,6 +39,9 @@ In the NBA, heavy favorites (like Boston at home vs Detroit) might have odds of 
 
 ---
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="nba_betting_guide_2026_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Player Props: The Smart Money
 
 Instead of betting on the team, bet on the player.
@@ -85,11 +88,11 @@ BoroJeet-এ প্রিমিয়াম NBA বেটিং অভিজ্�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Boro Jeet App System Requirements (2026): Android & iOS Specs](/blog/boro-jeet-system-requirements/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Contact Boro Jeet Customer Support: Live Chat, Email & WhatsApp](/blog/contacting-boro-jeet-customer-support/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet App Installation Error: 'App Not Installed' সমাধান](/blog/boro-jeet-app-installation-error-fixes/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Password Recovery Guide: কীভাবে পাসওয়ার্ড রিসেট করবেন?](/blog/boro-jeet-forgot-password-recovery/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Login Issues & Solutions 2026: লগইন সমস্যার ১০টি সহজ সমাধান](/blog/boro-jeet-login-issues-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

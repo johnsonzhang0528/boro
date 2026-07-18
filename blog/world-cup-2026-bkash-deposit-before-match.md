@@ -41,6 +41,9 @@ howto:
 
 World Cup 2026 bKash Deposit Before Match issue সাধারণত তিন ধরনের root cause থেকে আসে: payment method mismatch, queue delay, অথবা compliance check. এই তিনটা আলাদা না করলে user ভুল action নেয়, আর resolution time আরও বেড়ে যায়। [Common Deposit Issues & Solutions](/blog/common-deposit-issues-solutions-bangladesh/) আর [Transaction ID Guide](/blog/transaction-id-usage-guide/) আগে দেখলে workflow clearer হয়।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="world_cup_2026_bkash_deposit_before_match_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## কীভাবে দ্রুত diagnose করবেন
 
 প্রথমে status, amount, method, আর account name একসাথে মিলিয়ে দেখুন। অনেক সময় user শুধু pending বা failed label দেখে react করে, কিন্তু actual mismatch থাকে payment number, TrxID, বা method selection-এ। যদি withdrawal context হয়, তাহলে [How to Withdraw Winnings from BoroJeet](/blog/how-to-withdraw-winnings-from-borojeet/) related rules-ও check করুন।
@@ -73,10 +76,10 @@ World Cup 2026 bKash Deposit Before Match issue resolve করতে speed-এ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [World Cup 2026 Bet Builder Bangla Guide: same match combo safe way](/blog/world-cup-2026-bet-builder-bangla-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Football Betting App Bangladesh: safe mobile setup](/blog/world-cup-2026-football-betting-app-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Europa Final 2026 Betting Market Guide: totals, corners ও cards](/blog/europa-final-2026-betting-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [T20 World Cup 2026 Cricket App BD: fixtures, odds, এবং alert setup](/blog/t20-world-cup-2026-cricket-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Champions League Final 2026 Betting Guide BD: May final market checklist](/blog/champions-league-final-2026-betting-guide-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গেম](/blog/boro-jeet-poker-games-online/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Teen Patti Real Money App: অ্যাপ ডাউনলোড এবং খেলার নিয়ম](/blog/teen-patti-real-money-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Virtual Sports Betting Guide Bangladesh: Play 24/7 (ভার্চুয়াল স্পোর্টস বেটিং)](/blog/virtual-sports-betting-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Dragon Tiger গেম গাইড: নিয়ম, কৌশল এবং জেতার টিপস](/blog/dragon-tiger-game-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist](/blog/fifa-world-cup-live-betting-tips-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

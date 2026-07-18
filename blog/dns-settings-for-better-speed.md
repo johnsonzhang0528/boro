@@ -60,11 +60,11 @@ Still having app issues? Learn how to [Clear Cache & Data](/blog/clear-cache-and
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Basketball Quarter Betting: Fast-Paced Wins (বাস্কেটবল কোয়ার্টার বেটিং)](/blog/basketball-quarter-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Tennis Grand Slam Betting Guide: Wimbledon to US Open (টেনিস গ্র্যান্ড স্ল্যাম বেটিং)](/blog/tennis-grand-slam-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Password Reset Link Expired Fix: link মেয়াদ শেষ হলে](/blog/password-reset-link-expired-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Line Movement Analysis: Why Do Odds Change?](/blog/line-movement-analysis/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)](/blog/contacting-licensing-authorities/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Calculate Implied Probability from Exchange Odds](/blog/implied-probability-calculation/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Arbitrage Betting in Bangladesh: Is it Possible?](/blog/arbitrage-betting-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

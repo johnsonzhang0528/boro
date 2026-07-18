@@ -92,11 +92,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)](/blog/multi-accounting-risks/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Bonus Abuse Warning Bangladesh: কোন কাজ account risk বাড়ায়?](/blog/bonus-abuse-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [জুয়া প্রতিরোধ আইন ২০২৬: অনলাইন জুয়ার নতুন আইন ব্যাখ্যা](/bangladesh-gambling-law-2026/) — Legal, safety ও responsible play-র সম্পূর্ণ আইনি প্রেক্ষাপট।
-- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Exposed: Fake 'Admin' Scams on Telegram (সাবধান: টেলিগ্রাম ফেক অ্যাডমিন স্ক্যাম)](/blog/fake-admin-scams-telegram/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Casino Games Online Real Money BD: safe play ও bankroll basics](/blog/casino-games-online-real-money-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Dragon Tiger Side Bets Explained: Tie ও suited bet-এর risk কত?](/blog/dragon-tiger-side-bets-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladeshi Online Casino Game Guide: popular game ও safety basics](/blog/bangladeshi-online-casino-game-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crazy Time জেতার কৌশল Bangla: risk control ও bonus round plan](/blog/crazy-time-jetar-koushol-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Live Casino Bangladesh Mobile Guide: low latency ও safe play checklist](/blog/live-casino-bangladesh-mobile-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -72,11 +72,11 @@ Cricket Session Betting Bangla Strategy 2026 profitable হতে পারে, 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Aviator Auto Cashout Settings Guide: low-risk multiplier plan](/blog/aviator-auto-cashout-settings-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Casino Crash Game খেলার নিয়ম: multiplier, cashout ও risk](/blog/casino-crash-game-khelar-niyom/) — Cricket betting সম্পর্কিত practical checklist।
-- [ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide](/blog/cricket-baji-dhorar-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [সেরা Cricket Betting Site in Bangladesh: কোন criteria দেখবেন?](/blog/sera-cricket-betting-site-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [What is Liquidity in Cricket Betting? Why It Matters](/blog/liquidity-in-cricket-markets/) — Cricket betting সম্পর্কিত practical checklist।
-- [What is a Back Bet? The Traditional Way to Bet on Cricket](/blog/back-bet-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
+- [BD Cricket Betting App Download Guide: safe APK ও browser option](/blog/bd-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Live Odds Bangladesh App Guide: live odds বুঝবেন কীভাবে](/blog/cricket-live-odds-bangladesh-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Site Bangladesh bKash Nagad: payment-ready checklist](/blog/cricket-betting-site-bangladesh-bkash-nagad/) — Cricket betting সম্পর্কিত practical checklist।
+- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App BD Low Data: slow internet-এ match follow করবেন কীভাবে](/blog/cricket-betting-app-bd-low-data/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

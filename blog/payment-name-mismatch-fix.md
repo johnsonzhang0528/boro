@@ -73,10 +73,10 @@ Payment Name Mismatch Fix issue resolve করতে speed-এর চেয়ে c
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Money Coming Winning Tricks: Simple Reels, Big Payouts](/blog/money-coming-slot-winning-tricks/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Hedging Your Bets: How to Lock in Profit with Cash Out](/blog/hedging-bets-cashout-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Balloon (Smartsoft) Game Guide: Pop or Cashout? (2026)](/blog/balloon-smartsoft-crash-game-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Boro Jeet Real User Reviews 2026: What Players Are Saying](/blog/real-user-reviews-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Boro Jeet Responsible Gambling Tools: Deposit Limits & Self-Exclusion](/blog/boro-jeet-responsible-gambling-tools/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?](/blog/payment-history-not-showing-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Online Casino Guide Bangladesh Beginners: account, game ও payment basics](/blog/online-casino-guide-bangladesh-beginners/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Online Gambling Tax Risk Bangladesh: withdrawal record রাখবেন কেন?](/blog/online-gambling-tax-risk-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino bKash Deposit Guide Bangladesh: step-by-step payment safety](/blog/casino-bkash-deposit-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino Site Verification Bangladesh: HTTPS, KYC ও payment proof](/blog/casino-site-verification-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

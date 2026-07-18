@@ -21,6 +21,9 @@ faq:
 
 বাংলাদেশে এটি খুবই জনপ্রিয়, বিশেষ করে **IPL** এবং **BPL** এর সময়।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="over_under_cricket_betting_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How It Works
 
 বুকমেকার একটি "লাইন" (Line) সেট করে। যেমন:
@@ -60,11 +63,11 @@ Over/Under বাজি জেতার জন্য ভাগ্য নয়, 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?](/blog/cricket-betting-app-for-pc-bangladesh-browser/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App APK Bangladesh: safe install করার checklist](/blog/cricket-betting-app-apk-bangladesh-safe-install/) — Cricket betting সম্পর্কিত practical checklist।
-- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)](/blog/cricket-toss-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল](/blog/advanced-cricket-betting-strategies/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড](/blog/ultimate-guide-to-cricket-betting-odds/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

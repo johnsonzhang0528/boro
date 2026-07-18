@@ -2,7 +2,17 @@
 lastUpdated: 2025-12-26
 description: "বেটিং করার সময় Void Bet, Dead Heat বা Overtime এর নিয়মগুলো জানেন কি? Borojeet এর স্পোর্টস বেটিং রুলস সম্পর্কে বিস্তারিত জানুন এবং বিভ্রান্তি এড়ান।"
 title: "Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম"
-layout: "post.njk"lang: "bn-BD"date: 2025-12-26ogImage: "og-betting-rules-explained-optimized.webp"ogImageAlt: "একটি খোলা রুলবুক বা গাইডবুক, যার পাশে একটি রেফারির বাঁশি এবং কার্ড রয়েছে।"tags: ["post", "guide", "rules", "sports-betting"]faq:  - question: "What happens if a match is abandoned?"    answer: "যদি কোনো ম্যাচ বাতিল বা পরিত্যক্ত হয় এবং নির্দিষ্ট সময়ের মধ্যে পুনরায় শুরু না হয়, তবে সাধারণত সেই বাজিটি 'Void' বা বাতিল ঘোষণা করা হয় এবং টাকা ফেরত দেওয়া হয়।"  - question: "Does overtime count in football betting?"    answer: "সাধারণত ফুটবল বেটিং শুধুমাত্র ৯০ মিনিটের নির্ধারিত সময়ের (ইনজুরি টাইম সহ) ফলাফলের উপর ভিত্তি করে হয়। অতিরিক্ত সময় (Extra Time) বা পেনাল্টি শুটআউট আলাদা মার্কেট না হলে গণ্য হয় না।"
+layout: "post.njk"
+lang: "bn-BD"
+date: 2025-12-26
+ogImage: "og-betting-rules-explained-optimized.webp"
+ogImageAlt: "একটি খোলা রুলবুক বা গাইডবুক, যার পাশে একটি রেফারির বাঁশি এবং কার্ড রয়েছে।"
+tags: ["post", "guide", "rules", "sports-betting"]
+faq:
+  - question: "What happens if a match is abandoned?"
+    answer: "যদি কোনো ম্যাচ বাতিল বা পরিত্যক্ত হয় এবং নির্দিষ্ট সময়ের মধ্যে পুনরায় শুরু না হয়, তবে সাধারণত সেই বাজিটি 'Void' বা বাতিল ঘোষণা করা হয় এবং টাকা ফেরত দেওয়া হয়।"
+  - question: "Does overtime count in football betting?"
+    answer: "সাধারণত ফুটবল বেটিং শুধুমাত্র ৯০ মিনিটের নির্ধারিত সময়ের (ইনজুরি টাইম সহ) ফলাফলের উপর ভিত্তি করে হয়। অতিরিক্ত সময় (Extra Time) বা পেনাল্টি শুটআউট আলাদা মার্কেট না হলে গণ্য হয় না।"
 ---
 
 <p class="lead">আপনি কি কখনো এমন পরিস্থিতিতে পড়েছেন যেখানে আপনার মনে হয়েছে আপনি জিতেছেন, কিন্তু বাজির ফলাফলে দেখাচ্ছে আপনি হেরেছেন? বা ম্যাচ বৃষ্টির কারণে বাতিল হলে আপনার টাকার কী হবে?</p>
@@ -37,6 +47,9 @@ layout: "post.njk"lang: "bn-BD"date: 2025-12-26ogImage: "og-betting-rules-exp
 *   **বাস্কেটবল:** সাধারণত সব বাজিতে ওভারটাইম অন্তর্ভুক্ত থাকে।
 *   **ক্রিকেট:** সুপার ওভার (Super Over) সাধারণত মূল ম্যাচের বাজির অন্তর্ভুক্ত নয়।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="borojeet_sports_betting_rules_explained_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## ফলাফল নিষ্পত্তি (Settlement)
 
 Borojeet সর্বদা অফিসিয়াল সোর্স (যেমন ICC, FIFA) থেকে প্রাপ্ত ফলাফলের ভিত্তিতে বাজি নিষ্পত্তি করে। টিভি সম্প্রচারে ভুল স্কোর দেখালে বা অন্য কোনো থার্ড-পার্টি সাইটের তথ্যের ভিত্তিতে বাজি নিষ্পত্তি হয় না।
@@ -52,11 +65,11 @@ Register on the website first to claim your bonus, then download the app for the
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Arbitrage Betting in Bangladesh: Is it Possible?](/blog/arbitrage-betting-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Play Without App on Mobile Browser: app ছাড়াই full site ব্যবহার](/blog/play-without-app-mobile-browser/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Change Your Registered Phone Number (কিভাবে রেজিস্টার্ড ফোন নম্বর পরিবর্তন করবেন)](/blog/changing-registered-phone-number/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা](/blog/new-betting-apps-2026-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Clear App Storage Without Losing Account: data clear করলেও account থাকবে?](/blog/clear-app-storage-without-losing-account/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use](/blog/borojeetbd-lightweight-app-low-data/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

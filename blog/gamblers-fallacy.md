@@ -55,11 +55,11 @@ Stop chasing your losses. Read our guide on [Chasing Losses](/blog/chasing-losse
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [How to Contact Boro Jeet Customer Support: Live Chat, Email & WhatsApp](/blog/contacting-boro-jeet-customer-support/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet App Installation Error: 'App Not Installed' সমাধান](/blog/boro-jeet-app-installation-error-fixes/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Password Recovery Guide: কীভাবে পাসওয়ার্ড রিসেট করবেন?](/blog/boro-jeet-forgot-password-recovery/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Login Issues & Solutions 2026: লগইন সমস্যার ১০টি সহজ সমাধান](/blog/boro-jeet-login-issues-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Slow Internet? Change DNS Settings for Faster Betting](/blog/dns-settings-for-better-speed/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Line Movement Analysis: Why Do Odds Change?](/blog/line-movement-analysis/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)](/blog/contacting-licensing-authorities/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়](/blog/borojeet-password-reset-recovery-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

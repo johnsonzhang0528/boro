@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide](/blog/world-cup-2026-argentina-brazil-betting-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bonus Offer Bangladesh: promo claim করার আগে terms দেখুন](/blog/world-cup-2026-bonus-offer-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Responsible Betting Checklist: tournament budget control](/blog/world-cup-2026-responsible-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Outright Winner Bangladesh: long-term market guide](/blog/world-cup-2026-outright-winner-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Half-Time Markets Bangla: HT result, HT/FT, এবং goals](/blog/world-cup-2026-half-time-markets-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Night Match BD Strategy: late kickoff betting checklist](/blog/world-cup-2026-night-match-bd-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Asian Handicap in Football: A Simple Guide (এশিয়ান হ্যান্ডিক্যাপ নির্দেশিকা)](/blog/asian-handicap-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Half-Time/Full-Time (HT/FT) Ways to Win Big (হাফ টাইম/ফুল টাইম গাইড)](/blog/ht-ft-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Card Betting Strategy: Predicting Yellow & Red Cards (কার্ড বাজি গাইড)](/blog/card-and-booking-points-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Corner Betting Strategy: The Underrated Market (কর্নার বেটিং কৌশল)](/blog/corner-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Both Teams to Score (BTTS) Strategy: High Odds Tactics (উভয় দল গোল করবে?)](/blog/both-teams-to-score-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [UEFA Champions League Betting Strategy: Group Stage vs Knockout (উয়েফা চ্যাম্পিয়ন্স লিগ কৌশল)](/blog/uefa-champions-league-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

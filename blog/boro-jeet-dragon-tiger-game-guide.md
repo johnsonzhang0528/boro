@@ -2,7 +2,19 @@
 lastUpdated: 2026-01-17
 description: "Play Dragon Tiger on Boro Jeet. Learn the rules of this fast-paced card game and winning tricks. Boro Jeet ড্রাগন টাইগার খেলে জিতুন।"
 title: "Boro Jeet Dragon Tiger: Simple Winning Tricks | ড্রাগন টাইগার"
-layout: "post.njk"lang: "bn-BD"date: 2026-01-17ogImage: "boro-jeet-dragon-tiger-hero-optimized.webp"ogImageAlt: "A dramatic Dragon vs Tiger card showdown on a Boro Jeet table"tags: ["post", "dragon-tiger", "live-casino", "borojeet", "strategy"]faq:  - question: "Dragon Tiger খেলায় জেতার সম্ভাবনা কত?"    answer: "Dragon এবং Tiger উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে ক্যাসিনোর একটি ছোট House Edge থাকে।"  - question: "Tie Bet-এ পে-আউট কত?"    answer: "সাধারণত **Tie Bet**-এ পে-আউট ১১:১ হয়, তবে Suited Tie-এ এটি ৫০:১ পর্যন্ত হতে পারে।"  - question: "Boro Jeet-এ কি Dragon Tiger খেলা নিরাপদ?"    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"
+layout: "post.njk"
+lang: "bn-BD"
+date: 2026-01-17
+ogImage: "boro-jeet-dragon-tiger-hero-optimized.webp"
+ogImageAlt: "A dramatic Dragon vs Tiger card showdown on a Boro Jeet table"
+tags: ["post", "dragon-tiger", "live-casino", "borojeet", "strategy"]
+faq:
+  - question: "Dragon Tiger খেলায় জেতার সম্ভাবনা কত?"
+    answer: "Dragon এবং Tiger উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে ক্যাসিনোর একটি ছোট House Edge থাকে।"
+  - question: "Tie Bet-এ পে-আউট কত?"
+    answer: "সাধারণত **Tie Bet**-এ পে-আউট ১১:১ হয়, তবে Suited Tie-এ এটি ৫০:১ পর্যন্ত হতে পারে।"
+  - question: "Boro Jeet-এ কি Dragon Tiger খেলা নিরাপদ?"
+    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"
 ---
 
 আপনি কি এমন একটি ক্যাসিনো গেম খুঁজছেন যা শেখা সহজ এবং খেলা দ্রুত? তবে **Dragon Tiger** আপনার জন্য সেরা পছন্দ। এটিকে প্রায়শই "দুই কার্ডের ব্যাকারাত" বলা হয়। **Boro Jeet**-এ আপনি এই উত্তেজনাপূর্ণ গেমটি লাইভ ডিলারদের সাথে খেলতে পারেন।
@@ -72,11 +84,11 @@ layout: "post.njk"lang: "bn-BD"date: 2026-01-17ogImage: "boro-jeet-dragon-tig
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Blackjack Side Bets গাইড: Perfect Pairs এবং 21+3 এর নিয়ম](/blog/live-dealer-blackjack-side-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Common Online Casino Myths Debunked: অনলাইন ক্যাসিনো সম্পর্কে ভুল ধারণা](/blog/common-online-casino-myths-debunked/) — Online casino games সম্পর্কিত practical checklist।
-- [Mega Ball 100x Strategy & Winning Tips (Mega Ball গাইড)](/blog/mega-ball-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Lightning Roulette Strategy & Winning Tricks (Lightning Roulette গাইড)](/blog/lightning-roulette-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Top 5 Fishing Games on BoroJeet: Best Arcade Games to Play in 2025 (সেরা ৫টি মাছ ধরার গেম)](/blog/top-5-fishing-games-on-borojeet/) — Online casino games সম্পর্কিত practical checklist।
 - [Top 5 Live Casino Games on BoroJeet: Real Dealer Experience (সেরা ৫টি লাইভ ক্যাসিনো গেম)](/blog/top-5-live-casino-games-on-borojeet/) — Online casino games সম্পর্কিত practical checklist।
+- [Monopoly Live Game Guide & Strategy (Monopoly Live গেম গাইড)](/blog/monopoly-live-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Dream Catcher গেম গাইড: নিয়ম, কৌশল এবং বড় জয়ের টিপস](/blog/dream-catcher-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Roulette Strategies এবং Betting Systems: জেতার সম্ভাবনা বাড়ানোর গাইড](/blog/roulette-strategies-and-betting-systems/) — Online casino games সম্পর্কিত practical checklist।
+- [Andar Bahar Game Rules: অন্দর বাহার খেলার নিয়ম ও কৌশল](/blog/andar-bahar-guide-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
+- [মাছ ধরার খেলা (Fishing Game) গাইড: নতুনদের জন্য নিয়ম ও কৌশল](/blog/fishing-game-guide-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

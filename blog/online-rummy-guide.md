@@ -19,6 +19,9 @@ faq:
 
 **Rummy** বা রামি হলো এমন একটি খেলা যেখানে মনোযোগ, স্মৃতিশক্তি এবং দ্রুত সিদ্ধান্ত নেওয়ার ক্ষমতা প্রয়োজন। বাংলাদেশে এটি বন্ধুদের আড্ডায় খুব জনপ্রিয়, এবং এখন অনলাইনেও খেলা যাচ্ছে।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="online_rummy_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Basic Rules (মৌলিক নিয়ম)
 
 ১৩টি কার্ডের রামি (Indian Rummy) সবচেয়ে জনপ্রিয়।
@@ -49,10 +52,10 @@ Rummy একটি কৌশলী খেলা। নিয়মগুলো �
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন](/blog/epl-2026-27-season-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide](/blog/la-liga-2026-27-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison](/blog/top-5-betting-apps-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Best Sports Betting App Bangladesh 2026: football ও cricket market guide](/blog/best-sports-betting-app-bangladesh-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে](/blog/betting-apps-list-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন](/blog/world-cup-2026-bet-builder-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting App BD: football match bet করার setup](/blog/world-cup-2026-betting-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangla Betting Terms Glossary: odds, line, market](/blog/world-cup-2026-bangla-betting-terms-glossary/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?](/blog/world-cup-2026-bangladesh-betting-calendar/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Asian Handicap Guide Bangla: line বুঝুন সহজে](/blog/world-cup-2026-asian-handicap-guide-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

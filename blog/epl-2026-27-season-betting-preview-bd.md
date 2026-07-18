@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts](/blog/world-cup-2026-mobile-betting-checklist-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll](/blog/world-cup-2026-night-match-betting-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?](/blog/world-cup-2026-live-odds-movement-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম](/blog/world-cup-2026-match-winner-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Half-Time Full-Time Guide: HT/FT market explained](/blog/world-cup-2026-half-time-full-time-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison](/blog/top-5-betting-apps-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Best Sports Betting App Bangladesh 2026: football ও cricket market guide](/blog/best-sports-betting-app-bangladesh-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে](/blog/betting-apps-list-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Live Betting App Checklist: live match-এর আগে setup](/blog/world-cup-2026-live-betting-app-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Safe Betting Sites BD: fake site এড়ানোর checklist](/blog/world-cup-2026-safe-betting-sites-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 bKash Deposit Before Match: kickoff-এর আগে payment plan](/blog/world-cup-2026-bkash-deposit-before-match/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

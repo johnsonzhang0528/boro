@@ -1,6 +1,6 @@
 ---
-title: "Underage Gaming Policy - BoroJeet Affiliate BD"
-description: "Our strict policy against underage gaming. Learn about our age verification processes and the responsibilities of users to prevent access by minors."
+title: "Underage Gaming Policy | ১৮+ বয়স যাচাই নীতি — BoroJeet"
+description: "BoroJeet-এর কঠোর ১৮+ নীতি: বয়স যাচাই প্রক্রিয়া, অভিভাবকদের জন্য নিরাপত্তা টিপস এবং অপ্রাপ্তবয়স্কদের গেমিং প্রতিরোধে আমাদের দায়িত্ব।"
 layout: "base.njk"
 date: 2025-10-31
 tags: "underage-gaming"

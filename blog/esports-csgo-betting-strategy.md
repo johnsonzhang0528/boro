@@ -21,6 +21,9 @@ faq:
 
 ফুটবল বা ক্রিকেটের মতো এখানেও পরিসংখ্যান কাজ করে, তবে এর ধরন একটু আলাদা।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="esports_csgo_betting_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Key Markets Explained
 
 ### 1. Map Winner (ম্যাপ উইনার)
@@ -57,11 +60,11 @@ CS:GO বা CS2 বেটিংয়ে সাফল্য পেতে হল
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Basketball Quarter Betting: Fast-Paced Wins (বাস্কেটবল কোয়ার্টার বেটিং)](/blog/basketball-quarter-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Tennis Grand Slam Betting Guide: Wimbledon to US Open (টেনিস গ্র্যান্ড স্ল্যাম বেটিং)](/blog/tennis-grand-slam-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Accumulator (Multibet) Betting Guide: High Odds, High Reward](/blog/accumulator-multibet-strategy-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

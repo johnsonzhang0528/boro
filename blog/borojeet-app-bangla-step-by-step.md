@@ -83,10 +83,10 @@ borojeet app bangla নিয়ে decision নেওয়ার সময় তিন
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Rocket Payment Guide for Betting in Bangladesh (বাংলাদেশে বেটিং এর জন্য রকেট পেমেন্ট গাইড)](/blog/rocket-payment-guide-for-betting-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [বাংলাদেশে ক্রিপ্টোকারেন্সি ক্যাসিনো ডিপোজিট গাইড: Bitcoin, USDT এবং আরও অনেক কিছু](/blog/cryptocurrency-deposit-guide-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Betting Exchange Commission Explained: How Fees Affect Profit](/blog/betting-exchange-commission-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Fastest Payout Casinos Comparison (2026 Edition) | দ্রুততম পেমেন্ট](/blog/fastest-payout-casinos-bd-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Autoplay Safety Settings in Slots: autoplay চালু করলে কী limit দেবেন?](/blog/autoplay-safety-settings-slots/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad System Maintenance? How to Fix Deposit Delays](/blog/nagad-maintenance-troubleshooting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Casino Deposit & Withdrawal Guide: নগদ দিয়ে ক্যাসিনোতে লেনদেন](/blog/nagad-casino-deposit-withdrawal-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Agent Banking Deposit Guide: Bkash, Nagad & Rocket | এজেন্ট ব্যাংকিং ডিপোজিট গাইড](/blog/agent-banking-deposit-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Transaction ID (TrxID) যাচাই করার নিয়ম: ডিপোজিট সমস্যা সমাধান](/blog/how-to-verify-bkash-transaction-id/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Upay Payment Guide for Betting in Bangladesh (উপায় পেমেন্ট গাইড)](/blog/upay-payment-guide-for-betting-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

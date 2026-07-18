@@ -82,11 +82,11 @@ world cup knockout betting নিয়ে decision নেওয়ার সময় �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Goalscorers Market Guide: First, Last & Anytime Scorer (গোলস্কোরার বেটিং নির্দেশিকা)](/blog/goalscorers-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Asian Handicap in Football: A Simple Guide (এশিয়ান হ্যান্ডিক্যাপ নির্দেশিকা)](/blog/asian-handicap-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Half-Time/Full-Time (HT/FT) Ways to Win Big (হাফ টাইম/ফুল টাইম গাইড)](/blog/ht-ft-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Card Betting Strategy: Predicting Yellow & Red Cards (কার্ড বাজি গাইড)](/blog/card-and-booking-points-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Both Teams to Score (BTTS) Strategy: High Odds Tactics (উভয় দল গোল করবে?)](/blog/both-teams-to-score-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [UEFA Champions League Betting Strategy: Group Stage vs Knockout (উয়েফা চ্যাম্পিয়ন্স লিগ কৌশল)](/blog/uefa-champions-league-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market](/blog/world-cup-2026-draw-no-bet-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Corners & Cards Market Guide: stats কীভাবে পড়বেন](/blog/world-cup-2026-corners-card-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 bKash Nagad Deposit Timing: match আগে payment plan](/blog/world-cup-2026-bkash-nagad-deposit-timing/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 BTTS Betting Guide: both teams to score market](/blog/world-cup-2026-btts-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

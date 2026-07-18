@@ -83,10 +83,10 @@ Google Search Console signal অনুযায়ী এই cluster-এ opportunit
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [The Dog House Megaways Review: Sticky Wilds & Big Wins | দ্য ডগ হাউস মেগাওয়েজ](/blog/the-dog-house-megaways-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Wild West Gold Slot Review: Sticky Wilds & Big Wins | ওয়াইল্ড ওয়েস্ট গোল্ড স্লট](/blog/wild-west-gold-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet vs Six6s: Which is Better for Bangladeshi Players? | বড়জিত বনাম সিক্স সিক্স এস](/blog/borojeet-vs-six6s-comparison-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Starlight Princess Slot Review: RTP, Volatility & Max Win | স্টারলাইট প্রিন্সেস স্লট রিভিউ](/blog/starlight-princess-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Charge Buffalo Slot Review: চার্জ বাফালো স্লট খেলার নিয়ম ও কৌশল](/blog/charge-buffalo-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [অনলাইন জুয়া আইন Bangladesh Guide: কী জানা জরুরি?](/blog/online-jua-ain-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling in Bangladesh Explained: কী legal, কী risky?](/blog/online-gambling-in-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Licensed Online Casino Bangladesh Checklist: license claim verify করুন](/blog/licensed-online-casino-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

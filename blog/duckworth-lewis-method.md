@@ -55,11 +55,11 @@ Next, let's look at the math behind the odds themselves: [Implied Probability Ca
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Tennis Set Betting Strategy: Predicting Correct Scores (টেনিস সেট বেটিং কৌশল)](/blog/tennis-set-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Accumulator (Multibet) Betting Guide: High Odds, High Reward](/blog/accumulator-multibet-strategy-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [CS:GO (CS2) Betting Guide: Map Winners and Handicaps](/blog/esports-csgo-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Slow Internet? Change DNS Settings for Faster Betting](/blog/dns-settings-for-better-speed/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding ROI and Yield: Measuring Your Betting Success](/blog/understanding-roi-and-yield/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Kelly Criterion: How Much Money Should You Bet?](/blog/kelly-criterion-for-beginners/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [The Gambler's Fallacy: Why You Are Not 'Due' for a Win](/blog/gamblers-fallacy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Password Reset Link Expired Fix: link মেয়াদ শেষ হলে](/blog/password-reset-link-expired-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ player assists betting world cup নিয়ে decision নেওয়ার সম
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Final Week Betting Plan BD: semi-final থেকে final পর্যন্ত](/blog/world-cup-2026-final-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Mobile Notification Fixture Guide: match alert setup](/blog/world-cup-2026-mobile-notification-fixture-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bet Builder Bangla Guide: same match combo safe way](/blog/world-cup-2026-bet-builder-bangla-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Goals Market Bangladesh: over/under goals plan](/blog/world-cup-2026-goals-market-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Corners Card Live Guide: corner ও card market setup](/blog/world-cup-2026-corners-card-live-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Top Teams Betting Preview Bangla: favourites বুঝবেন কীভাবে](/blog/world-cup-2026-top-teams-betting-preview-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts](/blog/world-cup-2026-mobile-betting-checklist-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll](/blog/world-cup-2026-night-match-betting-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?](/blog/world-cup-2026-live-odds-movement-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম](/blog/world-cup-2026-match-winner-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Half-Time Full-Time Guide: HT/FT market explained](/blog/world-cup-2026-half-time-full-time-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

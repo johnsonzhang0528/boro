@@ -1,4 +1,5 @@
 {
+  "trailingSlash": true,
   "redirects": [
     {
       "source": "/(.*)",
@@ -69,6 +70,41 @@
     {
       "source": "/blog/crazy-time-live-game-guide-bangladesh(/)?",
       "destination": "/blog/crazy-time-live-game-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/boro-jeet-account-verification-kyc(/)?",
+      "destination": "/blog/borojeet-account-verification-guide-bangla/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/boro-jeet-account-verification-kyc-guide(/)?",
+      "destination": "/blog/borojeet-account-verification-guide-bangla/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/boro-jeet-login-issues-solutions(/)?",
+      "destination": "/blog/borojeet-login-troubleshooting-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/boro-jeet-forgot-password-recovery(/)?",
+      "destination": "/blog/borojeet-password-reset-recovery-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rocket-payment-guide-for-betting-bangladesh(/)?",
+      "destination": "/blog/rocket-payment-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/borojeet-apk-download-bangladesh-2026(/)?",
+      "destination": "/borojeet-apk-download/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/upay-betting-deposits(/)?",
+      "destination": "/blog/upay-payment-guide-for-betting-bangladesh/",
       "permanent": true
     }
   ],

@@ -84,9 +84,9 @@ borojeet app bonus নিয়ে decision নেওয়ার সময় তিন�
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Best Betting Bonus Bangladesh New Users: welcome offer claim checklist](/blog/best-betting-bonus-bangladesh-new-users/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Durga Puja Betting Bonus Bangladesh 2026: October promo checklist](/blog/durga-puja-betting-bonus-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [BoroJeet Welcome Bonus Terms Bangla 2026: wagering আগে বুঝুন](/blog/borojeet-welcome-bonus-terms-bangla-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Buy vs Normal Spin: Is It Worth It? (বোনাস কেনা কি লাভজনক?)](/blog/bonus-buy-vs-normal-spin/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet VIP Program Explained: সুবিধা এবং স্তরসমূহ](/blog/boro-jeet-vip-program-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

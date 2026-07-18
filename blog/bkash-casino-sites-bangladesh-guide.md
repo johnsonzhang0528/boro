@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
+- [Bonus Balance vs Cash Balance Withdrawal: কোন টাকা আগে withdraw হবে?](/blog/bonus-balance-vs-cash-balance-withdrawal/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Bangladesh Online Gambling Risk Checklist: legal, payment ও scam](/blog/bangladesh-online-gambling-risk-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Cash Out Fee Calculator Guide: আসল net amount কীভাবে বুঝবেন](/blog/bkash-cash-out-fee-calculator-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Trusted Betting Sites BD Payment Checklist: payout ও support আগে দেখুন](/blog/trusted-betting-sites-bd-payment-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Aviator Crash Game BD Cashout Plan: auto cashout না manual?](/blog/aviator-crash-game-bd-cashout-plan/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Scam Casino Site Bangladesh Warning: deposit করার আগে red flags](/blog/scam-casino-site-bangladesh-warning/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Payment Screenshot Proof bKash Nagad: support-এ কোন screenshot দেবেন](/blog/payment-screenshot-proof-bkash-nagad/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Rocket Withdrawal Fee Net Amount Guide: payout থেকে fee বাদ দিলে কত](/blog/rocket-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Withdrawal Fee Net Amount Guide: হাতে কত টাকা পাবেন](/blog/bkash-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Nagad Withdrawal Fee Net Amount Guide: net cashout বুঝবেন কীভাবে](/blog/nagad-withdrawal-fee-net-amount-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -72,11 +72,11 @@ Extra Time Betting Rules Guide profitable হতে পারে, কিন্�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market](/blog/world-cup-2026-draw-no-bet-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Clean Sheet Market Guide: defence stats কীভাবে পড়বেন](/blog/world-cup-2026-clean-sheet-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Corners & Cards Market Guide: stats কীভাবে পড়বেন](/blog/world-cup-2026-corners-card-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 bKash Nagad Deposit Timing: match আগে payment plan](/blog/world-cup-2026-bkash-nagad-deposit-timing/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 BTTS Betting Guide: both teams to score market](/blog/world-cup-2026-btts-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Betting Bankroll Plan BD: 39-day tournament budget](/blog/world-cup-2026-betting-bankroll-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন](/blog/correct-score-betting-bankroll-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw No Bet vs Double Chance: কোন market বেশি practical?](/blog/draw-no-bet-vs-double-chance/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Europa Final 2026 Betting Market Guide: totals, corners ও cards](/blog/europa-final-2026-betting-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Double Chance Betting Strategy: Low Risk Wins (ডাবল চান্স বেটিং)](/blog/double-chance-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)](/blog/live-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

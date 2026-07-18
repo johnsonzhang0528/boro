@@ -74,9 +74,9 @@ Account Under Review issue fix করার সময় blind retry না কর�
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Big Bass Crash Review (2026): A New Way to Fish for Wins](/blog/big-bass-crash-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet Account Verification (KYC) Guide: Documents & Process 2026](/blog/boro-jeet-account-verification-kyc/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet KYC Verification: Documents & Steps for Instant Approval](/blog/boro-jeet-account-verification-kyc-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet কি বাংলাদেশে বৈধ? Legal Status & License Analysis 2026](/blog/is-boro-jeet-legal-bangladesh-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safe Online Casino Bangladesh Licensed Check: trust signal কীভাবে দেখবেন](/blog/safe-online-casino-bangladesh-licensed-check/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safest Betting Apps in Bangladesh (2026 Security Ranking) | নিরাপদ অ্যাপ](/blog/safest-betting-apps-bd-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Account Hacked? Immediate Recovery Steps (অ্যাকাউন্ট হ্যাক হয়েছে? পুনরুদ্ধারের উপায়)](/blog/account-hacked-recovery/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Bangladesh Mobile Browser Guide: app ছাড়া কীভাবে?](/blog/online-casino-bangladesh-mobile-browser-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

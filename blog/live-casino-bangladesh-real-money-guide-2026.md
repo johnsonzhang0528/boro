@@ -85,11 +85,11 @@ faq:
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [All Trusted Betting Sites in Bangladesh 2026 List | সেরা বেটিং সাইট তালিকা](/blog/all-trusted-betting-sites-bangladesh-2026-list/) — Legal, safety, scam ও responsible play pillar context।
-- [Smart Money vs Public Money: How to Follow the Pros](/blog/smart-money-vs-public-money/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [Player Points Line Shopping Guide: NBA props-এ line compare কেন জরুরি](/blog/player-points-line-shopping-guide/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [Which Slot Game is Easy to Win? Bangla realistic answer](/blog/which-slot-game-is-easy-to-win-bangla/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [Teen Patti Seen vs Blind Guide: decision timing কীভাবে বুঝবেন](/blog/teen-patti-seen-vs-blind-guide/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [Scatter vs Wild Symbols Explained: slot symbol mechanics সহজ ভাষায়](/blog/scatter-vs-wild-symbols-explained/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Boro Jeet Device Ban: Is My Phone Blacklisted? (ডিভাইস ব্যান: আপনার ফোন কি ব্ল্যাকলিস্টেড?)](/blog/device-ban-solutions/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে](/blog/borojeet-apk-update-checklist-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [RTP vs Hit Frequency: Which Matters More? (আরটিপি না হিট ফ্রিকোয়েন্সি?)](/blog/rtp-vs-hit-frequency/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Jackpot Slots Guide: Progressive vs Fixed Jackpots](/blog/jackpot-slots-progressive-vs-fixed/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Boro Jeet Agent vs Affiliate: Which Program Earns More Money?](/blog/boro-jeet-agent-vs-affiliate/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [সেরা ৫টি Pragmatic Play স্লট: Borojeet-এ সবচেয়ে জনপ্রিয় গেম](/blog/top-5-pragmatic-play-slots-borojeet/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

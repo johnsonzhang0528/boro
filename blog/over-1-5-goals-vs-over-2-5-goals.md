@@ -72,11 +72,11 @@ Over 1.5 Goals vs Over 2.5 Goals profitable হতে পারে, কিন্
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Super Ace Slot Strategy: Unlock the Golden Cards](/blog/super-ace-slot-hacks-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Draw No Bet (DNB) Explained: The Safest Betting Market?](/blog/draw-no-bet-explained-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [T20 World Cup 2026 Betting Preview: Favorites & Dark Horses](/blog/t20-world-cup-2026-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও](/blog/live-football-studio-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Teen Patti Real Money App: অ্যাপ ডাউনলোড এবং খেলার নিয়ম](/blog/teen-patti-real-money-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Virtual Sports Betting Guide Bangladesh: Play 24/7 (ভার্চুয়াল স্পোর্টস বেটিং)](/blog/virtual-sports-betting-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Player Assists Betting Guide: creator stats explained](/blog/world-cup-2026-player-assists-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Opening Week Betting Plan BD: first matches strategy](/blog/world-cup-2026-opening-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়](/blog/world-cup-2026-odds-explained-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts](/blog/world-cup-2026-mobile-betting-checklist-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll](/blog/world-cup-2026-night-match-betting-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -20,6 +20,9 @@ faq:
 IPL-এ একটি প্রবাদ আছে: *"টস জেতো, ফিল্ডিং নাও, ম্যাচ জেতো।"*
 বিশেষ করে নাইট ম্যাচগুলোতে **Dew Factor** (শিশির) এর কারণে দ্বিতীয় ইনিংসে বল গ্রিপ করা কঠিন হয়ে পড়ে। তাই যারা পরে ব্যাট করে, তারা বাড়তি সুবিধা পায়।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="ipl_2026_toss_prediction_pitch_report_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How to Read Pitch Reports (পিচ রিপোর্ট কিভাবে বুঝবেন)
 
 ম্যাচ শুরুর ৩০ মিনিট আগে টিভিতে পিচ রিপোর্ট দেখানো হয়। এটিই আপনার বেটিং জয়ের চাবিকাঠি।
@@ -49,11 +52,11 @@ Boro Jeet এ আপনি শুধু ম্যাচের জয়-পর�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)](/blog/cricket-toss-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Session Expired Login Fix: বারবার logout হলে সমাধান](/blog/session-expired-login-fix/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

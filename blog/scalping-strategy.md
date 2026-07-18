@@ -67,11 +67,11 @@ If you prefer identifying mispriced odds instead of trading live, check out our 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম](/blog/cricket-session-betting-bangla-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Betting App Bangladesh: আগেভাগে কীভাবে প্রস্তুতি নেবেন](/blog/asia-cup-2026-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Cricket Player Performance Market Bangla: runs, wickets, catches](/blog/cricket-player-performance-market-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Sites Bangladesh Bangla Guide: site বাছার checklist](/blog/cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Live Score Odds Bangladesh: score দেখে odds পড়ার নিয়ম](/blog/cricket-live-score-odds-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App Bangla Review: speed, market ও payment compare](/blog/cricket-betting-app-bangla-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Bonus Asia Cup 2026: bonus terms আগে পড়ুন](/blog/cricket-betting-bonus-asia-cup-2026/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ bkash rocket nagad payment নিয়ে decision নেওয়ার সময় �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Nagad Cash Out Limits 2025: Daily & Monthly Caps](/blog/nagad-cash-out-limits/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Money Coming Winning Tricks: Simple Reels, Big Payouts](/blog/money-coming-slot-winning-tricks/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Cash Out Strategy: Control Your Destiny in Betting](/blog/cash-out-feature-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Hedging Your Bets: How to Lock in Profit with Cash Out](/blog/hedging-bets-cashout-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Balloon (Smartsoft) Game Guide: Pop or Cashout? (2026)](/blog/balloon-smartsoft-crash-game-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Boro Jeet Real User Reviews 2026: What Players Are Saying](/blog/real-user-reviews-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Boro Jeet Responsible Gambling Tools: Deposit Limits & Self-Exclusion](/blog/boro-jeet-responsible-gambling-tools/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Legacy of Dead Slot Review: Unlimited Retriggers (লেগ্যাসি অফ ডেড)](/blog/legacy-of-dead-slot-review-strategy/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Payment Failed? How to Troubleshoot Casino Deposits](/blog/rocket-payment-failed-troubleshooting/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Wrong Agent Number? How to Fix Casino Deposit Mistakes](/blog/wrong-agent-number-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ borojeet registration নিয়ে decision নেওয়ার সময় তি�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet App Permissions Bangladesh: কোন permission safe?](/blog/borojeet-app-permissions-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet vs Parimatch BD: Which App is Better? | সেরা অ্যাপ তুলনা](/blog/boro-jeet-vs-parimatch-app-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet vs Linebet: Better Agent Support? | এজেন্ট সাপোর্ট পর্যালোচনা](/blog/boro-jeet-vs-linebet-agent-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Betting App Comparison Bangladesh: BoroJeet vs others কীভাবে compare করবেন](/blog/betting-app-comparison-bangladesh-borojeet-vs-others/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Big Bass Bonanza Slot Review: RTP, Free Spins & Big Wins | বিগ বাস বোনানজা](/blog/big-bass-bonanza-slot-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [The Dog House Megaways Review: Sticky Wilds & Big Wins | দ্য ডগ হাউস মেগাওয়েজ](/blog/the-dog-house-megaways-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [BoroJeet vs Six6s: Which is Better for Bangladeshi Players? | বড়জিত বনাম সিক্স সিক্স এস](/blog/borojeet-vs-six6s-comparison-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Starlight Princess Slot Review: RTP, Volatility & Max Win | স্টারলাইট প্রিন্সেস স্লট রিভিউ](/blog/starlight-princess-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Roma X Slot Review: রোমা এক্স স্লট রিভিউ এবং জয়ের কৌশল](/blog/roma-x-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Boxing King Slot Review: Knockout Wins & Free Spins (বক্সিং কিং স্লট রিভিউ)](/blog/boxing-king-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

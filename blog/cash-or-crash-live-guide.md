@@ -40,6 +40,9 @@ howto:
 
 এটি একটি বল ড্রয়িং গেম যেখানে ২৮টি বল থাকে: ১৯টি সবুজ, ৮টি লাল এবং ১টি সোনালী। আপনার লক্ষ্য হলো সবুজ বলের সাহায্যে মই বেয়ে উপরে ওঠা এবং লাল বল এড়িয়ে চলা।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="cash_or_crash_live_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 1.  **সবুজ বল (Green Ball)**: আপনাকে পে-টেবিলের এক ধাপ উপরে নিয়ে যায়। আপনি তখন সিদ্ধান্ত নিতে পারেন: Continue, Take Half, বা Take All।
@@ -73,10 +76,10 @@ Cash or Crash আপনার বুদ্ধিমত্তা এবং ভা
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
-- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Crash Game Winning Tricks 2026 - BoroJeet & Aviator Secret Tips](/blog/crash-game-winning-tricks-2026/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Funky Time Strategy Bangla: bonus rounds ও bet sizing guide](/blog/funky-time-strategy-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt](/blog/crazy-time-bangladesh-bonus-round-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [ক্যাশ গেম খেলার কৌশল Bangla: realistic strategy ও stop-loss](/blog/cash-game-khelar-koushol-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Spaceman Game Guide & Winning Tricks (Spaceman গেম গাইড)](/blog/spaceman-game-guide-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্যাশ গেম টিপস](/blog/boro-jeet-crash-games-aviator-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Martingale Strategy Guide: How to Win at Roulette & Crash Games | মার্টিনগেল স্ট্র্যাটেজি গাইড](/blog/martingale-betting-strategy-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Aviator বনাম JetX: কোনটি সেরা ক্র্যাশ গেম? (তুলনামূলক আলোচনা)](/blog/aviator-vs-jetx-comparison/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

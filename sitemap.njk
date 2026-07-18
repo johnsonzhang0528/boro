@@ -22,7 +22,7 @@ eleventyExcludeFromCollections: true
 
   {# Add all published posts from the filtered collection #}
   {%- for page in collections.post %}
-    {%- if page.data.robots != 'noindex' and not page.data.noindex %}
+    {%- if 'noindex' not in (page.data.robots or '') and not page.data.noindex %}
     <url>
       <loc>{{ site.url }}{{ page.url | url }}</loc>
       <lastmod>{{ (page.data.lastUpdated or page.date).toISOString().slice(0,10) }}</lastmod>
@@ -40,7 +40,7 @@ eleventyExcludeFromCollections: true
   
   {# Add all other pages that are not posts #}
   {%- for page in collections.all %}
-    {%- if page.url and page.data.eleventyExcludeFromCollections != true and page.data.robots != 'noindex' and not page.data.noindex and (not page.data.tags or 'post' not in page.data.tags) %}
+    {%- if page.url and page.data.eleventyExcludeFromCollections != true and 'noindex' not in (page.data.robots or '') and not page.data.noindex and (not page.data.tags or 'post' not in page.data.tags) and '/blog/page-' not in page.url %}
       <url>
         <loc>{{ site.url }}{{ page.url | url }}</loc>
         <lastmod>{{ (page.data.lastUpdated or page.date).toISOString().slice(0,10) }}</lastmod>

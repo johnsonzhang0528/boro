@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Champions League Final 2026 Betting Guide BD: May final market checklist](/blog/champions-league-final-2026-betting-guide-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Accumulator Insurance Guide: How to Save Your Money | অ্যাকিউমুলেটর ইনস্যুরেন্স কি?](/blog/accumulator-insurance-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Double Chance Betting Strategy: Low Risk Wins (ডাবল চান্স বেটিং)](/blog/double-chance-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)](/blog/live-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Outright Winner Betting: Investing for the Season (আউটরাইট উইনার বেটিং)](/blog/outright-winner-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Clean Sheet Betting Strategy: Defensive Masterclass (ক্লিন শিট বেটিং)](/blog/clean-sheet-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গেম](/blog/boro-jeet-poker-games-online/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Teen Patti Real Money App: অ্যাপ ডাউনলোড এবং খেলার নিয়ম](/blog/teen-patti-real-money-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Virtual Sports Betting Guide Bangladesh: Play 24/7 (ভার্চুয়াল স্পোর্টস বেটিং)](/blog/virtual-sports-betting-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?](/blog/over-1-5-goals-vs-over-2-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন](/blog/epl-2026-27-season-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide](/blog/la-liga-2026-27-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -83,10 +83,10 @@ crazy time bonus round bangladesh নিয়ে decision নেওয়ার স�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Playing Crash Games with Bonus Money: The Hidden Rules (2026)](/blog/playing-crash-games-with-bonus-money/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Fibonacci Betting Sequence in Aviator: Valid Math or Myth? (2026)](/blog/fibonacci-betting-sequence-aviator/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Best Time to Play Crash Games (2026): Is There a Lucky Hour?](/blog/best-time-to-play-crash-games/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Post-Crash Analysis (2026): How to Read Round History for Wins](/blog/post-crash-analysis-round-history/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Cash or Crash Live Strategy (2026): Evolution Gaming's Best Tricks](/blog/cash-or-crash-live-strategy-evolution/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [ক্যাশ গেম খেলার কৌশল Bangla: realistic strategy ও stop-loss](/blog/cash-game-khelar-koushol-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Lucky Jet Crash Game Guide Bangladesh: Aviator alternative explained](/blog/lucky-jet-crash-game-guide-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Plane Crash Betting Game Guide BD: plane game কীভাবে কাজ করে?](/blog/plane-crash-betting-game-guide-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Strategy for Beginners BD: 1.5x, 2x ও stop-loss plan](/blog/crash-game-strategy-for-beginners-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Pattern Myths Explained: pattern দেখে prediction করা যায়?](/blog/crash-game-pattern-myths-explained/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

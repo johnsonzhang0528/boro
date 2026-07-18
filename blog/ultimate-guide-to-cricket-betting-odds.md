@@ -30,6 +30,9 @@ faq:
 1.  আপনি জিতলে কত টাকা পাবেন।
 2.  বুকমেকারের মতে সেই ফলাফলের সম্ভাবনা কতটুকু।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="ultimate_guide_to_cricket_betting_odds_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## অডস-এর বিভিন্ন ফরম্যাট (Different Formats of Odds)
 <picture class="hero-image" data-critical="true">
   <source srcset="/assets/blog/betting-odds-formats-comparison-optimized.avif" type="image/avif">
@@ -104,11 +107,11 @@ faq:
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)](/blog/cricket-toss-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল](/blog/advanced-cricket-betting-strategies/) — Cricket betting সম্পর্কিত practical checklist।
-- [Wicket Method Betting Explained: caught, bowled, lbw market কী?](/blog/wicket-method-betting-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Session Expired Login Fix: বারবার logout হলে সমাধান](/blog/session-expired-login-fix/) — Cricket betting সম্পর্কিত practical checklist।
+- [Wild Bandito Win Guide: Sticky Wilds & Increasing Multipliers (ওয়াইল্ড ব্যান্ডিটো)](/blog/wild-bandito-win-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mahjong Ways 2 Winning Tricks: Unlocking the x10 Multiplier (মাহজং ওয়েজ ২ ট্রিকস)](/blog/mahjong-ways-2-winning-tricks/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mahjong Ways 1 Winning Strategy: How to Hit That x5 Multiplier (জয়ের কৌশল)](/blog/mahjong-ways-1-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [XXXTreme Lightning Roulette: 2000x Multiplier Strategy](/blog/xxxtreme-lightning-roulette-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [ODI Betting Strategy: Mastering the 50-Over Format](/blog/odi-cricket-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -74,9 +74,9 @@ Promo Code Not Working Fix useful হতে পারে, যদি terms আগ
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন](/blog/bonus-turnover-calculation-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Online Slots Bangladesh Guide: RTP, volatility ও bonus feature](/blog/online-slots-bangladesh-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering](/blog/free-spin-bonus-bangladesh-slot-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Reload Bonus vs Cashback Guide: কোন reward model বেশি useful?](/blog/reload-bonus-vs-cashback-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Loyalty Points Conversion Guide: points কখন cash এ convert করবেন?](/blog/loyalty-points-conversion-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Wagering Turnover Calculator Bangla Guide: কত খেলতে হবে?](/blog/wagering-turnover-calculator-bangla-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন](/blog/wagering-requirement-bonus-guide-bd/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা](/blog/wagering-requirements-meaning-bangla/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

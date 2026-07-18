@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Test Cricket Betting: The Ultimate Strategy Guide](/blog/test-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Virtual Cricket Betting: 24/7 Action Explained](/blog/virtual-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Over/Under Betting Strategy in Cricket: Predicting Total Runs](/blog/over-under-cricket-betting-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2026 Prediction: Team Squads, Favorites & Betting Odds](/blog/bpl-2026-team-squads-odds-analysis/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Toss Prediction: How Pitch Reports Decide the Match](/blog/ipl-2026-toss-prediction-pitch-report/) — Cricket betting সম্পর্কিত practical checklist।
-- [High Risk, High Reward: Strategy for Hunting 100x Multipliers (2026)](/blog/high-risk-high-reward-crash-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?](/blog/safest-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [No 1 Cricket Betting App BD: কোন criteria দিয়ে সেরা app বাছবেন?](/blog/no-1-cricket-betting-app-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Online Cricket Betting App Download Guide: Bangladesh user checklist](/blog/online-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide](/blog/cricket-betting-apps-real-money-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide](/blog/cricket-betting-app-for-ios-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?](/blog/cricket-betting-app-for-pc-bangladesh-browser/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

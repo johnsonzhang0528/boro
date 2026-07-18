@@ -82,11 +82,11 @@ borojeet official link নিয়ে decision নেওয়ার সময় তি
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [CS:GO (CS2) Betting Guide: Map Winners and Handicaps](/blog/esports-csgo-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Alternative Links: Official Mirror Sites (2026 Updated)](/blog/boro-jeet-alternative-links-official-mirror/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Contact Boro Jeet Customer Support: Live Chat, Email & WhatsApp](/blog/contacting-boro-jeet-customer-support/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet App Installation Error: 'App Not Installed' সমাধান](/blog/boro-jeet-app-installation-error-fixes/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Password Recovery Guide: কীভাবে পাসওয়ার্ড রিসেট করবেন?](/blog/boro-jeet-forgot-password-recovery/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

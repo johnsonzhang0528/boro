@@ -21,6 +21,9 @@ faq:
 
 প্রাথমিকভাবে আমরা খুবই ছোট পরিসরে শুরু করেছিলাম। কিন্তু সততা (Integrity) এবং দ্রুত পেমেন্ট (Fast Payouts) সিস্টেমের কারণে খুব অল্প সময়েই আমরা বাংলাদেশি গেমারদের মন জয় করতে সক্ষম হই।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="history_of_boro_jeet_brand_story_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Key Milestones (উল্লেখযোগ্য মাইলফলক)
 
 Boro Jeet-এর সাফল্যের পেছনের বছরগুলো কেমন ছিল? চলুন এক নজরে দেখে নিই:
@@ -61,11 +64,11 @@ Boro Jeet কেবল একটি জুয়ার সাইট নয়, �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use](/blog/borojeetbd-lightweight-app-low-data/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Boro Jeet Official Social Media Groups: Telegram, Facebook & WhatsApp](/blog/official-social-media-communities/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet App System Requirements (2026): Android & iOS Specs](/blog/boro-jeet-system-requirements/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet iOS App Download Guide (2026): iPhone & iPad Installation](/blog/downloading-boro-jeet-on-ios/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Account Suspended? Reasons & How to Restore (2026)](/blog/boro-jeet-account-suspended-reasons-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Alternative Links: Official Mirror Sites (2026 Updated)](/blog/boro-jeet-alternative-links-official-mirror/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

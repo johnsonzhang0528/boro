@@ -82,11 +82,11 @@ world cup bkash nagad deposit নিয়ে decision নেওয়ার সময়
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Accumulator Insurance Guide: How to Save Your Money | অ্যাকিউমুলেটর ইনস্যুরেন্স কি?](/blog/accumulator-insurance-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Double Chance Betting Strategy: Low Risk Wins (ডাবল চান্স বেটিং)](/blog/double-chance-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)](/blog/live-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Outright Winner Betting: Investing for the Season (আউটরাইট উইনার বেটিং)](/blog/outright-winner-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Clean Sheet Betting Strategy: Defensive Masterclass (ক্লিন শিট বেটিং)](/blog/clean-sheet-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Virtual Football League Tips: Winning at Non-Stop Soccer (ভার্চুয়াল ফুটবল বেটিং টিপস)](/blog/virtual-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Yellow Card Betting Guide: referee trend ও risk](/blog/world-cup-2026-yellow-card-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Top Goalscorer Betting Guide: outright market explained](/blog/world-cup-2026-top-goalscorer-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম](/blog/world-cup-2026-underdog-betting-strategy-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Quarter Final Betting Strategy: knockout match plan](/blog/world-cup-2026-quarter-final-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Team News Injury Betting Guide: lineup impact বুঝুন](/blog/world-cup-2026-team-news-injury-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Penalty Shootout Betting Rules: settlement কীভাবে হয়?](/blog/world-cup-2026-penalty-shootout-betting-rules/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

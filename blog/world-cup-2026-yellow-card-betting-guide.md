@@ -82,11 +82,11 @@ yellow card betting world cup নিয়ে decision নেওয়ার সময়
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Andar Bahar First Card Probability: first card দেখে edge পাওয়া যায়?](/blog/andar-bahar-first-card-probability/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Outrights vs Match Betting Football: long-term নাকি short-term market?](/blog/outrights-vs-match-betting-football/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?](/blog/extra-time-betting-rules-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন](/blog/correct-score-betting-bankroll-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Draw No Bet vs Double Chance: কোন market বেশি practical?](/blog/draw-no-bet-vs-double-chance/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bet Builder Bangla Guide: same match combo safe way](/blog/world-cup-2026-bet-builder-bangla-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Goals Market Bangladesh: over/under goals plan](/blog/world-cup-2026-goals-market-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Corners Card Live Guide: corner ও card market setup](/blog/world-cup-2026-corners-card-live-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Top Teams Betting Preview Bangla: favourites বুঝবেন কীভাবে](/blog/world-cup-2026-top-teams-betting-preview-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Live Betting App Checklist: live match-এর আগে setup](/blog/world-cup-2026-live-betting-app-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Safe Betting Sites BD: fake site এড়ানোর checklist](/blog/world-cup-2026-safe-betting-sites-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

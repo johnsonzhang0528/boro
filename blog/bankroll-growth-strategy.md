@@ -57,8 +57,9 @@ Speaking of tracking, you need a system. Read our guide on [Record Keeping for B
 
 - [Guide to Responsible Gaming: দায়িত্বশীল গেমিং এবং নিরাপদ থাকার উপায়](/blog/guide-to-responsible-gaming-bangladesh/) — Legal, safety, scam ও responsible play pillar context।
 - [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
-- [What is Tilt in Betting? How to Stop Emotional Decisions](/blog/betting-psychology-tilt/) — Responsible gambling support সম্পর্কিত practical checklist।
-- [Chasing Losses: The Psychology of the Death Spiral](/blog/chasing-losses/) — Responsible gambling support সম্পর্কিত practical checklist।
 - [Slot Volatility Explained: High vs Low Variance (স্লটের ভোলাটিলিটি কি?)](/blog/slot-volatility-explained/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Andar Bahar First Card Probability: first card দেখে edge পাওয়া যায়?](/blog/andar-bahar-first-card-probability/) — Football / World Cup betting cluster-এর কম-linked guide।
+- [Betting Exchange Commission Explained: How Fees Affect Profit](/blog/betting-exchange-commission-guide/) — Payments, deposits ও withdrawals cluster-এর কম-linked guide।
+- [Promo Code Not Working Fix: code invalid দেখালে কী করবেন?](/blog/promo-code-not-working-fix/) — Bonus, wagering ও promotions cluster-এর কম-linked guide।
 
 <!-- internal-links:fullmode:end -->

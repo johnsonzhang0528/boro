@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket বাজি করার নিয়ম Bangla: beginner rules explained](/blog/cricket-baji-korar-niyom-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Over-by-Over Betting Bangladesh: live over market guide](/blog/cricket-over-by-over-betting-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Performance Market Bangla: runs, wickets, catches](/blog/cricket-player-performance-market-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Sites Bangladesh Bangla Guide: site বাছার checklist](/blog/cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Live Score Odds Bangladesh: score দেখে odds পড়ার নিয়ম](/blog/cricket-live-score-odds-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide](/blog/cricket-betting-apps-real-money-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide](/blog/cricket-betting-app-for-ios-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?](/blog/cricket-betting-app-for-pc-bangladesh-browser/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Powerplay Live Betting BD: প্রথম ৬ ওভারের market plan](/blog/cricket-powerplay-live-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

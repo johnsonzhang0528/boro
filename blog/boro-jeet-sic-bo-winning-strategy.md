@@ -2,7 +2,19 @@
 lastUpdated: 2026-01-18
 description: "Roll the dice on Boro Jeet Sic Bo. Learn the rules, Big/Small bets, and winning strategies for this exciting dice game. Boro Jeet সিক বো খেলে জিতুন।"
 title: "Boro Jeet Sic Bo: Dice Game Strategy & Tips | সিক বো"
-layout: "post.njk"lang: "bn-BD"date: 2026-01-18ogImage: "boro-jeet-sic-bo-hero-optimized.webp"ogImageAlt: "Three dice showing winning numbers on a Boro Jeet Sic Bo table"tags: ["post", "sic-bo", "live-casino", "borojeet", "strategy"]faq:  - question: "Sic Bo খেলায় সবচেয়ে নিরাপদ বাজি কোনটি?"    answer: "সবচেয়ে নিরাপদ বাজি হলো **Big** (১১-১৭) এবং **Small** (৪-১০)। এগুলোর জেতার সম্ভাবনা প্রায় ৪৮.৬% এবং পে-আউট ১:১।"  - question: "Boro Jeet-এ কি Super Sic Bo খেলা যায়?"    answer: "হ্যাঁ, **Boro Jeet**-এ আপনি Evolution Gaming-এর **Super Sic Bo** খেলতে পারেন, যেখানে ১০০০ গুণ পর্যন্ত মাল্টিপ্লায়ার জেতার সুযোগ থাকে।"  - question: "Triple Bet-এ পে-আউট কত?"    answer: "নির্দিষ্ট **Triple Bet** (যেমন তিনটি ৩) এর পে-আউট সাধারণত ১৫০:১ বা ১৮০:১ হয়, যা অনেক বেশি কিন্তু জেতার সম্ভাবনা কম।"
+layout: "post.njk"
+lang: "bn-BD"
+date: 2026-01-18
+ogImage: "boro-jeet-sic-bo-hero-optimized.webp"
+ogImageAlt: "Three dice showing winning numbers on a Boro Jeet Sic Bo table"
+tags: ["post", "sic-bo", "live-casino", "borojeet", "strategy"]
+faq:
+  - question: "Sic Bo খেলায় সবচেয়ে নিরাপদ বাজি কোনটি?"
+    answer: "সবচেয়ে নিরাপদ বাজি হলো **Big** (১১-১৭) এবং **Small** (৪-১০)। এগুলোর জেতার সম্ভাবনা প্রায় ৪৮.৬% এবং পে-আউট ১:১।"
+  - question: "Boro Jeet-এ কি Super Sic Bo খেলা যায়?"
+    answer: "হ্যাঁ, **Boro Jeet**-এ আপনি Evolution Gaming-এর **Super Sic Bo** খেলতে পারেন, যেখানে ১০০০ গুণ পর্যন্ত মাল্টিপ্লায়ার জেতার সুযোগ থাকে।"
+  - question: "Triple Bet-এ পে-আউট কত?"
+    answer: "নির্দিষ্ট **Triple Bet** (যেমন তিনটি ৩) এর পে-আউট সাধারণত ১৫০:১ বা ১৮০:১ হয়, যা অনেক বেশি কিন্তু জেতার সম্ভাবনা কম।"
 ---
 
 আপনি কি ভাগ্যের খেলায় বিশ্বাসী? তবে **Sic Bo** (সিক বো) আপনার জন্য একটি দুর্দান্ত পছন্দ হতে পারে। এটি একটি প্রাচীন চাইনিজ ডাইস গেম যা এখন **Boro Jeet**-এর মাধ্যমে বাংলাদেশে অত্যন্ত জনপ্রিয় হয়ে উঠেছে। তিনটি ডাইস বা ছক্কার ফলাফলের উপর ভিত্তি করে খেলা এই গেমটি উত্তেজনা এবং বড় জয়ের সুযোগে ভরপুর।
@@ -70,11 +82,11 @@ layout: "post.njk"lang: "bn-BD"date: 2026-01-18ogImage: "boro-jeet-sic-bo-her
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Dream Catcher গেম গাইড: নিয়ম, কৌশল এবং বড় জয়ের টিপস](/blog/dream-catcher-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Roulette Strategies এবং Betting Systems: জেতার সম্ভাবনা বাড়ানোর গাইড](/blog/roulette-strategies-and-betting-systems/) — Online casino games সম্পর্কিত practical checklist।
-- [Andar Bahar Game Rules: অন্দর বাহার খেলার নিয়ম ও কৌশল](/blog/andar-bahar-guide-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
-- [মাছ ধরার খেলা (Fishing Game) গাইড: নতুনদের জন্য নিয়ম ও কৌশল](/blog/fishing-game-guide-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
 - [Borojeet-এ Highest RTP সহ সেরা ৫টি Slot Games (2025)](/blog/top-5-high-rtp-slots-borojeet/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?](/blog/slot-hit-frequency-check-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)](/blog/roulette-outside-bets-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Bac Bo Game Guide: ব্যাক বো খেলার নিয়ম ও কৌশল](/blog/bac-bo-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Slot Tournaments Guide: How to Win Top Prizes (স্লট টুর্নামেন্ট গাইড)](/blog/slot-tournaments-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Megaways Mechanics Explained: 117,649 Ways to Win (মেগাওয়েজ এর রহস্য)](/blog/megaways-slots-mechanics/) — Online casino games সম্পর্কিত practical checklist।
+- [Best Chinese New Year Slots 2026: Try Your Luck! (চীনা নববর্ষের স্লট)](/blog/chinese-new-year-slots/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

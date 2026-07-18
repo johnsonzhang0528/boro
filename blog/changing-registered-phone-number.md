@@ -16,7 +16,7 @@ faq:
 ---
 
 Your registered phone number is your **unique identity** on Boro Jeet. It links your login, your OTPs, and your bKash/Nagad wallet.
-Because it's so important (tied to your [KYC Verification](/blog/boro-jeet-account-verification-kyc-guide/)), **you cannot change it in the Profile Settings.**
+Because it's so important (tied to your [KYC Verification](/blog/borojeet-account-verification-guide-bangla/)), **you cannot change it in the Profile Settings.**
 
 This prevents hackers from stealing your account and changing the number to their own.
 
@@ -55,11 +55,11 @@ Once verified, they will update the system. This usually takes **14-48 hours**.
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা](/blog/new-betting-apps-2026-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting Meaning in Bengali: Beginner's Guide to Online Betting | বেটিং কি?](/blog/betting-meaning-in-bengali-beginners-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Horse Racing Betting in Bangladesh: A Complete Guide for Beginners (ঘোড়দৌড় বাজি)](/blog/horse-racing-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল বেটিং](/blog/handball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

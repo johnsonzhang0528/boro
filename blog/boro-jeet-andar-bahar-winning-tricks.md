@@ -2,7 +2,19 @@
 lastUpdated: 2026-01-18
 description: "Master the game of Andar Bahar on Boro Jeet. Learn the rules, winning tricks, and strategies for this popular Indian card game. Boro Jeet অন্দর বাহার খেলে জিতুন।"
 title: "Boro Jeet Andar Bahar: Winning Tricks & Strategy | অন্দর বাহার"
-layout: "post.njk"lang: "bn-BD"date: 2026-01-18ogImage: "boro-jeet-andar-bahar-hero-optimized.webp"ogImageAlt: "Traditional Andar Bahar card game setup on a Boro Jeet table"tags: ["post", "andar-bahar", "live-casino", "borojeet", "strategy"]faq:  - question: "Andar Bahar খেলায় জেতার সম্ভাবনা কত?"    answer: "Andar এবং Bahar উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে পরিসংখ্যানগতভাবে, **Andar**-এর জেতার সম্ভাবনা সামান্য বেশি (৫১.৫%)।"  - question: "Boro Jeet-এ কি Andar Bahar খেলা নিরাপদ?"    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Ezugi এবং Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"  - question: "Side Bets কি লাভজনক?"    answer: "Side Bets (যেমন Joker Card-এর সুট বা মান) অনেক বেশি পে-আউট দেয়, কিন্তু এগুলোর জেতার সম্ভাবনা কম। তাই এগুলো সাবধানে খেলা উচিত।"
+layout: "post.njk"
+lang: "bn-BD"
+date: 2026-01-18
+ogImage: "boro-jeet-andar-bahar-hero-optimized.webp"
+ogImageAlt: "Traditional Andar Bahar card game setup on a Boro Jeet table"
+tags: ["post", "andar-bahar", "live-casino", "borojeet", "strategy"]
+faq:
+  - question: "Andar Bahar খেলায় জেতার সম্ভাবনা কত?"
+    answer: "Andar এবং Bahar উভয়েরই জেতার সম্ভাবনা প্রায় ৫০%। তবে পরিসংখ্যানগতভাবে, **Andar**-এর জেতার সম্ভাবনা সামান্য বেশি (৫১.৫%)।"
+  - question: "Boro Jeet-এ কি Andar Bahar খেলা নিরাপদ?"
+    answer: "হ্যাঁ, **Boro Jeet** একটি লাইসেন্সপ্রাপ্ত প্ল্যাটফর্ম এবং এখানে Ezugi এবং Evolution Gaming-এর মতো বিশ্বস্ত প্রোভাইডারদের গেম পাওয়া যায়।"
+  - question: "Side Bets কি লাভজনক?"
+    answer: "Side Bets (যেমন Joker Card-এর সুট বা মান) অনেক বেশি পে-আউট দেয়, কিন্তু এগুলোর জেতার সম্ভাবনা কম। তাই এগুলো সাবধানে খেলা উচিত।"
 ---
 
 দক্ষিণ এশিয়ার সবচেয়ে জনপ্রিয় কার্ড গেমগুলোর মধ্যে **Andar Bahar** (অন্দর বাহার) অন্যতম। এর সহজ নিয়ম এবং দ্রুত গতির কারণে এটি বাংলাদেশী খেলোয়াড়দের কাছে অত্যন্ত প্রিয়। **Boro Jeet**-এ আপনি এখন লাইভ ডিলারদের সাথে এই ঐতিহ্যবাহী গেমটি খেলতে পারেন।
@@ -69,11 +81,11 @@ layout: "post.njk"lang: "bn-BD"date: 2026-01-18ogImage: "boro-jeet-andar-baha
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Golden Empire Slot Guide: How to Trigger Massive Free Spins](/blog/golden-empire-slot-free-spins/) — Online casino games সম্পর্কিত practical checklist।
-- [Mega Fishing Game Guide: How to Win Big in Bangladesh](/blog/mega-fishing-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Boro Jeet Dragon Tiger: Simple Winning Tricks | ড্রাগন টাইগার](/blog/boro-jeet-dragon-tiger-game-guide/) — Online casino games সম্পর্কিত practical checklist।
 - [Boro Jeet Baccarat: Winning Strategies & Live Dealer Guide | ব্যাকারাত গেম](/blog/boro-jeet-baccarat-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
 - [Boro Jeet Roulette: Strategies & Tricks to Win | রুলেট গেম](/blog/boro-jeet-roulette-casino-tricks/) — Online casino games সম্পর্কিত practical checklist।
 - [Boro Jeet Fishing Games: Tips & Tricks to Win Big | ফিশিং গেম গাইড](/blog/boro-jeet-fishing-games-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Boro Jeet Slot Games: Top Picks & Winning Tips | সেরা স্লট গেম](/blog/boro-jeet-slot-games-winning-tips/) — Online casino games সম্পর্কিত practical checklist।
+- [Jili Slot Games Guide: Top 5 Games & Winning Tips](/blog/jili-slot-games-guide-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
+- [Deal or No Deal Live Strategy & Guide (Deal or No Deal গাইড)](/blog/deal-or-no-deal-live-guide-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

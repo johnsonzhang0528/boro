@@ -72,11 +72,11 @@ Asia Cup 2026 Betting App Bangladesh profitable হতে পারে, কি�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Fire Joker Slot Review: Wheel of Multipliers (ফায়ার জোকার স্লট)](/blog/fire-joker-slot-review-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল ২০২৬ বেটিং](/blog/ipl-2026-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)](/blog/cricket-toss-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
+- [BD Cricket Betting App Download Guide: safe APK ও browser option](/blog/bd-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Live Odds Bangladesh App Guide: live odds বুঝবেন কীভাবে](/blog/cricket-live-odds-bangladesh-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App BD Low Data: slow internet-এ match follow করবেন কীভাবে](/blog/cricket-betting-app-bd-low-data/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting Site Bangladesh bKash Nagad: payment-ready checklist](/blog/cricket-betting-site-bangladesh-bkash-nagad/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji App Bangladesh Safe Choice: app বাছাইয়ের practical guide](/blog/cricket-baji-app-bangladesh-safe-choice/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

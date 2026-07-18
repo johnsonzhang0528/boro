@@ -20,6 +20,9 @@ faq:
 **Golden Empire** হলো JILI এর একটি মাস্টারপিস। এর গ্রাফিক্স এবং সাউন্ড ইফেক্ট আপনাকে প্রাচীন মায়ান সভ্যতায় নিয়ে যাবে।
 কিন্তু আসল আকর্ষণ হলো এর **Free Game** মোড।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="golden_empire_slot_free_spins_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## The Path to Free Spins
 
 অধিকাংশ স্লটে ৩টি স্কেটার লাগে, কিন্তু এখানে **৪টি Scatter** প্রয়োজন।
@@ -51,10 +54,10 @@ Golden Empire এ একবার ফ্রি গেমে ঢুকতে প�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Cascading Slots for Beginners: tumbling reels কীভাবে কাজ করে?](/blog/cascading-slots-for-beginners/) — Online casino games সম্পর্কিত practical checklist।
-- [Blackjack Soft Hands Guide: soft 17 থেকে soft 20 decision chart](/blog/blackjack-soft-hands-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Blackjack Surrender Guide: surrender option কবে ব্যবহার করবেন?](/blog/blackjack-surrender-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Best Casino Slots to Play Online BD: beginner slot selection guide](/blog/best-casino-slots-to-play-online-bd/) — Online casino games সম্পর্কিত practical checklist।
-- [Banker Player Commission Explained: Baccarat-এ commission কেন কাটা হয়?](/blog/banker-player-commission-explained/) — Online casino games সম্পর্কিত practical checklist।
+- [Boro Jeet Slot Games: Top Picks & Winning Tips | সেরা স্লট গেম](/blog/boro-jeet-slot-games-winning-tips/) — Online casino games সম্পর্কিত practical checklist।
+- [Blackjack বেসিক স্ট্র্যাটেজি: নতুনদের জন্য গাইড (Blackjack Basic Strategy Guide)](/blog/blackjack-basic-strategy-guide-beginners/) — Online casino games সম্পর্কিত practical checklist।
+- [Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)](/blog/roulette-outside-bets-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Peek Baccarat খেলার নিয়ম ও কৌশল (Peek Baccarat Game Guide & Strategy)](/blog/peek-baccarat-game-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Speed Baccarat খেলার নিয়ম ও সুবিধা (Speed Baccarat Game Guide & Strategy)](/blog/speed-baccarat-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

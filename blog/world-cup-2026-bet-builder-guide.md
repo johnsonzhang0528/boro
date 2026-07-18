@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Betting App BD: football match bet করার setup](/blog/world-cup-2026-betting-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bangla Betting Terms Glossary: odds, line, market](/blog/world-cup-2026-bangla-betting-terms-glossary/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?](/blog/world-cup-2026-bangladesh-betting-calendar/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Asian Handicap Guide Bangla: line বুঝুন সহজে](/blog/world-cup-2026-asian-handicap-guide-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন](/blog/fifa-world-cup-2026-app-notification-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [England France World Cup 2026 Betting Preview: odds, squad ও market](/blog/world-cup-2026-england-france-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)](/blog/live-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Outright Winner Betting: Investing for the Season (আউটরাইট উইনার বেটিং)](/blog/outright-winner-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Virtual Football League Tips: Winning at Non-Stop Soccer (ভার্চুয়াল ফুটবল বেটিং টিপস)](/blog/virtual-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [ISL (Indian Super League) Betting Guide for Bangladesh (বাংলাদেশি ভক্তদের জন্য ISL বেটিং)](/blog/isl-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw Prediction Strategies: Betting on the 'X' (কিভাবে ড্র ম্যাচের ভবিষ্যদ্বাণী করবেন)](/blog/draw-prediction-strategies/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Goalscorers Market Guide: First, Last & Anytime Scorer (গোলস্কোরার বেটিং নির্দেশিকা)](/blog/goalscorers-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

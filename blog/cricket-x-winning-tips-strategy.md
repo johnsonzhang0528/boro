@@ -19,6 +19,9 @@ faq:
 
 আপনি কি ক্রিকেট ভালোবাসেন? তাহলে **Cricket X** গেমটি আপনার জন্যই তৈরি। এখানে সাধারণ ক্র্যাশ গেমের প্লেনের বদলে থাকে ক্রিকেট বল। ব্যাটসম্যান বলটিকে আকাশে উড়িয়ে দেয় এবং বলটি ফেটে যাওয়ার আগেই আপনাকে টাকা তুলে নিতে হয়।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="cricket_x_winning_tips_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How to Play Cricket X? (খেলার নিয়ম)
 
 1.  **Bet:** খেলা শুরুর আগে আপনার বাজির পরিমাণ ঠিক করুন।
@@ -61,11 +64,11 @@ Cricket X কেবল ভাগ্যের খেলা নয়, এটি �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Over-by-Over Betting Bangladesh: live over market guide](/blog/cricket-over-by-over-betting-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Performance Market Bangla: runs, wickets, catches](/blog/cricket-player-performance-market-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Live Score Odds Bangladesh: score দেখে odds পড়ার নিয়ম](/blog/cricket-live-score-odds-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App Bangla Review: speed, market ও payment compare](/blog/cricket-betting-app-bangla-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Virtual Cricket Betting: 24/7 Action Explained](/blog/virtual-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Handicap Betting in Cricket: How to Bet on Mismatched Games](/blog/handicap-betting-cricket-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2026 Prediction: Team Squads, Favorites & Betting Odds](/blog/bpl-2026-team-squads-odds-analysis/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Toss Prediction: How Pitch Reports Decide the Match](/blog/ipl-2026-toss-prediction-pitch-report/) — Cricket betting সম্পর্কিত practical checklist।
+- [High Risk, High Reward: Strategy for Hunting 100x Multipliers (2026)](/blog/high-risk-high-reward-crash-strategy/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

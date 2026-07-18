@@ -19,6 +19,9 @@ faq:
 
 **Crazy Time** বর্তমান বিশ্বের সবচেয়ে জনপ্রিয় অনলাইন ক্যাসিনো গেম শো। কেন? কারণ এর ৪টি অবিশ্বাস্য বোনাস রাউন্ড।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="crazy_time_bonus_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## The 4 Bonus Rounds
 
 ### 1. Coin Flip (সবচেয়ে সাধারণ)
@@ -54,9 +57,9 @@ Crazy Time শুধু জুয়া নয়, এটি একটি বি
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?](/blog/birthday-bonus-eligibility-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Best Betting Bonus Bangladesh New Users: welcome offer claim checklist](/blog/best-betting-bonus-bangladesh-new-users/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeet App Download Bonus Tracking: register first কেন জরুরি?](/blog/borojeet-app-download-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Eid Bonus Betting Bangladesh 2026: claim করার আগে terms পড়ুন](/blog/eid-bonus-betting-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet VIP Program Explained: সুবিধা এবং স্তরসমূহ](/blog/boro-jeet-vip-program-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ bkash deposit minimum maximum betting নিয়ে decision নেওয়ার �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Mobile Wallet Name Mismatch Bangladesh: bKash Nagad Rocket name issue](/blog/mobile-wallet-name-mismatch-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Rocket Deposit Wrong Reference Fix: reference ভুল হলে কী করবেন](/blog/rocket-deposit-wrong-reference-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Deposit Not Showing After TrxID: TrxID দিলেও balance না এলে](/blog/bkash-deposit-not-showing-after-trxid/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Nagad Deposit Pending After Successful Payment: payment success কিন্তু balance pending](/blog/nagad-deposit-pending-after-successful-payment/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?](/blog/bkash-withdrawal-pending-after-approval/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Aviator Betting App Bangladesh Guide: app, cashout ও safety](/blog/aviator-betting-app-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Cashout Delay After Approved: approved status-এর পরে wait time](/blog/bkash-cashout-delay-after-approved/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide](/blog/low-deposit-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Deposit Limit Online Gaming BD: daily limit ও pending risk](/blog/nagad-deposit-limit-online-gaming-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Nagad Online Casino Bangladesh Guide: deposit, cashout ও limits](/blog/nagad-online-casino-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Nagad Rocket Withdrawal Time BD: pending হলে কী করবেন?](/blog/bkash-nagad-rocket-withdrawal-time-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

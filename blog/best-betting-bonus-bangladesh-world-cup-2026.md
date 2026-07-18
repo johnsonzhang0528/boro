@@ -45,7 +45,7 @@ howto:
 
 Google Search Console signal অনুযায়ী এই cluster-এ opportunity আছে: World Cup bonus searches will rise before kickoff.। এর মানে হলো user interest আছে, কিন্তু page intent, title match, internal links এবং topic coverage আরও precise করলে ranking ও CTR উন্নত হতে পারে।
 
-এই page-এর angle: Seasonal bonus comparison with responsible warnings. Related background দরকার হলে [Understanding Wagering Requirements](/blog/understanding-wagering-requirements/), [BoroJeet VIP Bonus Rules Bangla](/blog/borojeet-vip-bonus-rules-bangla/), [Daily Betting Rebate Guide Bangladesh](/blog/daily-betting-rebate-guide-bangladesh/) পড়ুন।
+এই page-এর angle: Seasonal bonus comparison with responsible warnings. Related background দরকার হলে [Understanding Wagering Requirements](/blog/understanding-wagering-requirements/), [BoroJeet VIP Bonus Rules Bangla](/blog/borojeet-vip-bonus-rules-bangla/), Daily Betting Rebate Guide Bangladesh পড়ুন।
 
 ## Quick answer
 
@@ -76,11 +76,11 @@ World Cup বা festival bonus নেওয়ার আগে এই related guid
 *   **[World Cup 2026 Bonus Offer Bangladesh](/blog/world-cup-2026-bonus-offer-bangladesh/)** — tournament promo timing ও terms।
 *   **[World Cup 2026 Betting Bonuses BD](/blog/world-cup-2026-betting-bonuses-bd/)** — sports bonus comparison checklist।
 *   **[BoroJeet Welcome Bonus Terms Bangla 2026](/blog/borojeet-welcome-bonus-terms-bangla-2026/)** — new user bonus wording।
-*   **[Best Welcome Bonuses BD 2026](/blog/best-welcome-bonuses-bd-2026/)** — welcome offer compare করার framework।
-*   **[Bonus Turnover Bangla Calculator 2026](/blog/bonus-turnover-bangla-calculator-2026/)** — turnover calculation আগে বোঝা।
-*   **[No Deposit Bonus BD Risk Checklist](/blog/no-deposit-bonus-bd-risk-checklist/)** — free bonus claim-এর hidden risk।
+*   **Best Welcome Bonuses BD 2026** — welcome offer compare করার framework।
+*   **Bonus Turnover Bangla Calculator 2026** — turnover calculation আগে বোঝা।
+*   **No Deposit Bonus BD Risk Checklist** — free bonus claim-এর hidden risk।
 *   **[Eid Bonus Betting Bangladesh 2026](/blog/eid-bonus-betting-bangladesh-2026/)** — Eid seasonal demand timing।
-*   **[Durga Puja Betting Bonus Bangladesh 2026](/blog/durga-puja-betting-bonus-bangladesh-2026/)** — Puja-season promo planning।
+*   **Durga Puja Betting Bonus Bangladesh 2026** — Puja-season promo planning।
 
 ## When to publish / use this guide
 
@@ -96,10 +96,10 @@ World Cup বা festival bonus নেওয়ার আগে এই related guid
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?](/blog/over-1-5-goals-vs-over-2-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন](/blog/epl-2026-27-season-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide](/blog/la-liga-2026-27-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison](/blog/top-5-betting-apps-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Best Sports Betting App Bangladesh 2026: football ও cricket market guide](/blog/best-sports-betting-app-bangladesh-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 bKash Deposit Before Match: kickoff-এর আগে payment plan](/blog/world-cup-2026-bkash-deposit-before-match/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Stage Odds Bangla: group stage market guide](/blog/world-cup-2026-group-stage-odds-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Accumulator Insurance Guide: How to Save Your Money | অ্যাকিউমুলেটর ইনস্যুরেন্স কি?](/blog/accumulator-insurance-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Double Chance Betting Strategy: Low Risk Wins (ডাবল চান্স বেটিং)](/blog/double-chance-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)](/blog/live-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

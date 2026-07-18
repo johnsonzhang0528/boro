@@ -72,11 +72,11 @@ Cricket Baji App Bangladesh Safe Choice profitable হতে পারে, ক�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই](/blog/boro-jeet-vs-mcw-review/) — Cricket betting সম্পর্কিত practical checklist।
-- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Crash Betting Game Bangladesh Strategy 2026: cashout discipline guide](/blog/crash-betting-game-bangladesh-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Wicket Line Betting Guide BD: bowler wicket market analysis](/blog/cricket-wicket-line-betting-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Online Cricket Betting Bangladesh Tips 2026: beginner থেকে structured plan](/blog/online-cricket-betting-bangladesh-tips-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [সেরা Cricket Betting Sites Bangladesh Bangla: safe choice checklist](/blog/sera-cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল](/blog/advanced-cricket-betting-strategies/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড](/blog/ultimate-guide-to-cricket-betting-odds/) — Cricket betting সম্পর্কিত practical checklist।
+- [Session Expired Login Fix: বারবার logout হলে সমাধান](/blog/session-expired-login-fix/) — Cricket betting সম্পর্কিত practical checklist।
+- [Wild Bandito Win Guide: Sticky Wilds & Increasing Multipliers (ওয়াইল্ড ব্যান্ডিটো)](/blog/wild-bandito-win-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

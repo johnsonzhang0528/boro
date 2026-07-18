@@ -45,7 +45,7 @@ howto:
 
 Google Search Console signal অনুযায়ী এই cluster-এ opportunity আছে: Bonus pages support conversion and E-E-A-T.। এর মানে হলো user interest আছে, কিন্তু page intent, title match, internal links এবং topic coverage আরও precise করলে ranking ও CTR উন্নত হতে পারে।
 
-এই page-এর angle: Bengali terms explainer for welcome bonus. Related background দরকার হলে [Understanding Wagering Requirements](/blog/understanding-wagering-requirements/), [BoroJeet VIP Bonus Rules Bangla](/blog/borojeet-vip-bonus-rules-bangla/), [Daily Betting Rebate Guide Bangladesh](/blog/daily-betting-rebate-guide-bangladesh/) পড়ুন।
+এই page-এর angle: Bengali terms explainer for welcome bonus. Related background দরকার হলে [Understanding Wagering Requirements](/blog/understanding-wagering-requirements/), [BoroJeet VIP Bonus Rules Bangla](/blog/borojeet-vip-bonus-rules-bangla/), Daily Betting Rebate Guide Bangladesh পড়ুন।
 
 ## Quick answer
 
@@ -86,10 +86,10 @@ borojeet welcome bonus terms নিয়ে decision নেওয়ার সময় 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Bonus Buy vs Normal Spin: Is It Worth It? (বোনাস কেনা কি লাভজনক?)](/blog/bonus-buy-vs-normal-spin/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Crazy Time Bonus Rounds Explained: Pachinko, Cash Hunt & More](/blog/crazy-time-bonus-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet VIP Program Explained: সুবিধা এবং স্তরসমূহ](/blog/boro-jeet-vip-program-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Crazy Time Stats & Trackers: How to Predict the Next Bonus? | ক্রেজি টাইম স্ট্যাটিসটিক্স](/blog/crazy-time-stats-tracker-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Crazy Time বোনাস রাউন্ড বিস্তারিত: Pachinko, Cash Hunt, Coin Flip ও Crazy Time](/blog/crazy-time-bonus-rounds-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

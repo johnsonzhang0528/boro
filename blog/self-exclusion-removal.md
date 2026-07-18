@@ -34,6 +34,9 @@ If you selected "Exclude for 6 Months", the system places a hard lock on your us
   <img src="/assets/blog/self-exclusion-lock-optimized.webp" alt="Locked Account Screen Example" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="self_exclusion_removal_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## "But I clicked it by mistake!"
 
 If you clicked a **"Cool Off" (24 hours or 7 days)** period, you just have to wait. It will expire automatically.
@@ -59,9 +62,6 @@ Many players try to open a new account with a different phone number.
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [What is Tilt in Betting? How to Stop Emotional Decisions](/blog/betting-psychology-tilt/) — Responsible gambling support সম্পর্কিত practical checklist।
-- [Chasing Losses: The Psychology of the Death Spiral](/blog/chasing-losses/) — Responsible gambling support সম্পর্কিত practical checklist।
-- [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
 - [Slot Volatility Explained: High vs Low Variance (স্লটের ভোলাটিলিটি কি?)](/blog/slot-volatility-explained/) — Responsible gambling support সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

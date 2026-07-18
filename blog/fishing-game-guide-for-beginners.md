@@ -98,11 +98,11 @@ BoroJeet-এ আপনি বিভিন্ন ধরণের মাছ ধর
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Top 5 Live Casino Games on BoroJeet: Real Dealer Experience (সেরা ৫টি লাইভ ক্যাসিনো গেম)](/blog/top-5-live-casino-games-on-borojeet/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?](/blog/slot-hit-frequency-check-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins](/blog/slot-game-bangladesh-beginners-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Roulette Neighbor Bets Guide: racetrack bet বোঝার সহজ নিয়ম](/blog/roulette-neighbor-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Dream Catcher Top Slot Probability: top slot কতটা rare?](/blog/dream-catcher-top-slot-probability/) — Online casino games সম্পর্কিত practical checklist।
-- [Buy Feature House Edge Explained: feature buy-এর hidden cost কী?](/blog/buy-feature-house-edge-explained/) — Online casino games সম্পর্কিত practical checklist।
+- [Peek Baccarat খেলার নিয়ম ও কৌশল (Peek Baccarat Game Guide & Strategy)](/blog/peek-baccarat-game-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Speed Baccarat খেলার নিয়ম ও সুবিধা (Speed Baccarat Game Guide & Strategy)](/blog/speed-baccarat-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Super Sic Bo খেলার নিয়ম ও কৌশল (Super Sic Bo Game Guide & Strategy)](/blog/super-sic-bo-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Online Poker Guide for Beginners: বাংলাদেশে অনলাইন পোকার খেলার গাইড](/blog/online-poker-guide-for-beginners-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
+- [Bac Bo Game Guide: ব্যাক বো খেলার নিয়ম ও কৌশল](/blog/bac-bo-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Limbo Game Guide & Strategy (লিম্বো গেম গাইড এবং কৌশল)](/blog/limbo-game-guide-strategy-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

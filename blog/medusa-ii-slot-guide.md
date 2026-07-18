@@ -28,6 +28,9 @@ In the main game, you will notice "Stone Reels" (blocked reels).
 *   **Blue Pot:** Collect 3 Blue Stones to trigger special rewards.
 *   **Red Pot:** Collect 3 Red Stones to trigger free spins.
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="medusa_ii_slot_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Stacked Wilds: The Key to Big Wins (স্ট্যাকড ওয়াইল্ডস)
 
 Unlike other games where Wilds are small squares, in Medusa II, Medusa herself is the Wild.
@@ -52,10 +55,10 @@ Medusa II is perfect for players who enjoy a storyline and progressive gameplay.
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Common Online Casino Myths Debunked: অনলাইন ক্যাসিনো সম্পর্কে ভুল ধারণা](/blog/common-online-casino-myths-debunked/) — Online casino games সম্পর্কিত practical checklist।
-- [Dream Catcher গেম গাইড: নিয়ম, কৌশল এবং বড় জয়ের টিপস](/blog/dream-catcher-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?](/blog/slot-hit-frequency-check-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Game Bangladesh Beginners Guide: reels, paylines ও free spins](/blog/slot-game-bangladesh-beginners-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Roulette Neighbor Bets Guide: racetrack bet বোঝার সহজ নিয়ম](/blog/roulette-neighbor-bets-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Boro Jeet Blackjack: Winning Tips & Strategy Guide | ব্ল্যাকজ্যাক](/blog/boro-jeet-blackjack-winning-tips/) — Online casino games সম্পর্কিত practical checklist।
+- [Boro Jeet Fishing Games: Tips & Tricks to Win Big | ফিশিং গেম গাইড](/blog/boro-jeet-fishing-games-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Boro Jeet Slot Games: Top Picks & Winning Tips | সেরা স্লট গেম](/blog/boro-jeet-slot-games-winning-tips/) — Online casino games সম্পর্কিত practical checklist।
+- [Blackjack বেসিক স্ট্র্যাটেজি: নতুনদের জন্য গাইড (Blackjack Basic Strategy Guide)](/blog/blackjack-basic-strategy-guide-beginners/) — Online casino games সম্পর্কিত practical checklist।
+- [Roulette Outside Bets: নিরাপদ খেলার কৌশল (Roulette Outside Bets Strategy)](/blog/roulette-outside-bets-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ rocket payment betting sites নিয়ে decision নেওয়ার সময় 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Withdrawal Under Review Meaning: এই status আসলে কী বোঝায়?](/blog/withdrawal-under-review-meaning/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Withdrawal Rejected? Understanding Error Codes (টাকা উত্তোলন বাতিল? এর কারণ ও সমাধান)](/blog/withdrawal-rejected-reasons/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Withdrawal Reversal to Wallet Explained: টাকা wallet-এ ফেরত এলে মানে কী?](/blog/withdrawal-reversal-to-wallet-explained/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Screenshot Proof for Payment Support: support-এ কী screenshot পাঠাবেন?](/blog/screenshot-proof-for-payment-support/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Pending Deposit After TrxID Submission: TrxID দেওয়ার পরেও pending কেন?](/blog/pending-deposit-after-trxid-submission/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Real Cash Online Casino Bangladesh: withdrawal-ready play guide](/blog/real-cash-online-casino-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Game Bangladesh bKash Deposit: payment আগে checklist](/blog/aviator-game-bangladesh-bkash-deposit/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [No Bonus Withdrawal Speed Guide: bonus ছাড়া খেললে payout দ্রুত হয়?](/blog/no-bonus-withdrawal-speed-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?](/blog/payment-history-not-showing-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

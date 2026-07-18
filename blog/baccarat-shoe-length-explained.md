@@ -74,9 +74,9 @@ Baccarat Shoe Length Explained উপভোগ করতে চাইলে rule
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
 - [Live Casino Latency Fairness Guide: delay মানেই unfair নাকি network issue?](/blog/live-casino-latency-fairness-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Slot Tournaments Guide: How to Win Top Prizes (স্লট টুর্নামেন্ট গাইড)](/blog/slot-tournaments-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Megaways Mechanics Explained: 117,649 Ways to Win (মেগাওয়েজ এর রহস্য)](/blog/megaways-slots-mechanics/) — Online casino games সম্পর্কিত practical checklist।
-- [Best Chinese New Year Slots 2026: Try Your Luck! (চীনা নববর্ষের স্লট)](/blog/chinese-new-year-slots/) — Online casino games সম্পর্কিত practical checklist।
-- [Fortune Mouse Strategy: Simple 3-Reel Wins (ফরচুন মাউস কৌশল)](/blog/fortune-mouse-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Mega Fishing Game Guide: How to Win Big in Bangladesh](/blog/mega-fishing-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Royal Fishing Winning Tricks: How to Catch the Dragon King](/blog/royal-fishing-winning-tricks-bangladesh/) — Online casino games সম্পর্কিত practical checklist।
+- [Sweet Bonanza CandyLand Strategy & Guide (Sweet Bonanza CandyLand গাইড)](/blog/sweet-bonanza-candyland-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Funky Time Live Game Guide & Strategy (Funky Time লাইভ গেম গাইড)](/blog/funky-time-live-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

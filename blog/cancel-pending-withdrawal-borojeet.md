@@ -53,7 +53,10 @@ Withdrawal cancel করার আগে status language বুঝতে হব�
 
 ### Rejected
 
-Rejected হলে আসলে cancel করার প্রশ্ন থাকে না, কারণ request already reverse হয়ে যাওয়ার কথা। তখন focus হবে rejection reason fix করা। এ জন্য [Withdrawal Rejected? Understanding Error Codes](/blog/withdrawal-rejected-reasons/) পড়া বেশি useful।
+Rejected হলে আসলে cancel করার প্রশ্ন থাকে না, কারণ request already reverse হয়ে যাওয়ার কথা। তখন focus হবে rejection reason fix করা। এ জন্য Withdrawal Rejected? Understanding Error Codes পড়া বেশি useful।
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="cancel_pending_withdrawal_borojeet_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## BoroJeet Pending Withdrawal Cancel করার Step-by-Step নিয়ম
 
@@ -129,11 +132,11 @@ BoroJeet-এ <strong>Pending Withdrawal cancel</strong> করার সের�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [bKash Deposit Minimum Maximum Betting Guide: limit আগে জানুন](/blog/bkash-deposit-minimum-maximum-betting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [৫০ টাকা ডিপোজিট Casino Sites BD: low deposit খেললে কী risk?](/blog/50-taka-deposit-casino-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Payment Method Verification BoroJeet BD: wallet name, number ও KYC](/blog/payment-method-verification-borojeet-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Rocket Nagad Logo PNG Search: official logo চিনবেন কীভাবে?](/blog/bkash-rocket-nagad-logo-png-safe-use-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [50 Taka Deposit Betting Sites BD: low deposit site বাছাইয়ের checklist](/blog/50-taka-deposit-betting-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Rocket Nagad Logo Safe Check: fake logo ও payment scam এড়ান](/blog/bkash-rocket-nagad-logo-safe-check/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Safest Betting App for Bangladesh: license, KYC ও payment signal](/blog/safest-betting-app-for-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?](/blog/international-betting-apps-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide](/blog/low-deposit-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

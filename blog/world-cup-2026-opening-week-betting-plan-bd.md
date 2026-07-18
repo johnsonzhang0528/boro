@@ -82,11 +82,11 @@ world cup 2026 opening week betting নিয়ে decision নেওয়ার স
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market](/blog/world-cup-2026-draw-no-bet-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Clean Sheet Market Guide: defence stats কীভাবে পড়বেন](/blog/world-cup-2026-clean-sheet-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Corners & Cards Market Guide: stats কীভাবে পড়বেন](/blog/world-cup-2026-corners-card-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 bKash Nagad Deposit Timing: match আগে payment plan](/blog/world-cup-2026-bkash-nagad-deposit-timing/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 BTTS Betting Guide: both teams to score market](/blog/world-cup-2026-btts-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [ISL (Indian Super League) Betting Guide for Bangladesh (বাংলাদেশি ভক্তদের জন্য ISL বেটিং)](/blog/isl-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 Betting Guide: Early Predictions (ফিফা বিশ্বকাপ ২০২৬)](/blog/fifa-world-cup-2026-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Dragon Hatch Gameplay: Awakening the Dragon Queen (ড্রাগন হ্যাচ গেমপ্লে)](/blog/dragon-hatch-gameplay/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Online Rummy Guide: Rules & Winning Tips](/blog/online-rummy-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Poker Hands Ranking: The Ultimate Cheat Sheet](/blog/poker-hands-ranking-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Super Andar Bahar: 4000x Side Bets Strategy](/blog/super-andar-bahar-live-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

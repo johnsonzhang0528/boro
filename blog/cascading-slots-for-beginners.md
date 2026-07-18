@@ -73,10 +73,10 @@ Cascading Slots for Beginners বুঝলে better decision হয়, কিন�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
+- [Buy Feature House Edge Explained: feature buy-এর hidden cost কী?](/blog/buy-feature-house-edge-explained/) — Online casino games সম্পর্কিত practical checklist।
+- [Blackjack Soft Hands Guide: soft 17 থেকে soft 20 decision chart](/blog/blackjack-soft-hands-guide/) — Online casino games সম্পর্কিত practical checklist।
 - [Blackjack Surrender Guide: surrender option কবে ব্যবহার করবেন?](/blog/blackjack-surrender-guide/) — Online casino games সম্পর্কিত practical checklist।
 - [Best Casino Slots to Play Online BD: beginner slot selection guide](/blog/best-casino-slots-to-play-online-bd/) — Online casino games সম্পর্কিত practical checklist।
 - [Banker Player Commission Explained: Baccarat-এ commission কেন কাটা হয়?](/blog/banker-player-commission-explained/) — Online casino games সম্পর্কিত practical checklist।
-- [Baccarat Shoe Length Explained: shoe count result-এ effect ফেলে?](/blog/baccarat-shoe-length-explained/) — Online casino games সম্পর্কিত practical checklist।
-- [Live Casino Latency Fairness Guide: delay মানেই unfair নাকি network issue?](/blog/live-casino-latency-fairness-guide/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ world cup betting terms bangla নিয়ে decision নেওয়ার সম�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Team News Injury Betting Guide: lineup impact বুঝুন](/blog/world-cup-2026-team-news-injury-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Penalty Shootout Betting Rules: settlement কীভাবে হয়?](/blog/world-cup-2026-penalty-shootout-betting-rules/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Player Assists Betting Guide: creator stats explained](/blog/world-cup-2026-player-assists-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Opening Week Betting Plan BD: first matches strategy](/blog/world-cup-2026-opening-week-betting-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়](/blog/world-cup-2026-odds-explained-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bonus Offer Bangladesh: promo claim করার আগে terms দেখুন](/blog/world-cup-2026-bonus-offer-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Responsible Betting Checklist: tournament budget control](/blog/world-cup-2026-responsible-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 App Bangladesh Safe Install: APK ও alert setup](/blog/fifa-world-cup-2026-app-bangladesh-safe-install/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Outright Winner Bangladesh: long-term market guide](/blog/world-cup-2026-outright-winner-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Half-Time Markets Bangla: HT result, HT/FT, এবং goals](/blog/world-cup-2026-half-time-markets-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Night Match BD Strategy: late kickoff betting checklist](/blog/world-cup-2026-night-match-bd-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

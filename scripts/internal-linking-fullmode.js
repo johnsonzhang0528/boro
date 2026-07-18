@@ -12,6 +12,15 @@ const MAX_PILLAR_LINKS = 14;
 
 const args = new Set(process.argv.slice(2));
 const APPLY = args.has('--apply');
+const TODAY = new Date(Date.now() + 6 * 60 * 60 * 1000).toISOString().slice(0, 10); // Asia/Dhaka, mirrors `now` in .eleventy.js
+
+// A link target must already be live (index-able) on the day its source goes live,
+// otherwise Googlebot follows the link into a noindex page (GSC「遭 noindex 排除」).
+function canLink(source, target) {
+  if (!target.date) return true;
+  const limit = !source.date || source.date <= TODAY ? TODAY : source.date;
+  return target.date <= limit;
+}
 
 const clusters = {
   app: {
@@ -130,7 +139,7 @@ function loadArticles() {
   return files.map(file => {
     const slug = file.replace(/\.md$/, '');
     const filePath = path.join(BLOG_DIR, file);
-    const originalContent = fs.readFileSync(filePath, 'utf8');
+    const originalContent = fs.readFileSync(filePath, 'utf8').replace(/\r\n?/g, '\n');
     const content = stripManagedSection(originalContent);
     const title = parseTitle(content, slug);
     const tags = parseTags(content);
@@ -158,6 +167,7 @@ function buildIncoming(articles) {
 
 function addLink(additions, source, target, reason) {
   if (!target || target.slug === source.slug) return false;
+  if (!canLink(source, target)) return false;
   if (source.outgoing.has(target.slug)) return false;
   if (additions[source.slug].some(item => item.slug === target.slug)) return false;
   additions[source.slug].push({ slug: target.slug, title: target.title, cluster: target.cluster, reason });
@@ -223,7 +233,7 @@ function buildLinkPlan(articles) {
     ].filter(source => source.slug !== target.slug);
 
     const source = sourcePool
-      .filter(source => !source.outgoing.has(target.slug))
+      .filter(source => !source.outgoing.has(target.slug) && canLink(source, target))
       .sort((a, b) => additions[a.slug].length - additions[b.slug].length || a.outgoing.size - b.outgoing.size || a.slug.localeCompare(b.slug))[0];
 
     if (source && addLink(additions, source, target, 'orphan-rescue')) bump(target.slug);
@@ -263,8 +273,7 @@ function applyPlan(articles, additions) {
   let modified = 0;
   for (const article of articles) {
     const block = renderManagedBlock(article, additions);
-    if (!block) continue;
-    const nextContent = `${article.content.trimEnd()}\n\n${block}`;
+    const nextContent = block ? `${article.content.trimEnd()}\n\n${block}` : `${article.content.trimEnd()}\n`;
     if (nextContent !== article.originalContent) {
       fs.writeFileSync(article.filePath, `${nextContent.trimEnd()}\n`, 'utf8');
       modified += 1;

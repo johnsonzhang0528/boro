@@ -73,10 +73,10 @@ Payment History Not Showing Fix issue resolve করতে speed-এর চে�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Casino Payment Method Comparison BD 2026: bKash vs Nagad vs Rocket](/blog/casino-payment-method-comparison-bd-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Nagad Rocket Casino Payment Guide 2026: safe deposit ও withdrawal](/blog/bkash-nagad-rocket-casino-payment-guide-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Low Deposit Casino Sites bKash Bangladesh: small budget payment guide](/blog/low-deposit-casino-sites-bkash-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [50 Taka Deposit Betting Sites BD: low deposit site বাছাইয়ের checklist](/blog/50-taka-deposit-betting-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Rocket Nagad Logo Safe Check: fake logo ও payment scam এড়ান](/blog/bkash-rocket-nagad-logo-safe-check/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Name Mismatch Fix: account name না মিললে সমাধান](/blog/payment-name-mismatch-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Online Casino Guide Bangladesh Beginners: account, game ও payment basics](/blog/online-casino-guide-bangladesh-beginners/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Online Gambling Tax Risk Bangladesh: withdrawal record রাখবেন কেন?](/blog/online-gambling-tax-risk-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Change Withdrawal Method After Request: Request দেওয়ার পরে method বদলানো যায়?](/blog/change-withdrawal-method-after-request/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Daily Withdrawal Limit Reset Time: limit কখন reset হয়?](/blog/daily-withdrawal-limit-reset-time/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

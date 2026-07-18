@@ -72,11 +72,11 @@ Play Without App on Mobile Browser issue fix করার সময় blind retry 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [BoroJeetBD Official Site Login Guide: সঠিক site থেকে login করবেন কীভাবে](/blog/borojeetbd-official-site-login-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Tennis Set Betting Strategy: Predicting Correct Scores (টেনিস সেট বেটিং কৌশল)](/blog/tennis-set-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [New Betting Apps 2026 Bangladesh: নতুন app বাছার আগে সতর্কতা](/blog/new-betting-apps-2026-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Change Your Registered Phone Number (কিভাবে রেজিস্টার্ড ফোন নম্বর পরিবর্তন করবেন)](/blog/changing-registered-phone-number/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use](/blog/borojeetbd-lightweight-app-low-data/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Account Location Alert BD: location mismatch কেন আসে?](/blog/borojeetbd-account-location-alert-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

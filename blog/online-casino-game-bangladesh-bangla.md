@@ -83,10 +83,10 @@ online casino game bangladesh নিয়ে decision নেওয়ার সময়
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Betting App Comparison Bangladesh: BoroJeet vs others কীভাবে compare করবেন](/blog/betting-app-comparison-bangladesh-borojeet-vs-others/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Best Betting Apps Bangladesh Safe List 2026: app বাছাইয়ের scoring system](/blog/best-betting-apps-bangladesh-safe-list-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Fake Betting Apps BD Red Flags 2026: fake APK চিনবেন কীভাবে](/blog/fake-betting-apps-bd-red-flags-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD App Permission Safety Bangla: কোন permission normal?](/blog/borojeetbd-app-permission-safety-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Secure Shared Device Login: shared phone safety guide](/blog/borojeetbd-secure-shared-device-login/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling in Bangladesh Explained: কী legal, কী risky?](/blog/online-gambling-in-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Betting Legal Bangladesh Explained: law, risk ও safe behavior](/blog/online-betting-legal-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Bangla Prediction Myth: pattern কি সত্যি কাজ করে?](/blog/crash-game-bangla-prediction-myth/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -61,9 +61,9 @@ Also, be aware of scammers pretending to be support. Read: [Fake Admin Scams on 
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Download Without Play Store BD: APK install safe way](/blog/borojeetbd-download-without-play-store-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Official Link Google Search: fake result এড়াবেন কীভাবে](/blog/borojeetbd-official-link-google-search/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD APK Safe Update Checklist: update করার আগে কী দেখবেন](/blog/borojeetbd-apk-safe-update-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD App Download APK Bangla: safe install checklist](/blog/borojeetbd-app-download-apk-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Licensed Online Casino Bangladesh Checklist: license claim verify করুন](/blog/licensed-online-casino-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Cash Game Bangladesh Strategy Guide: bankroll, timing ও risk](/blog/cash-game-bangladesh-strategy-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Best Online Casino Game BD Beginners: risk কম রেখে শুরু করবেন কীভাবে](/blog/best-online-casino-game-bd-beginners/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Live Casino Bangladesh Mobile Guide: low latency ও safe play checklist](/blog/live-casino-bangladesh-mobile-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

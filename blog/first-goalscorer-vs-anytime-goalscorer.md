@@ -72,11 +72,11 @@ First Goalscorer vs Anytime Goalscorer profitable হতে পারে, কি
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 bKash Deposit Before Match: kickoff-এর আগে payment plan](/blog/world-cup-2026-bkash-deposit-before-match/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Group Stage Odds Bangla: group stage market guide](/blog/world-cup-2026-group-stage-odds-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bangladesh Fixture Time BD: match timing আগে থেকে plan করুন](/blog/world-cup-2026-bangladesh-fixture-time-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Football Betting App Bangladesh: safe mobile setup](/blog/world-cup-2026-football-betting-app-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Europa Final 2026 Betting Market Guide: totals, corners ও cards](/blog/europa-final-2026-betting-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [T20 World Cup 2026 Cricket App BD: fixtures, odds, এবং alert setup](/blog/t20-world-cup-2026-cricket-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?](/blog/extra-time-betting-rules-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Super Andar Bahar: 4000x Side Bets Strategy](/blog/super-andar-bahar-live-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Super Ace Slot Strategy: Unlock the Golden Cards](/blog/super-ace-slot-hacks-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw No Bet (DNB) Explained: The Safest Betting Market?](/blog/draw-no-bet-explained-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [T20 World Cup 2026 Betting Preview: Favorites & Dark Horses](/blog/t20-world-cup-2026-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও](/blog/live-football-studio-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

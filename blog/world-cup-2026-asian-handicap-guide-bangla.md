@@ -82,11 +82,11 @@ world cup asian handicap নিয়ে decision নেওয়ার সময় ত�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Betting Apps List Bangladesh: cricket, casino ও football apps একসাথে](/blog/betting-apps-list-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [FIFA World Cup Live Betting Tips Bangladesh: in-play football checklist](/blog/fifa-world-cup-live-betting-tips-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Yellow Card Betting Guide: referee trend ও risk](/blog/world-cup-2026-yellow-card-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Top Goalscorer Betting Guide: outright market explained](/blog/world-cup-2026-top-goalscorer-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম](/blog/world-cup-2026-underdog-betting-strategy-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Quarter Final Betting Strategy: knockout match plan](/blog/world-cup-2026-quarter-final-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting App BD: football match bet করার setup](/blog/world-cup-2026-betting-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangla Betting Terms Glossary: odds, line, market](/blog/world-cup-2026-bangla-betting-terms-glossary/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?](/blog/world-cup-2026-bangladesh-betting-calendar/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন](/blog/fifa-world-cup-2026-app-notification-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [England France World Cup 2026 Betting Preview: odds, squad ও market](/blog/world-cup-2026-england-france-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide](/blog/world-cup-2026-argentina-brazil-betting-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -74,9 +74,9 @@ Bonus Turnover Bangla Calculator 2026 useful হতে পারে, যদি t
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Loyalty Points Conversion Guide: points কখন cash এ convert করবেন?](/blog/loyalty-points-conversion-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Wagering Turnover Calculator Bangla Guide: কত খেলতে হবে?](/blog/wagering-turnover-calculator-bangla-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন](/blog/wagering-requirement-bonus-guide-bd/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা](/blog/wagering-requirements-meaning-bangla/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?](/blog/birthday-bonus-eligibility-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Best Betting Bonus Bangladesh New Users: welcome offer claim checklist](/blog/best-betting-bonus-bangladesh-new-users/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Durga Puja Betting Bonus Bangladesh 2026: October promo checklist](/blog/durga-puja-betting-bonus-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeet Best Bonus Guide: কোন অফারটি সবচেয়ে লাভজনক?](/blog/best-value-borojeet-promotions-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

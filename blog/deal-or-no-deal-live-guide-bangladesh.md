@@ -42,6 +42,9 @@ howto:
 
 এটি একটি মাল্টি-লেয়ার গেম যেখানে আপনাকে প্রথমে কোয়ালিফাই করতে হয়, তারপর আপনি আপনার ব্রিফকেসের মান বাড়াতে পারেন এবং শেষে মূল গেম শোতে অংশ নিতে পারেন।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="deal_or_no_deal_live_guide_bangladesh_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 1.  **Qualification**: আপনাকে একটি তিন-রিলে ভল্ট হুইল ঘোরাতে হবে এবং তিনটি গোল্ডেন সেগমেন্ট মেলাতে হবে। আপনি "Easy" বা "Very Easy" মোড কিনে দ্রুত কোয়ালিফাই করতে পারেন।

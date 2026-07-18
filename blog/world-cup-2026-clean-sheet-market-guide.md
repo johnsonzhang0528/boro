@@ -82,11 +82,11 @@ clean sheet betting world cup নিয়ে decision নেওয়ার সময়
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [UEFA Champions League Betting Strategy: Group Stage vs Knockout (উয়েফা চ্যাম্পিয়ন্স লিগ কৌশল)](/blog/uefa-champions-league-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Online Rummy Guide: Rules & Winning Tips](/blog/online-rummy-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Poker Hands Ranking: The Ultimate Cheat Sheet](/blog/poker-hands-ranking-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Super Ace Slot Strategy: Unlock the Golden Cards](/blog/super-ace-slot-hacks-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Draw No Bet (DNB) Explained: The Safest Betting Market?](/blog/draw-no-bet-explained-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [T20 World Cup 2026 Betting Preview: Favorites & Dark Horses](/blog/t20-world-cup-2026-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?](/blog/world-cup-2026-live-odds-movement-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম](/blog/world-cup-2026-match-winner-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Half-Time Full-Time Guide: HT/FT market explained](/blog/world-cup-2026-half-time-full-time-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Knockout Bracket Betting Guide: draw থেকে final](/blog/world-cup-2026-knockout-bracket-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Stage Betting Strategy: early matches কীভাবে পড়বেন](/blog/world-cup-2026-group-stage-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Winner Outright Guide: futures market explained](/blog/world-cup-2026-group-winner-outright-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

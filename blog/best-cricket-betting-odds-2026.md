@@ -57,11 +57,11 @@ For every 1000 BDT bet, **Boro Jeet pays you 40-50 BDT more** than the competiti
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Wicket Method Betting Explained: caught, bowled, lbw market কী?](/blog/wicket-method-betting-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Test Match Session Betting Guide: session বাজারে value খোঁজার নিয়ম](/blog/test-match-session-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Toss Winner vs Match Winner Correlation: correlation কতটা real?](/blog/toss-winner-vs-match-winner-correlation/) — Cricket betting সম্পর্কিত practical checklist।
-- [Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?](/blog/rain-affected-match-betting-rules/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cash Game Khelar Koushol Bangladesh 2026: safe session plan](/blog/cash-game-khelar-koushol-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Bangladesh Cricket Market Guide 2026: runs, wickets ও innings market](/blog/bangladesh-cricket-market-guide-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Asia Cup 2026 Bangladesh Cricket Betting Guide: match plan ও risk](/blog/asia-cup-2026-bangladesh-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Asia Cup 2026 Cricket Betting Apps BD: tournament আগে setup](/blog/asia-cup-2026-cricket-betting-apps-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?](/blog/safest-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Top Cricket Betting Apps Bangladesh: speed, odds ও payment comparison](/blog/top-cricket-betting-apps-bangladesh-comparison/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

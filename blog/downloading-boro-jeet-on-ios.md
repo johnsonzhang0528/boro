@@ -21,6 +21,9 @@ faq:
 
 আমরা ব্যবহার করি **PWA (Progressive Web App)** প্রযুক্তি, যা আপনাকে অ্যাপের মতোই অভিজ্ঞতা দেয়। Follow this guide to get started.
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="downloading_boro_jeet_on_ios_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How to Install Boro Jeet on iPhone (ধাপে ধাপে নিয়ম)
 
 নিচের সহজ ধাপগুলো অনুসরণ করে ১ মিনিটের মধ্যে অ্যাপটি ইনস্টল করুন:
@@ -67,11 +70,11 @@ iPhone ব্যবহারকারীরা এখন আর পিছিয়�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?](/blog/betting-apps-android-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [BoroJeetBD Official Site Login Guide: সঠিক site থেকে login করবেন কীভাবে](/blog/borojeetbd-official-site-login-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Tennis Set Betting Strategy: Predicting Correct Scores (টেনিস সেট বেটিং কৌশল)](/blog/tennis-set-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ boroijt নিয়ে decision নেওয়ার সময় তিনটি ব�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Basketball Quarter Betting: Fast-Paced Wins (বাস্কেটবল কোয়ার্টার বেটিং)](/blog/basketball-quarter-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet App System Requirements (2026): Android & iOS Specs](/blog/boro-jeet-system-requirements/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet iOS App Download Guide (2026): iPhone & iPad Installation](/blog/downloading-boro-jeet-on-ios/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet Alternative Links: Official Mirror Sites (2026 Updated)](/blog/boro-jeet-alternative-links-official-mirror/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Boro Jeet App Installation Error: 'App Not Installed' সমাধান](/blog/boro-jeet-app-installation-error-fixes/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

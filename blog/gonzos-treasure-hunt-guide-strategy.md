@@ -42,6 +42,9 @@ howto:
 
 এই গেমে আপনি বিখ্যাত অভিযাত্রী Gonzo-এর সাথে একটি প্রাচীন ইনকা মন্দিরে গুপ্তধন খুঁজতে যাবেন। গেমটির মূল আকর্ষণ হলো ৭০টি পাথরের একটি বিশাল দেয়াল, যার পেছনে লুকিয়ে আছে বিভিন্ন পুরস্কার।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="gonzos_treasure_hunt_guide_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 1.  **পাথর নির্বাচন**: আপনি ৬টি ভিন্ন রঙের পাথরে বাজি ধরতে পারেন: ১x, ২x, ৪x, ৮x, ২০x এবং ৬৫x।

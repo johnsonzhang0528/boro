@@ -21,6 +21,9 @@ faq:
 
 এখানে **Boro Jeet App** চালানোর জন্য প্রয়োজনীয় ন্যূনতম (Minimum) এবং সুপারিশকৃত (Recommended) স্পেসিফিকেশন দেওয়া হলো।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="boro_jeet_system_requirements_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Android System Requirements (APK)
 
 Boro Jeet অ্যাপটি এমনভাবে অপ্টিমাইজ করা হয়েছে যাতে এটি কম দামের ফোনেও চলতে পারে।
@@ -64,11 +67,11 @@ Boro Jeet অ্যাপটি অত্যন্ত হালকা (Lightweig
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [What is a Lay Bet? How to Be the Bookmaker](/blog/lay-bet-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Understanding ROI and Yield: Measuring Your Betting Success](/blog/understanding-roi-and-yield/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [The Kelly Criterion: How Much Money Should You Bet?](/blog/kelly-criterion-for-beginners/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [The Gambler's Fallacy: Why You Are Not 'Due' for a Win](/blog/gamblers-fallacy/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Clear App Storage Without Losing Account: data clear করলেও account থাকবে?](/blog/clear-app-storage-without-losing-account/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?](/blog/betting-apps-android-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -74,9 +74,9 @@ Monopoly Live 2 Rolls vs 4 Rolls উপভোগ করতে চাইলে ru
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [BoroJeet Cashback Bonus: লস হলেও টাকা ফেরত!](/blog/borojeet-cashback-bonus-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Promo Code Not Working Fix: code invalid দেখালে কী করবেন?](/blog/promo-code-not-working-fix/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Loyalty Points Conversion Guide: points কখন cash এ convert করবেন?](/blog/loyalty-points-conversion-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Wagering Turnover Calculator Bangla Guide: কত খেলতে হবে?](/blog/wagering-turnover-calculator-bangla-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering](/blog/free-spin-bonus-bangladesh-slot-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?](/blog/bonus-abuse-what-counts/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Reload Bonus vs Cashback Guide: কোন reward model বেশি useful?](/blog/reload-bonus-vs-cashback-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Birthday Bonus Eligibility Guide: birthday reward পেতে কী লাগে?](/blog/birthday-bonus-eligibility-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

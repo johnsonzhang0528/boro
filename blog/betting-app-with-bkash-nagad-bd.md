@@ -88,10 +88,10 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Daily Withdrawal Limit Reset Time: limit কখন reset হয়?](/blog/daily-withdrawal-limit-reset-time/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Casino bKash Deposit Guide Bangladesh: step-by-step payment safety](/blog/casino-bkash-deposit-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Casino Site Verification Bangladesh: HTTPS, KYC ও payment proof](/blog/casino-site-verification-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Casino Sites Bangladesh Guide: deposit করার আগে কী দেখবেন](/blog/bkash-casino-sites-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Bonus Balance vs Cash Balance Withdrawal: কোন টাকা আগে withdraw হবে?](/blog/bonus-balance-vs-cash-balance-withdrawal/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Transaction ID (TrxID) যাচাই করার নিয়ম: ডিপোজিট সমস্যা সমাধান](/blog/how-to-verify-bkash-transaction-id/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Sic Bo Game Guide: Rules, Payouts & Strategy | সিক বো খেলার নিয়ম](/blog/sic-bo-game-guide-strategy/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [বাংলাদেশে ক্রিপ্টোকারেন্সি ক্যাসিনো ডিপোজিট গাইড: Bitcoin, USDT এবং আরও অনেক কিছু](/blog/cryptocurrency-deposit-guide-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Aviator Betting App Bangladesh Guide: app, cashout ও safety](/blog/aviator-betting-app-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Manual Deposit Verification Time: manual approve হতে কতক্ষণ লাগে?](/blog/manual-deposit-verification-time/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -62,11 +62,11 @@ But be careful of your mental state. Read about [Betting Psychology: Tilt](/blog
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Boroijt Search Result Guide: ভুল spelling থেকেও official BoroJeet খুঁজুন](/blog/boroijt-search-result-borojeet-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeetBD Official Site Login Guide: সঠিক site থেকে login করবেন কীভাবে](/blog/borojeetbd-official-site-login-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking](/blog/record-keeping-for-bettors/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [What is a Lay Bet? How to Be the Bookmaker](/blog/lay-bet-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding ROI and Yield: Measuring Your Betting Success](/blog/understanding-roi-and-yield/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Understanding the Duckworth-Lewis (DLS) Method for Betting](/blog/duckworth-lewis-method/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

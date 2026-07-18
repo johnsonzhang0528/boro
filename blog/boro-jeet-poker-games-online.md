@@ -2,7 +2,19 @@
 lastUpdated: 2026-01-03
 description: "বিশ্বজুড়ে Poker হলো সবচেয়ে জনপ্রিয় কার্ড গেম। এখন আপনি বাংলাদেশে বসেই Boro Jeet Poker-এর মাধ্যমে এই উত্তেজনাপূর্ণ গেমটি উপভোগ করতে পারেন। আপনি যদি Texas..."
 title: "Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গেম"
-layout: post.njklang: bn-BDdate: 2026-01-15ogImage: boro-jeet-poker-hero-optimized.webpogImageAlt: "A professional poker table with chips and cards, featuring the Boro Jeet logo"tags: ["post", "poker", "card-game", "borojeet", "strategy"]faq:  - question: "Boro Jeet-এ কি লাইভ পোকার খেলা যায়?"    answer: "হ্যাঁ, আমাদের লাইভ ক্যাসিনো সেকশনে আপনি রিয়েল ডিলারদের সাথে পোকার খেলতে পারবেন।"  - question: "পোকার খেলার জন্য কি কোনো বিশেষ দক্ষতা লাগে?"    answer: "পোকার একটি দক্ষতার খেলা। নিয়ম এবং কৌশল জানা থাকলে জেতার সম্ভাবনা অনেক বেড়ে যায়।"  - question: "আমি কি মোবাইল থেকে পোকার খেলতে পারব?"    answer: "অবশ্যই! Boro Jeet অ্যাপ ব্যবহার করে আপনি যেকোনো সময় যেকোনো জায়গা থেকে পোকার খেলতে পারেন।"
+layout: post.njk
+lang: bn-BD
+date: 2026-01-15
+ogImage: boro-jeet-poker-hero-optimized.webp
+ogImageAlt: "A professional poker table with chips and cards, featuring the Boro Jeet logo"
+tags: ["post", "poker", "card-game", "borojeet", "strategy"]
+faq:
+  - question: "Boro Jeet-এ কি লাইভ পোকার খেলা যায়?"
+    answer: "হ্যাঁ, আমাদের লাইভ ক্যাসিনো সেকশনে আপনি রিয়েল ডিলারদের সাথে পোকার খেলতে পারবেন।"
+  - question: "পোকার খেলার জন্য কি কোনো বিশেষ দক্ষতা লাগে?"
+    answer: "পোকার একটি দক্ষতার খেলা। নিয়ম এবং কৌশল জানা থাকলে জেতার সম্ভাবনা অনেক বেড়ে যায়।"
+  - question: "আমি কি মোবাইল থেকে পোকার খেলতে পারব?"
+    answer: "অবশ্যই! Boro Jeet অ্যাপ ব্যবহার করে আপনি যেকোনো সময় যেকোনো জায়গা থেকে পোকার খেলতে পারেন।"
 ---
 
 <p class="lead">বিশ্বজুড়ে **Poker** হলো সবচেয়ে জনপ্রিয় কার্ড গেম। এখন আপনি বাংলাদেশে বসেই **Boro Jeet Poker**-এর মাধ্যমে এই উত্তেজনাপূর্ণ গেমটি উপভোগ করতে পারেন। আপনি যদি **Texas Hold'em** বা **Omaha** পছন্দ করেন, তবে আমাদের প্ল্যাটফর্মটি আপনার জন্য সেরা।</p>
@@ -53,10 +65,10 @@ Omaha-তে প্রতিটি খেলোয়াড়কে চার�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [Football Betting App Bangladesh World Cup: mobile setup ও safety guide](/blog/football-betting-app-bangladesh-world-cup/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?](/blog/over-1-5-goals-vs-over-2-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন](/blog/epl-2026-27-season-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [La Liga 2026/27 Betting Preview BD: Barcelona Real Madrid market guide](/blog/la-liga-2026-27-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Top 5 Betting Apps Bangladesh: cricket, football ও casino comparison](/blog/top-5-betting-apps-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts](/blog/world-cup-2026-mobile-betting-checklist-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll](/blog/world-cup-2026-night-match-betting-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?](/blog/world-cup-2026-live-odds-movement-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম](/blog/world-cup-2026-match-winner-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

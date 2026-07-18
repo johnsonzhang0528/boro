@@ -106,6 +106,14 @@ module.exports = function(eleventyConfig) {
     return `${minutes} min read`;
   });
 
+  // Hide future-dated (noindex) posts from listings that read raw collections,
+  // so crawlable pages never link to not-yet-published URLs.
+  eleventyConfig.addFilter("publishedOnly", (collection) => {
+    if (!collection) return [];
+    const cutoff = DateTime.now().plus({ hours: 6 }).toJSDate();
+    return collection.filter(item => (item.date || item.data.date) <= cutoff);
+  });
+
   // Advanced Related Posts Logic
   eleventyConfig.addFilter("getRelatedPosts", (collection, currentUrl, currentTags) => {
     if (!collection || !currentTags) return [];

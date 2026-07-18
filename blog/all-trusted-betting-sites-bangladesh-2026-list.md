@@ -101,17 +101,17 @@ Trusted list থেকে narrower intent-এ যেতে চাইলে এ�
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [KYC AML Online Gaming Bangladesh: verification কেন চাওয়া হয়](/blog/kyc-aml-online-gaming-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Gambling in Bangladesh 2026 Law: risk ও reality explained](/blog/online-gambling-in-bangladesh-2026-law/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Jua Ain Bangladesh Bangla 2026: অনলাইন জুয়া আইন সহজ ভাষায়](/blog/online-jua-ain-bangladesh-bangla-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Fake Betting Apps BD Red Flags 2026: fake APK চিনবেন কীভাবে](/blog/fake-betting-apps-bd-red-flags-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD App Permission Safety Bangla: কোন permission normal?](/blog/borojeetbd-app-permission-safety-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Secure Shared Device Login: shared phone safety guide](/blog/borojeetbd-secure-shared-device-login/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet Official APK vs Fake APK: কীভাবে চিনবেন?](/blog/borojeet-official-apk-vs-fake-apk/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet APK Download Bangladesh 2026: safe install checklist](/blog/borojeet-apk-download-bangladesh-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Betting App APK Bangladesh: safe install করার আগে ৭টি checklist](/blog/betting-app-apk-bangladesh-safe-install/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boro Jeet App Download APK Safe Guide: website first, app second](/blog/boro-jeet-app-download-apk-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Best Betting App Bangladesh Download: Android APK safe setup](/blog/best-betting-app-bangladesh-download/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeetBD Download Without Play Store BD: APK install safe way](/blog/borojeetbd-download-without-play-store-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Account Under Review: কতক্ষণ লাগে এবং কী প্রস্তুত রাখবেন?](/blog/account-under-review-how-long/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Account Hacked? Immediate Recovery Steps (অ্যাকাউন্ট হ্যাক হয়েছে? পুনরুদ্ধারের উপায়)](/blog/account-hacked-recovery/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Bangladesh Mobile Browser Guide: app ছাড়া কীভাবে?](/blog/online-casino-bangladesh-mobile-browser-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Best Welcome Bonuses 2026: Who Gives Real Money? | সেরা স্বাগতম বোনাস](/blog/best-welcome-bonuses-bd-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Game Bangladesh Bangla: slot, table, live game explained](/blog/online-casino-game-bangladesh-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC Address Proof Guide: address proof হিসেবে কী accepted?](/blog/kyc-address-proof-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)](/blog/multi-accounting-risks/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bonus Abuse Warning Bangladesh: কোন কাজ account risk বাড়ায়?](/blog/bonus-abuse-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Bangla Prediction Myth: pattern কি সত্যি কাজ করে?](/blog/crash-game-bangla-prediction-myth/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [অনলাইন জুয়া আইন Bangladesh Guide: কী জানা জরুরি?](/blog/online-jua-ain-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

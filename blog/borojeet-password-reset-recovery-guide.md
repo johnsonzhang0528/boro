@@ -2,7 +2,17 @@
 lastUpdated: 2025-12-28
 description: "Borojeet পাসওয়ার্ড ভুলে গেছেন? কীভাবে পাসওয়ার্ড রিসেট করবেন এবং হ্যাক হওয়া বা লক হওয়া অ্যাকাউন্ট পুনরুদ্ধার করবেন তার ধাপে ধাপে নির্দেশিকা।"
 title: "Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়"
-layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-password-recovery-guide-optimized.webp"ogImageAlt: "একটি তালা এবং চাবি, সাথে পাসওয়ার্ড রিসেট স্ক্রিন, যা অ্যাকাউন্ট পুনরুদ্ধারের প্রতীক।"tags: ["post", "guide", "security", "troubleshooting"]faq:  - question: "I am not receiving the OTP, what to do?"    answer: "নেটওয়ার্ক সমস্যার কারণে দেরি হতে পারে। ফোন রিস্টার্ট করুন এবং 'Resend OTP' বাটনে ক্লিক করুন। তবুও না আসলে কাস্টমার সাপোর্টে যোগাযোগ করুন।"  - question: "Can I change my registered phone number?"    answer: "নিরাপত্তার কারণে আপনি নিজে ফোন নম্বর পরিবর্তন করতে পারবেন না। এর জন্য আপনাকে সাপোর্টে যোগাযোগ করে ভেরিফিকেশন সম্পন্ন করতে হবে।"
+layout: "post.njk"
+lang: "bn-BD"
+date: 2025-12-28
+ogImage: "og-password-recovery-guide-optimized.webp"
+ogImageAlt: "একটি তালা এবং চাবি, সাথে পাসওয়ার্ড রিসেট স্ক্রিন, যা অ্যাকাউন্ট পুনরুদ্ধারের প্রতীক।"
+tags: ["post", "guide", "security", "troubleshooting"]
+faq:
+  - question: "I am not receiving the OTP, what to do?"
+    answer: "নেটওয়ার্ক সমস্যার কারণে দেরি হতে পারে। ফোন রিস্টার্ট করুন এবং 'Resend OTP' বাটনে ক্লিক করুন। তবুও না আসলে কাস্টমার সাপোর্টে যোগাযোগ করুন।"
+  - question: "Can I change my registered phone number?"
+    answer: "নিরাপত্তার কারণে আপনি নিজে ফোন নম্বর পরিবর্তন করতে পারবেন না। এর জন্য আপনাকে সাপোর্টে যোগাযোগ করে ভেরিফিকেশন সম্পন্ন করতে হবে।"
 ---
 
 <p class="lead">পাসওয়ার্ড ভুলে যাওয়া বা অ্যাকাউন্টে ঢুকতে না পারা যেকোনো ব্যবহারকারীর জন্যই একটি ভয়ের অভিজ্ঞতা। কিন্তু চিন্তার কিছু নেই, <strong>Borojeet</strong>-এ অ্যাকাউন্ট রিকভারি প্রক্রিয়াটি খুবই সহজ এবং নিরাপদ।</p>
@@ -24,6 +34,9 @@ layout: "post.njk"lang: "bn-BD"date: 2025-12-28ogImage: "og-password-recovery
 3.  **তথ্য প্রদান করুন:** আপনার রেজিস্টার্ড ফোন নম্বর বা ইমেইল অ্যাড্রেসটি লিখুন।
 4.  **OTP ভেরিফিকেশন:** আপনার ফোনে একটি ৪ বা ৬ সংখ্যার কোড (OTP) যাবে। সেটি নির্দিষ্ট বক্সে লিখুন।
 5.  **নতুন পাসওয়ার্ড সেট করুন:** এবার একটি নতুন এবং শক্তিশালী পাসওয়ার্ড দিন।
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="borojeet_password_reset_recovery_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## অ্যাকাউন্ট লক হলে কী করবেন? (Account Locked)
 
@@ -50,11 +63,11 @@ Register on the website first to claim your bonus, then download the app for the
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Slow Internet? Change DNS Settings for Faster Betting](/blog/dns-settings-for-better-speed/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Password Reset Link Expired Fix: link মেয়াদ শেষ হলে](/blog/password-reset-link-expired-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Line Movement Analysis: Why Do Odds Change?](/blog/line-movement-analysis/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to File a Complaint with Curacao eGaming (কুরাকাও ই-গেমিং-এ অভিযোগ করার নিয়ম)](/blog/contacting-licensing-authorities/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Calculate Implied Probability from Exchange Odds](/blog/implied-probability-calculation/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

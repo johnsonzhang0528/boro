@@ -76,11 +76,11 @@ Can you handle the heat? **[Play Fire Joker on BoroJeet](/go/borojeet)** today!
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Bangladesh Cricket Market Guide 2026: runs, wickets ও innings market](/blog/bangladesh-cricket-market-guide-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Best Cricket Betting Odds in Bangladesh (2026 Analysis) | সেরা অডস](/blog/best-cricket-betting-odds-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Bangladesh Cricket Betting Guide: match plan ও risk](/blog/asia-cup-2026-bangladesh-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Cricket Betting Apps BD: tournament আগে setup](/blog/asia-cup-2026-cricket-betting-apps-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?](/blog/safest-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Cricket X Game Winning Tips (2026): Strategy for Boro Jeet Players](/blog/cricket-x-winning-tips-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল ২০২৬ বেটিং](/blog/ipl-2026-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Session Expired Login Fix: বারবার logout হলে সমাধান](/blog/session-expired-login-fix/) — Cricket betting সম্পর্কিত practical checklist।
+- [Wild Bandito Win Guide: Sticky Wilds & Increasing Multipliers (ওয়াইল্ড ব্যান্ডিটো)](/blog/wild-bandito-win-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mahjong Ways 2 Winning Tricks: Unlocking the x10 Multiplier (মাহজং ওয়েজ ২ ট্রিকস)](/blog/mahjong-ways-2-winning-tricks/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

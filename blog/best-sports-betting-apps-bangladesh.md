@@ -88,11 +88,11 @@ faq:
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম](/blog/borojeet-sports-betting-rules-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু](/blog/esports-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Kabaddi Betting Guide: কাবাডি বেটিং গাইড এবং টিপস](/blog/kabaddi-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Account Login Location Mismatch: location alert কেন আসে?](/blog/account-login-location-mismatch/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [APK Signature Mismatch Fix: install error এলে কী করবেন?](/blog/apk-signature-mismatch-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Pro Kabaddi League (PKL) Betting Guide: Raids & Tackles (কাবাডি বেটিং টিপস)](/blog/kabaddi-pkl-betting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Tennis Set Betting Strategy: Predicting Correct Scores (টেনিস সেট বেটিং কৌশল)](/blog/tennis-set-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

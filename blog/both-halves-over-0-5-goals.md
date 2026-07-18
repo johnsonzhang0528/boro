@@ -72,11 +72,11 @@ Both Halves Over 0.5 Goals profitable হতে পারে, কিন্তু
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Both Teams to Score (BTTS) Strategy: High Odds Tactics (উভয় দল গোল করবে?)](/blog/both-teams-to-score-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Online Rummy Guide: Rules & Winning Tips](/blog/online-rummy-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Super Ace Slot Strategy: Unlock the Golden Cards](/blog/super-ace-slot-hacks-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Draw No Bet (DNB) Explained: The Safest Betting Market?](/blog/draw-no-bet-explained-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [T20 World Cup 2026 Betting Preview: Favorites & Dark Horses](/blog/t20-world-cup-2026-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও](/blog/live-football-studio-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Corners Over/Under Live Betting: live match-এ corner market analysis](/blog/corners-over-under-live-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Asian Total Goals Betting Guide: Over/Under-এর advanced version](/blog/asian-total-goals-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Mega Ball Bonus Ticket Explained: bonus card ও payout কীভাবে কাজ করে](/blog/mega-ball-bonus-ticket-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Football Betting App Bangladesh World Cup: mobile setup ও safety guide](/blog/football-betting-app-bangladesh-world-cup/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Over 1.5 Goals vs Over 2.5 Goals: কোন line safer?](/blog/over-1-5-goals-vs-over-2-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [EPL 2026/27 Season Betting Preview BD: August আগে কী প্রস্তুতি নেবেন](/blog/epl-2026-27-season-betting-preview-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

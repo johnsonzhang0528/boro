@@ -74,9 +74,9 @@ Loyalty Points Conversion Guide useful হতে পারে, যদি terms �
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Boro Jeet VIP Program Explained: সুবিধা এবং স্তরসমূহ](/blog/boro-jeet-vip-program-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Crazy Time Stats & Trackers: How to Predict the Next Bonus? | ক্রেজি টাইম স্ট্যাটিসটিক্স](/blog/crazy-time-stats-tracker-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Crazy Time বোনাস রাউন্ড বিস্তারিত: Pachinko, Cash Hunt, Coin Flip ও Crazy Time](/blog/crazy-time-bonus-rounds-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeet Best Bonus Guide: কোন অফারটি সবচেয়ে লাভজনক?](/blog/best-value-borojeet-promotions-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Wagering Turnover Calculator Bangla Guide: কত খেলতে হবে?](/blog/wagering-turnover-calculator-bangla-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Wagering Requirement Bonus Guide BD: কত turnover লাগবে হিসাব করুন](/blog/wagering-requirement-bonus-guide-bd/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Wagering Requirements Meaning Bangla: bonus turnover সহজ ব্যাখ্যা](/blog/wagering-requirements-meaning-bangla/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [VIP Cashback vs Rebate Bangladesh: কোন reward বেশি useful?](/blog/vip-cashback-vs-rebate-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

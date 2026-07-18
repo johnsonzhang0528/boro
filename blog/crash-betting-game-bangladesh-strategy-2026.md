@@ -72,11 +72,11 @@ Crash Betting Game Bangladesh Strategy 2026 খেললে goal হওয়া �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide](/blog/cricket-betting-apps-real-money-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide](/blog/cricket-betting-app-for-ios-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?](/blog/cricket-betting-app-for-pc-bangladesh-browser/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App APK Bangladesh: safe install করার checklist](/blog/cricket-betting-app-apk-bangladesh-safe-install/) — Cricket betting সম্পর্কিত practical checklist।
-- [Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং](/blog/boro-jeet-vs-bjbaji-cricket-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [IPL 2026 Bangladesh Betting App Guide: match day workflow](/blog/ipl-2026-bangladesh-betting-app-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2026 Betting App Bangladesh Bangla: team news থেকে odds check](/blog/bpl-2026-betting-app-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Wicket Line Betting Guide BD: bowler wicket market analysis](/blog/cricket-wicket-line-betting-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

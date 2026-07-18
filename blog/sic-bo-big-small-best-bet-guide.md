@@ -74,9 +74,9 @@ Sic Bo Big/Small Best Bet Guide উপভোগ করতে চাইলে rul
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Roma X Slot Review: রোমা এক্স স্লট রিভিউ এবং জয়ের কৌশল](/blog/roma-x-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Boxing King Slot Review: Knockout Wins & Free Spins (বক্সিং কিং স্লট রিভিউ)](/blog/boxing-king-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet vs MCW Casino: ক্যাসিনো প্রেমীদের জন্য কোনটি সেরা?](/blog/borojeet-vs-mcw-casino-comparison/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet vs Babu88: বাংলাদেশের সেরা বেটিং সাইট কোনটি?](/blog/borojeet-vs-babu88-comparison/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Exposed: Fake 'Admin' Scams on Telegram (সাবধান: টেলিগ্রাম ফেক অ্যাডমিন স্ক্যাম)](/blog/fake-admin-scams-telegram/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Casino Games Online Real Money BD: safe play ও bankroll basics](/blog/casino-games-online-real-money-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Dragon Tiger Side Bets Explained: Tie ও suited bet-এর risk কত?](/blog/dragon-tiger-side-bets-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladeshi Online Casino Game Guide: popular game ও safety basics](/blog/bangladeshi-online-casino-game-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

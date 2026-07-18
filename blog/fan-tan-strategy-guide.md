@@ -19,6 +19,9 @@ faq:
 
 **Fan Tan** দেখতে জটিল মনে হতে পারে, কিন্তু এটি সম্ভবত ক্যাসিনোর সবচেয়ে সহজ গেম। কোনো কার্ড নেই, কোনো ডাইস নেই—শুধু সাদা বোতাম এবং একটি বাঁশের কাঠি।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="fan_tan_strategy_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How to Play
 
 1.  ডিলার একটি কাঁচের গম্বুজ দিয়ে এক গাদা বোতাম ঢেকে দেন।
@@ -56,10 +59,10 @@ faq:
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Caishen Wins Guide: How to Gamble for Free Spins (কাইশেন উইনস)](/blog/caishen-wins-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Sic Bo Patterns & Strategy: Mastering the Dice](/blog/sic-bo-patterns-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Live Roulette Strategy: Lightning Roulette Tricks](/blog/lightning-roulette-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Golden Empire Slot Guide: How to Trigger Massive Free Spins](/blog/golden-empire-slot-free-spins/) — Online casino games সম্পর্কিত practical checklist।
+- [Best Chinese New Year Slots 2026: Try Your Luck! (চীনা নববর্ষের স্লট)](/blog/chinese-new-year-slots/) — Online casino games সম্পর্কিত practical checklist।
+- [Fortune Mouse Strategy: Simple 3-Reel Wins (ফরচুন মাউস কৌশল)](/blog/fortune-mouse-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Honey Trap of Diao Chan Strategy: 3 Free Spin Modes Explained (হানিত ট্র্যাপ গাইড)](/blog/honey-trap-of-diao-chan/) — Online casino games সম্পর্কিত practical checklist।
+- [Medusa II Slot Guide: The Curse of Athena (মেডুসা ২ গাইড)](/blog/medusa-ii-slot-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Ways of the Qilin Strategy: Mastering High Volatility (ওয়েস অফ দ্য কিলিন)](/blog/ways-of-the-qilin-strategy/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

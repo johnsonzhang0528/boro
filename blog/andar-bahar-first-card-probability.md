@@ -73,10 +73,10 @@ Andar Bahar First Card Probability উপভোগ করতে চাইলে 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [Champions League Final 2026 Betting Guide BD: May final market checklist](/blog/champions-league-final-2026-betting-guide-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Double Chance Betting Strategy: Low Risk Wins (ডাবল চান্স বেটিং)](/blog/double-chance-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Live Football Betting Strategy: Sniping Late Goals (লাইভ ফুটবল বেটিং কৌশল)](/blog/live-football-betting-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Outright Winner Betting: Investing for the Season (আউটরাইট উইনার বেটিং)](/blog/outright-winner-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Clean Sheet Betting Strategy: Defensive Masterclass (ক্লিন শিট বেটিং)](/blog/clean-sheet-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Outrights vs Match Betting Football: long-term নাকি short-term market?](/blog/outrights-vs-match-betting-football/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?](/blog/extra-time-betting-rules-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন](/blog/correct-score-betting-bankroll-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw No Bet vs Double Chance: কোন market বেশি practical?](/blog/draw-no-bet-vs-double-chance/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

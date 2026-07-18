@@ -73,10 +73,10 @@ Casino Crash Game Bangladesh Bangla খেললে goal হওয়া উচি�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
-- [Aviator Game How to Play Bangladesh: beginner rule guide](/blog/aviator-game-how-to-play-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [App Crashing After Update Fix: update-এর পরে app crash হলে](/blog/app-crashing-after-update-fix/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [App Crashing? How to Clear Cache and Data](/blog/clear-cache-and-data-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Crash Game App Bangladesh Low Data: fast rounds-এ stable connection](/blog/crash-game-app-bangladesh-low-data/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [5 Common Mistakes in Aviator Game: Why You Are Losing (2026)](/blog/5-common-mistakes-aviator-game/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্যাশ গেম টিপস](/blog/boro-jeet-crash-games-aviator-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Martingale Strategy Guide: How to Win at Roulette & Crash Games | মার্টিনগেল স্ট্র্যাটেজি গাইড](/blog/martingale-betting-strategy-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Aviator বনাম JetX: কোনটি সেরা ক্র্যাশ গেম? (তুলনামূলক আলোচনা)](/blog/aviator-vs-jetx-comparison/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Mines Game Guide: How to Play & Win (মাইনস গেম গাইড: কিভাবে খেলবেন এবং জিতবেন)](/blog/mines-game-guide-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Top 5 Crash Games on BoroJeet: Beyond Aviator (সেরা ৫টি ক্র্যাশ গেম)](/blog/top-5-crash-games-on-borojeet/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

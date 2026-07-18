@@ -82,11 +82,11 @@ safe online gaming bangladesh নিয়ে decision নেওয়ার সময়
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Is Online Casino Legal in Bangladesh? বাংলাদেশে অনলাইন ক্যাসিনোর আইনি অবস্থা](/blog/is-online-casino-legal-in-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Sugar Rush Slot Review (2025): Strategy, RTP & Max Win | সুগার রাশ স্লট রিভিউ](/blog/sugar-rush-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Sweet Bonanza Slot Review (2025): Strategy, RTP & Max Win | সুইট বোনানজা স্লট রিভিউ](/blog/sweet-bonanza-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet Account Verification: সহজ বাংলা গাইড (2025)](/blog/borojeet-account-verification-guide-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Book of Dead Slot Review: RTP, Volatility & Winning Tips (বুক অফ ডেড স্লট)](/blog/book-of-dead-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Rise of Olympus Slot Review: Hand of God Feature (রাইজ অফ অলিম্পাস)](/blog/rise-of-olympus-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling in Bangladesh Explained: কী legal, কী risky?](/blog/online-gambling-in-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Megapari Crash Game Alternatives BD: safe comparison checklist](/blog/megapari-crash-game-alternatives-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Betting Legal Bangladesh Explained: law, risk ও safe behavior](/blog/online-betting-legal-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?](/blog/online-casino-legit-check-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

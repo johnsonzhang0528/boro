@@ -64,9 +64,9 @@ Stick to **Low Turnover Bonuses** like **Boro Jeet** where you have a fair chanc
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Gambling in Bangladesh Explained: কী legal, কী risky?](/blog/online-gambling-in-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Betting Legal Bangladesh Explained: law, risk ও safe behavior](/blog/online-betting-legal-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?](/blog/online-casino-legit-check-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Game Bangladesh Bangla: slot, table, live game explained](/blog/online-casino-game-bangladesh-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Bangla Prediction Myth: pattern কি সত্যি কাজ করে?](/blog/crash-game-bangla-prediction-myth/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC Address Proof Guide: address proof হিসেবে কী accepted?](/blog/kyc-address-proof-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [অনলাইন জুয়া আইন Bangladesh Guide: কী জানা জরুরি?](/blog/online-jua-ain-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

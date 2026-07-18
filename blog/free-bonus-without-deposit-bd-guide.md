@@ -88,10 +88,10 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [bKash Nagad Rocket Casino Payment Guide 2026: safe deposit ও withdrawal](/blog/bkash-nagad-rocket-casino-payment-guide-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Low Deposit Casino Sites bKash Bangladesh: small budget payment guide](/blog/low-deposit-casino-sites-bkash-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [50 Taka Deposit Betting Sites BD: low deposit site বাছাইয়ের checklist](/blog/50-taka-deposit-betting-sites-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Rocket Nagad Logo Safe Check: fake logo ও payment scam এড়ান](/blog/bkash-rocket-nagad-logo-safe-check/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BD Betting App Download Guide: APK install, login ও payment setup](/blog/bd-betting-app-download-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Mobile Wallet Name Mismatch Bangladesh: bKash Nagad Rocket name issue](/blog/mobile-wallet-name-mismatch-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Rocket Deposit Wrong Reference Fix: reference ভুল হলে কী করবেন](/blog/rocket-deposit-wrong-reference-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Deposit Not Showing After TrxID: TrxID দিলেও balance না এলে](/blog/bkash-deposit-not-showing-after-trxid/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?](/blog/bkash-withdrawal-pending-after-approval/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Fake Online Casino BD Red Flags: deposit করার আগে warning signs](/blog/fake-online-casino-bd-red-flags/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

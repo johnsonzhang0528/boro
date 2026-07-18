@@ -21,18 +21,21 @@ faq:
 
 ### 1. Turnover Not Met (টার্নওভার পূরণ হয়নি)
 এটি সবচেয়ে সাধারণ কারণ। আপনি যদি ১০০০ টাকা ডিপোজিট করেন, তবে আপনাকে অন্তত ১০০০ টাকার বাজি ধরতে হবে (জয় বা পরাজয় বিবেচ্য নয়)। একে **1x Turnover** বলে। বোনাস নিলে এই শর্ত আরও বাড়তে পারে (১২x বা ১৫x)।
-*   **সমাধান:** আপনার প্রোফাইলে গিয়ে 'Turnover' স্ট্যাটাস চেক করুন। বিস্তারিত জানতে **[Withdrawal Rejected Error Codes](/blog/withdrawal-rejected-reasons/)** পড়ুন।
+*   **সমাধান:** আপনার প্রোফাইলে গিয়ে 'Turnover' স্ট্যাটাস চেক করুন। বিস্তারিত জানতে **Withdrawal Rejected Error Codes** পড়ুন।
 
 ### 2. KYC Verification
 বড় অংকের লেনদেনের জন্য আমরা আপনার পরিচয় নিশ্চিত করতে চাইতে পারি। আপনার একাউন্টের নাম এবং এনআইডি (NID) তথ্যে মিল না থাকলে পেমেন্ট আটকে যেতে পারে।
 
 ### 3. Banking Network Issues
 মাঝেমধ্যে ব্যাংক বা মোবাইল ব্যাংকিং (bKash/Nagad) সার্ভার ডাউন থাকে। আমাদের দিক থেকে টাকা পাঠানো হলেও ব্যাংকের সার্ভার সমস্যার কারণে তা আপনার ব্যালেন্সে যোগ হতে দেরি হতে পারে।
-যদি আপনার case-এ status already approved দেখায় কিন্তু bKash balance এখনো না আসে, তাহলে specific workflow-এর জন্য [bKash Withdrawal Pending After Approval](/blog/bkash-withdrawal-pending-after-approval/) দেখুন।
+যদি আপনার case-এ status already approved দেখায় কিন্তু bKash balance এখনো না আসে, তাহলে specific workflow-এর জন্য bKash Withdrawal Pending After Approval দেখুন।
 
 <picture class="content-image">
   <img src="/assets/blog/turnover-status-check-optimized.webp" alt="Screenshot of Boro Jeet user profile showing the 'Turnover Requirement' progress bar" width="800" height="450" loading="lazy" decoding="async">
 </picture>
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="why_withdrawal_pending_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## What Should You Do?
 1.  **৩০ মিনিট অপেক্ষা করুন:** বেশিরভাগ পেমেন্ট এই সময়ের মধ্যেই ক্লিয়ার হয়।
@@ -50,11 +53,11 @@ faq:
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cash Out Strategy: Control Your Destiny in Betting](/blog/cash-out-feature-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Hedging Your Bets: How to Lock in Profit with Cash Out](/blog/hedging-bets-cashout-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Balloon (Smartsoft) Game Guide: Pop or Cashout? (2026)](/blog/balloon-smartsoft-crash-game-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Boro Jeet Real User Reviews 2026: What Players Are Saying](/blog/real-user-reviews-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Boro Jeet Responsible Gambling Tools: Deposit Limits & Self-Exclusion](/blog/boro-jeet-responsible-gambling-tools/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Legacy of Dead Slot Review: Unlimited Retriggers (লেগ্যাসি অফ ডেড)](/blog/legacy-of-dead-slot-review-strategy/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Method Verification BoroJeet BD: wallet name, number ও KYC](/blog/payment-method-verification-borojeet-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Rocket Nagad Logo PNG Search: official logo চিনবেন কীভাবে?](/blog/bkash-rocket-nagad-logo-png-safe-use-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Method Hidden After Login: Deposit Option হঠাৎ উধাও হলে](/blog/payment-method-hidden-after-login/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Nagad Deposit Limit Betting BD: limit বুঝে deposit plan](/blog/bkash-nagad-deposit-limit-betting-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Casino Payment Method Comparison BD 2026: bKash vs Nagad vs Rocket](/blog/casino-payment-method-comparison-bd-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Nagad Rocket Casino Payment Guide 2026: safe deposit ও withdrawal](/blog/bkash-nagad-rocket-casino-payment-guide-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

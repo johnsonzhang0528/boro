@@ -72,11 +72,11 @@ Outrights vs Match Betting Football profitable হতে পারে, কিন
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [English Premier League (EPL) 2026 Preview: Favorites and Dark Horses (ইংলিশ প্রিমিয়ার লিগ)](/blog/english-premier-league-2026-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [FIFA World Cup 2026 Betting Guide: Early Predictions (ফিফা বিশ্বকাপ ২০২৬)](/blog/fifa-world-cup-2026-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Dragon Hatch Gameplay: Awakening the Dragon Queen (ড্রাগন হ্যাচ গেমপ্লে)](/blog/dragon-hatch-gameplay/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Online Rummy Guide: Rules & Winning Tips](/blog/online-rummy-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Poker Hands Ranking: The Ultimate Cheat Sheet](/blog/poker-hands-ranking-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Super Andar Bahar: 4000x Side Bets Strategy](/blog/super-andar-bahar-live-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?](/blog/extra-time-betting-rules-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন](/blog/correct-score-betting-bankroll-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw No Bet vs Double Chance: কোন market বেশি practical?](/blog/draw-no-bet-vs-double-chance/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Both Halves Over 0.5 Goals: market logic ও match selection](/blog/both-halves-over-0-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Corners Over/Under Live Betting: live match-এ corner market analysis](/blog/corners-over-under-live-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

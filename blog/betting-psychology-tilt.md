@@ -57,9 +57,10 @@ Next, learn why "due for a win" is a myth in our [Gambler's Fallacy Guide](/blog
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Guide to Responsible Gaming: দায়িত্বশীল গেমিং এবং নিরাপদ থাকার উপায়](/blog/guide-to-responsible-gaming-bangladesh/) — Legal, safety, scam ও responsible play pillar context।
-- [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
-- [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
 - [Chasing Losses: The Psychology of the Death Spiral](/blog/chasing-losses/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Bankroll Growth Strategy: From 1000 BDT to 1 Lakh](/blog/bankroll-growth-strategy/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Can I Remove Self-Exclusion on Boro Jeet? (সেলফ-এক্সক্লুশন কি রিমুভ করা যায়?)](/blog/self-exclusion-removal/) — Responsible gambling support সম্পর্কিত practical checklist।
 - [Slot Volatility Explained: High vs Low Variance (স্লটের ভোলাটিলিটি কি?)](/blog/slot-volatility-explained/) — Responsible gambling support সম্পর্কিত practical checklist।
+- [Slot Hit Frequency Check Guide: RTP ছাড়াও কী metric দেখবেন?](/blog/slot-hit-frequency-check-guide/) — Online casino games cluster-এর কম-linked guide।
 
 <!-- internal-links:fullmode:end -->

@@ -73,10 +73,10 @@ Mega Ball Bonus Ticket Explained উপভোগ করতে চাইলে ru
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [Card Betting Strategy: Predicting Yellow & Red Cards (কার্ড বাজি গাইড)](/blog/card-and-booking-points-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Corner Betting Strategy: The Underrated Market (কর্নার বেটিং কৌশল)](/blog/corner-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Both Teams to Score (BTTS) Strategy: High Odds Tactics (উভয় দল গোল করবে?)](/blog/both-teams-to-score-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [UEFA Champions League Betting Strategy: Group Stage vs Knockout (উয়েফা চ্যাম্পিয়ন্স লিগ কৌশল)](/blog/uefa-champions-league-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [La Liga Betting Guide: Beyond El Clásico (লা লিগা বাজি)](/blog/la-liga-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Football Betting App Bangladesh World Cup: mobile setup ও safety guide](/blog/football-betting-app-bangladesh-world-cup/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Underdog Betting Strategy BD: upset odds পড়ার নিয়ম](/blog/world-cup-2026-underdog-betting-strategy-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Quarter Final Betting Strategy: knockout match plan](/blog/world-cup-2026-quarter-final-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Team News Injury Betting Guide: lineup impact বুঝুন](/blog/world-cup-2026-team-news-injury-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Penalty Shootout Betting Rules: settlement কীভাবে হয়?](/blog/world-cup-2026-penalty-shootout-betting-rules/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Toss Betting: টস জয়ের ভবিষ্যদ্বাণী ও কৌশল (Cricket Toss Betting Strategy)](/blog/cricket-toss-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
-- [BPL 2025 Betting Guide: দল, অডস এবং ভবিষ্যদ্বাণী](/blog/bpl-2025-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [IPL 2025 Betting Guide: আইপিএল ২০২৫ বেটিং গাইড এবং টিপস](/blog/ipl-2025-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [5 Advanced Cricket Betting Strategies: ৫টি উন্নত ক্রিকেট বেটিং কৌশল](/blog/advanced-cricket-betting-strategies/) — Cricket betting সম্পর্কিত practical checklist।
-- [ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড](/blog/ultimate-guide-to-cricket-betting-odds/) — Cricket betting সম্পর্কিত practical checklist।
+- [No 1 Cricket Betting App BD: কোন criteria দিয়ে সেরা app বাছবেন?](/blog/no-1-cricket-betting-app-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Crash Betting Game Bangladesh Strategy 2026: cashout discipline guide](/blog/crash-betting-game-bangladesh-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Mage World Cricket Affiliate Guide BD: search intent ও safe betting context](/blog/mage-world-cricket-affiliate-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Live Cricket Betting App Bangladesh 2026: in-play market guide](/blog/live-cricket-betting-app-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Low Data Cricket Betting App Bangladesh: slow internet-এ smooth betting](/blog/low-data-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

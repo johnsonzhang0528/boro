@@ -72,10 +72,10 @@ Teen Patti সাধারণত ৩ থেকে ৬ জন খেলোয়�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [World Cup 2026 Goals Market Bangladesh: over/under goals plan](/blog/world-cup-2026-goals-market-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Corners Card Live Guide: corner ও card market setup](/blog/world-cup-2026-corners-card-live-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Top Teams Betting Preview Bangla: favourites বুঝবেন কীভাবে](/blog/world-cup-2026-top-teams-betting-preview-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Live Betting App Checklist: live match-এর আগে setup](/blog/world-cup-2026-live-betting-app-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Safe Betting Sites BD: fake site এড়ানোর checklist](/blog/world-cup-2026-safe-betting-sites-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Super Ace Slot Strategy: Unlock the Golden Cards](/blog/super-ace-slot-hacks-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Draw No Bet (DNB) Explained: The Safest Betting Market?](/blog/draw-no-bet-explained-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [T20 World Cup 2026 Betting Preview: Favorites & Dark Horses](/blog/t20-world-cup-2026-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Live Football Studio Guide: Rules & Strategy | লাইভ ফুটবল স্টুডিও](/blog/live-football-studio-guide-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Boro Jeet Poker: Play Online Poker in Bangladesh | পোকার গেম](/blog/boro-jeet-poker-games-online/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

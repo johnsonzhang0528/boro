@@ -21,6 +21,9 @@ faq:
 
 আসলে, এগুলো একই জিনিসের তিনটি ভিন্ন রূপ।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="reading_betting_odds_decimal_fractional_american_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## 1. Decimal Odds (European) - সবচেয়ে সহজ
 এটি বাংলাদেশে সবচেয়ে জনপ্রিয়।
 *   **Formula:** `Stake x Odds = Total Payout`
@@ -51,11 +54,11 @@ faq:
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্যাডমিন্টন বেটিং গাইড](/blog/badminton-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)](/blog/kabaddi-pro-league-betting-tips/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)](/blog/table-tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়](/blog/borojeet-password-reset-recovery-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [BoroJeetBD Cache Clear Before Login: cache issue হলে কী করবেন](/blog/borojeetbd-cache-clear-before-login/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD App Not Installing Android: install error fix](/blog/borojeetbd-app-not-installing-android/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Lightweight App Low Data Guide: কম data-তে smooth use](/blog/borojeetbd-lightweight-app-low-data/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Account Location Alert BD: location mismatch কেন আসে?](/blog/borojeetbd-account-location-alert-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeetBD Login OTP Delay Fix: OTP দেরি হলে সমাধান](/blog/borojeetbd-login-otp-delay-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

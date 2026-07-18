@@ -16,15 +16,15 @@ module.exports = {
   eleventyComputed: {
     title: (data) => {
       if (data.pagination && data.pagination.pageNumber > 0) {
-        return `BoroJeet Blog - Page ${data.pagination.pageNumber + 1}`;
+        return `BoroJeet ব্লগ — পেজ ${data.pagination.pageNumber + 1} | গাইড ও টিপস`;
       }
-      return "BoroJeet Blog - Guides, Tips & News for Bangladesh";
+      return "BoroJeet ব্লগ — ক্যাসিনো, ক্রিকেট বেটিং ও পেমেন্ট গাইড";
     },
     description: (data) => {
       if (data.pagination && data.pagination.pageNumber > 0) {
-        return `Browse page ${data.pagination.pageNumber + 1} of our expert guides and tips for BoroJeet players in Bangladesh.`;
+        return `BoroJeet ব্লগের পেজ ${data.pagination.pageNumber + 1} — ক্যাসিনো, ক্রিকেট বেটিং ও পেমেন্ট নিয়ে এক্সপার্ট গাইড ব্রাউজ করুন।`;
       }
-      return "The official blog for BoroJeet Bangladesh. Get the latest tips, game guides for Crash/Slots, and news on bonuses.";
+      return "BoroJeet অফিসিয়াল ব্লগ: Crash/Slots গেম গাইড, ক্রিকেট বেটিং টিপস, bKash/Nagad পেমেন্ট সমাধান ও বোনাস আপডেট — সব বাংলায়।";
     },
     post_id: (data) => {
       // Ensure we are only calculating for actual posts

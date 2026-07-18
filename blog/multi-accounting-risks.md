@@ -55,9 +55,9 @@ If you truly forgot, **do not open a new account**. Use the "Forgot Password" li
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Top 10 High Volatility Slots for Big Wins on Boro Jeet](/blog/top-10-high-volatility-slots/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Cappadocia (Smartsoft) Review: The Most Beautiful Crash Game (2026)](/blog/cappadocia-crash-game-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Skyliner Crash Game Tips: Mastering the Urban Skies (2026)](/blog/skyliner-crash-game-tips/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Pilot (Gamzix) Review: The Hidden Gem of Crash Games (2026)](/blog/pilot-gamzix-crash-game-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Signal Scam BD Warning: predictor group কেন risky](/blog/crash-game-signal-scam-bd-warning/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Underage Gambling Warning Bangladesh: age rule ও account safety](/blog/underage-gambling-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [VPN Online Gambling Bangladesh Risk: VPN use করলে কী সমস্যা হতে পারে](/blog/vpn-online-gambling-bangladesh-risk/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladesh Online Betting Legal Risk Checklist: safe decision framework](/blog/bangladesh-online-betting-legal-risk-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

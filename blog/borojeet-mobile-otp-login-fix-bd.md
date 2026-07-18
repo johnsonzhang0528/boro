@@ -82,11 +82,11 @@ borojeet login otp নিয়ে decision নেওয়ার সময় তিন�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Official Social Media Groups: Telegram, Facebook & WhatsApp](/blog/official-social-media-communities/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet App System Requirements (2026): Android & iOS Specs](/blog/boro-jeet-system-requirements/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet iOS App Download Guide (2026): iPhone & iPad Installation](/blog/downloading-boro-jeet-on-ios/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Account Suspended? Reasons & How to Restore (2026)](/blog/boro-jeet-account-suspended-reasons-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Tennis Betting Guide Bangladesh: Markets & Tips (টেনিস বেটিং গাইড)](/blog/tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Kabaddi Betting Guide: কাবাডি বেটিং গাইড এবং টিপস](/blog/kabaddi-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet লগইন সমস্যা? পাসওয়ার্ড রিসেট ও ৭টি দ্রুত সমাধান](/blog/borojeet-login-troubleshooting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Clear App Storage Without Losing Account: data clear করলেও account থাকবে?](/blog/clear-app-storage-without-losing-account/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Betting Apps Android Bangladesh: lightweight app কীভাবে বাছবেন?](/blog/betting-apps-android-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

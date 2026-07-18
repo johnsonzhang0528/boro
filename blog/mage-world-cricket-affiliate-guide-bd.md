@@ -72,11 +72,11 @@ Mage World Cricket Affiliate Guide BD profitable হতে পারে, কি�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Wild Bandito Win Guide: Sticky Wilds & Increasing Multipliers (ওয়াইল্ড ব্যান্ডিটো)](/blog/wild-bandito-win-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Mahjong Ways 2 Winning Tricks: Unlocking the x10 Multiplier (মাহজং ওয়েজ ২ ট্রিকস)](/blog/mahjong-ways-2-winning-tricks/) — Cricket betting সম্পর্কিত practical checklist।
-- [Mahjong Ways 1 Winning Strategy: How to Hit That x5 Multiplier (জয়ের কৌশল)](/blog/mahjong-ways-1-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [XXXTreme Lightning Roulette: 2000x Multiplier Strategy](/blog/xxxtreme-lightning-roulette-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [ODI Betting Strategy: Mastering the 50-Over Format](/blog/odi-cricket-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Test Cricket Betting: The Ultimate Strategy Guide](/blog/test-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Wicket Line Betting Guide BD: bowler wicket market analysis](/blog/cricket-wicket-line-betting-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Player Runs Market Bangladesh: batter runs line বুঝবেন কীভাবে](/blog/cricket-player-runs-market-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Pitch Report Betting BD: toss আর pitch data কীভাবে পড়বেন](/blog/cricket-toss-pitch-report-betting-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [Over/Under Betting Strategy in Cricket: Predicting Total Runs](/blog/over-under-cricket-betting-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Handicap Betting in Cricket: How to Bet on Mismatched Games](/blog/handicap-betting-cricket-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [BPL 2026 Prediction: Team Squads, Favorites & Betting Odds](/blog/bpl-2026-team-squads-odds-analysis/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

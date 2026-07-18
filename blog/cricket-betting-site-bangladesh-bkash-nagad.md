@@ -72,11 +72,11 @@ Cricket Betting Site Bangladesh bKash Nagad profitable হতে পারে, �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Cricket Betting Tips App BD: কোন data দেখে mobile bet নেবেন?](/blog/cricket-betting-tips-app-bd-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Session Betting App BD: session market mobile guide](/blog/cricket-session-betting-app-bd-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App with bKash Nagad BD: deposit-friendly app guide](/blog/cricket-betting-app-with-bkash-nagad-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting Apps Real Money Bangladesh: safe play ও payment guide](/blog/cricket-betting-apps-real-money-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App for iOS Bangladesh: iPhone user-দের জন্য guide](/blog/cricket-betting-app-for-ios-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?](/blog/cricket-betting-app-for-pc-bangladesh-browser/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji App Bangladesh Safe Choice: app বাছাইয়ের practical guide](/blog/cricket-baji-app-bangladesh-safe-choice/) — Cricket betting সম্পর্কিত practical checklist।
+- [Online Cricket Betting Bangladesh Tips 2026: beginner থেকে structured plan](/blog/online-cricket-betting-bangladesh-tips-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [সেরা Cricket Betting Sites Bangladesh Bangla: safe choice checklist](/blog/sera-cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App BD Low Data: slow internet-এ match follow করবেন কীভাবে](/blog/cricket-betting-app-bd-low-data/) — Cricket betting সম্পর্কিত practical checklist।
+- [XXXTreme Lightning Roulette: 2000x Multiplier Strategy](/blog/xxxtreme-lightning-roulette-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [ODI Betting Strategy: Mastering the 50-Over Format](/blog/odi-cricket-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

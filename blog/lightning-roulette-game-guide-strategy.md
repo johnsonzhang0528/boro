@@ -42,6 +42,9 @@ howto:
 
 এটি সাধারণ রুলেটের মতোই, কিন্তু এখানে একটি টুইস্ট আছে। সাধারণ রুলেটে স্ট্রেইট আপ (Straight Up) বাজির পেআউট ৩৫:১। কিন্তু Lightning Roulette-এ এটি ৩০:১, তবে যদি আপনার নাম্বারে বজ্রপাত হয়, তবে আপনি ৫০০ গুণ পর্যন্ত পেতে পারেন!
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="lightning_roulette_game_guide_strategy_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 1.  **বাজি ধরা**: সাধারণ রুলেটের মতোই ইনসাইড এবং আউটসাইড বাজি ধরা যায়।

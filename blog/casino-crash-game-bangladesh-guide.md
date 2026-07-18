@@ -83,10 +83,10 @@ Google Search Console signal অনুযায়ী এই cluster-এ opportunit
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Nagad Rocket bKash Deposit Failed Checklist: proof ও support steps](/blog/nagad-rocket-bkash-deposit-failed-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [No Deposit Bonus BD Risk Checklist: free bonus সত্যি free?](/blog/no-deposit-bonus-bd-risk-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Mobile Wallet Proof Screenshot Betting BD: support-এ কী পাঠাবেন?](/blog/mobile-wallet-proof-screenshot-betting-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Nagad Cash Out Fee Calculator Guide: payout হাতে কত পাবেন?](/blog/nagad-cash-out-fee-calculator-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Missing Bonus After First Deposit: বোনাস না এলে কোথায় দেখবেন?](/blog/missing-bonus-after-first-deposit/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Screenshot Proof for Payment Support: support-এ কী screenshot পাঠাবেন?](/blog/screenshot-proof-for-payment-support/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Pending Deposit After TrxID Submission: TrxID দেওয়ার পরেও pending কেন?](/blog/pending-deposit-after-trxid-submission/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Real Cash Online Casino Bangladesh: withdrawal-ready play guide](/blog/real-cash-online-casino-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?](/blog/payment-history-not-showing-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Name Mismatch Fix: account name না মিললে সমাধান](/blog/payment-name-mismatch-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -72,11 +72,11 @@ Best Online Casino Game BD Beginners উপভোগ করতে চাইল�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [অনলাইন জুয়া আইন Bangladesh Guide: কী জানা জরুরি?](/blog/online-jua-ain-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [সেরা Betting Sites Bangladesh Guide: safe site কীভাবে চিনবেন?](/blog/sera-betting-sites-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC AML Online Gaming Bangladesh: verification কেন চাওয়া হয়](/blog/kyc-aml-online-gaming-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladesh Online Betting Legal Risk Checklist: safe decision framework](/blog/bangladesh-online-betting-legal-risk-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Live Casino Bangladesh Mobile Guide: low latency ও safe play checklist](/blog/live-casino-bangladesh-mobile-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Crash Game Signal Scam BD Warning: predictor group কেন risky](/blog/crash-game-signal-scam-bd-warning/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Legal Betting Sites Bangladesh Myths: common claims কতটা সত্য](/blog/legal-betting-sites-bangladesh-myths/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Underage Gambling Warning Bangladesh: age rule ও account safety](/blog/underage-gambling-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

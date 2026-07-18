@@ -31,7 +31,7 @@ IPL শুধুমাত্র একটি টুর্নামেন্ট �
 
 ## আইপিএল ২০২৬ এর জন্য সেরা বেটিং সাইট (Best IPL Betting Sites)
 
-সঠিক সাইট নির্বাচন করা খুবই গুরুত্বপূর্ণ। অনেক ভুয়া সাইট আছে যেখানে টাকা ডিপোজিট করলে আর ফেরত পাওয়া যায় না। নিরাপদে খেলার জন্য আমাদের **[বিশ্বস্ত বেটিং সাইটের তালিকা (Trusted Betting Sites List)](/blog/all-trusted-betting-sites-bangladesh-2026-list/)** দেখতে পারেন। সংক্ষেপে ২০২৬ এর সেরা ৩টি প্ল্যাটফর্ম:
+সঠিক সাইট নির্বাচন করা খুবই গুরুত্বপূর্ণ। অনেক ভুয়া সাইট আছে যেখানে টাকা ডিপোজিট করলে আর ফেরত পাওয়া যায় না। নিরাপদে খেলার জন্য আমাদের **বিশ্বস্ত বেটিং সাইটের তালিকা (Trusted Betting Sites List)** দেখতে পারেন। সংক্ষেপে ২০২৬ এর সেরা ৩টি প্ল্যাটফর্ম:
 
 1.  **BoroJeet:** বাংলাদেশী ইউজারদের জন্য সেরা, কারণ এখানে **bKash, Nagad, Rocket** দিয়ে লেনদেন করা যায়।
 2.  **JeetBuzz:** লাইভ স্ট্রিমিং এর জন্য ভালো।
@@ -76,11 +76,11 @@ IPL 2026 একটি বিশাল সুযোগ ক্রিকেট জ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং](/blog/boro-jeet-vs-bjbaji-cricket-review/) — Cricket betting সম্পর্কিত practical checklist।
-- [Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই](/blog/boro-jeet-vs-mcw-review/) — Cricket betting সম্পর্কিত practical checklist।
-- [Best Cricket Betting App for Android Bangladesh: কোন app ব্যবহার করবেন?](/blog/best-cricket-betting-app-for-android-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Crash Betting Game Bangladesh Strategy 2026: cashout discipline guide](/blog/crash-betting-game-bangladesh-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Wicket Line Betting Guide BD: bowler wicket market analysis](/blog/cricket-wicket-line-betting-guide-bd/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Cricket X Game Winning Tips (2026): Strategy for Boro Jeet Players](/blog/cricket-x-winning-tips-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Fire Joker Slot Review: Wheel of Multipliers (ফায়ার জোকার স্লট)](/blog/fire-joker-slot-review-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Fruit Party Slot Review: Cluster Pays & Multipliers | ফ্রুট পার্টি স্লট](/blog/fruit-party-slot-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [IPL 2026 Betting Guide: Teams, Odds & Predictions | আইপিএল ২০২৬ বেটিং](/blog/ipl-2026-betting-guide-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
+- [Bet Builder গাইড: ক্রিকেটে নিজের বাজি নিজেই তৈরি করার নিয়ম](/blog/how-to-use-bet-builder-cricket/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -39,7 +39,10 @@ howto:
 
 ## BoroJeetBD Cache Clear Before Login issue সাধারণত কোথা থেকে শুরু হয়
 
-Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং [How to Secure Your Account with Two-Factor Authentication](/blog/two-factor-authentication/) এই cluster-এ strong reference point। 
+Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং How to Secure Your Account with Two-Factor Authentication এই cluster-এ strong reference point। 
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="borojeetbd_cache_clear_before_login_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## Root cause identify করার shortcut
 
@@ -72,11 +75,11 @@ BoroJeetBD Cache Clear Before Login issue fix করার সময় blind retry
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Borojeet পাসওয়ার্ড রিসেট ও রিকভারি গাইড: অ্যাকাউন্ট ফিরে পাওয়ার উপায়](/blog/borojeet-password-reset-recovery-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Borojeet স্পোর্টস বেটিং রুলস: Void Bet, Dead Heat এবং অন্যান্য নিয়ম](/blog/borojeet-sports-betting-rules-explained/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু](/blog/esports-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Uninstall and Reinstall BoroJeet App: clean reinstall guide](/blog/uninstall-reinstall-borojeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [SMS OTP Delay Bangladesh Fix: OTP দেরি হলে workaround](/blog/sms-otp-delay-bangladesh-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Suspicious Login Alert: alert এলে সঙ্গে সঙ্গে কী করবেন?](/blog/suspicious-login-alert-what-to-do/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Push Notifications Not Working on BoroJeet: notification fix guide](/blog/push-notifications-not-working-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

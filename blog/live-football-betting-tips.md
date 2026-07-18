@@ -38,6 +38,9 @@ Statistically, nearly **25% of all goals** are scored after the 75th minute. Tir
 
 ---
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="live_football_betting_tips_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Hedging Your Bets
 
 Live betting is perfect for locking in profit ("Greening Out").
@@ -78,10 +81,10 @@ Live betting is fast and exciting. By waiting for the right moment—like the ch
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [Extra Time Betting Rules Guide: 90 মিনিট নাকি 120 মিনিট গণনা হবে?](/blog/extra-time-betting-rules-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন](/blog/correct-score-betting-bankroll-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Draw No Bet vs Double Chance: কোন market বেশি practical?](/blog/draw-no-bet-vs-double-chance/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Both Halves Over 0.5 Goals: market logic ও match selection](/blog/both-halves-over-0-5-goals/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Favorites Accumulator Risk Guide: safe combo thinking](/blog/world-cup-2026-favorites-accumulator-risk-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Draw No Bet Guide Bangladesh: risk কমানোর market](/blog/world-cup-2026-draw-no-bet-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Clean Sheet Market Guide: defence stats কীভাবে পড়বেন](/blog/world-cup-2026-clean-sheet-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide](/blog/cricket-baji-dhorar-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [সেরা Cricket Betting Site in Bangladesh: কোন criteria দেখবেন?](/blog/sera-cricket-betting-site-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [ক্রিকেট বাজি অ্যাপস Bangladesh: top features ও safety signals](/blog/cricket-baji-apps-bangladesh-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [What is a Back Bet? The Traditional Way to Bet on Cricket](/blog/back-bet-explained/) — Cricket betting সম্পর্কিত practical checklist।
-- [Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison](/blog/top-betting-sites-cricket-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Team Total Runs Cricket Guide: innings line পড়ার সহজ পদ্ধতি](/blog/team-total-runs-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App for PC Bangladesh: browser দিয়ে কীভাবে খেলবেন?](/blog/cricket-betting-app-for-pc-bangladesh-browser/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Session Betting Bangla Strategy 2026: session market বোঝার নিয়ম](/blog/cricket-session-betting-bangla-strategy-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Baji Bangla Beginner Checklist: নতুনদের জন্য safe framework](/blog/cricket-baji-bangla-beginner-checklist/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Betting App APK Bangladesh: safe install করার checklist](/blog/cricket-betting-app-apk-bangladesh-safe-install/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs BjBaji: Who has Better Cricket Odds? | সেরা ক্রিকেট বেটিং](/blog/boro-jeet-vs-bjbaji-cricket-review/) — Cricket betting সম্পর্কিত practical checklist।
+- [Boro Jeet vs Mega Cricket World (MCW): Who is the Local King? | দেশি ব্র্যান্ডের লড়াই](/blog/boro-jeet-vs-mcw-review/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

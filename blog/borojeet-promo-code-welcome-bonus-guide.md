@@ -104,9 +104,9 @@ BoroJeet-এর বোনাস অফারগুলো বর্তমান�
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Wagering Turnover Calculator Bangla Guide: কত খেলতে হবে?](/blog/wagering-turnover-calculator-bangla-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন](/blog/bonus-turnover-calculation-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Online Slots Bangladesh Guide: RTP, volatility ও bonus feature](/blog/online-slots-bangladesh-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Monopoly Live 2 Rolls vs 4 Rolls: কোন bonus segment বেশি value?](/blog/monopoly-live-2-rolls-vs-4-rolls/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeetBD Register First App Install: bonus tracking হারাবেন না](/blog/borojeetbd-register-first-app-install/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [BoroJeet App Download Bonus Tracking: register first কেন জরুরি?](/blog/borojeet-app-download-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Eid Bonus Betting Bangladesh 2026: claim করার আগে terms পড়ুন](/blog/eid-bonus-betting-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

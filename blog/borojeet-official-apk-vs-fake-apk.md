@@ -82,11 +82,11 @@ borojeet official apk নিয়ে decision নেওয়ার সময় তি�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Aviator Game Predictor Scam BD: predictor app সত্যি নাকি ফাঁদ?](/blog/aviator-game-predictor-scam-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Secure Shared Phone Login Guide: shared phone-এ safe login কীভাবে করবেন?](/blog/secure-shared-phone-login-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভেরিফিকেশন সমস্যা: OTP আসছে না?)](/blog/email-verification-issues/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet Safe Registration Bangladesh: account খোলার আগে checklist](/blog/borojeet-safe-registration-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Top 5 JILI Slots Games on BoroJeet: সেরা জিলি স্লট গেম গাইড](/blog/top-5-jili-slots-games-on-borojeet/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Book of Dead Slot Review: RTP, Volatility & Winning Tips (বুক অফ ডেড স্লট)](/blog/book-of-dead-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Rise of Olympus Slot Review: Hand of God Feature (রাইজ অফ অলিম্পাস)](/blog/rise-of-olympus-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC Verification Failed? How to Fix Identity Check Issues](/blog/kyc-verification-fix-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Jili Jackpot Fishing Review: Winning Strategies & Features](/blog/jili-jackpot-fishing-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Madame Destiny Megaways Review: 5000x Wins & Free Spins | ম্যাডাম ডেস্টিনি](/blog/madame-destiny-megaways-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

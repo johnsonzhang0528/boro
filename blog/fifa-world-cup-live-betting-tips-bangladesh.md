@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন](/blog/fifa-world-cup-2026-app-notification-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Goals Market Bangladesh: over/under goals plan](/blog/world-cup-2026-goals-market-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Corners Card Live Guide: corner ও card market setup](/blog/world-cup-2026-corners-card-live-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Top Teams Betting Preview Bangla: favourites বুঝবেন কীভাবে](/blog/world-cup-2026-top-teams-betting-preview-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Live Betting App Checklist: live match-এর আগে setup](/blog/world-cup-2026-live-betting-app-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Safe Betting Sites BD: fake site এড়ানোর checklist](/blog/world-cup-2026-safe-betting-sites-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [La Liga Betting Guide: Beyond El Clásico (লা লিগা বাজি)](/blog/la-liga-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [English Premier League (EPL) 2026 Preview: Favorites and Dark Horses (ইংলিশ প্রিমিয়ার লিগ)](/blog/english-premier-league-2026-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [FIFA World Cup 2026 Betting Guide: Early Predictions (ফিফা বিশ্বকাপ ২০২৬)](/blog/fifa-world-cup-2026-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Dragon Hatch Gameplay: Awakening the Dragon Queen (ড্রাগন হ্যাচ গেমপ্লে)](/blog/dragon-hatch-gameplay/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Online Rummy Guide: Rules & Winning Tips](/blog/online-rummy-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Poker Hands Ranking: The Ultimate Cheat Sheet](/blog/poker-hands-ranking-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

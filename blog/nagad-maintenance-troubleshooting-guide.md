@@ -32,6 +32,9 @@ Nagad performs regular server maintenance to ensure security and update features
   <img src="/assets/blog/nagad-server-status-check-optimized.webp" alt="Illustration of checking Nagad server status on a mobile phone" width="800" height="450" loading="lazy" decoding="async">
 </picture>
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="nagad_maintenance_troubleshooting_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## What to Do During Maintenance
 
 ### 1. Don't Panic, Don't Resend
@@ -69,10 +72,10 @@ For more help with payments, check our [Nagad vs bKash Comparison](/blog/nagad-v
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [No Deposit Bonus BD Risk Checklist: free bonus সত্যি free?](/blog/no-deposit-bonus-bd-risk-checklist/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Mobile Wallet Proof Screenshot Betting BD: support-এ কী পাঠাবেন?](/blog/mobile-wallet-proof-screenshot-betting-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Nagad Cash Out Fee Calculator Guide: payout হাতে কত পাবেন?](/blog/nagad-cash-out-fee-calculator-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Missing Bonus After First Deposit: বোনাস না এলে কোথায় দেখবেন?](/blog/missing-bonus-after-first-deposit/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Fake Online Casino BD Red Flags: deposit করার আগে warning signs](/blog/fake-online-casino-bd-red-flags/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Rocket Nagad Logo Safe Check: fake logo ও payment scam এড়ান](/blog/bkash-rocket-nagad-logo-safe-check/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [BD Betting App Download Guide: APK install, login ও payment setup](/blog/bd-betting-app-download-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Free Spins No Deposit: Myth or Reality in 2026? (বিনা ডিপোজিটে ফ্রি স্পিন)](/blog/free-spins-no-deposit/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Minimum Deposit for Bonuses: How to Claim Offers](/blog/minimum-deposit-bonuses/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Fastest Withdrawal Methods 2026: Speed Test](/blog/fastest-withdrawal-methods-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

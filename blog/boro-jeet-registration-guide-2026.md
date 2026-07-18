@@ -21,6 +21,9 @@ faq:
 
 বর্তমান সময়ে অনলাইনে নিরাপদ এবং দ্রুত গেমিং প্ল্যাটফর্ম হিসেবে Boro Jeet (বড় জিত) অত্যন্ত জনপ্রিয়। **Secure Registration**, ৩ স্তরের নিরাপত্তা ব্যবস্থা, এবং বিকাশের (bkash) মাধ্যমে দ্রুত লেনদেনের সুবিধা একে অন্যদের থেকে আলাদা করেছে। নতুন ইউজারদের জন্য রয়েছে বিশেষ **Sign Up Bonus**।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="boro_jeet_registration_guide_2026_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## Boro Jeet Account খোলার নিয়ম (ধাপে ধাপে)
 
 সঠিক নিয়মে অ্যাকাউন্ট খুললে পরবর্তীতে লগইন বা টাকা তোলার কোনো সমস্যা হয় না। নিচের ধাপগুলো অনুসরণ করুন:
@@ -62,11 +65,11 @@ faq:
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Badminton Betting Guide: How to Bet on Thomas Cup & Olympics | ব্যাডমিন্টন বেটিং গাইড](/blog/badminton-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Pro Kabaddi Betting Tips: জয়ের সেরা কৌশল (Pro Kabaddi Betting Tips)](/blog/kabaddi-pro-league-betting-tips/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [Boro Jeet App Installation Error: 'App Not Installed' সমাধান](/blog/boro-jeet-app-installation-error-fixes/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [Table Tennis Betting: দ্রুত জয়ের সুযোগ (Table Tennis Betting Guide)](/blog/table-tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Why You Need a Betting Spreadsheet: Stop Guessing, Start Tracking](/blog/record-keeping-for-bettors/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [How to Update the Boro Jeet App Manually (APK Guide)](/blog/updating-boro-jeet-app/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [NBA Betting Guide 2026: Player Props & Spreads (NBA বেটিং গাইড)](/blog/nba-betting-guide-2026/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

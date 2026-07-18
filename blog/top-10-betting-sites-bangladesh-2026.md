@@ -82,9 +82,9 @@ For international variety, 1xBet is the runner-up.
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Skyliner Crash Game Tips: Mastering the Urban Skies (2026)](/blog/skyliner-crash-game-tips/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Pilot (Gamzix) Review: The Hidden Gem of Crash Games (2026)](/blog/pilot-gamzix-crash-game-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [JetX 3 Game Review & Strategy: Controlling Three Jets at Once (2026)](/blog/jetx-3-strategy-guide-game-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Top 5 Highest RTP Crash Games: Which One Pays the Most? (2026)](/blog/top-5-highest-rtp-crash-games/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Account Under Review: কতক্ষণ লাগে এবং কী প্রস্তুত রাখবেন?](/blog/account-under-review-how-long/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Casino Bangladesh Mobile Browser Guide: app ছাড়া কীভাবে?](/blog/online-casino-bangladesh-mobile-browser-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [The Danger of Multi-Accounting: Why You Will Get Banned (মাল্টি-অ্যাকাউন্টিং ঝুঁকি: কেন আপনার অ্যাকাউন্ট ব্যান হবে)](/blog/multi-accounting-risks/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

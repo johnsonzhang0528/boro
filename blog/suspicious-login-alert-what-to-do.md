@@ -39,7 +39,10 @@ howto:
 
 ## Suspicious Login Alert issue সাধারণত কোথা থেকে শুরু হয়
 
-Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং [How to Secure Your Account with Two-Factor Authentication](/blog/two-factor-authentication/) এই cluster-এ strong reference point। 
+Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং How to Secure Your Account with Two-Factor Authentication এই cluster-এ strong reference point। 
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="suspicious_login_alert_what_to_do_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## Root cause identify করার shortcut
 
@@ -72,11 +75,11 @@ Suspicious Login Alert issue fix করার সময় blind retry না ক�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [How to Contact Boro Jeet Customer Support: Live Chat, Email & WhatsApp](/blog/contacting-boro-jeet-customer-support/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet App Installation Error: 'App Not Installed' সমাধান](/blog/boro-jeet-app-installation-error-fixes/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Password Recovery Guide: কীভাবে পাসওয়ার্ড রিসেট করবেন?](/blog/boro-jeet-forgot-password-recovery/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Boro Jeet Login Issues & Solutions 2026: লগইন সমস্যার ১০টি সহজ সমাধান](/blog/boro-jeet-login-issues-solutions/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [লুডু বেটিং গাইড: বাংলাদেশে অনলাইনে লুডু খেলে টাকা আয় করার নিয়ম (Ludo Betting Guide)](/blog/how-to-play-ludo-betting-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Esports Betting Guide: Dota 2, CS:GO এবং আরও অনেক কিছু](/blog/esports-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Basketball Betting Guide: বাস্কেটবল বেটিং গাইড ও কৌশল](/blog/basketball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Tennis Betting Guide Bangladesh: Markets & Tips (টেনিস বেটিং গাইড)](/blog/tennis-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet লগইন সমস্যা? পাসওয়ার্ড রিসেট ও ৭টি দ্রুত সমাধান](/blog/borojeet-login-troubleshooting-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

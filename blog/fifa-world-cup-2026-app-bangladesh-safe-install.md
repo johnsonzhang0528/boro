@@ -39,7 +39,10 @@ howto:
 
 ## FIFA World Cup 2026 App Bangladesh Safe Install issue সাধারণত কোথা থেকে শুরু হয়
 
-Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং [How to Secure Your Account with Two-Factor Authentication](/blog/two-factor-authentication/) এই cluster-এ strong reference point। নতুন user হলে bonus track ঠিক রাখতে আগে website-এ register করুন, তারপর app install বা mobile browser login ব্যবহার করুন।
+Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং How to Secure Your Account with Two-Factor Authentication এই cluster-এ strong reference point। নতুন user হলে bonus track ঠিক রাখতে আগে website-এ register করুন, তারপর app install বা mobile browser login ব্যবহার করুন।
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="fifa_world_cup_2026_app_bangladesh_safe_install_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## Root cause identify করার shortcut
 
@@ -73,10 +76,10 @@ FIFA World Cup 2026 App Bangladesh Safe Install issue fix করার সময়
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [World Cup 2026 Betting Bonuses BD: bonus claim করার আগে terms দেখুন](/blog/world-cup-2026-betting-bonuses-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন](/blog/world-cup-2026-bet-builder-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Betting App BD: football match bet করার setup](/blog/world-cup-2026-betting-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bangla Betting Terms Glossary: odds, line, market](/blog/world-cup-2026-bangla-betting-terms-glossary/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?](/blog/world-cup-2026-bangladesh-betting-calendar/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Odds Explained Bangla: decimal odds সহজ ভাষায়](/blog/world-cup-2026-odds-explained-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Opening Match Odds Guide: first game market explained](/blog/world-cup-2026-opening-match-odds-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Mobile Betting Checklist BD: app, data ও alerts](/blog/world-cup-2026-mobile-betting-checklist-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Night Match Betting Bangladesh: time-zone ও bankroll](/blog/world-cup-2026-night-match-betting-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Live Odds Movement Guide: odds কেন বদলায়?](/blog/world-cup-2026-live-odds-movement-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

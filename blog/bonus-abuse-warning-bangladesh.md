@@ -84,9 +84,9 @@ bonus abuse warning নিয়ে decision নেওয়ার সময় তিন
 
 - [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
 - [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crazy Time জেতার কৌশল Bangla: risk control ও bonus round plan](/blog/crazy-time-jetar-koushol-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Megapari Crash Game Alternatives BD: safe comparison checklist](/blog/megapari-crash-game-alternatives-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crash Game Signal Scam Alert Bangladesh: paid signal কেন risky](/blog/crash-game-signal-scam-alert-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Crazy Time Bangla Bet Sizing Guide: low-risk stake plan](/blog/crazy-time-bangla-bet-sizing-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [অনলাইন জুয়া আইন Bangladesh Guide: কী জানা জরুরি?](/blog/online-jua-ain-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [সেরা Betting Sites Bangladesh Guide: safe site কীভাবে চিনবেন?](/blog/sera-betting-sites-bangladesh-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Sic Bo Big/Small Best Bet Guide: low-risk bet কোনটি?](/blog/sic-bo-big-small-best-bet-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling Bangladesh Law 2026 Bangla: আইন ও practical risk](/blog/online-gambling-bangladesh-law-2026-bangla/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

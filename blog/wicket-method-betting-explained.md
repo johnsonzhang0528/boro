@@ -72,11 +72,11 @@ Wicket Method Betting Explained profitable হতে পারে, কিন্�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [ক্রিকেট বেটিং অডস-এর চূড়ান্ত গাইড](/blog/ultimate-guide-to-cricket-betting-odds/) — Cricket betting সম্পর্কিত practical checklist।
 - [Test Match Session Betting Guide: session বাজারে value খোঁজার নিয়ম](/blog/test-match-session-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
 - [Toss Winner vs Match Winner Correlation: correlation কতটা real?](/blog/toss-winner-vs-match-winner-correlation/) — Cricket betting সম্পর্কিত practical checklist।
 - [Rain-Affected Match Betting Rules: DLS হলে bet settle কীভাবে হয়?](/blog/rain-affected-match-betting-rules/) — Cricket betting সম্পর্কিত practical checklist।
 - [Cash Game Khelar Koushol Bangladesh 2026: safe session plan](/blog/cash-game-khelar-koushol-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
-- [Lightning Roulette Multiplier Risk Guide: multiplier chase করা কি ঠিক?](/blog/lightning-roulette-multiplier-risk-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained](/blog/funky-time-bangladesh-live-show-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Funky Time Rules Bangladesh: multiplier, bonus ও payout explained](/blog/funky-time-rules-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

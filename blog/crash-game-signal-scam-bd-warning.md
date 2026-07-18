@@ -72,11 +72,11 @@ Crash Game Signal Scam BD Warning খেললে goal হওয়া উচিত
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Legal Online Casino Bangladesh Guide: আইন, risk ও safety checklist](/blog/legal-online-casino-bangladesh-guide/) — Legal, safety, scam ও responsible play pillar context।
-- [Safe Online Gaming Bangladesh Checklist: responsible play first](/blog/safe-online-gaming-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Book of Dead Slot Review: RTP, Volatility & Winning Tips (বুক অফ ডেড স্লট)](/blog/book-of-dead-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Rise of Olympus Slot Review: Hand of God Feature (রাইজ অফ অলিম্পাস)](/blog/rise-of-olympus-slot-review-strategy/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [KYC Verification Failed? How to Fix Identity Check Issues](/blog/kyc-verification-fix-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Madame Destiny Megaways Review: 5000x Wins & Free Spins | ম্যাডাম ডেস্টিনি](/blog/madame-destiny-megaways-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Legal Betting Sites Bangladesh Myths: common claims কতটা সত্য](/blog/legal-betting-sites-bangladesh-myths/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Underage Gambling Warning Bangladesh: age rule ও account safety](/blog/underage-gambling-warning-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [VPN Online Gambling Bangladesh Risk: VPN use করলে কী সমস্যা হতে পারে](/blog/vpn-online-gambling-bangladesh-risk/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [KYC AML Online Gaming Bangladesh: verification কেন চাওয়া হয়](/blog/kyc-aml-online-gaming-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladesh Online Betting Legal Risk Checklist: safe decision framework](/blog/bangladesh-online-betting-legal-risk-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safe Online Casino Bangladesh Licensed Check: trust signal কীভাবে দেখবেন](/blog/safe-online-casino-bangladesh-licensed-check/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

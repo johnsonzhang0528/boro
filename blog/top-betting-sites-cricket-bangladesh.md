@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Wild Bandito Win Guide: Sticky Wilds & Increasing Multipliers (ওয়াইল্ড ব্যান্ডিটো)](/blog/wild-bandito-win-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Mahjong Ways 2 Winning Tricks: Unlocking the x10 Multiplier (মাহজং ওয়েজ ২ ট্রিকস)](/blog/mahjong-ways-2-winning-tricks/) — Cricket betting সম্পর্কিত practical checklist।
-- [Mahjong Ways 1 Winning Strategy: How to Hit That x5 Multiplier (জয়ের কৌশল)](/blog/mahjong-ways-1-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [XXXTreme Lightning Roulette: 2000x Multiplier Strategy](/blog/xxxtreme-lightning-roulette-strategy/) — Cricket betting সম্পর্কিত practical checklist।
-- [ODI Betting Strategy: Mastering the 50-Over Format](/blog/odi-cricket-betting-strategy-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [Team Total Runs Cricket Guide: innings line পড়ার সহজ পদ্ধতি](/blog/team-total-runs-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Sixes Market Cricket Betting Guide: total sixes market বোঝার নিয়ম](/blog/sixes-market-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [What is a Back Bet? The Traditional Way to Bet on Cricket](/blog/back-bet-explained/) — Cricket betting সম্পর্কিত practical checklist।
+- [Scalping Strategy in Cricket Betting: Small Profits, Big Gains](/blog/scalping-strategy/) — Cricket betting সম্পর্কিত practical checklist।
+- [Powerplay Betting Cricket Guide: প্রথম ৬ ওভারের market analysis](/blog/powerplay-betting-cricket-guide/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

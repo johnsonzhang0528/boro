@@ -35,7 +35,7 @@ robots: "noindex"
   <h1 class="h1">Articles tagged with "{{ tag | capitalize }}"</h1>
 
   <div class="article-list">
-    {% set taglist = collections[ tag ] %}
+    {% set taglist = collections[ tag ] | publishedOnly %}
     {% for post in taglist | reverse %}
       <article class="card">
         <a href="{{ post.url }}" class="card-image-link">

@@ -73,10 +73,10 @@ Nagad Deposit Pending After Successful Payment issue resolve করতে speed-
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Fake Online Casino BD Red Flags: deposit করার আগে warning signs](/blog/fake-online-casino-bd-red-flags/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Free Bonus Without Deposit BD Guide: ফ্রি বোনাসের real terms](/blog/free-bonus-without-deposit-bd-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Duplicate Deposit Request Problem: একই ডিপোজিট দুইবার গেলে কী করবেন?](/blog/duplicate-deposit-request-problem/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Failed Payment After Network Timeout: টাকা কাটা গেলেও update না এলে](/blog/failed-payment-after-network-timeout/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Change Withdrawal Method After Request: Request দেওয়ার পরে method বদলানো যায়?](/blog/change-withdrawal-method-after-request/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Withdrawal Pending After Approval: approved দেখালেও টাকা না এলে কী করবেন?](/blog/bkash-withdrawal-pending-after-approval/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Deposit Not Showing After TrxID: TrxID দিলেও balance না এলে](/blog/bkash-deposit-not-showing-after-trxid/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Wrong Agent Number? How to Fix Casino Deposit Mistakes](/blog/wrong-agent-number-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Upay Payment Guide for Betting in Bangladesh (উপায় পেমেন্ট গাইড)](/blog/upay-payment-guide-for-betting-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [বাংলাদেশের অনলাইন ক্যাসিনোর জন্য দ্রুততম উত্তোলন পদ্ধতি (Fastest Withdrawal Methods)](/blog/fastest-withdrawal-methods-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

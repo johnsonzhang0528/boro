@@ -72,11 +72,11 @@ Teen Patti Seen vs Blind Guide উপভোগ করতে চাইলে rule
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [All Trusted Betting Sites in Bangladesh 2026 List | সেরা বেটিং সাইট তালিকা](/blog/all-trusted-betting-sites-bangladesh-2026-list/) — Legal, safety, scam ও responsible play pillar context।
-- [Casino Game Name List Bangladesh Bangla: popular game category explained](/blog/casino-game-name-list-bangladesh-bangla/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে](/blog/borojeet-apk-update-checklist-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [BoroJeetBD Mobile Browser vs APK: কোনটা আপনার জন্য ভালো?](/blog/borojeetbd-mobile-browser-vs-apk/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [Sticky Wilds vs Expanding Wilds: Which Pays More? (স্টিকি বনাম এক্সপেন্ডিং ওয়াইল্ড)](/blog/sticky-wilds-vs-expanding-wilds/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [RTP vs Hit Frequency: Which Matters More? (আরটিপি না হিট ফ্রিকোয়েন্সি?)](/blog/rtp-vs-hit-frequency/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Scatter vs Wild Symbols Explained: slot symbol mechanics সহজ ভাষায়](/blog/scatter-vs-wild-symbols-explained/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Demo Mode vs Real Money Slots: RTP কি একই থাকে?](/blog/demo-mode-vs-real-money-slots/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Best Slot Game in Bangladesh 2026: RTP, volatility ও theme comparison](/blog/best-slot-game-in-bangladesh-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Casino Game Name List Bangla: কোন game কীভাবে খেলা হয়?](/blog/casino-game-name-list-bangla/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Casino Games List with Pictures BD: slot, table ও live game guide](/blog/casino-games-list-with-pictures-bd/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [Best Online Casino Games Bangladesh 2026: beginner-friendly picks](/blog/best-online-casino-games-bangladesh-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

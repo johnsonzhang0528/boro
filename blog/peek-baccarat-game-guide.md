@@ -34,6 +34,9 @@ faq:
 
 Peek Baccarat হলো ক্লাসিক Baccarat-এর একটি রোমাঞ্চকর সংস্করণ। এখানে সাধারণ Baccarat-এর মতোই Player বা Banker-এর উপর বাজি ধরা হয়। কিন্তু আসল মজা শুরু হয় কার্ড ডিল করার পর। ডিলার কিছু কার্ড "Peek" বা দেখার জন্য উন্মুক্ত করেন। এই কার্ডগুলো দেখে আপনি সিদ্ধান্ত নিতে পারেন যে আপনি আপনার বাজি বাড়াবেন (Double or Triple) নাকি আগের মতোই রাখবেন।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="peek_baccarat_game_guide_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## খেলার নিয়ম (Game Rules)
 
 1.  **Place Your Bets**: প্রথমে Player বা Banker-এর উপর বাজি ধরুন। মনে রাখবেন, এই বাজির উপর 20% **Peek Fee** প্রযোজ্য হবে।
@@ -81,10 +84,10 @@ Peek Baccarat সেই সমস্ত খেলোয়াড়দের জ
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো গেমস: স্লট থেকে লাইভ ডিলার পর্যন্ত চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-games-bangladesh/) — Online casino games pillar context।
-- [Ganesha Gold Strategy: Collecting Wilds for Big Wins (গণেশ গোল্ড স্ট্র্যাটেজি)](/blog/ganesha-gold-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Treasures of Aztec Guide: Winning with Cascading Reels (ট্রেজার অফ আজটেক)](/blog/treasures-of-aztec-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Fan Tan Strategy Guide: Mastering the Beads](/blog/fan-tan-strategy-guide/) — Online casino games সম্পর্কিত practical checklist।
-- [Sic Bo Patterns & Strategy: Mastering the Dice](/blog/sic-bo-patterns-strategy/) — Online casino games সম্পর্কিত practical checklist।
-- [Golden Empire Slot Guide: How to Trigger Massive Free Spins](/blog/golden-empire-slot-free-spins/) — Online casino games সম্পর্কিত practical checklist।
+- [Sweet Bonanza CandyLand Strategy & Guide (Sweet Bonanza CandyLand গাইড)](/blog/sweet-bonanza-candyland-guide/) — Online casino games সম্পর্কিত practical checklist।
+- [Funky Time Live Game Guide & Strategy (Funky Time লাইভ গেম গাইড)](/blog/funky-time-live-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Gonzo's Treasure Hunt Strategy & Guide (Gonzo's Treasure Hunt গাইড)](/blog/gonzos-treasure-hunt-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Lightning Dice Game Guide: Rules, Strategy & Big Wins | লাইটনিং ডাইস](/blog/lightning-dice-game-guide-strategy/) — Online casino games সম্পর্কিত practical checklist।
+- [Boro Jeet Andar Bahar: Winning Tricks & Strategy | অন্দর বাহার](/blog/boro-jeet-andar-bahar-winning-tricks/) — Online casino games সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

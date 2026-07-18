@@ -82,11 +82,11 @@ world cup corners cards betting নিয়ে decision নেওয়ার সম�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Teen Patti Real Money App: অ্যাপ ডাউনলোড এবং খেলার নিয়ম](/blog/teen-patti-real-money-guide-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Andar Bahar First Card Probability: first card দেখে edge পাওয়া যায়?](/blog/andar-bahar-first-card-probability/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Outrights vs Match Betting Football: long-term নাকি short-term market?](/blog/outrights-vs-match-betting-football/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [First Goalscorer vs Anytime Goalscorer: value কোথায় বেশি?](/blog/first-goalscorer-vs-anytime-goalscorer/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Correct Score Betting Bankroll Tips: high-odds market কীভাবে খেলবেন](/blog/correct-score-betting-bankroll-tips/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [Draw No Bet vs Double Chance: কোন market বেশি practical?](/blog/draw-no-bet-vs-double-chance/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 bKash Nagad Deposit Timing: match আগে payment plan](/blog/world-cup-2026-bkash-nagad-deposit-timing/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 BTTS Betting Guide: both teams to score market](/blog/world-cup-2026-btts-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting Bankroll Plan BD: 39-day tournament budget](/blog/world-cup-2026-betting-bankroll-plan-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting Bonuses BD: bonus claim করার আগে terms দেখুন](/blog/world-cup-2026-betting-bonuses-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bet Builder Guide: same match combo কীভাবে করবেন](/blog/world-cup-2026-bet-builder-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Betting App BD: football match bet করার setup](/blog/world-cup-2026-betting-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

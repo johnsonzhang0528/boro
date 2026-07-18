@@ -63,11 +63,11 @@ Ready for active trading? Learn how to trade ball-by-ball in our [Trading a T20 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [বাংলাদেশে ক্রিকেট বেটিং এর চূড়ান্ত গাইড (২০২৫)](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
-- [Safest Cricket Betting App Bangladesh: security signals কী দেখবেন?](/blog/safest-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [Top Cricket Betting Apps Bangladesh: speed, odds ও payment comparison](/blog/top-cricket-betting-apps-bangladesh-comparison/) — Cricket betting সম্পর্কিত practical checklist।
-- [No 1 Cricket Betting App BD: কোন criteria দিয়ে সেরা app বাছবেন?](/blog/no-1-cricket-betting-app-bd/) — Cricket betting সম্পর্কিত practical checklist।
-- [Online Cricket Betting App Download Guide: Bangladesh user checklist](/blog/online-cricket-betting-app-download-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Live Cricket Betting App Bangladesh 2026: in-play market guide](/blog/live-cricket-betting-app-bangladesh-2026/) — Cricket betting সম্পর্কিত practical checklist।
+- [ক্রিকেট বেটিং গাইড বাংলাদেশ ২০২৬: অডস, বাজির ধরন ও জেতার কৌশল](/blog/ultimate-guide-to-cricket-betting-in-bangladesh/) — Cricket betting pillar context।
+- [ক্রিকেট বাজি অ্যাপস Bangladesh: top features ও safety signals](/blog/cricket-baji-apps-bangladesh-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Online Cricket Betting Bangladesh Tips: data দেখে decision নিন](/blog/online-cricket-betting-bangladesh-tips/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket বাজি করার নিয়ম Bangla: beginner rules explained](/blog/cricket-baji-korar-niyom-bangla/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
+- [Cricket Over-by-Over Betting Bangladesh: live over market guide](/blog/cricket-over-by-over-betting-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

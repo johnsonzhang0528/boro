@@ -83,10 +83,10 @@ cashback vs rebate betting নিয়ে decision নেওয়ার সময় �
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [BoroJeet Welcome Bonus Terms Bangla 2026: wagering আগে বুঝুন](/blog/borojeet-welcome-bonus-terms-bangla-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeetBD Register First App Install: bonus tracking হারাবেন না](/blog/borojeetbd-register-first-app-install/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [BoroJeet App Download Bonus Tracking: register first কেন জরুরি?](/blog/borojeet-app-download-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Turnover Calculation Bangladesh: wagering progress কীভাবে বুঝবেন](/blog/bonus-turnover-calculation-bangladesh/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Online Slots Bangladesh Guide: RTP, volatility ও bonus feature](/blog/online-slots-bangladesh-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Monopoly Live 2 Rolls vs 4 Rolls: কোন bonus segment বেশি value?](/blog/monopoly-live-2-rolls-vs-4-rolls/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Free Spin Bonus Bangladesh Slot Guide: eligible games ও wagering](/blog/free-spin-bonus-bangladesh-slot-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- [Bonus Abuse: আসলে কোন কাজগুলো abuse হিসেবে ধরা হয়?](/blog/bonus-abuse-what-counts/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

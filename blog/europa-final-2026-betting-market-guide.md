@@ -87,11 +87,11 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Knockout Bracket Betting Guide: draw থেকে final](/blog/world-cup-2026-knockout-bracket-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Group Stage Betting Strategy: early matches কীভাবে পড়বেন](/blog/world-cup-2026-group-stage-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Group Winner Outright Guide: futures market explained](/blog/world-cup-2026-group-winner-outright-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Favorites Accumulator Risk Guide: safe combo thinking](/blog/world-cup-2026-favorites-accumulator-risk-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Correct Score Betting Guide: high odds risk control](/blog/world-cup-2026-correct-score-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Group Stage Odds Bangla: group stage market guide](/blog/world-cup-2026-group-stage-odds-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Bangladesh Fixture Time BD: match timing আগে থেকে plan করুন](/blog/world-cup-2026-bangladesh-fixture-time-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [World Cup 2026 Football Betting App Bangladesh: safe mobile setup](/blog/world-cup-2026-football-betting-app-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [T20 World Cup 2026 Cricket App BD: fixtures, odds, এবং alert setup](/blog/t20-world-cup-2026-cricket-app-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Champions League Final 2026 Betting Guide BD: May final market checklist](/blog/champions-league-final-2026-betting-guide-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Accumulator Insurance Guide: How to Save Your Money | অ্যাকিউমুলেটর ইনস্যুরেন্স কি?](/blog/accumulator-insurance-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

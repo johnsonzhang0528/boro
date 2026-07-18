@@ -1,10 +1,10 @@
 ---
 layout: "base.njk"
-title: "Boro Jeet Login Help & App Download Guide 2026 - Official APK"
-description: "Having trouble with Boro Jeet login? Download the official 2026 App (APK), fix login issues, and get deposit help (bKash/Nagad) for Bangladeshi players."
+title: "BoroJeet লগইন ও অ্যাপ ডাউনলোড ২০২৬ — অফিসিয়াল APK গাইড"
+description: "BoroJeet লগইন হচ্ছে না? ২ মিনিটে সমাধান, অফিসিয়াল APK ডাউনলোড, bKash/Nagad ডিপোজিট হেল্প — বাংলাদেশি প্লেয়ারদের জন্য সম্পূর্ণ গাইড ২০২৬।"
 canonicalUrl: "https://borojeetbd.com/"
 date: 2025-10-31
-lastUpdated: 2026-01-30
+lastUpdated: 2026-07-19
 tags: "index"
 softwareApp:
   name: "BoroJeet App"

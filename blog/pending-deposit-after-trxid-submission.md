@@ -73,10 +73,10 @@ Pending Deposit After TrxID Submission issue resolve করতে speed-এর �
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
-- [Agent Banking Deposit Guide: Bkash, Nagad & Rocket | এজেন্ট ব্যাংকিং ডিপোজিট গাইড](/blog/agent-banking-deposit-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [bKash Transaction ID (TrxID) যাচাই করার নিয়ম: ডিপোজিট সমস্যা সমাধান](/blog/how-to-verify-bkash-transaction-id/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Upay Payment Guide for Betting in Bangladesh (উপায় পেমেন্ট গাইড)](/blog/upay-payment-guide-for-betting-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [বাংলাদেশের অনলাইন ক্যাসিনোর জন্য দ্রুততম উত্তোলন পদ্ধতি (Fastest Withdrawal Methods)](/blog/fastest-withdrawal-methods-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Rocket Payment Guide for Betting in Bangladesh (বাংলাদেশে বেটিং এর জন্য রকেট পেমেন্ট গাইড)](/blog/rocket-payment-guide-for-betting-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Real Cash Online Casino Bangladesh: withdrawal-ready play guide](/blog/real-cash-online-casino-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment History Not Showing Fix: transaction history ফাঁকা হলে কী করবেন?](/blog/payment-history-not-showing-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Payment Name Mismatch Fix: account name না মিললে সমাধান](/blog/payment-name-mismatch-fix/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [bKash Casino Sites Bangladesh Guide: deposit করার আগে কী দেখবেন](/blog/bkash-casino-sites-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- [Bonus Balance vs Cash Balance Withdrawal: কোন টাকা আগে withdraw হবে?](/blog/bonus-balance-vs-cash-balance-withdrawal/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

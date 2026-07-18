@@ -39,7 +39,10 @@ howto:
 
 ## Push Notifications Not Working on BoroJeet issue সাধারণত কোথা থেকে শুরু হয়
 
-Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং [How to Secure Your Account with Two-Factor Authentication](/blog/two-factor-authentication/) এই cluster-এ strong reference point। 
+Account বা app-related সমস্যা সবসময় serious breach না। অনেক সময় session cache, OTP delay, device switch, বা security review-এর কারণে issue দেখা যায়। [Boro Jeet Registration Guide 2026](/blog/boro-jeet-registration-guide-2026/), [Boro Jeet Safety & Security](/blog/boro-jeet-safety-security/), এবং How to Secure Your Account with Two-Factor Authentication এই cluster-এ strong reference point। 
+
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="push_notifications_not_working_borojeet_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
 
 ## Root cause identify করার shortcut
 
@@ -72,11 +75,11 @@ Push Notifications Not Working on BoroJeet issue fix করার সময় blin
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Download: অ্যান্ড্রয়েড এবং iOS এর জন্য ইনস্টলেশন গাইড](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
-- [Tennis Grand Slam Betting Guide: Wimbledon to US Open (টেনিস গ্র্যান্ড স্ল্যাম বেটিং)](/blog/tennis-grand-slam-betting/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Accumulator (Multibet) Betting Guide: High Odds, High Reward](/blog/accumulator-multibet-strategy-guide/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [CS:GO (CS2) Betting Guide: Map Winners and Handicaps](/blog/esports-csgo-betting-strategy/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [Reading Betting Odds 101: Understanding Decimal, Fractional & American](/blog/reading-betting-odds-decimal-fractional-american/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [History of Boro Jeet: The Evolution of BD's No.1 Gaming Platform](/blog/history-of-boro-jeet-brand-story/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
+- [How to Become a Boro Jeet Agent: Registration & Commission Guide 2026](/blog/how-to-become-boro-jeet-agent/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Handball Betting Guide BD: Strategy & Odds | হ্যান্ডবল বেটিং](/blog/handball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Volleyball Betting Guide BD: Rules, Markets & Tips | ভলিবল বেটিং](/blog/volleyball-betting-guide-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [BoroJeet Affiliate Program: ঘরে বসে আয় করার সেরা উপায়](/blog/borojeet-affiliate-program-guide-earn-money/) — App, APK ও account setup সম্পর্কিত practical checklist।
+- [Best Sports Betting Apps in Bangladesh 2025: সেরা ৫টি অ্যাপের তালিকা](/blog/best-sports-betting-apps-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

@@ -82,11 +82,11 @@ world cup opening match odds নিয়ে decision নেওয়ার সময় 
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [World Cup 2026 Match Winner Market Guide: 1X2 odds বোঝার নিয়ম](/blog/world-cup-2026-match-winner-market-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Half-Time Full-Time Guide: HT/FT market explained](/blog/world-cup-2026-half-time-full-time-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Knockout Bracket Betting Guide: draw থেকে final](/blog/world-cup-2026-knockout-bracket-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Group Stage Betting Strategy: early matches কীভাবে পড়বেন](/blog/world-cup-2026-group-stage-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Group Winner Outright Guide: futures market explained](/blog/world-cup-2026-group-winner-outright-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [World Cup 2026 Final Match Betting Checklist: final day market plan](/blog/world-cup-2026-final-match-betting-checklist/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Asian Handicap in Football: A Simple Guide (এশিয়ান হ্যান্ডিক্যাপ নির্দেশিকা)](/blog/asian-handicap-explained/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Corner Betting Strategy: The Underrated Market (কর্নার বেটিং কৌশল)](/blog/corner-betting-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [Both Teams to Score (BTTS) Strategy: High Odds Tactics (উভয় দল গোল করবে?)](/blog/both-teams-to-score-strategy/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [UEFA Champions League Betting Strategy: Group Stage vs Knockout (উয়েফা চ্যাম্পিয়ন্স লিগ কৌশল)](/blog/uefa-champions-league-betting/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [La Liga Betting Guide: Beyond El Clásico (লা লিগা বাজি)](/blog/la-liga-betting-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- [English Premier League (EPL) 2026 Preview: Favorites and Dark Horses (ইংলিশ প্রিমিয়ার লিগ)](/blog/english-premier-league-2026-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

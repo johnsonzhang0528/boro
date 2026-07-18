@@ -21,6 +21,9 @@ Aviator বা যেকোনো ক্র্যাশ গেমের স্�
 
 অধিকাংশ নতুন খেলোয়াড় এটিকে গুরুত্ব দেন না, কিন্তু প্রো প্লেয়াররা (Pro Players) প্রতিটি বাজি ধরার আগে এই হিস্ট্রি বিশ্লেষণ করেন। একেই বলা হয় **Post-Crash Analysis**।
 
+
+<a class="cta" href="/go/borojeet" rel="sponsored nofollow" target="_blank" data-track="true" data-track-event="cta_click" data-track-label="post_crash_analysis_round_history_mid_cta">এখনই BoroJeet-এ রেজিস্ট্রেশন করুন — বোনাস ক্লেইম করুন</a>
+
 ## How to Read the History Bar (কিভাবে পড়তে হয়)
 
 সাধারণত তিন ধরনের রঙ দেখা যায়:
@@ -55,10 +58,10 @@ Aviator বা যেকোনো ক্র্যাশ গেমের স্�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Games Guide BD: খেলার নিয়ম ও জেতার কৌশল (Aviator/Crazy Time)](/blog/guide-to-crash-games-bangladesh/) — Crash / Aviator / cash game pillar context।
-- [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [App Crashing After Update Fix: update-এর পরে app crash হলে](/blog/app-crashing-after-update-fix/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [App Crashing? How to Clear Cache and Data](/blog/clear-cache-and-data-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Crash Game App Bangladesh Low Data: fast rounds-এ stable connection](/blog/crash-game-app-bangladesh-low-data/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [5 Common Mistakes in Aviator Game: Why You Are Losing (2026)](/blog/5-common-mistakes-aviator-game/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Spaceman Game Guide & Winning Tricks (Spaceman গেম গাইড)](/blog/spaceman-game-guide-strategy/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Boro Jeet Crash Games Guide: Aviator & JetX Strategies | ক্র্যাশ গেম টিপস](/blog/boro-jeet-crash-games-aviator-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Martingale Strategy Guide: How to Win at Roulette & Crash Games | মার্টিনগেল স্ট্র্যাটেজি গাইড](/blog/martingale-betting-strategy-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Top 5 Crash Games on BoroJeet: Beyond Aviator (সেরা ৫টি ক্র্যাশ গেম)](/blog/top-5-crash-games-on-borojeet/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Plinko Game Guide: How to Play & Win in Bangladesh (2025)](/blog/plinko-game-guide-strategy-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

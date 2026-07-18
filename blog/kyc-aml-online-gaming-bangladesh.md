@@ -72,11 +72,11 @@ KYC AML Online Gaming Bangladesh নিয়ে smart approach হলো first ver
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [Online Betting Legal Bangladesh Explained: law, risk ও safe behavior](/blog/online-betting-legal-bangladesh-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Online Casino Legit Check Bangladesh: fake site চিনবেন কীভাবে?](/blog/online-casino-legit-check-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Licensed Online Casino Bangladesh Checklist: license claim verify করুন](/blog/licensed-online-casino-bangladesh-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Exposed: Fake 'Admin' Scams on Telegram (সাবধান: টেলিগ্রাম ফেক অ্যাডমিন স্ক্যাম)](/blog/fake-admin-scams-telegram/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Casino Games Online Real Money BD: safe play ও bankroll basics](/blog/casino-games-online-real-money-bd/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Dragon Tiger Side Bets Explained: Tie ও suited bet-এর risk কত?](/blog/dragon-tiger-side-bets-explained/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Bangladesh Online Betting Legal Risk Checklist: safe decision framework](/blog/bangladesh-online-betting-legal-risk-checklist/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safe Online Casino Bangladesh Licensed Check: trust signal কীভাবে দেখবেন](/blog/safe-online-casino-bangladesh-licensed-check/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Gambling in Bangladesh 2026 Law: risk ও reality explained](/blog/online-gambling-in-bangladesh-2026-law/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Online Jua Ain Bangladesh Bangla 2026: অনলাইন জুয়া আইন সহজ ভাষায়](/blog/online-jua-ain-bangladesh-bangla-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Safest Betting Apps in Bangladesh (2026 Security Ranking) | নিরাপদ অ্যাপ](/blog/safest-betting-apps-bd-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- [Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভেরিফিকেশন সমস্যা: OTP আসছে না?)](/blog/email-verification-issues/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

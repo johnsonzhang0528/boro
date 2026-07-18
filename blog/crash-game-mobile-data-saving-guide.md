@@ -83,10 +83,10 @@ crash game mobile data নিয়ে decision নেওয়ার সময় তি
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Crash Betting Game Bangladesh Safe Guide: prediction myth avoid করুন](/blog/crash-betting-game-bangladesh-safe-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [Martingale Strategy Guide: How to Win at Roulette & Crash Games | মার্টিনগেল স্ট্র্যাটেজি গাইড](/blog/martingale-betting-strategy-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Top 5 Crash Games on BoroJeet: Beyond Aviator (সেরা ৫টি ক্র্যাশ গেম)](/blog/top-5-crash-games-on-borojeet/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Plinko Game Guide: How to Play & Win in Bangladesh (2025)](/blog/plinko-game-guide-strategy-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Funky Time Strategy Bangla: bonus rounds ও bet sizing guide](/blog/funky-time-strategy-bangla/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
-- [Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt](/blog/crazy-time-bangladesh-bonus-round-guide/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Pattern Myths Explained: pattern দেখে prediction করা যায়?](/blog/crash-game-pattern-myths-explained/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Aviator Game Winning Strategy BD: realistic strategy বনাম myth](/blog/aviator-game-winning-strategy-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Aviator Game How to Play Bangladesh: beginner rule guide](/blog/aviator-game-how-to-play-bangladesh/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Crash Game Bankroll Plan BD: fast game-এর জন্য strict budget](/blog/crash-game-bankroll-plan-bd/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
+- [Online Casino Games Bangladesh Bangla 2026: slots, live, crash overview](/blog/online-casino-games-bangladesh-bangla-2026/) — Crash / Aviator / cash game সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->
