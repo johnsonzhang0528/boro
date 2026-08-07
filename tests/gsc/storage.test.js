@@ -1,18 +1,4 @@
-const test = require('node:test');
-const assert = require('node:assert/strict');
-const fs = require('fs');
-const os = require('os');
-const path = require('path');
-const { writeProcessedPartitionsAtomic } = require('../../scripts/gsc/lib/storage');
-
-test('processed daily partitions overwrite idempotently including empty days', () => {
-  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'gsc-storage-'));
-  const base = { property: 'sc-domain:borojeetbd.com', search_type: 'web', query: 'q', page: 'https://borojeetbd.com/', device: 'MOBILE', country: 'bgd', clicks: 1, impressions: 2, ctr: 0.5, position: 1, extracted_at: 'x' };
-  writeProcessedPartitionsAtomic(root, ['2026-08-01', '2026-08-02'], [{ ...base, date: '2026-08-01' }]);
-  writeProcessedPartitionsAtomic(root, ['2026-08-01', '2026-08-02'], [{ ...base, date: '2026-08-01', query: 'new' }]);
-  const day1 = fs.readFileSync(path.join(root, 'processed/date=2026-08-01/rows.jsonl'), 'utf8');
-  const day2 = fs.readFileSync(path.join(root, 'processed/date=2026-08-02/rows.jsonl'), 'utf8');
-  assert.match(day1, /"query":"new"/);
-  assert.doesNotMatch(day1, /"query":"q"/);
-  assert.equal(day2, '');
-});
+const test=require('node:test');const assert=require('node:assert/strict');const fs=require('fs');const os=require('os');const path=require('path');const {writeRawDailySnapshot,commitRawPartitionsAtomic}=require('../../scripts/gsc/lib/storage');
+const base={property:'sc-domain:borojeetbd.com',search_type:'web',query:'q',page:'https://borojeetbd.com/',device:'MOBILE',country:'bgd',clicks:1,impressions:2,ctr:0.5,position:1,extracted_at:'x'};
+test('processed daily partitions overwrite idempotently including empty days from daily raw snapshots',()=>{const root=fs.mkdtempSync(path.join(os.tmpdir(),'gsc-storage-'));const raw1=path.join(root,'raw','run1');writeRawDailySnapshot(raw1,'2026-08-01',[{...base,date:'2026-08-01'}]);writeRawDailySnapshot(raw1,'2026-08-02',[]);commitRawPartitionsAtomic(root,raw1,['2026-08-01','2026-08-02']);const raw2=path.join(root,'raw','run2');writeRawDailySnapshot(raw2,'2026-08-01',[{...base,date:'2026-08-01',query:'new'}]);writeRawDailySnapshot(raw2,'2026-08-02',[]);commitRawPartitionsAtomic(root,raw2,['2026-08-01','2026-08-02']);const day1=fs.readFileSync(path.join(root,'processed/date=2026-08-01/rows.jsonl'),'utf8');const day2=fs.readFileSync(path.join(root,'processed/date=2026-08-02/rows.jsonl'),'utf8');assert.match(day1,/"query":"new"/);assert.doesNotMatch(day1,/"query":"q"/);assert.equal(day2,'');});
+test('incomplete run cannot replace any processed partition',()=>{const root=fs.mkdtempSync(path.join(os.tmpdir(),'gsc-partial-'));const good=path.join(root,'raw','good');writeRawDailySnapshot(good,'2026-08-01',[{...base,date:'2026-08-01',query:'old1'}]);writeRawDailySnapshot(good,'2026-08-02',[{...base,date:'2026-08-02',query:'old2'}]);commitRawPartitionsAtomic(root,good,['2026-08-01','2026-08-02']);const partial=path.join(root,'raw','partial');writeRawDailySnapshot(partial,'2026-08-01',[{...base,date:'2026-08-01',query:'new1'}]);assert.throws(()=>commitRawPartitionsAtomic(root,partial,['2026-08-01','2026-08-02']),/Missing completed raw daily snapshot/);const day1=fs.readFileSync(path.join(root,'processed/date=2026-08-01/rows.jsonl'),'utf8');assert.match(day1,/"query":"old1"/);assert.doesNotMatch(day1,/"query":"new1"/);});

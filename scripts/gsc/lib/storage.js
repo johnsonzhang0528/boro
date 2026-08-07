@@ -17,23 +17,45 @@ function writeJson(filePath, value) {
 
 function writeJsonl(filePath, rows) {
   ensureDir(path.dirname(filePath));
-  const body = rows.map((row) => JSON.stringify(row)).join('\n');
-  fs.writeFileSync(filePath, body ? `${body}\n` : '', 'utf8');
+  const fd = fs.openSync(filePath, 'w');
+  try {
+    for (const row of rows) {
+      fs.writeSync(fd, `${JSON.stringify(row)}\n`, null, 'utf8');
+    }
+  } finally {
+    fs.closeSync(fd);
+  }
 }
 
-function writeProcessedPartitionsAtomic(rootDir, dates, rows) {
-  const grouped = new Map(dates.map((date) => [date, []]));
-  for (const row of rows) {
-    if (!grouped.has(row.date)) grouped.set(row.date, []);
-    grouped.get(row.date).push(row);
+function rawDailyRowsPath(rawDir, date) {
+  return path.join(rawDir, `date=${date}`, 'rows.jsonl');
+}
+
+function writeRawDailySnapshot(rawDir, date, rows) {
+  const target = rawDailyRowsPath(rawDir, date);
+  writeJsonl(target, rows);
+  return target;
+}
+
+function commitRawPartitionsAtomic(rootDir, rawDir, dates) {
+  const sources = dates.map((date) => ({ date, source: rawDailyRowsPath(rawDir, date) }));
+  for (const { date, source } of sources) {
+    if (!fs.existsSync(source)) {
+      throw new Error(`Missing completed raw daily snapshot for ${date}; processed partitions were not updated.`);
+    }
   }
-  for (const [date, dailyRows] of grouped.entries()) {
+
+  for (const { date, source } of sources) {
     const partitionDir = path.join(rootDir, 'processed', `date=${date}`);
     ensureDir(partitionDir);
     const target = path.join(partitionDir, 'rows.jsonl');
     const temp = `${target}.tmp-${process.pid}-${Date.now()}`;
-    writeJsonl(temp, dailyRows);
-    fs.renameSync(temp, target);
+    fs.copyFileSync(source, temp);
+    try {
+      fs.renameSync(temp, target);
+    } finally {
+      if (fs.existsSync(temp)) fs.unlinkSync(temp);
+    }
   }
 }
 
@@ -43,11 +65,20 @@ function createStorage(rootDir, runId) {
   ensureDir(rawDir);
   ensureDir(runsDir);
   return {
-    rawRows: path.join(rawDir, 'rows.jsonl'),
+    rawDir,
     aggregate: path.join(rawDir, 'aggregate.json'),
     dailyAggregate: path.join(rawDir, 'daily-aggregate.json'),
     runLog: path.join(runsDir, `${runId}.json`),
   };
 }
 
-module.exports = { createRunId, ensureDir, writeJson, writeJsonl, writeProcessedPartitionsAtomic, createStorage };
+module.exports = {
+  createRunId,
+  ensureDir,
+  writeJson,
+  writeJsonl,
+  rawDailyRowsPath,
+  writeRawDailySnapshot,
+  commitRawPartitionsAtomic,
+  createStorage,
+};

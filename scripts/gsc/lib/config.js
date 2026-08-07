@@ -23,14 +23,20 @@ function resolveExternalPath(name, env = process.env) {
   return path.normalize(value);
 }
 
-function assertPathOutsideRepo(targetPath, repoRoot = path.resolve(__dirname, '../../..')) {
+function assertPathOutsideRepo(targetPath, repoRoot = path.resolve(__dirname, '../../..'), label = 'OAuth credential') {
   const absoluteTarget = path.resolve(targetPath);
   const absoluteRepo = path.resolve(repoRoot);
   const relative = path.relative(absoluteRepo, absoluteTarget);
   if (relative === '' || (!relative.startsWith('..') && !path.isAbsolute(relative))) {
-    throw new Error(`Refusing to write OAuth token inside repository: ${absoluteTarget}`);
+    throw new Error(`Refusing to use ${label} inside repository: ${absoluteTarget}`);
   }
   return absoluteTarget;
+}
+
+function assertCredentialPathsOutsideRepo(config, repoRoot) {
+  assertPathOutsideRepo(config.clientFile, repoRoot, 'OAuth client credentials');
+  assertPathOutsideRepo(config.tokenFile, repoRoot, 'OAuth token');
+  return config;
 }
 
 function loadConfig(env = process.env) {
@@ -64,6 +70,7 @@ module.exports = {
   requireEnv,
   resolveExternalPath,
   assertPathOutsideRepo,
+  assertCredentialPathsOutsideRepo,
   loadConfig,
   readJsonFile,
 };

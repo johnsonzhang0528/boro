@@ -2,16 +2,25 @@
 const path = require('path');
 require('dotenv').config();
 const { parseArgs } = require('./lib/cli');
-const { loadConfig } = require('./lib/config');
+const { loadConfig, assertCredentialPathsOutsideRepo } = require('./lib/config');
 const { loadAuthorizedClient } = require('./lib/auth');
 const { createSearchConsoleClient } = require('./lib/client');
 const { extractRange } = require('./lib/extractor');
-const { createRunId, createStorage, writeJson, writeJsonl, writeProcessedPartitionsAtomic } = require('./lib/storage');
+const {
+  createRunId,
+  createStorage,
+  writeJson,
+  writeRawDailySnapshot,
+  commitRawPartitionsAtomic,
+} = require('./lib/storage');
 
 async function main(argv = process.argv.slice(2), env = process.env) {
   const { start, end } = parseArgs(argv);
   const config = loadConfig(env);
-  const rootDir = path.resolve(__dirname, '../..', 'data/gsc');
+  const repoRoot = path.resolve(__dirname, '../..');
+  assertCredentialPathsOutsideRepo(config, repoRoot);
+
+  const rootDir = path.join(repoRoot, 'data/gsc');
   const runId = createRunId();
   const startedAt = new Date().toISOString();
   const files = createStorage(rootDir, runId);
@@ -28,10 +37,15 @@ async function main(argv = process.argv.slice(2), env = process.env) {
     status: 'failed',
     error: null,
   };
+  const persistedDailyAggregates = {};
   writeJson(files.runLog, run);
 
   try {
-    const auth = loadAuthorizedClient({ clientFile: config.clientFile, tokenFile: config.tokenFile });
+    const auth = loadAuthorizedClient({
+      clientFile: config.clientFile,
+      tokenFile: config.tokenFile,
+      repoRoot,
+    });
     const searchConsole = createSearchConsoleClient(auth);
     const extractedAt = new Date().toISOString();
     const result = await extractRange({
@@ -48,19 +62,25 @@ async function main(argv = process.argv.slice(2), env = process.env) {
         run.rows_extracted += count;
         writeJson(files.runLog, run);
       },
+      onDay: async ({ date, rows }) => {
+        writeRawDailySnapshot(files.rawDir, date, rows);
+      },
+      onDailyAggregate: async ({ date, aggregate }) => {
+        persistedDailyAggregates[date] = aggregate;
+        writeJson(files.dailyAggregate, persistedDailyAggregates);
+      },
     });
 
-    writeJsonl(files.rawRows, result.rows);
     writeJson(files.aggregate, result.aggregate);
     writeJson(files.dailyAggregate, result.dailyAggregates);
-    writeProcessedPartitionsAtomic(rootDir, result.dates, result.rows);
+    commitRawPartitionsAtomic(rootDir, files.rawDir, result.dates);
 
-    run.rows_extracted = result.rows.length;
+    run.rows_extracted = result.rowsExtracted;
     run.pages_requested = result.pagesRequested;
     run.status = 'success';
     run.finished_at = new Date().toISOString();
     writeJson(files.runLog, run);
-    console.log(`GSC extraction succeeded: ${result.rows.length} rows across ${result.dates.length} day(s).`);
+    console.log(`GSC extraction succeeded: ${result.rowsExtracted} rows across ${result.dates.length} day(s).`);
     console.log(`Run ID: ${runId}`);
     return run;
   } catch (error) {

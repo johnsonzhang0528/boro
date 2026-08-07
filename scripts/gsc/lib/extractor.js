@@ -56,19 +56,28 @@ async function fetchAggregate({ searchConsole, startDate, endDate, property, sea
 
 async function extractRange(options) {
   const dates = enumerateDates(options.startDate, options.endDate);
-  const allRows = [];
   const dailyAggregates = {};
   let pagesRequested = 0;
+  let rowsExtracted = 0;
 
   for (const date of dates) {
     const daily = await extractDaily({ ...options, date });
-    allRows.push(...daily.rows);
     pagesRequested += daily.pagesRequested;
-    dailyAggregates[date] = await fetchAggregate({ ...options, startDate: date, endDate: date });
+    rowsExtracted += daily.rows.length;
+
+    if (options.onDay) {
+      await options.onDay({ date, rows: daily.rows, pagesRequested: daily.pagesRequested });
+    }
+
+    const dailyAggregate = await fetchAggregate({ ...options, startDate: date, endDate: date });
+    dailyAggregates[date] = dailyAggregate;
+    if (options.onDailyAggregate) {
+      await options.onDailyAggregate({ date, aggregate: dailyAggregate });
+    }
   }
 
   const aggregate = await fetchAggregate({ ...options, startDate: options.startDate, endDate: options.endDate });
-  return { dates, rows: dedupeRows(allRows), pagesRequested, aggregate, dailyAggregates };
+  return { dates, rowsExtracted, pagesRequested, aggregate, dailyAggregates };
 }
 
 module.exports = { DIMENSIONS, queryApi, extractDaily, fetchAggregate, extractRange };

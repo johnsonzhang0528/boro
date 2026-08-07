@@ -24,7 +24,7 @@ Run:
 npm run gsc:auth
 ```
 
-The bootstrap requests only `https://www.googleapis.com/auth/webmasters.readonly`, requires a refresh token, refuses to write the token inside this repository, and never prints tokens or client secrets. The token target directory is created with restrictive permissions where supported.
+The bootstrap requests only `https://www.googleapis.com/auth/webmasters.readonly`, requires a refresh token, refuses both the OAuth client credentials path and token path when they are inside this repository, and never prints tokens or client secrets. The token target directory is created with restrictive permissions where supported. The authorization URL is always printed so browser auto-launch failure is recoverable, and the local callback server times out after 10 minutes instead of waiting indefinitely.
 
 ## Extraction
 
@@ -34,7 +34,11 @@ npm run gsc:pull -- --start 2026-08-01 --end 2026-08-05
 
 The CLI enumerates the requested dates. Each date is queried independently with `startDate === endDate`, `rowLimit=25000`, and `startRow` pagination reset to zero for the next day. This is intentional to maximize retention of daily fine-grained rows exposed by the API.
 
-Raw and processed local data live under `data/gsc/` and are gitignored. Processed partitions are validated, deduplicated, and atomically overwritten by date for idempotent reruns. CTR is retained at row level; downstream aggregation must calculate `SUM(clicks) / SUM(impressions)`. Position remains row-level and is not averaged by this ingestion layer.
+Data is persisted date by date so range memory remains bounded to approximately one daily partition. Each successfully completed date is written as a **raw extraction snapshot** under `data/gsc/raw/<run_id>/date=YYYY-MM-DD/rows.jsonl`. These snapshots preserve the normalized, validated, deduplicated Search Analytics row semantics used by this pipeline; they are not claimed to be untouched Google API response payloads.
+
+Processed partitions are not changed while detail extraction is still in progress. After the entire requested range and its sanity aggregate complete successfully, the completed daily raw snapshots are atomically copied into `data/gsc/processed/date=YYYY-MM-DD/rows.jsonl`. This preserves idempotent reruns, allows a successful empty date to overwrite stale rows with an empty partition, and prevents an incomplete day from replacing a previously successful processed partition. Raw run snapshots and run logs remain as audit information. All `data/gsc/` data is gitignored.
+
+CTR is retained at row level; downstream aggregation must calculate `SUM(clicks) / SUM(impressions)`. Position remains row-level and is not averaged by this ingestion layer.
 
 Each run stores a range aggregate plus daily aggregates for sanity comparison with Search Console UI. Do not assert that detail-row sums equal aggregate totals.
 

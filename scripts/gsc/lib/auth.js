@@ -4,6 +4,8 @@ const http = require('http');
 const { URL } = require('url');
 const { GSC_SCOPE, readJsonFile, assertPathOutsideRepo } = require('./config');
 
+const DEFAULT_OAUTH_TIMEOUT_MS = 10 * 60 * 1000;
+
 function getGoogle(override) {
   if (override) return override;
   try {
@@ -27,7 +29,11 @@ function createOAuthClient(clientFile, redirectUri, googleOverride) {
   return new google.auth.OAuth2(definition.client_id, definition.client_secret, redirectUri);
 }
 
-function loadAuthorizedClient({ clientFile, tokenFile, googleOverride }) {
+function loadAuthorizedClient({ clientFile, tokenFile, repoRoot, googleOverride }) {
+  if (repoRoot) {
+    assertPathOutsideRepo(clientFile, repoRoot, 'OAuth client credentials');
+    assertPathOutsideRepo(tokenFile, repoRoot, 'OAuth token');
+  }
   const google = getGoogle(googleOverride);
   const definition = getOAuthClientDefinition(readJsonFile(clientFile, 'OAuth client file'));
   const token = readJsonFile(tokenFile, 'OAuth token file');
@@ -40,7 +46,7 @@ function loadAuthorizedClient({ clientFile, tokenFile, googleOverride }) {
 }
 
 function persistToken(tokenFile, tokens, repoRoot) {
-  const safePath = assertPathOutsideRepo(tokenFile, repoRoot);
+  const safePath = assertPathOutsideRepo(tokenFile, repoRoot, 'OAuth token');
   if (!tokens || !tokens.refresh_token) {
     throw new Error('OAuth bootstrap did not return a refresh_token; token file was not written. Revoke prior consent if needed and retry with consent prompt.');
   }
@@ -56,8 +62,28 @@ function persistToken(tokenFile, tokens, repoRoot) {
   return safePath;
 }
 
-async function bootstrapAuth({ clientFile, tokenFile, repoRoot, googleOverride, openBrowser, serverFactory = http.createServer }) {
-  assertPathOutsideRepo(tokenFile, repoRoot);
+function closeServer(server) {
+  return new Promise((resolve) => {
+    try {
+      server.close(() => resolve());
+    } catch (_) {
+      resolve();
+    }
+  });
+}
+
+async function bootstrapAuth({
+  clientFile,
+  tokenFile,
+  repoRoot,
+  googleOverride,
+  openBrowser,
+  serverFactory = http.createServer,
+  timeoutMs = DEFAULT_OAUTH_TIMEOUT_MS,
+  logger = console,
+}) {
+  assertPathOutsideRepo(clientFile, repoRoot, 'OAuth client credentials');
+  assertPathOutsideRepo(tokenFile, repoRoot, 'OAuth token');
   const google = getGoogle(googleOverride);
   const definition = getOAuthClientDefinition(readJsonFile(clientFile, 'OAuth client file'));
 
@@ -71,8 +97,10 @@ async function bootstrapAuth({ clientFile, tokenFile, repoRoot, googleOverride, 
   const oauth2Client = new google.auth.OAuth2(definition.client_id, definition.client_secret, redirectUri);
   const authUrl = oauth2Client.generateAuthUrl({ access_type: 'offline', prompt: 'consent', scope: [GSC_SCOPE] });
 
+  let settled = false;
   const codePromise = new Promise((resolve, reject) => {
     server.on('request', (req, res) => {
+      if (settled) return;
       try {
         const requestUrl = new URL(req.url, redirectUri);
         const code = requestUrl.searchParams.get('code');
@@ -83,31 +111,51 @@ async function bootstrapAuth({ clientFile, tokenFile, repoRoot, googleOverride, 
           res.end('Missing authorization code.');
           return;
         }
+        settled = true;
         res.statusCode = 200;
         res.setHeader('Content-Type', 'text/plain; charset=utf-8');
         res.end('BoroJeet GSC authorization complete. You may close this window.');
         resolve(code);
       } catch (error) {
+        settled = true;
         reject(error);
       }
     });
   });
 
+  let timeoutId;
+  const timeoutPromise = new Promise((_, reject) => {
+    timeoutId = setTimeout(() => {
+      settled = true;
+      const minutes = Math.round(timeoutMs / 60000);
+      reject(new Error(`OAuth authorization timed out after ${minutes || '<1'} minute(s). Run npm run gsc:auth again.`));
+    }, timeoutMs);
+  });
+
   try {
-    if (openBrowser) await openBrowser(authUrl);
-    else console.log(`Open this URL in your browser to authorize GSC read-only access:\n${authUrl}`);
-    const code = await codePromise;
+    logger.log(`Open this URL in your browser:\n${authUrl}`);
+    if (openBrowser) {
+      try {
+        await openBrowser(authUrl);
+      } catch (_) {
+        logger.warn('Automatic browser launch failed. Open the URL above manually.');
+      }
+    }
+
+    const code = await Promise.race([codePromise, timeoutPromise]);
     const response = await oauth2Client.getToken(code);
     const tokens = response.tokens || response;
     persistToken(tokenFile, tokens, repoRoot);
-    console.log(`OAuth token saved securely to configured external path: ${tokenFile}`);
+    logger.log(`OAuth token saved securely to configured external path: ${tokenFile}`);
     return tokenFile;
   } finally {
-    await new Promise((resolve) => server.close(() => resolve()));
+    clearTimeout(timeoutId);
+    await closeServer(server);
   }
 }
 
 module.exports = {
+  DEFAULT_OAUTH_TIMEOUT_MS,
   getGoogle,
   getOAuthClientDefinition,
   createOAuthClient,

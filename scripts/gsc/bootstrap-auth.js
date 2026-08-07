@@ -1,26 +1,34 @@
 #!/usr/bin/env node
 const path = require('path');
 require('dotenv').config();
-const { loadConfig, assertPathOutsideRepo } = require('./lib/config');
+const { loadConfig, assertCredentialPathsOutsideRepo } = require('./lib/config');
 const { bootstrapAuth } = require('./lib/auth');
 
-async function openBrowser(url) {
-  const { spawn } = require('child_process');
+async function openBrowser(url, spawnImpl = require('child_process').spawn) {
   const platform = process.platform;
   const command = platform === 'darwin' ? 'open' : platform === 'win32' ? 'cmd' : 'xdg-open';
   const args = platform === 'win32' ? ['/c', 'start', '', url] : [url];
-  try {
-    const child = spawn(command, args, { detached: true, stdio: 'ignore' });
-    child.unref();
-  } catch (_) {
-    console.log(`Open this URL in your browser to authorize GSC read-only access:\n${url}`);
-  }
+
+  return new Promise((resolve, reject) => {
+    let child;
+    try {
+      child = spawnImpl(command, args, { detached: true, stdio: 'ignore', windowsHide: true });
+    } catch (error) {
+      reject(error);
+      return;
+    }
+    child.once('error', reject);
+    child.once('spawn', () => {
+      child.unref();
+      resolve();
+    });
+  });
 }
 
 async function main(env = process.env) {
   const config = loadConfig(env);
   const repoRoot = path.resolve(__dirname, '../..');
-  assertPathOutsideRepo(config.tokenFile, repoRoot);
+  assertCredentialPathsOutsideRepo(config, repoRoot);
   await bootstrapAuth({
     clientFile: config.clientFile,
     tokenFile: config.tokenFile,
