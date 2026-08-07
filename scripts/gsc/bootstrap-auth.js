@@ -4,15 +4,29 @@ require('dotenv').config();
 const { loadConfig, assertCredentialPathsOutsideRepo } = require('./lib/config');
 const { bootstrapAuth } = require('./lib/auth');
 
-async function openBrowser(url, spawnImpl = require('child_process').spawn) {
-  const platform = process.platform;
-  const command = platform === 'darwin' ? 'open' : platform === 'win32' ? 'cmd' : 'xdg-open';
-  const args = platform === 'win32' ? ['/c', 'start', '', url] : [url];
+function browserLaunchSpec(url, platform = process.platform) {
+  if (platform === 'darwin') return { command: 'open', args: [url] };
+  if (platform === 'win32') {
+    return {
+      command: 'rundll32.exe',
+      args: ['url.dll,FileProtocolHandler', url],
+    };
+  }
+  return { command: 'xdg-open', args: [url] };
+}
+
+async function openBrowser(url, spawnImpl = require('child_process').spawn, platform = process.platform) {
+  const { command, args } = browserLaunchSpec(url, platform);
 
   return new Promise((resolve, reject) => {
     let child;
     try {
-      child = spawnImpl(command, args, { detached: true, stdio: 'ignore', windowsHide: true });
+      child = spawnImpl(command, args, {
+        detached: true,
+        stdio: 'ignore',
+        windowsHide: true,
+        shell: false,
+      });
     } catch (error) {
       reject(error);
       return;
@@ -44,4 +58,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { main, openBrowser };
+module.exports = { main, openBrowser, browserLaunchSpec };
