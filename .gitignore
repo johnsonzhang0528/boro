@@ -2,3 +2,6 @@
 /_site
 /_sop
 .env
+
+# Local Search Console analytics data
+/data/gsc/
