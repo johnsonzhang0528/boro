@@ -29,7 +29,10 @@
     "generate-images:stability": "node scripts/generate-images.js",
     "generate-images:fal": "node scripts/generate-fal-flux-images.js",
     "magic": "node scripts/magic.js",
-    "generate:batch-100": "node scripts/generate-batch-articles.js"
+    "generate:batch-100": "node scripts/generate-batch-articles.js",
+    "gsc:auth": "node scripts/gsc/bootstrap-auth.js",
+    "gsc:pull": "node scripts/gsc/pull-gsc.js",
+    "test:gsc": "node --test tests/gsc/*.test.js"
   },
   "keywords": [
     "eleventy",
@@ -52,6 +55,7 @@
   },
   "dependencies": {
     "dotenv": "^17.2.3",
+    "googleapis": "^173.0.0",
     "markdown-it": "^13.0.2",
     "markdown-it-anchor": "^8.6.7",
     "node-fetch": "^3.3.2",
