@@ -13,7 +13,11 @@ test('API backfill workflow is manual-only and validates before WIF authenticati
   assert.match(yaml, /contents: read/);
   assert.match(yaml, /id-token: write/);
   assert.match(yaml, /GSC_BACKFILL_SOURCE: api/);
-  assert.ok(yaml.indexOf('Validate guarded request') < yaml.indexOf('Authenticate to Google Cloud'));
+  const validationIndex = yaml.indexOf('Validate fixed backfill policy');
+  const authIndex = yaml.indexOf('Authenticate to Google Cloud');
+  assert.notEqual(validationIndex, -1);
+  assert.notEqual(authIndex, -1);
+  assert.ok(validationIndex < authIndex);
   assert.doesNotMatch(yaml, /client_secret|refresh_token|token\.json|credentials\.json/i);
 });
 

@@ -84,7 +84,7 @@ class GoogleBigQueryAdapter {
     assertStageTableName(tableName);
     const dataset = this.bigquery.dataset(WAREHOUSE.historyDataset);
     const table = dataset.table(tableName);
-    const expirationTime = Date.now() + (24 * 60 * 60 * 1000);
+    const expirationTime = String(Date.now() + (24 * 60 * 60 * 1000));
 
     if (rows.length === 0) {
       await dataset.createTable(tableName, {

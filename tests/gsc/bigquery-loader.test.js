@@ -4,6 +4,7 @@ const {
   stageTableName,
   assertStageTableName,
   assertNoNativeTableMutation,
+  GoogleBigQueryAdapter,
   WarehouseLoader,
 } = require('../../scripts/gsc/lib/bigquery-loader');
 
@@ -39,6 +40,33 @@ function aggregate() {
   };
 }
 
+function fakeBigQueryClient() {
+  const calls = {
+    createTable: [],
+    load: [],
+    setMetadata: [],
+  };
+  const table = {
+    async load(file, options) {
+      calls.load.push({ file, options });
+      return [{ getMetadata: async () => [{ status: {} }] }];
+    },
+    async setMetadata(metadata) {
+      calls.setMetadata.push(metadata);
+    },
+  };
+  const dataset = {
+    table: () => table,
+    async createTable(tableName, metadata) {
+      calls.createTable.push({ tableName, metadata });
+    },
+  };
+  return {
+    calls,
+    client: { dataset: () => dataset },
+  };
+}
+
 test('staging names are deterministic and cannot target arbitrary tables', () => {
   const name = stageTableName('run-1', '2026-08-06');
   assert.match(name, /^_stg_api_detail_[a-f0-9]{16}_20260806$/);
@@ -62,6 +90,29 @@ test('runtime SQL guard rejects mutations of every vendor-managed raw table', ()
     ),
     /vendor-managed raw table/,
   );
+});
+
+test('empty staging table create metadata encodes expirationTime as a string', async () => {
+  const fake = fakeBigQueryClient();
+  const adapter = new GoogleBigQueryAdapter(fake.client);
+  await adapter.stageRows('_stg_api_detail_0123456789abcdef_20260806', []);
+
+  assert.equal(fake.calls.createTable.length, 1);
+  assert.equal(typeof fake.calls.createTable[0].metadata.expirationTime, 'string');
+  assert.match(fake.calls.createTable[0].metadata.expirationTime, /^\d+$/);
+  assert.equal(fake.calls.setMetadata.length, 0);
+});
+
+test('non-empty staging table update metadata encodes expirationTime as a string', async () => {
+  const fake = fakeBigQueryClient();
+  const adapter = new GoogleBigQueryAdapter(fake.client);
+  await adapter.stageRows('_stg_api_detail_0123456789abcdef_20260806', [{ property: 'example' }]);
+
+  assert.equal(fake.calls.load.length, 1);
+  assert.equal(fake.calls.setMetadata.length, 1);
+  assert.equal(typeof fake.calls.setMetadata[0].expirationTime, 'string');
+  assert.match(fake.calls.setMetadata[0].expirationTime, /^\d+$/);
+  assert.equal(fake.calls.createTable.length, 0);
 });
 
 test('empty successful date executes transaction and then drops staging', async () => {
