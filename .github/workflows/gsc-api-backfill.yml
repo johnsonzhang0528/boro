@@ -1,0 +1,81 @@
+name: GSC API Backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: Inclusive start date (YYYY-MM-DD)
+        required: true
+        type: string
+      end_date:
+        description: Inclusive end date (YYYY-MM-DD, maximum 92 days)
+        required: true
+        type: string
+      load_mode:
+        description: Historical data before cutover or explicit post-cutover fallback
+        required: true
+        default: historical
+        type: choice
+        options:
+          - historical
+          - break_glass
+      dry_run:
+        description: Validate and extract without writing BigQuery
+        required: true
+        default: true
+        type: boolean
+      confirmation:
+        description: LOAD_API_HISTORY or LOAD_API_FALLBACK when dry_run is false
+        required: false
+        type: string
+      reason:
+        description: Required operational reason for break_glass
+        required: false
+        type: string
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: gsc-api-backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment: gsc-warehouse-production
+    env:
+      GSC_BACKFILL_START_DATE: ${{ inputs.start_date }}
+      GSC_BACKFILL_END_DATE: ${{ inputs.end_date }}
+      GSC_BACKFILL_SOURCE: api
+      GSC_BACKFILL_MODE: ${{ inputs.load_mode }}
+      GSC_BACKFILL_DRY_RUN: ${{ inputs.dry_run }}
+      GSC_BACKFILL_CONFIRMATION: ${{ inputs.confirmation }}
+      GSC_BACKFILL_REASON: ${{ inputs.reason }}
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate fixed backfill policy
+        run: node scripts/gsc/backfill-bigquery.js --from-env --validate-only
+
+      - name: Authenticate to Google Cloud with WIF
+        uses: google-github-actions/auth@v3
+        with:
+          project_id: borojeet
+          workload_identity_provider: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ vars.GCP_GSC_BACKFILL_SERVICE_ACCOUNT }}
+
+      - name: Run manual API backfill
+        run: node scripts/gsc/backfill-bigquery.js --from-env
