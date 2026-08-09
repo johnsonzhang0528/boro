@@ -49,3 +49,87 @@ npm run test:gsc
 ```
 
 Tests are fully mocked and do not call the real Search Console API.
+
+## BigQuery warehouse foundation
+
+Production Search Console ingestion now comes from Google's Native Bulk Export, not a scheduled API pull:
+
+```text
+Search Console -> borojeet.searchconsole_borojeet -> canonical analytics views
+```
+
+The PR #1 API extractor remains available only for historical backfill, reconciliation, explicit break-glass fallback, and local regression testing. There is deliberately no daily API ingestion schedule.
+
+The canonical source rule is fixed and non-overlapping:
+
+```text
+date <  2026-08-07 -> Search Console API history
+date >= 2026-08-07 -> Native Bulk Export
+```
+
+`borojeet.searchconsole_borojeet.ExportLog`, `searchdata_site_impression`, and `searchdata_url_impression` are Google-managed raw contracts. Repository SQL may only read them. Never alter their schemas or write, merge, update, or delete data in them. Repository-owned data lives in the US-location datasets `borojeet.gsc_history` and `borojeet.gsc_analytics`.
+
+Run the SQL in this order with an authorized administrator identity:
+
+1. `scripts/gsc/sql/00_create_datasets.sql`
+2. `scripts/gsc/sql/01_create_history_tables.sql`
+3. `scripts/gsc/sql/10_latest_export_log.sql`
+4. `scripts/gsc/sql/11_search_analytics_detail.sql`
+5. `scripts/gsc/sql/12_search_analytics_site_daily.sql`
+6. `scripts/gsc/sql/13_source_coverage.sql`
+7. `scripts/gsc/sql/14_bulk_export_status.sql`
+
+After the historical load, run `scripts/gsc/sql/20_validate_deployment.sql`. It is read-only and fixes the agreed acceptance totals for the 491 historical dates plus the verified 2026-08-07 Native cutover rows.
+
+The canonical URL-detail and site-daily models are intentionally separate. Native epochs are selected from the latest `ExportLog` row for each namespace/date. CTR and position are impression-weighted. Native zero-based position sums are converted to one-based position; anonymous native query rows stay `NULL` and carry an anonymity flag instead of receiving a synthetic query label.
+
+## Historical snapshot load
+
+The safest initial import uses the immutable local snapshots already created by PR #1. It does not call Search Console again:
+
+```bash
+npm run gsc:bq:backfill -- --start 2025-04-03 --end 2026-08-06 --source local-snapshot --dry-run true
+```
+
+Loads are intentionally limited to 92 days per invocation, so run the validated historical ranges separately. To commit one range after reviewing its dry run:
+
+```bash
+npm run gsc:bq:backfill -- --start 2026-08-04 --end 2026-08-06 --source local-snapshot --dry-run false --confirmation LOAD_API_HISTORY
+```
+
+Use these exact seven bounded ranges for the initial import:
+
+| Range | Expected visible detail rows |
+| --- | ---: |
+| 2025-04-03 to 2025-06-30 | 0 |
+| 2025-07-01 to 2025-09-30 | 0 |
+| 2025-10-01 to 2025-12-31 | 266 |
+| 2026-01-01 to 2026-03-31 | 6,414 |
+| 2026-04-01 to 2026-06-30 | 7,763 |
+| 2026-07-01 to 2026-08-03 | 3,462 |
+| 2026-08-04 to 2026-08-06 | 309 |
+
+Each date is validated and transactionally replaced in repository-owned tables. A successful empty day deletes any stale detail rows and records a zero-valued daily partition. Failed or incomplete staging never replaces the existing partition. Rerunning the same date is idempotent, and append-only run events preserve the audit trail.
+
+The initial validated history is expected to cover 2025-04-03 through 2026-08-06, including 181 successful zero-detail dates and 18,214 visible detail rows. Validate these totals and the stored daily/range aggregates in production; do not assume detail sums equal Search Console aggregate totals.
+
+## Manual API backfill and break-glass use
+
+`.github/workflows/gsc-api-backfill.yml` is `workflow_dispatch` only. Historical mode refuses any date on or after 2026-08-07 and requires the exact confirmation `LOAD_API_HISTORY`. Break-glass mode accepts only dates on or after the cutover, requires `LOAD_API_FALLBACK` plus a reason, and stores the rows as noncanonical fallback evidence. The canonical views continue to select Native Bulk Export after the cutover.
+
+Local snapshot loading requires the interactive user's Application Default Credentials to write only repository-owned BigQuery tables. Manual API extraction additionally requires that identity to have Search Console permission for `sc-domain:borojeetbd.com` and uses only `https://www.googleapis.com/auth/webmasters.readonly`.
+
+GitHub Actions uses Workload Identity Federation, never service-account JSON keys or OAuth token files. Configure environment variables `GCP_WORKLOAD_IDENTITY_PROVIDER`, `GCP_GSC_BACKFILL_SERVICE_ACCOUNT`, and `GCP_GSC_HEALTH_SERVICE_ACCOUNT`. Keep separate service accounts:
+
+- Backfill: BigQuery job creation plus write access to `gsc_history`; Native raw access only if validation requires it.
+- Health: BigQuery job creation plus read-only access to the analytics views and Native raw dataset.
+
+Neither identity should have permissions that allow modifying `searchconsole_borojeet`.
+
+## Native export health
+
+`.github/workflows/gsc-warehouse-health.yml` runs the read-only health query daily and can also be started manually. It fails closed unless both the site and URL namespaces are present, latest-epoch coverage reaches the finalized expectation, the recent finalized window has no missing dates, and publishing is not stale. A failure is an operational signal to investigate ExportLog/Search Console; it does not automatically switch canonical production data to the API.
+
+## Rollback
+
+The repository never changes the Native raw tables, so rollback does not touch or restore vendor data. Disable the two workflows, redeploy the previous analytics view SQL from git, and revoke the two WIF service-account bindings if automation must be stopped. Repository-owned historical partitions remain auditable and can be reloaded date by date; do not drop datasets or delete Native tables as a rollback step.

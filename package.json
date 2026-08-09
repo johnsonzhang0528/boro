@@ -32,6 +32,9 @@
     "generate:batch-100": "node scripts/generate-batch-articles.js",
     "gsc:auth": "node scripts/gsc/bootstrap-auth.js",
     "gsc:pull": "node scripts/gsc/pull-gsc.js",
+    "gsc:bq:backfill": "node scripts/gsc/backfill-bigquery.js",
+    "gsc:bq:health": "node scripts/gsc/check-bulk-export-health.js",
+    "gsc:bq:validate": "node scripts/gsc/backfill-bigquery.js --from-env --validate-only",
     "test:gsc": "node --test tests/gsc/*.test.js"
   },
   "keywords": [
@@ -44,6 +47,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@google-cloud/bigquery": "^8.1.1",
     "chokidar": "^3.5.3",
     "clean-css-cli": "^5.6.2",
     "eleventy-plugin-toc": "^1.1.5",
