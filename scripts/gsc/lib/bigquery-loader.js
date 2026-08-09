@@ -98,13 +98,12 @@ class GoogleBigQueryAdapter {
     const tempFile = path.join(tempDir, 'rows.jsonl');
     try {
       fs.writeFileSync(tempFile, rows.map((row) => JSON.stringify(row)).join('\n') + '\n', 'utf8');
-      const [job] = await table.load(tempFile, {
+      const [metadata] = await table.load(tempFile, {
         sourceFormat: 'NEWLINE_DELIMITED_JSON',
         schema: { fields: DETAIL_SCHEMA },
         writeDisposition: 'WRITE_TRUNCATE',
         location: WAREHOUSE.location,
       });
-      const [metadata] = await job.getMetadata();
       if (metadata.status?.errorResult) {
         throw new Error(`BigQuery staging load failed: ${metadata.status.errorResult.message}`);
       }

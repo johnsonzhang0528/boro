@@ -40,7 +40,7 @@ function aggregate() {
   };
 }
 
-function fakeBigQueryClient() {
+function fakeBigQueryClient(loadMetadata = { status: {} }) {
   const calls = {
     createTable: [],
     load: [],
@@ -49,7 +49,7 @@ function fakeBigQueryClient() {
   const table = {
     async load(file, options) {
       calls.load.push({ file, options });
-      return [{ getMetadata: async () => [{ status: {} }] }];
+      return [loadMetadata];
     },
     async setMetadata(metadata) {
       calls.setMetadata.push(metadata);
@@ -113,6 +113,22 @@ test('non-empty staging table update metadata encodes expirationTime as a string
   assert.equal(typeof fake.calls.setMetadata[0].expirationTime, 'string');
   assert.match(fake.calls.setMetadata[0].expirationTime, /^\d+$/);
   assert.equal(fake.calls.createTable.length, 0);
+});
+
+test('non-empty staging rejects completed load metadata with an error result', async () => {
+  const fake = fakeBigQueryClient({
+    status: { errorResult: { message: 'invalid staged row' } },
+  });
+  const adapter = new GoogleBigQueryAdapter(fake.client);
+
+  await assert.rejects(
+    () => adapter.stageRows(
+      '_stg_api_detail_0123456789abcdef_20260806',
+      [{ property: 'example' }],
+    ),
+    /BigQuery staging load failed: invalid staged row/,
+  );
+  assert.equal(fake.calls.setMetadata.length, 0);
 });
 
 test('empty successful date executes transaction and then drops staging', async () => {
