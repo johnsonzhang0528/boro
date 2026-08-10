@@ -473,14 +473,14 @@
     {% include "css/promo-filter.css" %}
   </style>
   
-  <title>{% if title | length > 45 %}{{ title }}{% else %}{{ title }} | {{ site.name }}{% endif %}</title>
-  <meta name="description" content="{{ (description or site.description) | truncate(160) }}">
+  <title>{% if seoTitle %}{{ seoTitle }}{% elif title | length > 45 %}{{ title }}{% else %}{{ title }} | {{ site.name }}{% endif %}</title>
+  <meta name="description" content="{% if seoDescription %}{{ seoDescription }}{% else %}{{ (description or site.description) | truncate(160) }}{% endif %}">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="{% if page.url.startsWith('/blog/') %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ canonicalUrl or site.url + page.url }}">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:title" content="{{ seoTitle or title }}">
+  <meta property="og:description" content="{{ seoDescription or description }}">
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:locale" content="{{ lang or 'bn-BD' }}">
 
@@ -504,8 +504,8 @@
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{{ canonicalUrl or site.url + page.url }}">
-  <meta name="twitter:title" content="{{ title }}">
-  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:title" content="{{ seoTitle or title }}">
+  <meta name="twitter:description" content="{{ seoDescription or description }}">
   
   {# --- Twitter Image Logic (Same as OG) --- #}
   {% if page.url == '/' %}
@@ -752,9 +752,11 @@
   </script>
   {% endif %}
 </head>
-<body 
+<body
   data-page-type="{% if page.url == '/' %}home{% elif page.url.startsWith('/blog/') and page.url != '/blog/' %}blog-post{% elif page.url.startsWith('/blog/') %}blog-index{% else %}page{% endif %}"
-
+  {% if pageRole %}data-page-role="{{ pageRole }}"{% endif %}
+  {% if searchIntent %}data-search-intent="{{ searchIntent }}"{% endif %}
+  {% if experimentId %}data-experiment-id="{{ experimentId }}"{% endif %}
   data-preload-delay="2000"
 >
   <header>
@@ -771,9 +773,11 @@
       <nav aria-label="Primary">
         <a href="/blog/" style="font-weight: 600;"{% if page.url.startsWith('/blog/') %} aria-current="page"{% endif %}>Blog</a>
         <a href="/promotions/" style="font-weight: 600;"{% if page.url.startsWith('/promotions/') %} aria-current="page"{% endif %}>Promotions</a>
+        {% if not hideHeaderCta %}
         <a class="cta" href="/go/borojeet" rel="sponsored nofollow noopener" target="_blank">
           Get Bonus <span class="mobile-hide">/ নিবন্ধন করুন</span>
         </a>
+        {% endif %}
       </nav>
     </div>
   </header>

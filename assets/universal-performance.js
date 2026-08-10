@@ -336,10 +336,38 @@
     handleImportantClick(element) {
       // Track important clicks for analytics
       if (window.gtag && element.dataset.trackEvent) {
-        gtag('event', element.dataset.trackEvent, {
+        const eventName = element.dataset.trackEvent;
+        const params = {
           event_category: 'interaction',
           event_label: element.dataset.trackLabel || element.textContent
-        });
+        };
+
+        // Batch A CTA taxonomy (page_type/page_role/search_intent/experiment_id
+        // come from the page body/section; cta_* and destination_* come from
+        // the clicked element). Only attach fields that are actually present.
+        const body = document.body;
+        if (body.dataset.pageType) params.page_type = body.dataset.pageType;
+
+        const roleHost = element.closest('[data-page-role]');
+        const pageRole = (roleHost && roleHost.dataset.pageRole) || body.dataset.pageRole;
+        if (pageRole) params.page_role = pageRole;
+
+        const intentHost = element.closest('[data-search-intent]');
+        const searchIntent = (intentHost && intentHost.dataset.searchIntent) || body.dataset.searchIntent;
+        if (searchIntent) params.search_intent = searchIntent;
+
+        const experimentHost = element.closest('[data-experiment-id]');
+        const experimentId = (experimentHost && experimentHost.dataset.experimentId) || body.dataset.experimentId;
+        if (experimentId) params.experiment_id = experimentId;
+
+        if (element.dataset.ctaId) params.cta_id = element.dataset.ctaId;
+        if (element.dataset.ctaType) params.cta_type = element.dataset.ctaType;
+        if (element.dataset.ctaPosition) params.cta_position = element.dataset.ctaPosition;
+        if (element.dataset.destination) params.destination = element.dataset.destination;
+        if (element.dataset.destinationRole) params.destination_role = element.dataset.destinationRole;
+        params.cta_text = (element.dataset.trackLabel || element.textContent || '').trim().slice(0, 100);
+
+        gtag('event', eventName, params);
       }
     }
 
