@@ -45,12 +45,12 @@ const APK_URL = '/borojeet-apk-download/';
 
 test('Homepage source: seoTitle exact', () => {
   const src = readSource(HOMEPAGE_SRC);
-  assert.match(src, new RegExp(`title:\\s*"${HOMEPAGE_SEO_TITLE.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`));
+  assert.match(src, new RegExp(`^seoTitle:\\s*"${HOMEPAGE_SEO_TITLE.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"$`, 'm'));
 });
 
 test('Homepage source: seoDescription exact', () => {
   const src = readSource(HOMEPAGE_SRC);
-  assert.match(src, new RegExp(`description:\\s*"${HOMEPAGE_SEO_DESCRIPTION.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"`));
+  assert.match(src, new RegExp(`^seoDescription:\\s*"${HOMEPAGE_SEO_DESCRIPTION.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"$`, 'm'));
 });
 
 test('Homepage source: H1 exact', () => {
@@ -298,4 +298,76 @@ test('Tracking: universal-performance.js reads Batch A taxonomy fields', () => {
   // Existing generic /go/borojeet tracker must remain untouched
   assert.match(src, /trackCTAClicks/);
   assert.match(src, /cta_click/);
+});
+
+// --- Reliability fixes: gtag global exposure + delegated click resolution ---
+
+test('base.njk: gtag is exposed as a global window.gtag, not a local function', () => {
+  const src = readSource(BASE_TEMPLATE_SRC);
+  assert.match(src, /window\.gtag\s*=\s*window\.gtag\s*\|\|\s*function/);
+  assert.doesNotMatch(src, /function gtag\(\)/);
+  // Existing multi-load guard must still key off window.gtag
+  assert.match(src, /if \(window\.gtag\) return/);
+  // Calls inside loadGoogleAnalytics must use the global, not a bare identifier
+  assert.match(src, /window\.gtag\('js', new Date\(\)\)/);
+  assert.match(src, /window\.gtag\('config', 'G-P6KSF9FS0T'/);
+});
+
+test('universal-performance.js: click handler resolves nested elements via closest()', () => {
+  const src = readSource('assets/universal-performance.js');
+  assert.match(src, /e\.target\.closest/);
+  assert.match(src, /closest\(['"]\.cta, \[data-track="true"\]['"]\)/);
+  // Must not rely solely on e.target for the important-click check anymore
+  assert.doesNotMatch(src, /e\.target\.classList\.contains\('cta'\) \|\| e\.target\.dataset\.track === 'true'/);
+});
+
+// --- Homepage mobile task-flow structure ---
+
+test('Homepage source: hero image block removed', () => {
+  const src = readSource(HOMEPAGE_SRC);
+  const heroSection = src.split('<!-- HERO -->')[1]?.split('<!-- TASK NAVIGATION -->')[0] || '';
+  assert.doesNotMatch(heroSection, /hero-image/);
+  assert.doesNotMatch(heroSection, /borojeet-bangladesh-bonus-bkash-nagad/);
+  assert.doesNotMatch(heroSection, /<picture/);
+});
+
+test('Homepage source: task navigation immediately follows hero (no image block between)', () => {
+  const src = readSource(HOMEPAGE_SRC);
+  const heroIdx = src.indexOf('<!-- HERO -->');
+  const taskNavIdx = src.indexOf('<!-- TASK NAVIGATION -->');
+  assert.ok(heroIdx !== -1 && taskNavIdx !== -1 && taskNavIdx > heroIdx);
+  const between = src.slice(heroIdx, taskNavIdx);
+  assert.doesNotMatch(between, /<picture/);
+  assert.doesNotMatch(between, /img-frame/);
+});
+
+test('Homepage source: task cards use scoped compact min-height, global .card untouched', () => {
+  const src = readSource(HOMEPAGE_SRC);
+  const taskNavSection = src.split('<!-- TASK NAVIGATION -->')[1]?.split('<!-- INDEPENDENT INFORMATION SITE EXPLANATION -->')[0] || '';
+  const cardCount = (taskNavSection.match(/<li class="card"/g) || []).length;
+  const compactCount = (taskNavSection.match(/<li class="card" style="min-height: 0;">/g) || []).length;
+  assert.equal(cardCount, 5);
+  assert.equal(compactCount, 5);
+});
+
+test('base.njk: global .card min-height rule is unmodified', () => {
+  const src = readSource(BASE_TEMPLATE_SRC);
+  assert.match(src, /min-height:\s*300px;\s*\/\* Prevent card height shifts \*\//);
+});
+
+test('Generated: Homepage hero image absent and task-navigation directly follows CTAs', (t) => {
+  const html = readGenerated('index.html');
+  if (!html) {
+    t.skip('_site/index.html not found; run npm run build first');
+    return;
+  }
+  const heroChoiceIdx = html.indexOf('home_hero_choose');
+  const heroBeginnerIdx = html.indexOf('home_hero_beginner');
+  const taskNavIdx = html.indexOf('id="task-navigation"');
+  assert.ok(heroChoiceIdx !== -1 && heroBeginnerIdx !== -1 && taskNavIdx !== -1);
+  assert.ok(heroChoiceIdx < heroBeginnerIdx);
+  assert.ok(heroBeginnerIdx < taskNavIdx);
+  const betweenCtasAndTaskNav = html.slice(heroBeginnerIdx, taskNavIdx);
+  assert.doesNotMatch(betweenCtasAndTaskNav, /<picture/);
+  assert.doesNotMatch(betweenCtasAndTaskNav, /borojeet-bangladesh-bonus-bkash-nagad/);
 });

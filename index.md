@@ -28,7 +28,7 @@ faq:
 
 <main class="wrap">
   <!-- HERO -->
-  <section class="hero grid grid-2" id="hero" data-page-role="generic_brand_gateway" data-search-intent="generic_brand" data-experiment-id="seo_cro_batch_a_2026_08">
+  <section class="hero" id="hero" data-page-role="generic_brand_gateway" data-search-intent="generic_brand" data-experiment-id="seo_cro_batch_a_2026_08">
     <div>
       <div class="badge">
         <span class="kicker">Bangladesh • Independent Guide Site</span>
@@ -43,36 +43,29 @@ faq:
         <a href="/blog/beginners-guide-to-borojeet/" data-track="true" data-track-event="informational_next_step_click" data-track-label="home_hero_beginner" data-cta-id="home_hero_beginner" data-cta-type="informational_next_step" data-cta-position="hero_secondary" data-destination="/blog/beginners-guide-to-borojeet/" data-destination-role="beginner_guide">New to BoroJeet? Start Here</a>
       </p>
     </div>
-    <div class="img-frame">
-      <picture class="hero-image" data-critical="true">
-        <source srcset="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.avif" type="image/avif" sizes="(min-width: 30em) 50vw, 100vw">
-        <source srcset="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.webp" type="image/webp" sizes="(min-width: 30em) 50vw, 100vw">
-        <img src="/assets/borojeet-bangladesh-bonus-bkash-nagad-optimized.webp" alt="BoroJeet Bangladesh information guide" width="800" height="450" loading="eager" fetchpriority="high" decoding="sync">
-      </picture>
-    </div>
   </section>
 
   <!-- TASK NAVIGATION -->
   <section class="card" id="task-navigation" aria-labelledby="task-navigation-heading">
     <h2 id="task-navigation-heading">Choose What You Need</h2>
     <ul style="list-style: none; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
-      <li class="card">
+      <li class="card" style="min-height: 0;">
         <a href="/borojeet-login/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;" data-track="true" data-track-event="task_navigation_click" data-track-label="home_task_login" data-cta-id="home_task_login" data-cta-type="task_navigation" data-cta-position="task_navigation" data-destination="/borojeet-login/" data-destination-role="login">BoroJeet Login</a>
         <span class="note">Access your existing account, password reset and OTP help.</span>
       </li>
-      <li class="card">
+      <li class="card" style="min-height: 0;">
         <a href="/blog/borojeet-app-download-install-guide/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;" data-track="true" data-track-event="task_navigation_click" data-track-label="home_task_app" data-cta-id="home_task_app" data-cta-type="task_navigation" data-cta-position="task_navigation" data-destination="/blog/borojeet-app-download-install-guide/" data-destination-role="app_guide">BoroJeet App & APK</a>
         <span class="note">App vs. browser access and installation information.</span>
       </li>
-      <li class="card">
+      <li class="card" style="min-height: 0;">
         <a href="/blog/boro-jeet-registration-guide-2026/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;" data-track="true" data-track-event="task_navigation_click" data-track-label="home_task_registration" data-cta-id="home_task_registration" data-cta-type="task_navigation" data-cta-position="task_navigation" data-destination="/blog/boro-jeet-registration-guide-2026/" data-destination-role="registration_guide">Create an Account</a>
         <span class="note">Step-by-step registration walkthrough.</span>
       </li>
-      <li class="card">
+      <li class="card" style="min-height: 0;">
         <a href="/blog/beginners-guide-to-borojeet/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;" data-track="true" data-track-event="task_navigation_click" data-track-label="home_task_beginner" data-cta-id="home_task_beginner" data-cta-type="task_navigation" data-cta-position="task_navigation" data-destination="/blog/beginners-guide-to-borojeet/" data-destination-role="beginner_guide">Beginner Guide</a>
         <span class="note">New to BoroJeet? Start with the basics.</span>
       </li>
-      <li class="card">
+      <li class="card" style="min-height: 0;">
         <a href="/blog/ultimate-guide-to-online-casino-payments-bangladesh/" style="font-weight: bold; display: block; margin-bottom: 0.5rem;" data-track="true" data-track-event="task_navigation_click" data-track-label="home_task_payment" data-cta-id="home_task_payment" data-cta-type="task_navigation" data-cta-position="task_navigation" data-destination="/blog/ultimate-guide-to-online-casino-payments-bangladesh/" data-destination-role="payments_guide">Payments</a>
         <span class="note">bKash, Nagad and other payment method information.</span>
       </li>

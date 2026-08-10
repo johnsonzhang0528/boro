@@ -674,16 +674,16 @@
     // Load analytics only after user interaction to reduce initial blocking
     function loadGoogleAnalytics() {
       if (window.gtag) return; // Prevent multiple loads
-      
+
       const script = document.createElement('script');
       script.async = true;
       script.src = 'https://www.googletagmanager.com/gtag/js?id=G-P6KSF9FS0T';
       document.head.appendChild(script);
-      
+
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-P6KSF9FS0T', {
+      window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+      window.gtag('js', new Date());
+      window.gtag('config', 'G-P6KSF9FS0T', {
         page_title: '{{ title }}',
         page_location: window.location.href
       });

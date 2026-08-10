@@ -326,9 +326,11 @@
 
     optimizeClicks() {
       document.addEventListener('click', (e) => {
-        // Optimize clicks on important elements
-        if (e.target.classList.contains('cta') || e.target.dataset.track === 'true') {
-          this.handleImportantClick(e.target);
+        // Resolve to the actual CTA/link element even when the click lands
+        // on a nested child (e.g. <strong> inside an <a data-track="true">).
+        const importantElement = e.target.closest && e.target.closest('.cta, [data-track="true"]');
+        if (importantElement) {
+          this.handleImportantClick(importantElement);
         }
       });
     }
