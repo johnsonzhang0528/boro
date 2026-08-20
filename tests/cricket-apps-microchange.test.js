@@ -13,6 +13,8 @@ function readSource(relPath) {
 function readGenerated(relPath) {
   const full = path.join(ROOT, '_site', relPath);
   if (!fs.existsSync(full)) return null;
+  const source = path.join(ROOT, TARGET_SRC);
+  if (fs.statSync(full).mtimeMs < fs.statSync(source).mtimeMs) return null;
   return fs.readFileSync(full, 'utf8');
 }
 
@@ -29,7 +31,7 @@ function htmlEncode(str) {
 }
 
 function gitBlobSha(content) {
-  const body = Buffer.from(content, 'utf8');
+  const body = Buffer.from(content.replace(/\r\n/g, '\n'), 'utf8');
   const header = Buffer.from(`blob ${body.length}\0`, 'utf8');
   return crypto.createHash('sha1').update(Buffer.concat([header, body])).digest('hex');
 }
@@ -42,6 +44,17 @@ function parseJsonLd(html) {
     blocks.push(JSON.parse(match[1].trim()));
   }
   return blocks;
+}
+
+function findHeadings(html, level, expectedText) {
+  const headings = [];
+  const re = new RegExp(`<h${level}\\b[^>]*>([\\s\\S]*?)<\\/h${level}>`, 'g');
+  let match;
+  while ((match = re.exec(html)) !== null) {
+    const text = match[1].replace(/<[^>]+>/g, '').trim();
+    if (text === expectedText) headings.push({ index: match.index, html: match[0] });
+  }
+  return headings;
 }
 
 const TARGET_SRC = 'blog/best-cricket-betting-apps-bangladesh-2026.md';
@@ -183,12 +196,17 @@ test('Generated target: early comparison block renders once before detailed revi
     t.skip('generated target not found; run npm run build first');
     return;
   }
-  assert.equal((html.match(new RegExp(escapeRegExp(TARGET_H2), 'g')) || []).length >= 1, true);
-  assert.equal((html.match(/<h2[^>]*>তুলনামূলক সারণী<\/h2>/g) || []).length, 0);
-  assert.equal((html.match(/<h3[^>]*>তুলনামূলক সারণী<\/h3>/g) || []).length, 1);
-  const comparison = html.indexOf('>তুলনামূলক সারণী</h3>');
-  const reviews = html.indexOf(REVIEW_H2);
-  assert.ok(comparison !== -1 && reviews !== -1 && comparison < reviews);
+  const targetH2s = findHeadings(html, 2, TARGET_H2);
+  const oldComparisonH2s = findHeadings(html, 2, COMPARISON_H3);
+  const comparisonH3s = findHeadings(html, 3, COMPARISON_H3);
+  const reviewH2s = findHeadings(html, 2, REVIEW_H2);
+  assert.equal(targetH2s.length, 1);
+  assert.equal(oldComparisonH2s.length, 0);
+  assert.equal(comparisonH3s.length, 1);
+  assert.equal(reviewH2s.length, 1);
+  const comparison = comparisonH3s[0].index;
+  const reviews = reviewH2s[0].index;
+  assert.ok(comparison < reviews);
   assert.match(html.slice(comparison, reviews), /<table/);
 });
 
