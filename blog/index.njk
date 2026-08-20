@@ -87,7 +87,7 @@ layout: 'base.njk'
 
   {% set currentPageNumber = pagination.pageNumber + 1 %}
   {% set totalPageCount = pagination.hrefs | length %}
-  <nav class="pagination" aria-label="Pagination">
+  <nav class="pagination" aria-label="Pagination" style="flex-wrap: wrap;">
     {% if pagination.href.previous %}
       <a class="page-numbers page-nav" href="{{ pagination.href.previous }}">&laquo; Previous</a>
     {% endif %}
