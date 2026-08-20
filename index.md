@@ -29,7 +29,7 @@ faq:
 <main class="wrap">
   <!-- HERO -->
   <section class="hero" id="hero" data-page-role="generic_brand_gateway" data-search-intent="generic_brand" data-experiment-id="seo_cro_batch_a_2026_08">
-    <div>
+    <div style="line-height: 1.6;">
       <div class="badge">
         <span class="kicker">Bangladesh • Independent Guide Site</span>
         <span>Last updated: <span class="last-updated">{{ lastUpdated | date("MMMM dd, yyyy") }}</span></span>
