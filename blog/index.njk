@@ -60,6 +60,7 @@ layout: 'base.njk'
   <div class="article-list">
     {% for post in posts %}
       <article class="card">
+        {% if post.data.ogImage %}
         <a href="{{ post.url }}" class="card-image-link">
           <picture>
             {% if loop.first %}
@@ -75,6 +76,7 @@ layout: 'base.njk'
             {% endif %}
           </picture>
         </a>
+        {% endif %}
         <div class="card-meta">{{ post.date | date("LLLL dd, yyyy") }}</div>
         <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
         <p>{{ post.data.description }}</p>
@@ -83,15 +85,50 @@ layout: 'base.njk'
     {% endfor %}
   </div>
 
-  <nav class="pagination" aria-label="Pagination">
+  {% set currentPageNumber = pagination.pageNumber + 1 %}
+  {% set totalPageCount = pagination.hrefs | length %}
+  <nav class="pagination" aria-label="Pagination" style="flex-wrap: wrap;">
     {% if pagination.href.previous %}
-      <a class="page-numbers" href="{{ pagination.href.previous }}">&laquo; Previous</a>
+      <a class="page-numbers page-nav" href="{{ pagination.href.previous }}">&laquo; Previous</a>
     {% endif %}
-    {% for pageEntry in pagination.pages %}
-      <a class="page-numbers {% if page.url == pagination.hrefs[loop.index0] %}current{% endif %}" href="{{ pagination.hrefs[loop.index0] }}">{{ loop.index }}</a>
-    {% endfor %}
+
+    {% if totalPageCount > 0 %}
+      {% if currentPageNumber == 1 %}
+        <span class="page-numbers current" aria-current="page">1</span>
+      {% else %}
+        <a class="page-numbers" href="{{ pagination.hrefs[0] }}">1</a>
+      {% endif %}
+
+      {% if currentPageNumber > 4 %}
+        <span class="page-numbers dots" aria-hidden="true">&hellip;</span>
+      {% endif %}
+
+      {% for href in pagination.hrefs %}
+        {% set pageNumber = loop.index %}
+        {% if pageNumber > 1 and pageNumber < totalPageCount and pageNumber >= currentPageNumber - 2 and pageNumber <= currentPageNumber + 2 %}
+          {% if pageNumber == currentPageNumber %}
+            <span class="page-numbers current" aria-current="page">{{ pageNumber }}</span>
+          {% else %}
+            <a class="page-numbers" href="{{ href }}">{{ pageNumber }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% if currentPageNumber < totalPageCount - 3 %}
+        <span class="page-numbers dots" aria-hidden="true">&hellip;</span>
+      {% endif %}
+
+      {% if totalPageCount > 1 %}
+        {% if currentPageNumber == totalPageCount %}
+          <span class="page-numbers current" aria-current="page">{{ totalPageCount }}</span>
+        {% else %}
+          <a class="page-numbers" href="{{ pagination.hrefs[totalPageCount - 1] }}">{{ totalPageCount }}</a>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+
     {% if pagination.href.next %}
-      <a class="page-numbers" href="{{ pagination.href.next }}">Next &raquo;</a>
+      <a class="page-numbers page-nav" href="{{ pagination.href.next }}">Next &raquo;</a>
     {% endif %}
   </nav>
 </main>
