@@ -47,6 +47,22 @@ async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority =
   return Image.generateHTML(metadata, imageAttributes);
 }
 
+// P0 SITE-QUALITY INCIDENT CONTAINMENT (2026-08-23, August 2026 Spam Update recovery).
+// Central publishing kill switch: no post dated after this ceiling can enter
+// collections.post, the sitemap, or lose noindex — regardless of how far the
+// real calendar advances via the daily-rebuild cron. This stops the
+// pre-scheduled GSC-expansion queue (206 future-dated articles as of the
+// incident date) from auto-publishing without editorial review while the
+// site-quality recovery manifest is built. Raise this date deliberately,
+// per reviewed cohort, once RECOVERY manifest/review clears a batch — do not
+// delete this mechanism to "unfreeze" everything at once.
+const PUBLISHING_FREEZE_DATE = DateTime.fromISO('2026-08-23T09:39:06Z', { zone: 'utc' }).toJSDate();
+
+function effectiveNow() {
+  const liveNow = DateTime.now().plus({ hours: 6 }).toJSDate();
+  return liveNow < PUBLISHING_FREEZE_DATE ? liveNow : PUBLISHING_FREEZE_DATE;
+}
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.on("eleventy.before", async () => {
     await esbuild.build({
@@ -57,10 +73,12 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  // Add 'now' global data for date comparisons (using Asia/Dhaka timezone)
-  // We add 6 hours to match Eleventy's default UTC date parsing for Front Matter
+  // Add 'now' global data for date comparisons (using Asia/Dhaka timezone).
+  // Capped at PUBLISHING_FREEZE_DATE during the P0 containment window so
+  // future-dated posts cannot cross into "published" just because the real
+  // calendar advances (see PUBLISHING_FREEZE_DATE above).
   eleventyConfig.addGlobalData("now", () => {
-    return DateTime.now().plus({ hours: 6 }).toJSDate();
+    return effectiveNow();
   });
 
   eleventyConfig.addPlugin(pluginRss);
@@ -110,7 +128,7 @@ module.exports = function(eleventyConfig) {
   // so crawlable pages never link to not-yet-published URLs.
   eleventyConfig.addFilter("publishedOnly", (collection) => {
     if (!collection) return [];
-    const cutoff = DateTime.now().plus({ hours: 6 }).toJSDate();
+    const cutoff = effectiveNow();
     return collection.filter(item => (item.date || item.data.date) <= cutoff);
   });
 
@@ -149,7 +167,7 @@ module.exports = function(eleventyConfig) {
     // so posts missing the "post" tag are still included in the listing.
     return api.getFilteredByGlob("./blog/**/*.md")
       .filter(item => !item.data.draft)
-      .filter(item => (item.date || item.data.date) <= DateTime.now().plus({ hours: 6 }).toJSDate())
+      .filter(item => (item.date || item.data.date) <= effectiveNow())
       .sort((a,b) => (b.date || b.data.date) - (a.date || a.data.date));
   });
 
