@@ -1,5 +1,6 @@
 ---
 layout: "post.njk"
+robots: "noindex, follow"
 lang: "bn-BD"
 title: "BoroJeet App Permissions Bangladesh: কোন permission safe?"
 description: "borojeet app নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"

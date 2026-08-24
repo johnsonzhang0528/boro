@@ -1,5 +1,6 @@
 ---
 layout: "post.njk"
+robots: "noindex, follow"
 lang: "bn-BD"
 title: "BoroJeet App Bangla Step-by-Step: register, deposit, play safely"
 description: "borojeet app bangla নিয়ে Bangladesh users-এর জন্য official BoroJeet app/APK, registration, bonus tracking, login safety এবং fake-link warning explained।"

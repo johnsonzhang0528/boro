@@ -1,5 +1,6 @@
 ---
 layout: "post.njk"
+robots: "noindex, follow"
 lang: "bn-BD"
 title: "ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide"
 description: "ক্রিকেট বাজি ধরার অ্যাপ নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
