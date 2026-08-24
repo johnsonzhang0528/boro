@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Aviator Game Bangladesh bKash Deposit: payment আগে checklist"

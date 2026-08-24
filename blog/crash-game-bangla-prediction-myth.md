@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Game Bangla Prediction Myth: pattern কি সত্যি কাজ করে?"

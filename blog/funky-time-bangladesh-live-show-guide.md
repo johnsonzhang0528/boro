@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Funky Time Bangladesh Live Show Guide: multiplier ও bonus explained"

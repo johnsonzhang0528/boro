@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Crazy Time Bangla Bet Sizing Guide: low-risk stake plan"
