@@ -1,6 +1,7 @@
 ---
 layout: "post.njk"
 lang: "bn-BD"
+robots: "noindex, follow"
 title: "ক্রিকেট বাজি অ্যাপস Bangladesh: top features ও safety signals"
 description: "ক্রিকেট বাজি অ্যাপস নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
 date: 2026-08-21
