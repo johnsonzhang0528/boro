@@ -1,6 +1,7 @@
 ---
 layout: "post.njk"
 lang: "bn-BD"
+robots: "noindex, follow"
 title: "Asia Cup 2026 Cricket Betting Apps BD: tournament আগে setup"
 description: "asia cup cricket betting app নিয়ে Bengali-focused cricket guide: app/site selection, live odds, market rules, payment safety এবং responsible bankroll checklist।"
 date: 2026-08-09
