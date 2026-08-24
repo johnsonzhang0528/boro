@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Crash Game Mobile Data Saving Guide: slow internet-এ smooth play"

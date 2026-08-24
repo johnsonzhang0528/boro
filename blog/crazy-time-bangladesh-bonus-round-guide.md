@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Crazy Time Bangladesh Bonus Round Guide: pachinko, coin flip, cash hunt"

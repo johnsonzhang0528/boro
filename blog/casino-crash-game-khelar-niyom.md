@@ -1,4 +1,5 @@
 ---
+robots: "noindex, follow"
 layout: "post.njk"
 lang: "bn-BD"
 title: "Casino Crash Game খেলার নিয়ম: multiplier, cashout ও risk"
