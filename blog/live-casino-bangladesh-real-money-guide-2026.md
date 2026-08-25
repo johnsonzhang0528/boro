@@ -86,7 +86,7 @@ faq:
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Boro Jeet Device Ban: Is My Phone Blacklisted? (ডিভাইস ব্যান: আপনার ফোন কি ব্ল্যাকলিস্টেড?)](/blog/device-ban-solutions/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে](/blog/borojeet-apk-update-checklist-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [BoroJeet App/APK Install Guide: Android/iOS ৩ ধাপে](/blog/borojeet-app-download-install-guide/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [RTP vs Hit Frequency: Which Matters More? (আরটিপি না হিট ফ্রিকোয়েন্সি?)](/blog/rtp-vs-hit-frequency/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Jackpot Slots Guide: Progressive vs Fixed Jackpots](/blog/jackpot-slots-progressive-vs-fixed/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Boro Jeet Agent vs Affiliate: Which Program Earns More Money?](/blog/boro-jeet-agent-vs-affiliate/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
