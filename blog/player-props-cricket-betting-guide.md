@@ -77,6 +77,6 @@ Player Props Cricket Betting Guide profitable হতে পারে, কিন�
 - [How to Trade a T20 Cricket Match: A Step-by-Step Guide](/blog/trading-a-t20-match/) — Cricket betting সম্পর্কিত practical checklist।
 - [Cricket Toss Betting Bangla Guide: toss market কি worth it?](/blog/cricket-toss-betting-bangla-guide/) — Cricket betting সম্পর্কিত practical checklist।
 - [Cricket বাজি করার নিয়ম Bangla: beginner rules explained](/blog/cricket-baji-korar-niyom-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App Bangla Review: speed, market ও payment compare](/blog/cricket-betting-app-bangla-review/) — Cricket betting সম্পর্কিত practical checklist।
+- Cricket Betting App Bangla Review: speed, market ও payment compare — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

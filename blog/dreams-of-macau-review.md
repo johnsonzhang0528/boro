@@ -54,6 +54,6 @@ Dreams of Macau is visually stunning and mechanically rewarding. If you like see
 - [Secure Shared Phone Login Guide: shared phone-এ safe login কীভাবে করবেন?](/blog/secure-shared-phone-login-guide/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Fixing Email Verification Issues: OTP Not Received? (ইমেইল ভেরিফিকেশন সমস্যা: OTP আসছে না?)](/blog/email-verification-issues/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [BoroJeet Safe Registration Bangladesh: account খোলার আগে checklist](/blog/borojeet-safe-registration-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet App Permissions Bangladesh: কোন permission safe?](/blog/borojeet-app-permissions-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- BoroJeet App Permissions Bangladesh: কোন permission safe? — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

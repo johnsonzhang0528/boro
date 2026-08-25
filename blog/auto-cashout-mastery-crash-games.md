@@ -63,7 +63,7 @@ Boro Jeet এ খেলা প্রতিটি ক্র্যাশ গেম
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
 - [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Nagad Online Casino Bangladesh Guide: deposit, cashout ও limits](/blog/nagad-online-casino-guide-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [bKash Nagad Rocket Withdrawal Time BD: pending হলে কী করবেন?](/blog/bkash-nagad-rocket-withdrawal-time-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [bKash Rocket Nagad Payment Method Comparison: deposit কোনটা fast?](/blog/bkash-rocket-nagad-payment-method-comparison/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।

@@ -59,6 +59,6 @@ faq:
 - [Upay Payment Guide for Betting in Bangladesh (উপায় পেমেন্ট গাইড)](/blog/upay-payment-guide-for-betting-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [বাংলাদেশের অনলাইন ক্যাসিনোর জন্য দ্রুততম উত্তোলন পদ্ধতি (Fastest Withdrawal Methods)](/blog/fastest-withdrawal-methods-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [বাংলাদেশে ক্রিপ্টোকারেন্সি ক্যাসিনো ডিপোজিট গাইড: Bitcoin, USDT এবং আরও অনেক কিছু](/blog/cryptocurrency-deposit-guide-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Aviator Betting App Bangladesh Guide: app, cashout ও safety](/blog/aviator-betting-app-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- Aviator Betting App Bangladesh Guide: app, cashout ও safety — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

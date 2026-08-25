@@ -61,8 +61,6 @@ Boro Jeet-এর অভিজ্ঞতার পূর্ণাঙ্গ স্�
 - [BoroJeet APK ডাউনলোড ২০২৬ — Android/iOS ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — App, APK ও account setup pillar context।
 - [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [Betting App Login Problems Fix Bangladesh: OTP, cache ও device issue](/blog/betting-app-login-problems-fix-bangladesh/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

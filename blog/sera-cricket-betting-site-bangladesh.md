@@ -82,8 +82,6 @@ Google Search Console signal অনুযায়ী এই cluster-এ opportunit
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [ক্রিকেট বাজি ধরার অ্যাপ Bangladesh: safe app বাছার guide](/blog/cricket-baji-dhorar-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
-- [ক্রিকেট বাজি অ্যাপস Bangladesh: top features ও safety signals](/blog/cricket-baji-apps-bangladesh-guide/) — Cricket betting সম্পর্কিত practical checklist।
 - [What is Liquidity in Cricket Betting? Why It Matters](/blog/liquidity-in-cricket-markets/) — Cricket betting সম্পর্কিত practical checklist।
 - [What is a Back Bet? The Traditional Way to Bet on Cricket](/blog/back-bet-explained/) — Cricket betting সম্পর্কিত practical checklist।
 - [Top Betting Sites for Cricket Bangladesh: odds, app ও payment comparison](/blog/top-betting-sites-cricket-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।

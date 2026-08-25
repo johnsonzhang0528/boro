@@ -68,6 +68,5 @@ Register on the website first to claim your bonus, then download the app for the
 - [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

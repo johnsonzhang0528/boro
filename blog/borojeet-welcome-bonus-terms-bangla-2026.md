@@ -89,7 +89,7 @@ borojeet welcome bonus terms নিয়ে decision নেওয়ার সময় 
 - [Crazy Time Stats & Trackers: How to Predict the Next Bonus? | ক্রেজি টাইম স্ট্যাটিসটিক্স](/blog/crazy-time-stats-tracker-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Crazy Time বোনাস রাউন্ড বিস্তারিত: Pachinko, Cash Hunt, Coin Flip ও Crazy Time](/blog/crazy-time-bonus-rounds-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

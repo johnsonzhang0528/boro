@@ -79,7 +79,5 @@ BoroJeetBD Lightweight App Low Data Guide issue fix করার সময় blind
 - [Change Registered Email on BoroJeet: email বদলাতে কী লাগে?](/blog/change-registered-email-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [Email OTP Not Received on BoroJeet: mail না এলে fix কী?](/blog/email-otp-not-received-borojeet/) — App, APK ও account setup সম্পর্কিত practical checklist।
 - [BoroJeet Mobile OTP Login Fix BD: code না এলে কী করবেন?](/blog/borojeet-mobile-otp-login-fix-bd/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Low Storage Install Fix: space কম থাকলে solution](/blog/borojeet-app-low-storage-install-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
-- [BoroJeet App Cache Clear Login Fix: stuck screen হলে কী করবেন?](/blog/borojeet-app-cache-clear-login-fix/) — App, APK ও account setup সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

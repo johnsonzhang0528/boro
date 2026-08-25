@@ -82,7 +82,7 @@ bkash deposit minimum maximum betting নিয়ে decision নেওয়ার �
 
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [bKash Cashout Delay After Approved: approved status-এর পরে wait time](/blog/bkash-cashout-delay-after-approved/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide](/blog/low-deposit-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Nagad Deposit Limit Online Gaming BD: daily limit ও pending risk](/blog/nagad-deposit-limit-online-gaming-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।

@@ -92,6 +92,6 @@ Betting এবং casino game entertainment হিসেবে দেখা উ�
 - [World Cup 2026 Bangla Betting Terms Glossary: odds, line, market](/blog/world-cup-2026-bangla-betting-terms-glossary/) — Football / World Cup betting সম্পর্কিত practical checklist।
 - [World Cup 2026 Bangladesh Betting Calendar: কোন content আগে পড়বেন?](/blog/world-cup-2026-bangladesh-betting-calendar/) — Football / World Cup betting সম্পর্কিত practical checklist।
 - [World Cup 2026 Asian Handicap Guide Bangla: line বুঝুন সহজে](/blog/world-cup-2026-asian-handicap-guide-bangla/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন](/blog/fifa-world-cup-2026-app-notification-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন — Football / World Cup betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

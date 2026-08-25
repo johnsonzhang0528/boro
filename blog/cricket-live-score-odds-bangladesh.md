@@ -85,7 +85,6 @@ cricket live score odds নিয়ে decision নেওয়ার সময় ত�
 - [Low Data Cricket Betting App Bangladesh: slow internet-এ smooth betting](/blog/low-data-cricket-betting-app-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 - [Cricket Betting Tips App BD: কোন data দেখে mobile bet নেবেন?](/blog/cricket-betting-tips-app-bd-guide/) — Cricket betting সম্পর্কিত practical checklist।
 - [Cricket Betting Sites Bangladesh Bangla Guide: site বাছার checklist](/blog/cricket-betting-sites-bangladesh-bangla/) — Cricket betting সম্পর্কিত practical checklist।
-- [Cricket Betting App Bangla Review: speed, market ও payment compare](/blog/cricket-betting-app-bangla-review/) — Cricket betting সম্পর্কিত practical checklist।
 - [Cricket Betting Bonus Asia Cup 2026: bonus terms আগে পড়ুন](/blog/cricket-betting-bonus-asia-cup-2026/) — Cricket betting সম্পর্কিত practical checklist।
 - [Bangladesh Cricket Market Guide 2026: runs, wickets ও innings market](/blog/bangladesh-cricket-market-guide-2026/) — Cricket betting সম্পর্কিত practical checklist।
 

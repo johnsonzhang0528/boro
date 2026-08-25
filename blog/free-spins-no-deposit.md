@@ -54,7 +54,7 @@ Don't waste days searching for free money. A small deposit of 500 BDT gives you 
 - [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?](/blog/international-betting-apps-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [bKash Cashout Delay After Approved: approved status-এর পরে wait time](/blog/bkash-cashout-delay-after-approved/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

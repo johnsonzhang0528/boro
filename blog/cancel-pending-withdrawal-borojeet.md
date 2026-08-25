@@ -136,7 +136,7 @@ BoroJeet-এ <strong>Pending Withdrawal cancel</strong> করার সের�
 - [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?](/blog/international-betting-apps-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide](/blog/low-deposit-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

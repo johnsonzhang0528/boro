@@ -71,7 +71,7 @@ For more safety tips, read our [Guide to Safe Online Casinos](/blog/how-to-choos
 
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
 - [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [bKash Cashout Delay After Approved: approved status-এর পরে wait time](/blog/bkash-cashout-delay-after-approved/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [সর্বনিম্ন ডিপোজিট Betting Sites Bangladesh: ছোট বাজেট guide](/blog/low-deposit-betting-sites-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Nagad Deposit Limit Online Gaming BD: daily limit ও pending risk](/blog/nagad-deposit-limit-online-gaming-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।

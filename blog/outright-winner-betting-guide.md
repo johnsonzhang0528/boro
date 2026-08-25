@@ -79,7 +79,7 @@ BoroJeet-এ আপনার ভবিষ্যৎবাণী কাজে ল�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Football Betting Guide BD (2025) - Odds, Leagues & Strategy (ফুটবল বেটিং গাইড)](/blog/football-betting-guide-bangladesh/) — Football / World Cup betting pillar context।
-- [FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন](/blog/fifa-world-cup-2026-app-notification-guide/) — Football / World Cup betting সম্পর্কিত practical checklist।
+- FIFA World Cup 2026 App Notification Guide: odds alert ঠিক করুন — Football / World Cup betting সম্পর্কিত practical checklist।
 - [England France World Cup 2026 Betting Preview: odds, squad ও market](/blog/world-cup-2026-england-france-betting-preview/) — Football / World Cup betting সম্পর্কিত practical checklist।
 - [Argentina Brazil World Cup 2026 Betting BD: fan bias avoid করার guide](/blog/world-cup-2026-argentina-brazil-betting-bd/) — Football / World Cup betting সম্পর্কিত practical checklist।
 - [World Cup 2026 Bonus Offer Bangladesh: promo claim করার আগে terms দেখুন](/blog/world-cup-2026-bonus-offer-bangladesh/) — Football / World Cup betting সম্পর্কিত practical checklist।

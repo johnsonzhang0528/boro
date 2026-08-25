@@ -54,7 +54,7 @@ Boro Jeet এ সাধারণত ৫টি প্রধান ভিআইপ
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
 - [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
-- [Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম](/blog/boro-jeet-app-install-from-website/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- Boro Jeet App Install from Website: bonus tracking ঠিক রাখার নিয়ম — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [BoroJeetBD New User Bonus Tracking: registration আগে না পরে?](/blog/borojeetbd-new-user-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [BoroJeetBD Register First App Install: bonus tracking হারাবেন না](/blog/borojeetbd-register-first-app-install/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 

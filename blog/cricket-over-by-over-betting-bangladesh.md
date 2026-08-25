@@ -87,6 +87,5 @@ over by over cricket betting নিয়ে decision নেওয়ার সময় 
 - [Cricket Live Score Odds Bangladesh: score দেখে odds পড়ার নিয়ম](/blog/cricket-live-score-odds-bangladesh/) — Cricket betting সম্পর্কিত practical checklist।
 - [Best Cricket Betting Odds in Bangladesh (2026 Analysis) | সেরা অডস](/blog/best-cricket-betting-odds-2026/) — Cricket betting সম্পর্কিত practical checklist।
 - [Asia Cup 2026 Bangladesh Cricket Betting Guide: match plan ও risk](/blog/asia-cup-2026-bangladesh-cricket-betting-guide/) — Cricket betting সম্পর্কিত practical checklist।
-- [Asia Cup 2026 Cricket Betting Apps BD: tournament আগে setup](/blog/asia-cup-2026-cricket-betting-apps-bd/) — Cricket betting সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->
