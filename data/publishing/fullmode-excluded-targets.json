@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "reason": "RECOVERY-1A-Q",
+  "excluded_targets": [
+    "asia-cup-2026-cricket-betting-apps-bd",
+    "aviator-betting-app-bangladesh-guide",
+    "aviator-game-bangladesh-bkash-deposit",
+    "boro-jeet-app-install-from-website",
+    "borojeet-apk-update-checklist-2026",
+    "borojeet-app-bangla-step-by-step",
+    "borojeet-app-cache-clear-login-fix",
+    "borojeet-app-download-bonus-tracking",
+    "borojeet-app-low-storage-install-fix",
+    "borojeet-app-permissions-bangladesh",
+    "casino-crash-game-bangladesh-guide",
+    "casino-crash-game-khelar-niyom",
+    "crash-game-bangla-prediction-myth",
+    "crash-game-mobile-data-saving-guide",
+    "crazy-time-bangla-bet-sizing-guide",
+    "crazy-time-bangladesh-bonus-round-guide",
+    "cricket-baji-apps-bangladesh-guide",
+    "cricket-baji-dhorar-app-bangladesh",
+    "cricket-betting-app-bangla-review",
+    "fifa-world-cup-2026-app-notification-guide",
+    "funky-time-bangladesh-live-show-guide"
+  ]
+}

@@ -5,6 +5,14 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const BLOG_DIR = path.join(ROOT_DIR, 'blog');
 const REPORT_DIR = path.join(ROOT_DIR, 'data', 'publishing');
 const REPORT_FILE = path.join(REPORT_DIR, 'internal-linking-fullmode-2026-05-report.md');
+// RECOVERY-1A-LINK-ENGINE: explicit, Git-reviewable target-exclusion list for
+// site-quality-recovery quarantined URLs (see data/publishing/README or the
+// RECOVERY-1A-LINK design report for provenance). Deliberately NOT derived
+// from rendered robots, PUBLISHING_FREEZE_DATE, inbound_count, or classifier
+// output — those all change independently of RECOVERY quarantine intent, and
+// a P0-contained page's date passing must not silently restore its target
+// eligibility (see isEligibleTarget below).
+const EXCLUDED_TARGETS_FILE = path.join(REPORT_DIR, 'fullmode-excluded-targets.json');
 const START_MARKER = '<!-- internal-links:fullmode:start -->';
 const END_MARKER = '<!-- internal-links:fullmode:end -->';
 const MAX_STANDARD_LINKS = 6;
@@ -13,6 +21,22 @@ const MAX_PILLAR_LINKS = 14;
 const args = new Set(process.argv.slice(2));
 const APPLY = args.has('--apply');
 const TODAY = new Date(Date.now() + 6 * 60 * 60 * 1000).toISOString().slice(0, 10); // Asia/Dhaka, mirrors `now` in .eleventy.js
+
+function loadExcludedTargets() {
+  const raw = fs.readFileSync(EXCLUDED_TARGETS_FILE, 'utf8');
+  const data = JSON.parse(raw);
+  return new Set(data.excluded_targets);
+}
+
+const EXCLUDED_TARGETS = loadExcludedTargets();
+
+// Target-selection policy: is this slug allowed to be chosen as a link
+// target at all? Independent of canLink's scheduling/live-date semantics —
+// a quarantined slug stays ineligible even once its own date makes it
+// otherwise publishable.
+function isEligibleTarget(slug) {
+  return !EXCLUDED_TARGETS.has(slug);
+}
 
 // A link target must already be live (index-able) on the day its source goes live,
 // otherwise Googlebot follows the link into a noindex page (GSC「遭 noindex 排除」).
@@ -167,6 +191,12 @@ function buildIncoming(articles) {
 
 function addLink(additions, source, target, reason) {
   if (!target || target.slug === source.slug) return false;
+  // Defense-in-depth: every target-selection path (pillar, secondary-pillar,
+  // same-cluster, orphan-rescue) already pre-filters ineligible targets out
+  // of its candidate pool before reaching here (see buildLinkPlan). This
+  // guard exists so a future selection path that forgets that pre-filter
+  // still cannot insert a quarantined target.
+  if (!isEligibleTarget(target.slug)) return false;
   if (!canLink(source, target)) return false;
   if (source.outgoing.has(target.slug)) return false;
   if (additions[source.slug].some(item => item.slug === target.slug)) return false;
@@ -208,14 +238,22 @@ function buildLinkPlan(articles) {
     const cluster = clusters[source.cluster];
     const maxLinks = Object.values(clusters).some(item => item.pillar === source.slug) ? MAX_PILLAR_LINKS : MAX_STANDARD_LINKS;
 
-    const pillar = cluster && bySlug.get(cluster.pillar);
+    // RECOVERY-1A-LINK-ENGINE: pillar/secondary-pillar targets are checked
+    // for eligibility before being attempted at all, not just inside
+    // addLink's defensive guard — an ineligible pillar/secondary must never
+    // occupy a slot or influence candidateSort's bump() accounting.
+    const pillar = cluster && isEligibleTarget(cluster.pillar) && bySlug.get(cluster.pillar);
     if (pillar && addLink(additions, source, pillar, 'pillar')) bump(pillar.slug);
 
-    const secondary = cluster && cluster.secondaryPillar && bySlug.get(cluster.secondaryPillar);
+    const secondary = cluster && cluster.secondaryPillar && isEligibleTarget(cluster.secondaryPillar) && bySlug.get(cluster.secondaryPillar);
     if (secondary && additions[source.slug].length < maxLinks && addLink(additions, source, secondary, 'secondary-pillar')) bump(secondary.slug);
 
+    // Excluded targets are filtered out of the candidate pool itself, before
+    // candidateSort ever ranks them — an ineligible target cannot be "the
+    // lowest-incoming pick that lost the sort," it is simply never a
+    // candidate.
     const sameCluster = (byCluster.get(source.cluster) || [])
-      .filter(target => target.slug !== source.slug)
+      .filter(target => target.slug !== source.slug && isEligibleTarget(target.slug))
       .sort(candidateSort(source));
 
     for (const target of sameCluster) {
@@ -224,8 +262,13 @@ function buildLinkPlan(articles) {
     }
   }
 
-  // Second pass: force remaining orphan pages to receive at least one contextual link.
-  for (const target of articles.sort((a, b) => (simulatedIncoming.get(a.slug) || 0) - (simulatedIncoming.get(b.slug) || 0) || a.slug.localeCompare(b.slug))) {
+  // Second pass: force remaining orphan pages to receive at least one
+  // contextual link. Excluded targets are dropped from the orphan pool
+  // before sorting/selection — a quarantined page must never be treated as
+  // "needs rescuing," since a low/zero inbound count on a quarantined URL
+  // is the intended, durable outcome, not a defect to fix.
+  const orphanTargets = articles.filter(article => isEligibleTarget(article.slug));
+  for (const target of orphanTargets.sort((a, b) => (simulatedIncoming.get(a.slug) || 0) - (simulatedIncoming.get(b.slug) || 0) || a.slug.localeCompare(b.slug))) {
     if ((simulatedIncoming.get(target.slug) || 0) > 0) continue;
     const sourcePool = [
       ...(byCluster.get(target.cluster) || []),
@@ -398,4 +441,22 @@ function main() {
   console.log(JSON.stringify(summary, null, 2));
 }
 
-main();
+// Minimal testability refactor: only run main() as a script, not on require().
+// Pure functions are exported below so RECOVERY-1A-LINK-ENGINE tests can
+// exercise isEligibleTarget/buildLinkPlan/etc. directly without invoking the
+// CLI's report-file side effect or process.exit.
+if (require.main === module) {
+  main();
+}
+
+module.exports = {
+  EXCLUDED_TARGETS,
+  isEligibleTarget,
+  canLink,
+  clusters,
+  classifyArticle,
+  loadArticles,
+  buildLinkPlan,
+  addLink,
+  validateLinks,
+};
