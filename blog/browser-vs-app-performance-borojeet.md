@@ -76,7 +76,7 @@ Browser vs App Performance on BoroJeet issue fix করার সময় blind re
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [Boro Jeet Device Ban: Is My Phone Blacklisted? (ডিভাইস ব্যান: আপনার ফোন কি ব্ল্যাকলিস্টেড?)](/blog/device-ban-solutions/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে](/blog/borojeet-apk-update-checklist-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- [BoroJeet APK ডাউনলোড ও ইনস্টল গাইড (৩ ধাপে)](/blog/borojeet-app-download-install-guide/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [BoroJeetBD Mobile Browser vs APK: কোনটা আপনার জন্য ভালো?](/blog/borojeetbd-mobile-browser-vs-apk/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Sticky Wilds vs Expanding Wilds: Which Pays More? (স্টিকি বনাম এক্সপেন্ডিং ওয়াইল্ড)](/blog/sticky-wilds-vs-expanding-wilds/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Live Casino Bangladesh 2026: Real Money Apps & Trusted Sites](/blog/live-casino-bangladesh-real-money-guide-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
