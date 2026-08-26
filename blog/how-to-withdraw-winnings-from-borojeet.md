@@ -137,7 +137,7 @@ BoroJeet থেকে টাকা তোলা একটি সহজ এবং
 - [Nagad System Maintenance? How to Fix Deposit Delays](/blog/nagad-maintenance-troubleshooting-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Sic Bo Game Guide: Rules, Payouts & Strategy | সিক বো খেলার নিয়ম](/blog/sic-bo-game-guide-strategy/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [বাংলাদেশে ক্রিপ্টোকারেন্সি ক্যাসিনো ডিপোজিট গাইড: Bitcoin, USDT এবং আরও অনেক কিছু](/blog/cryptocurrency-deposit-guide-bangladesh-casinos/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [Aviator Betting App Bangladesh Guide: app, cashout ও safety](/blog/aviator-betting-app-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- Aviator Betting App Bangladesh Guide: app, cashout ও safety — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Safest Betting App for Bangladesh: license, KYC ও payment signal](/blog/safest-betting-app-for-bangladesh/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Betting App with bKash Nagad BD: local payment-friendly guide](/blog/betting-app-with-bkash-nagad-bd/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 

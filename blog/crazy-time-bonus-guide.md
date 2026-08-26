@@ -57,7 +57,7 @@ Crazy Time শুধু জুয়া নয়, এটি একটি বি
 
 - [Wagering Requirement কী? ক্যাসিনো বোনাস ব্যবহারের শর্তাবলী ব্যাখ্যা](/blog/understanding-wagering-requirements/) — Bonus, wagering ও promotions pillar context।
 - [Best Betting Bonus Bangladesh World Cup 2026: terms compare করুন](/blog/best-betting-bonus-bangladesh-world-cup-2026/) — Football / World Cup betting সম্পর্কিত practical checklist।
-- [BoroJeet App Download Bonus Tracking: register first কেন জরুরি?](/blog/borojeet-app-download-bonus-tracking/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
+- BoroJeet App Download Bonus Tracking: register first কেন জরুরি? — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Eid Bonus Betting Bangladesh 2026: claim করার আগে terms পড়ুন](/blog/eid-bonus-betting-bangladesh-2026/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Boro Jeet Referral Code Benefits: How to Earn Bonus Money (2026)](/blog/boro-jeet-referral-code-benefits-guide/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।
 - [Boro Jeet VIP Program Explained: সুবিধা এবং স্তরসমূহ](/blog/boro-jeet-vip-program-explained/) — Bonus, wagering ও promotions সম্পর্কিত practical checklist।

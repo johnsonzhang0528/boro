@@ -54,7 +54,7 @@ Playtech এর গেমগুলো সাধারণত High Volatility হ�
 এই topic-এর সাথে সম্পর্কিত আরও কিছু guide নিচে দেওয়া হলো, যাতে আপনি একই cluster-এর pillar page, checklist এবং practical next step দ্রুত খুঁজে নিতে পারেন।
 
 - [BoroJeet Safe Registration Bangladesh: account খোলার আগে checklist](/blog/borojeet-safe-registration-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
-- [BoroJeet App Permissions Bangladesh: কোন permission safe?](/blog/borojeet-app-permissions-bangladesh/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
+- BoroJeet App Permissions Bangladesh: কোন permission safe? — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Boro Jeet vs Linebet: Better Agent Support? | এজেন্ট সাপোর্ট পর্যালোচনা](/blog/boro-jeet-vs-linebet-agent-review/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Betting App Comparison Bangladesh: BoroJeet vs others কীভাবে compare করবেন](/blog/betting-app-comparison-bangladesh-borojeet-vs-others/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।
 - [Best Betting Apps Bangladesh Safe List 2026: app বাছাইয়ের scoring system](/blog/best-betting-apps-bangladesh-safe-list-2026/) — Legal, safety, scam ও responsible play সম্পর্কিত practical checklist।

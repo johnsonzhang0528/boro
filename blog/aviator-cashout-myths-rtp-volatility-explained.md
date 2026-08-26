@@ -100,7 +100,7 @@ Aviator একটি উত্তেজনাপূর্ণ গেম, কি�
 - [International Betting Apps Bangladesh Guide: local payment না থাকলে কী করবেন?](/blog/international-betting-apps-bangladesh-guide/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [BoroJeet Pending Withdrawal Cancel করার নিয়ম: Step-by-Step Guide](/blog/cancel-pending-withdrawal-borojeet/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Boro Jeet vs Nagad88: Which is More Trusted? | বিশ্বস্ততা যাচাই](/blog/boro-jeet-vs-nagad88-review/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
 <!-- internal-links:fullmode:end -->

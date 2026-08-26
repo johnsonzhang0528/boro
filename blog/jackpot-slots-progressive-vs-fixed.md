@@ -53,7 +53,7 @@ faq:
 - [Boro Jeet Agent vs Affiliate: Which Program Earns More Money?](/blog/boro-jeet-agent-vs-affiliate/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Boro Jeet Device Ban: Is My Phone Blacklisted? (ডিভাইস ব্যান: আপনার ফোন কি ব্ল্যাকলিস্টেড?)](/blog/device-ban-solutions/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Browser vs App Performance on BoroJeet: কোনটা দ্রুত?](/blog/browser-vs-app-performance-borojeet/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
-- [BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে](/blog/borojeet-apk-update-checklist-2026/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
+- BoroJeet APK Update Checklist 2026: পুরোনো version বদলানোর আগে — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [BoroJeetBD Mobile Browser vs APK: কোনটা আপনার জন্য ভালো?](/blog/borojeetbd-mobile-browser-vs-apk/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 - [Sticky Wilds vs Expanding Wilds: Which Pays More? (স্টিকি বনাম এক্সপেন্ডিং ওয়াইল্ড)](/blog/sticky-wilds-vs-expanding-wilds/) — Betting sites, comparisons ও trust lists সম্পর্কিত practical checklist।
 

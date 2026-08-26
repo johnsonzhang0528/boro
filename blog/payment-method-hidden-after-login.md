@@ -78,7 +78,7 @@ Payment Method Hidden After Login issue resolve করতে speed-এর চে
 - [বাংলাদেশে অনলাইন ক্যাসিনো পেমেন্ট: বিকাশ, নগদ এবং আরও অনেক কিছুর চূড়ান্ত গাইড](/blog/ultimate-guide-to-online-casino-payments-bangladesh/) — Payments, deposits ও withdrawals pillar context।
 - [Best Betting Apps in Bangladesh 2026: safety, payment ও odds comparison](/blog/best-betting-apps-in-bangladesh-2026/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [BoroJeet Pending Withdrawal Cancel করার নিয়ম: Step-by-Step Guide](/blog/cancel-pending-withdrawal-borojeet/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
-- [BoroJeet App Bangla Step-by-Step: register, deposit, play safely](/blog/borojeet-app-bangla-step-by-step/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
+- BoroJeet App Bangla Step-by-Step: register, deposit, play safely — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [Boro Jeet vs Nagad88: Which is More Trusted? | বিশ্বস্ততা যাচাই](/blog/boro-jeet-vs-nagad88-review/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 - [bKash Cashout Delay After Approved: approved status-এর পরে wait time](/blog/bkash-cashout-delay-after-approved/) — Payments, deposits ও withdrawals সম্পর্কিত practical checklist।
 
