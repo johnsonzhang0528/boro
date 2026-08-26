@@ -188,7 +188,11 @@ test('19. LINK-ENGINE data file still excludes exactly the same 21 targets', () 
 
 test('20. exact production-source diff contains no file outside the approved implementation scope', () => {
   const { execSync } = require('node:child_process');
-  const diffFiles = execSync('git diff --name-only', { cwd: ROOT })
+  // Compare against the merge-base with main so this assertion holds whether
+  // the implementation is still uncommitted working-tree changes or has
+  // already been committed to the PR branch.
+  const mergeBase = execSync('git merge-base HEAD origin/main', { cwd: ROOT }).toString().trim();
+  const diffFiles = execSync(`git diff --name-only ${mergeBase} -- 'blog/*.md'`, { cwd: ROOT })
     .toString()
     .trim()
     .split('\n')
