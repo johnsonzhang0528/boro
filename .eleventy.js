@@ -17,6 +17,16 @@ function requireWithFallback(primary, fallback) {
 const markdownIt = requireWithFallback("markdown-it", "markdown-it/dist/markdown-it");
 const markdownItAnchor = requireWithFallback("markdown-it-anchor", "markdown-it-anchor/dist/markdownItAnchor.js");
 
+// RECOVERY-1A-LINK-REMOVE-B1: reuse the same canonical quarantine dataset
+// FULLMODE's link engine excludes, so getRelatedPosts can never recommend a
+// quarantined URL. Read once at build time; matched against `post.url`
+// (e.g. "/blog/some-slug/") inside the getRelatedPosts filter below.
+const QUARANTINED_POST_URLS = new Set(
+  require("./data/publishing/fullmode-excluded-targets.json").excluded_targets.map(
+    (slug) => `/blog/${slug}/`
+  )
+);
+
 async function imageShortcode(src, alt, sizes, loading = "lazy", fetchpriority = "auto") {
   let fullSrc = path.join(__dirname, src);
   let metadata = await Image(fullSrc, {
@@ -135,9 +145,9 @@ module.exports = function(eleventyConfig) {
   // Advanced Related Posts Logic
   eleventyConfig.addFilter("getRelatedPosts", (collection, currentUrl, currentTags) => {
     if (!collection || !currentTags) return [];
-    
-    // Filter out current post
-    const posts = collection.filter(post => post.url !== currentUrl);
+
+    // Filter out current post and any quarantined (RECOVERY-1A-Q) URL
+    const posts = collection.filter(post => post.url !== currentUrl && !QUARANTINED_POST_URLS.has(post.url));
     
     const scoredPosts = posts.map(post => {
       let score = 0;
